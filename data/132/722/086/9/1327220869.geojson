@@ -1,0 +1,67 @@
+{
+  "id": 1327220869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.89694,10.77666,13.89694,10.77666",
+    "geom:latitude":10.77666,
+    "geom:longitude":13.89694,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Dimblay",
+    "gn:country_code":"CM",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074303,
+    "gn:latitude":10.77666,
+    "gn:longitude":13.89694,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Dimblay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074303
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"38b13da6f4321ec20e84fa17d3872b22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1327220869,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1327220869,
+    "wof:lastmodified":1536985497,
+    "wof:name":"Dimblay",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.89694,
+    10.77666,
+    13.89694,
+    10.77666
+],
+  "geometry": {"coordinates":[13.89694,10.77666],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259379589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.37783,5.81964,10.37783,5.81964",
+    "geom:latitude":5.81964,
+    "geom:longitude":10.37783,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Njenka I",
+    "gn:country_code":"CM",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9096818,
+    "gn:latitude":5.81964,
+    "gn:longitude":10.37783,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Njenka I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9096818
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"8a5b6c9cec88cc57ce85585d5d8d69a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010693,
+            "locality_id":1259379589,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1259379589,
+    "wof:lastmodified":1537007200,
+    "wof:name":"Njenka I",
+    "wof:parent_id":1092010693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.37783,
+    5.81964,
+    10.37783,
+    5.81964
+],
+  "geometry": {"coordinates":[10.37783,5.81964],"type":"Point"}
+}

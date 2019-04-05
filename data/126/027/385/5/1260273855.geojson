@@ -1,0 +1,67 @@
+{
+  "id": 1260273855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.98333,5.55,9.98333,5.55",
+    "geom:latitude":5.55,
+    "geom:longitude":9.98333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Pou",
+    "gn:country_code":"CM",
+    "gn:dem":1635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222498,
+    "gn:latitude":5.55,
+    "gn:longitude":9.98333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Pou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222498
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"2b3252dd1030bf1dccdb507f258599b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1260273855,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1260273855,
+    "wof:lastmodified":1536725235,
+    "wof:name":"Pou",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.98333,
+    5.55,
+    9.98333,
+    5.55
+],
+  "geometry": {"coordinates":[9.98333,5.55],"type":"Point"}
+}

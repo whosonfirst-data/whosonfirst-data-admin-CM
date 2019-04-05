@@ -1,0 +1,67 @@
+{
+  "id": 1276118453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.98333,4.36667,12.98333,4.36667",
+    "geom:latitude":4.36667,
+    "geom:longitude":12.98333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Badoume",
+    "gn:country_code":"CM",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2235209,
+    "gn:latitude":4.36667,
+    "gn:longitude":12.98333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Badoum\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2235209
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"cb68cee57ed59e2851389917372f6e39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011347,
+            "locality_id":1276118453,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1276118453,
+    "wof:lastmodified":1537063742,
+    "wof:name":"Badoume",
+    "wof:parent_id":1092011347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.98333,
+    4.36667,
+    12.98333,
+    4.36667
+],
+  "geometry": {"coordinates":[12.98333,4.36667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343929243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.36627,9.42838,13.36627,9.42838",
+    "geom:latitude":9.42838,
+    "geom:longitude":13.36627,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gaschiga",
+    "gn:country_code":"CM",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231313,
+    "gn:latitude":9.42838,
+    "gn:longitude":13.36627,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Gaschiga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cashiga",
+        "Gashiga",
+        "Gaschiga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231313
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"4874f444b85b9a43fa9f45de596940e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1343929243,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1343929243,
+    "wof:lastmodified":1537591294,
+    "wof:name":"Gaschiga",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.36627,
+    9.42838,
+    13.36627,
+    9.42838
+],
+  "geometry": {"coordinates":[13.36627,9.42838],"type":"Point"}
+}

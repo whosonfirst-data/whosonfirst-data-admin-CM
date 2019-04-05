@@ -1,0 +1,67 @@
+{
+  "id": 1210002911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.37592,10.00331,13.37592,10.00331",
+    "geom:latitude":10.00331,
+    "geom:longitude":13.37592,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kelali",
+    "gn:country_code":"CM",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2230372,
+    "gn:latitude":10.00331,
+    "gn:longitude":13.37592,
+    "gn:modification_date":"2014-04-05",
+    "gn:name":"K\u00e9lali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2230372
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"de438b879a274abc6495e944c8b30e14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1210002911,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1210002911,
+    "wof:lastmodified":1536376804,
+    "wof:name":"Kelali",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.37592,
+    10.00331,
+    13.37592,
+    10.00331
+],
+  "geometry": {"coordinates":[13.37592,10.00331],"type":"Point"}
+}

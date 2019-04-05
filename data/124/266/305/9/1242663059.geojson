@@ -1,0 +1,67 @@
+{
+  "id": 1242663059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.2955,5.5544,10.2955,5.5544",
+    "geom:latitude":5.5544,
+    "geom:longitude":10.2955,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bakeup",
+    "gn:country_code":"CM",
+    "gn:dem":1362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9086377,
+    "gn:latitude":5.5544,
+    "gn:longitude":10.2955,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Bakeup",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9086377
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"3714c4dcce244aa647197d980145d70b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010559,
+            "locality_id":1242663059,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1242663059,
+    "wof:lastmodified":1536941374,
+    "wof:name":"Bakeup",
+    "wof:parent_id":1092010559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2955,
+    5.5544,
+    10.2955,
+    5.5544
+],
+  "geometry": {"coordinates":[10.2955,5.5544],"type":"Point"}
+}

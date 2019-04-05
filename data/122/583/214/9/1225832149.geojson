@@ -1,0 +1,71 @@
+{
+  "id": 1225832149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.77183,10.62325,14.77183,10.62325",
+    "geom:latitude":10.62325,
+    "geom:longitude":14.77183,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Goudoum-Goudoum",
+    "gn:country_code":"CM",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231028,
+    "gn:latitude":10.62325,
+    "gn:longitude":14.77183,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Goudoum-Goudoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goudoum",
+        "Goudoum-Goudoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231028
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ff242d73795026f96fb06f834bf4b2ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011963,
+            "locality_id":1225832149,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1225832149,
+    "wof:lastmodified":1537591291,
+    "wof:name":"Goudoum-Goudoum",
+    "wof:parent_id":1092011963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.77183,
+    10.62325,
+    14.77183,
+    10.62325
+],
+  "geometry": {"coordinates":[14.77183,10.62325],"type":"Point"}
+}

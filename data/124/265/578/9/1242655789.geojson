@@ -1,0 +1,67 @@
+{
+  "id": 1242655789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.24712,6.00061,12.24712,6.00061",
+    "geom:latitude":6.00061,
+    "geom:longitude":12.24712,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bessir",
+    "gn:country_code":"CM",
+    "gn:dem":894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8696109,
+    "gn:latitude":6.00061,
+    "gn:longitude":12.24712,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Bessir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092012311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8696109
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"00085c554712f0d2205b6ba04098c1dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012311,
+            "locality_id":1242655789,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1242655789,
+    "wof:lastmodified":1536951447,
+    "wof:name":"Bessir",
+    "wof:parent_id":1092012311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.24712,
+    6.00061,
+    12.24712,
+    6.00061
+],
+  "geometry": {"coordinates":[12.24712,6.00061],"type":"Point"}
+}

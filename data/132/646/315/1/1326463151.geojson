@@ -1,0 +1,67 @@
+{
+  "id": 1326463151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.21667,2.03333,15.21667,2.03333",
+    "geom:latitude":2.03333,
+    "geom:longitude":15.21667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"New Town",
+    "gn:country_code":"CM",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2224920,
+    "gn:latitude":2.03333,
+    "gn:longitude":15.21667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"New Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2224920
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"2531a0003d922b61bb53f7896fc4db6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013991,
+            "locality_id":1326463151,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1326463151,
+    "wof:lastmodified":1537080440,
+    "wof:name":"New Town",
+    "wof:parent_id":1092013991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.21667,
+    2.03333,
+    15.21667,
+    2.03333
+],
+  "geometry": {"coordinates":[15.21667,2.03333],"type":"Point"}
+}

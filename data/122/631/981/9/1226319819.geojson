@@ -1,0 +1,67 @@
+{
+  "id": 1226319819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.06202,10.34951,14.06202,10.34951",
+    "geom:latitude":10.34951,
+    "geom:longitude":14.06202,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mayel Ngaima",
+    "gn:country_code":"CM",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6730160,
+    "gn:latitude":10.34951,
+    "gn:longitude":14.06202,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Mayel Nga\u00efma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6730160
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"3bd959fc38861e24f1561e44ff6906be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011963,
+            "locality_id":1226319819,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1226319819,
+    "wof:lastmodified":1536826003,
+    "wof:name":"Mayel Ngaima",
+    "wof:parent_id":1092011963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.06202,
+    10.34951,
+    14.06202,
+    10.34951
+],
+  "geometry": {"coordinates":[14.06202,10.34951],"type":"Point"}
+}

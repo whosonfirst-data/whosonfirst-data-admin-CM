@@ -1,0 +1,67 @@
+{
+  "id": 1226165213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.37178,5.56042,10.37178,5.56042",
+    "geom:latitude":5.56042,
+    "geom:longitude":10.37178,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bazengam",
+    "gn:country_code":"CM",
+    "gn:dem":1283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9086325,
+    "gn:latitude":5.56042,
+    "gn:longitude":10.37178,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Bazengam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9086325
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"50b8fa04794b67c938f508adbeb6a87e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010591,
+            "locality_id":1226165213,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1226165213,
+    "wof:lastmodified":1537047659,
+    "wof:name":"Bazengam",
+    "wof:parent_id":1092010591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.37178,
+    5.56042,
+    10.37178,
+    5.56042
+],
+  "geometry": {"coordinates":[10.37178,5.56042],"type":"Point"}
+}

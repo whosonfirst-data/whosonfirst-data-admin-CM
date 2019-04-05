@@ -1,0 +1,67 @@
+{
+  "id": 1276340907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.06667,4.5,13.06667,4.5",
+    "geom:latitude":4.5,
+    "geom:longitude":13.06667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Couchemadji",
+    "gn:country_code":"CM",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233336,
+    "gn:latitude":4.5,
+    "gn:longitude":13.06667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Couch\u00e9madji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233336
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"33a0e0fb24d0886c2a2db4a145cc2fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011347,
+            "locality_id":1276340907,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1276340907,
+    "wof:lastmodified":1536768744,
+    "wof:name":"Couchemadji",
+    "wof:parent_id":1092011347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.06667,
+    4.5,
+    13.06667,
+    4.5
+],
+  "geometry": {"coordinates":[13.06667,4.5],"type":"Point"}
+}

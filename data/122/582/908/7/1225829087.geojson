@@ -1,0 +1,67 @@
+{
+  "id": 1225829087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.95184,6.98979,12.95184,6.98979",
+    "geom:latitude":6.98979,
+    "geom:longitude":12.95184,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Djombi",
+    "gn:country_code":"CM",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8696045,
+    "gn:latitude":6.98979,
+    "gn:longitude":12.95184,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Djombi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8696045
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"3e9b4e056c4a9358355c3fa19d3447d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011581,
+            "locality_id":1225829087,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1225829087,
+    "wof:lastmodified":1537036153,
+    "wof:name":"Djombi",
+    "wof:parent_id":1092011581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.95184,
+    6.98979,
+    12.95184,
+    6.98979
+],
+  "geometry": {"coordinates":[12.95184,6.98979],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293369437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0194,9.0603,14.0194,9.0603",
+    "geom:latitude":9.0603,
+    "geom:longitude":14.0194,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Nakere",
+    "gn:country_code":"CM",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228197,
+    "gn:latitude":9.0603,
+    "gn:longitude":14.0194,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Nak\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mayo Nak\u00e9r\u00e9",
+        "Nak\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228197
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"2f346767ac2335cc44bfaa9c643ee5e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011703,
+            "locality_id":1293369437,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1293369437,
+    "wof:lastmodified":1537591258,
+    "wof:name":"Nakere",
+    "wof:parent_id":1092011703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0194,
+    9.0603,
+    14.0194,
+    9.0603
+],
+  "geometry": {"coordinates":[14.0194,9.0603],"type":"Point"}
+}

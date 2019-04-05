@@ -1,0 +1,67 @@
+{
+  "id": 1293565571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.76992,9.98686,13.76992,9.98686",
+    "geom:latitude":9.98686,
+    "geom:longitude":13.76992,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Daguen",
+    "gn:country_code":"CM",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233311,
+    "gn:latitude":9.98686,
+    "gn:longitude":13.76992,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Daguen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233311
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"0dcbaf95add4a5ccf2f917542d8011be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1293565571,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1293565571,
+    "wof:lastmodified":1536674551,
+    "wof:name":"Daguen",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.76992,
+    9.98686,
+    13.76992,
+    9.98686
+],
+  "geometry": {"coordinates":[13.76992,9.98686],"type":"Point"}
+}

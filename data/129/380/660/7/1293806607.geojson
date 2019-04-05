@@ -1,0 +1,67 @@
+{
+  "id": 1293806607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.9524,4.8365,9.9524,4.8365",
+    "geom:latitude":4.8365,
+    "geom:longitude":9.9524,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Badjoki",
+    "gn:country_code":"CM",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595089,
+    "gn:latitude":4.8365,
+    "gn:longitude":9.9524,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Badjoki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595089
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"e89715eec2ecf4d13b159bfc5c30b169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011087,
+            "locality_id":1293806607,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1293806607,
+    "wof:lastmodified":1536823238,
+    "wof:name":"Badjoki",
+    "wof:parent_id":1092011087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9524,
+    4.8365,
+    9.9524,
+    4.8365
+],
+  "geometry": {"coordinates":[9.9524,4.8365],"type":"Point"}
+}

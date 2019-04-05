@@ -1,0 +1,67 @@
+{
+  "id": 1326715995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.01891,5.47369,10.01891,5.47369",
+    "geom:latitude":5.47369,
+    "geom:longitude":10.01891,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lap Zekeng",
+    "gn:country_code":"CM",
+    "gn:dem":1362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8563361,
+    "gn:latitude":5.47369,
+    "gn:longitude":10.01891,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Lap Zekeng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8563361
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"9ede023934993aab515738da0b3566f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1326715995,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1326715995,
+    "wof:lastmodified":1536719548,
+    "wof:name":"Lap Zekeng",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.01891,
+    5.47369,
+    10.01891,
+    5.47369
+],
+  "geometry": {"coordinates":[10.01891,5.47369],"type":"Point"}
+}

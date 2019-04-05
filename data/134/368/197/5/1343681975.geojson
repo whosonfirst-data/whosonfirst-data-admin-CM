@@ -1,0 +1,67 @@
+{
+  "id": 1343681975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.56064,5.6182,10.56064,5.6182",
+    "geom:latitude":5.6182,
+    "geom:longitude":10.56064,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ngouondam II",
+    "gn:country_code":"CM",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9100985,
+    "gn:latitude":5.6182,
+    "gn:longitude":10.56064,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ngouondam II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9100985
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"630a96460c285a2d4917e06bd4b5ba83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010521,
+            "locality_id":1343681975,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1343681975,
+    "wof:lastmodified":1536924773,
+    "wof:name":"Ngouondam II",
+    "wof:parent_id":1092010521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.56064,
+    5.6182,
+    10.56064,
+    5.6182
+],
+  "geometry": {"coordinates":[10.56064,5.6182],"type":"Point"}
+}

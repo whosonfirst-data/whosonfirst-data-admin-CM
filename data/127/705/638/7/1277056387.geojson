@@ -1,0 +1,71 @@
+{
+  "id": 1277056387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.79397,10.861,13.79397,10.861",
+    "geom:latitude":10.861,
+    "geom:longitude":13.79397,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Jiver",
+    "gn:country_code":"CM",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220710,
+    "gn:latitude":10.861,
+    "gn:longitude":13.79397,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Jiver",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ziver",
+        "Jiver"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220710
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"803f829ef9e826544e80a3784519e1a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1277056387,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1277056387,
+    "wof:lastmodified":1537591190,
+    "wof:name":"Jiver",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.79397,
+    10.861,
+    13.79397,
+    10.861
+],
+  "geometry": {"coordinates":[13.79397,10.861],"type":"Point"}
+}

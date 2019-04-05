@@ -1,0 +1,67 @@
+{
+  "id": 1259693873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.4,4.55,10.4,4.55",
+    "geom:latitude":4.55,
+    "geom:longitude":10.4,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ndol",
+    "gn:country_code":"CM",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2225097,
+    "gn:latitude":4.55,
+    "gn:longitude":10.4,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Ndol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225097
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"0cf21870703f549da7d117391eaa50a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011309,
+            "locality_id":1259693873,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1259693873,
+    "wof:lastmodified":1537049871,
+    "wof:name":"Ndol",
+    "wof:parent_id":1092011309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4,
+    4.55,
+    10.4,
+    4.55
+],
+  "geometry": {"coordinates":[10.4,4.55],"type":"Point"}
+}

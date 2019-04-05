@@ -1,0 +1,67 @@
+{
+  "id": 1242564771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.29677,10.06584,14.29677,10.06584",
+    "geom:latitude":10.06584,
+    "geom:longitude":14.29677,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zamakossou",
+    "gn:country_code":"CM",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6730293,
+    "gn:latitude":10.06584,
+    "gn:longitude":14.29677,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Zamakossou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6730293
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"9369d8f8f512f4a5af0e06ce4fae9a40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011963,
+            "locality_id":1242564771,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1242564771,
+    "wof:lastmodified":1537079002,
+    "wof:name":"Zamakossou",
+    "wof:parent_id":1092011963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.29677,
+    10.06584,
+    14.29677,
+    10.06584
+],
+  "geometry": {"coordinates":[14.29677,10.06584],"type":"Point"}
+}

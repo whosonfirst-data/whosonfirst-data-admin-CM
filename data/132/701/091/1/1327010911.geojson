@@ -1,0 +1,71 @@
+{
+  "id": 1327010911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.53333,3.65,10.53333,3.65",
+    "geom:latitude":3.65,
+    "geom:longitude":10.53333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tomel",
+    "gn:country_code":"CM",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221403,
+    "gn:latitude":3.65,
+    "gn:longitude":10.53333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tomel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tomei",
+        "Tomel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221403
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"7de26ac68de492d4b96fa575188d0f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011187,
+            "locality_id":1327010911,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1327010911,
+    "wof:lastmodified":1537591198,
+    "wof:name":"Tomel",
+    "wof:parent_id":1092011187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.53333,
+    3.65,
+    10.53333,
+    3.65
+],
+  "geometry": {"coordinates":[10.53333,3.65],"type":"Point"}
+}

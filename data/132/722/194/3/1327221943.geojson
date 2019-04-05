@@ -1,0 +1,67 @@
+{
+  "id": 1327221943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.2,4.03333,11.2,4.03333",
+    "geom:latitude":4.03333,
+    "geom:longitude":11.2,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nkolmvanze",
+    "gn:country_code":"CM",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223926,
+    "gn:latitude":4.03333,
+    "gn:longitude":11.2,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Nkolmvanz\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092012079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223926
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"87fa0e4a1343a355df2f4d4925ef2194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012079,
+            "locality_id":1327221943,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1327221943,
+    "wof:lastmodified":1536983954,
+    "wof:name":"Nkolmvanze",
+    "wof:parent_id":1092012079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.2,
+    4.03333,
+    11.2,
+    4.03333
+],
+  "geometry": {"coordinates":[11.2,4.03333],"type":"Point"}
+}

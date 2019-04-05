@@ -1,0 +1,67 @@
+{
+  "id": 1242851489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8611,12.23824,14.8611,12.23824",
+    "geom:latitude":12.23824,
+    "geom:longitude":14.8611,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Wakaltou",
+    "gn:country_code":"CM",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6698831,
+    "gn:latitude":12.23824,
+    "gn:longitude":14.8611,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Wakaltou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6698831
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d5709c1aa616fd78569a24dafe54b7a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1242851489,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1242851489,
+    "wof:lastmodified":1536669197,
+    "wof:name":"Wakaltou",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8611,
+    12.23824,
+    14.8611,
+    12.23824
+],
+  "geometry": {"coordinates":[14.8611,12.23824],"type":"Point"}
+}

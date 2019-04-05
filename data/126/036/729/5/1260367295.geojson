@@ -1,0 +1,67 @@
+{
+  "id": 1260367295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.95865,11.21851,13.95865,11.21851",
+    "geom:latitude":11.21851,
+    "geom:longitude":13.95865,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Gouderi",
+    "gn:country_code":"CM",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6759177,
+    "gn:latitude":11.21851,
+    "gn:longitude":13.95865,
+    "gn:modification_date":"2014-02-11",
+    "gn:name":"Goud\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6759177
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"8c69a37ec82582ea205c82930fed8716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011759,
+            "locality_id":1260367295,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1260367295,
+    "wof:lastmodified":1537093403,
+    "wof:name":"Gouderi",
+    "wof:parent_id":1092011759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95865,
+    11.21851,
+    13.95865,
+    11.21851
+],
+  "geometry": {"coordinates":[13.95865,11.21851],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226121865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98119,9.19897,13.98119,9.19897",
+    "geom:latitude":9.19897,
+    "geom:longitude":13.98119,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Nafitango",
+    "gn:country_code":"CM",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8667699,
+    "gn:latitude":9.19897,
+    "gn:longitude":13.98119,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Nafitango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8667699
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"41e636b4fe50febbbad3b1db4fdf2de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011703,
+            "locality_id":1226121865,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1226121865,
+    "wof:lastmodified":1536612862,
+    "wof:name":"Nafitango",
+    "wof:parent_id":1092011703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98119,
+    9.19897,
+    13.98119,
+    9.19897
+],
+  "geometry": {"coordinates":[13.98119,9.19897],"type":"Point"}
+}

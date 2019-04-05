@@ -1,0 +1,67 @@
+{
+  "id": 1293721269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.31667,4.93333,10.31667,4.93333",
+    "geom:latitude":4.93333,
+    "geom:longitude":10.31667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yamsan III",
+    "gn:country_code":"CM",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220988,
+    "gn:latitude":4.93333,
+    "gn:longitude":10.31667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Yamsan III",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220988
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"6b5d62f9f2d75358ee4d564e7fb5277f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011119,
+            "locality_id":1293721269,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1293721269,
+    "wof:lastmodified":1536947815,
+    "wof:name":"Yamsan III",
+    "wof:parent_id":1092011119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.31667,
+    4.93333,
+    10.31667,
+    4.93333
+],
+  "geometry": {"coordinates":[10.31667,4.93333],"type":"Point"}
+}

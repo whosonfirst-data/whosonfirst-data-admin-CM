@@ -1,0 +1,71 @@
+{
+  "id": 1260161027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.92374,12.21727,14.92374,12.21727",
+    "geom:latitude":12.21727,
+    "geom:longitude":14.92374,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mara I",
+    "gn:country_code":"CM",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228421,
+    "gn:latitude":12.21727,
+    "gn:longitude":14.92374,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mara I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mara",
+        "Mara I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228421
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"fabfb5f0b84a924b8b5ae7d0390c1802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1260161027,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1260161027,
+    "wof:lastmodified":1537591262,
+    "wof:name":"Mara I",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.92374,
+    12.21727,
+    14.92374,
+    12.21727
+],
+  "geometry": {"coordinates":[14.92374,12.21727],"type":"Point"}
+}

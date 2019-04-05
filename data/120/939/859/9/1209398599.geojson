@@ -1,0 +1,65 @@
+{
+  "id": 1209398599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26667,7.21667,14.26667,7.21667",
+    "geom:latitude":7.21667,
+    "geom:longitude":14.26667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Gaoundamji",
+    "gn:country_code":"CM",
+    "gn:dem":1448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231346,
+    "gn:latitude":7.21667,
+    "gn:longitude":14.26667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gaoundamji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaoudamji",
+        "Gaoundamji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231346
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c5fe047ade604c3c115699b3a1088296",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209398599
+        }
+    ],
+    "wof:id":1209398599,
+    "wof:lastmodified":1537591294,
+    "wof:name":"Gaoundamji",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26667,
+    7.21667,
+    14.26667,
+    7.21667
+],
+  "geometry": {"coordinates":[14.26667,7.21667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243143509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1908,9.378,14.1908,9.378",
+    "geom:latitude":9.378,
+    "geom:longitude":14.1908,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mayo Fahourou",
+    "gn:country_code":"CM",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228210,
+    "gn:latitude":9.378,
+    "gn:longitude":14.1908,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mayo Fahourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mayo Fohourou",
+        "Mayo Fahourou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228210
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f5ea0823f2520995fea44d76f88aa758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1243143509,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1243143509,
+    "wof:lastmodified":1537591259,
+    "wof:name":"Mayo Fahourou",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1908,
+    9.378,
+    14.1908,
+    9.378
+],
+  "geometry": {"coordinates":[14.1908,9.378],"type":"Point"}
+}

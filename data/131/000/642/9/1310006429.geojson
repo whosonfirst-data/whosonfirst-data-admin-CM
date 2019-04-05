@@ -1,0 +1,72 @@
+{
+  "id": 1310006429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.06667,3.31667,13.06667,3.31667",
+    "geom:latitude":3.31667,
+    "geom:longitude":13.06667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Nkolnyinge",
+    "gn:country_code":"CM",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223891,
+    "gn:latitude":3.31667,
+    "gn:longitude":13.06667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Nkolnying\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkoliengue",
+        "Nkolinjenge",
+        "Nkolnying\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223891
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"a4b1661cb5b4913a91e5add9a40e7e8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011347,
+            "locality_id":1310006429,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1310006429,
+    "wof:lastmodified":1537591223,
+    "wof:name":"Nkolnyinge",
+    "wof:parent_id":1092011347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.06667,
+    3.31667,
+    13.06667,
+    3.31667
+],
+  "geometry": {"coordinates":[13.06667,3.31667],"type":"Point"}
+}

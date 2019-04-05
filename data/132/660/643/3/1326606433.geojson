@@ -1,0 +1,67 @@
+{
+  "id": 1326606433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.84726,9.80568,13.84726,9.80568",
+    "geom:latitude":9.80568,
+    "geom:longitude":13.84726,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kona",
+    "gn:country_code":"CM",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8669499,
+    "gn:latitude":9.80568,
+    "gn:longitude":13.84726,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Kona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8669499
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"10f21a786930913aaffdbd55ed4b58d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1326606433,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1326606433,
+    "wof:lastmodified":1536876258,
+    "wof:name":"Kona",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.84726,
+    9.80568,
+    13.84726,
+    9.80568
+],
+  "geometry": {"coordinates":[13.84726,9.80568],"type":"Point"}
+}

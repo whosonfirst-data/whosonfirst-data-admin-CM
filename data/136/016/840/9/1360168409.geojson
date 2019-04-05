@@ -1,0 +1,72 @@
+{
+  "id": 1360168409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.08333,7.1,14.08333,7.1",
+    "geom:latitude":7.1,
+    "geom:longitude":14.08333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Oussande",
+    "gn:country_code":"CM",
+    "gn:dem":1427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222804,
+    "gn:latitude":7.1,
+    "gn:longitude":14.08333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Oussand\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ossand\u00e9",
+        "Oussanda",
+        "Oussand\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222804
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c2bb55d642fcc685bbba6e3960d55de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011581,
+            "locality_id":1360168409,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1360168409,
+    "wof:lastmodified":1537591212,
+    "wof:name":"Oussande",
+    "wof:parent_id":1092011581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.08333,
+    7.1,
+    14.08333,
+    7.1
+],
+  "geometry": {"coordinates":[14.08333,7.1],"type":"Point"}
+}

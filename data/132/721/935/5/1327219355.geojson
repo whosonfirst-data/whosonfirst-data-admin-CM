@@ -1,0 +1,67 @@
+{
+  "id": 1327219355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.18416,5.63032,10.18416,5.63032",
+    "geom:latitude":5.63032,
+    "geom:longitude":10.18416,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Zintchue",
+    "gn:country_code":"CM",
+    "gn:dem":1699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074811,
+    "gn:latitude":5.63032,
+    "gn:longitude":10.18416,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Zintchu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074811
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"6e59bc99fc444e4956183a2b800d5b17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010559,
+            "locality_id":1327219355,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1327219355,
+    "wof:lastmodified":1536987694,
+    "wof:name":"Zintchue",
+    "wof:parent_id":1092010559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.18416,
+    5.63032,
+    10.18416,
+    5.63032
+],
+  "geometry": {"coordinates":[10.18416,5.63032],"type":"Point"}
+}

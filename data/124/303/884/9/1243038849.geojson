@@ -1,0 +1,67 @@
+{
+  "id": 1243038849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.41667,2.96667,11.41667,2.96667",
+    "geom:latitude":2.96667,
+    "geom:longitude":11.41667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Essossoma",
+    "gn:country_code":"CM",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231838,
+    "gn:latitude":2.96667,
+    "gn:longitude":11.41667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Essossoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669971,
+        1092012173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231838
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5b5fad67338d893246ae9c372e3c857c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012173,
+            "locality_id":1243038849,
+            "region_id":85669971
+        }
+    ],
+    "wof:id":1243038849,
+    "wof:lastmodified":1536896033,
+    "wof:name":"Essossoma",
+    "wof:parent_id":1092012173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.41667,
+    2.96667,
+    11.41667,
+    2.96667
+],
+  "geometry": {"coordinates":[11.41667,2.96667],"type":"Point"}
+}

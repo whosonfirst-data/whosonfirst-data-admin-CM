@@ -1,0 +1,72 @@
+{
+  "id": 1310091863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.87624,8.92605,13.87624,8.92605",
+    "geom:latitude":8.92605,
+    "geom:longitude":13.87624,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bapouni",
+    "gn:country_code":"CM",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2234773,
+    "gn:latitude":8.92605,
+    "gn:longitude":13.87624,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Bapouni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bapouli",
+        "Bapo\u00fani",
+        "Bapouni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2234773
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"056db57a0fdb5283ed360c682440e65b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011703,
+            "locality_id":1310091863,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1310091863,
+    "wof:lastmodified":1537591329,
+    "wof:name":"Bapouni",
+    "wof:parent_id":1092011703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.87624,
+    8.92605,
+    13.87624,
+    8.92605
+],
+  "geometry": {"coordinates":[13.87624,8.92605],"type":"Point"}
+}

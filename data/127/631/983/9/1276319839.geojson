@@ -1,0 +1,72 @@
+{
+  "id": 1276319839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.81779,8.76113,13.81779,8.76113",
+    "geom:latitude":8.76113,
+    "geom:longitude":13.81779,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gali Abassi",
+    "gn:country_code":"CM",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222837,
+    "gn:latitude":8.76113,
+    "gn:longitude":13.81779,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Gali Abassi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malamedou",
+        "Ouro Malmadou",
+        "Gali Abassi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222837
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"311fa12ecff816fcf56bdfd216c145a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011703,
+            "locality_id":1276319839,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1276319839,
+    "wof:lastmodified":1537591213,
+    "wof:name":"Gali Abassi",
+    "wof:parent_id":1092011703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81779,
+    8.76113,
+    13.81779,
+    8.76113
+],
+  "geometry": {"coordinates":[13.81779,8.76113],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226833477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.2195,5.7041,9.2195,5.7041",
+    "geom:latitude":5.7041,
+    "geom:longitude":9.2195,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Eham",
+    "gn:country_code":"CM",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858132,
+    "gn:latitude":5.7041,
+    "gn:longitude":9.2195,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Eham",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858132
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"0ea033b3d9f2e72021245d7839d6c4cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011003,
+            "locality_id":1226833477,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1226833477,
+    "wof:lastmodified":1537082810,
+    "wof:name":"Eham",
+    "wof:parent_id":1092011003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.2195,
+    5.7041,
+    9.2195,
+    5.7041
+],
+  "geometry": {"coordinates":[9.2195,5.7041],"type":"Point"}
+}

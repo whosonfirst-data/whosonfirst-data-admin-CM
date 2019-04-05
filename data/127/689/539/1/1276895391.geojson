@@ -1,0 +1,72 @@
+{
+  "id": 1276895391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.83114,5.97641,9.83114,5.97641",
+    "geom:latitude":5.97641,
+    "geom:longitude":9.83114,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Andek",
+    "gn:country_code":"CM",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2225328,
+    "gn:latitude":5.97641,
+    "gn:longitude":9.83114,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Andek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndek",
+        "Andek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225328,
+        "wk:page":"Andek"
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"425beaa38490cbc3e91753505a1c37d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010649,
+            "locality_id":1276895391,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1276895391,
+    "wof:lastmodified":1537591238,
+    "wof:name":"Andek",
+    "wof:parent_id":1092010649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.83114,
+    5.97641,
+    9.83114,
+    5.97641
+],
+  "geometry": {"coordinates":[9.83114,5.97641],"type":"Point"}
+}

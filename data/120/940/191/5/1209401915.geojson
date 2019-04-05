@@ -1,0 +1,66 @@
+{
+  "id": 1209401915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.10499,11.19264,14.10499,11.19264",
+    "geom:latitude":11.19264,
+    "geom:longitude":14.10499,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sare",
+    "gn:country_code":"CM",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222197,
+    "gn:latitude":11.19264,
+    "gn:longitude":14.10499,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sovrou",
+        "S\u00faru",
+        "Sar\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222197
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ac0886f890eb4be9748a2fb992658b68",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209401915
+        }
+    ],
+    "wof:id":1209401915,
+    "wof:lastmodified":1537591206,
+    "wof:name":"Sare",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.10499,
+    11.19264,
+    14.10499,
+    11.19264
+],
+  "geometry": {"coordinates":[14.10499,11.19264],"type":"Point"}
+}

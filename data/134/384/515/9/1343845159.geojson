@@ -1,0 +1,67 @@
+{
+  "id": 1343845159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.92788,10.93788,14.92788,10.93788",
+    "geom:latitude":10.93788,
+    "geom:longitude":14.92788,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bourmi",
+    "gn:country_code":"CM",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233452,
+    "gn:latitude":10.93788,
+    "gn:longitude":14.92788,
+    "gn:modification_date":"2008-03-13",
+    "gn:name":"Bourmi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1108390249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233452
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"7d5e363a18cf462725dcedcf142822e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1108390249,
+            "locality_id":1343845159,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1343845159,
+    "wof:lastmodified":1536688791,
+    "wof:name":"Bourmi",
+    "wof:parent_id":1108390249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.92788,
+    10.93788,
+    14.92788,
+    10.93788
+],
+  "geometry": {"coordinates":[14.92788,10.93788],"type":"Point"}
+}

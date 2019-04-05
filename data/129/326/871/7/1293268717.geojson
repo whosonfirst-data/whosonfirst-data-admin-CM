@@ -1,0 +1,67 @@
+{
+  "id": 1293268717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.71245,9.85052,13.71245,9.85052",
+    "geom:latitude":9.85052,
+    "geom:longitude":13.71245,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tchapka-Sodjodji",
+    "gn:country_code":"CM",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8669009,
+    "gn:latitude":9.85052,
+    "gn:longitude":13.71245,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Tchapka-Sodjodji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8669009
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"0da22f4f37909aa080df56f69241c7b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1293268717,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1293268717,
+    "wof:lastmodified":1536602346,
+    "wof:name":"Tchapka-Sodjodji",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.71245,
+    9.85052,
+    13.71245,
+    9.85052
+],
+  "geometry": {"coordinates":[13.71245,9.85052],"type":"Point"}
+}

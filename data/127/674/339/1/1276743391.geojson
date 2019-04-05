@@ -1,0 +1,71 @@
+{
+  "id": 1276743391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63869,12.64908,14.63869,12.64908",
+    "geom:latitude":12.64908,
+    "geom:longitude":14.63869,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Beder",
+    "gn:country_code":"CM",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2234607,
+    "gn:latitude":12.64908,
+    "gn:longitude":14.63869,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Bed\u00e8r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naga",
+        "Bed\u00e8r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2234607
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"e8f0f46989f4566f9a5aa84e3ff23170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1276743391,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1276743391,
+    "wof:lastmodified":1537591327,
+    "wof:name":"Beder",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63869,
+    12.64908,
+    14.63869,
+    12.64908
+],
+  "geometry": {"coordinates":[14.63869,12.64908],"type":"Point"}
+}

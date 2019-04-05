@@ -1,0 +1,67 @@
+{
+  "id": 1343257885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.51019,6.52977,12.51019,6.52977",
+    "geom:latitude":6.52977,
+    "geom:longitude":12.51019,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Meseki",
+    "gn:country_code":"CM",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8696067,
+    "gn:latitude":6.52977,
+    "gn:longitude":12.51019,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"M\u00e9s\u00e9ki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8696067
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"bf00ba8aa87e5ea6222a9bc5ce0375ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011605,
+            "locality_id":1343257885,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1343257885,
+    "wof:lastmodified":1537037025,
+    "wof:name":"Meseki",
+    "wof:parent_id":1092011605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.51019,
+    6.52977,
+    12.51019,
+    6.52977
+],
+  "geometry": {"coordinates":[12.51019,6.52977],"type":"Point"}
+}

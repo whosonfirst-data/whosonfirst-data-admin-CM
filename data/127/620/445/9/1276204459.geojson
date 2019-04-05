@@ -1,0 +1,67 @@
+{
+  "id": 1276204459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.55,3.58333,11.55,3.58333",
+    "geom:latitude":3.58333,
+    "geom:longitude":11.55,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Asanzoa",
+    "gn:country_code":"CM",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2235480,
+    "gn:latitude":3.58333,
+    "gn:longitude":11.55,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Asanzoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2235480
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"8a6759b7854512bf6ea7c2fc4864ce07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011209,
+            "locality_id":1276204459,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1276204459,
+    "wof:lastmodified":1536951940,
+    "wof:name":"Asanzoa",
+    "wof:parent_id":1092011209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.55,
+    3.58333,
+    11.55,
+    3.58333
+],
+  "geometry": {"coordinates":[11.55,3.58333],"type":"Point"}
+}

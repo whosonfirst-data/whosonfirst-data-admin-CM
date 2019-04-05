@@ -1,0 +1,67 @@
+{
+  "id": 1276642995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.18456,10.10421,14.18456,10.10421",
+    "geom:latitude":10.10421,
+    "geom:longitude":14.18456,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Magada",
+    "gn:country_code":"CM",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7910864,
+    "gn:latitude":10.10421,
+    "gn:longitude":14.18456,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Magada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7910864
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"8f2e29a8bfed7e996b62f33aee9e16c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1276642995,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1276642995,
+    "wof:lastmodified":1536859542,
+    "wof:name":"Magada",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.18456,
+    10.10421,
+    14.18456,
+    10.10421
+],
+  "geometry": {"coordinates":[14.18456,10.10421],"type":"Point"}
+}

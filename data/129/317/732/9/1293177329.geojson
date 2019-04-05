@@ -1,0 +1,67 @@
+{
+  "id": 1293177329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.65553,9.85511,13.65553,9.85511",
+    "geom:latitude":9.85511,
+    "geom:longitude":13.65553,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kermbo-Bora",
+    "gn:country_code":"CM",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8668984,
+    "gn:latitude":9.85511,
+    "gn:longitude":13.65553,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Kermbo-Bora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8668984
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"8a7f0146226ddb05a7b175b542193db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1293177329,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1293177329,
+    "wof:lastmodified":1536737300,
+    "wof:name":"Kermbo-Bora",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.65553,
+    9.85511,
+    13.65553,
+    9.85511
+],
+  "geometry": {"coordinates":[13.65553,9.85511],"type":"Point"}
+}

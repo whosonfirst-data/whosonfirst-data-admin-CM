@@ -1,0 +1,72 @@
+{
+  "id": 1259463237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07608,10.49593,15.07608,10.49593",
+    "geom:latitude":10.49593,
+    "geom:longitude":15.07608,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Gabarey Merengue",
+    "gn:country_code":"CM",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231466,
+    "gn:latitude":10.49593,
+    "gn:longitude":15.07608,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gabarey M\u00e9rengu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gabare\u00ef",
+        "Gabar\u00e9ye M\u00e9rign\u00e9",
+        "Gabarey M\u00e9rengu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1108390249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231466
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"649677a68d1e86eb6a1d8c1bc9b06c63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1108390249,
+            "locality_id":1259463237,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1259463237,
+    "wof:lastmodified":1537591296,
+    "wof:name":"Gabarey Merengue",
+    "wof:parent_id":1108390249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07608,
+    10.49593,
+    15.07608,
+    10.49593
+],
+  "geometry": {"coordinates":[15.07608,10.49593],"type":"Point"}
+}

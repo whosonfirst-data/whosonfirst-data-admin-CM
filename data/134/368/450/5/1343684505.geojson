@@ -1,0 +1,67 @@
+{
+  "id": 1343684505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.5443,4.3689,9.5443,4.3689",
+    "geom:latitude":4.3689,
+    "geom:longitude":9.5443,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Koto II",
+    "gn:country_code":"CM",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595011,
+    "gn:latitude":4.3689,
+    "gn:longitude":9.5443,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Koto II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595011
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5ed9d2078bbb7adb31536cef5e4e0bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011087,
+            "locality_id":1343684505,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1343684505,
+    "wof:lastmodified":1536921047,
+    "wof:name":"Koto II",
+    "wof:parent_id":1092011087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.5443,
+    4.3689,
+    9.5443,
+    4.3689
+],
+  "geometry": {"coordinates":[9.5443,4.3689],"type":"Point"}
+}

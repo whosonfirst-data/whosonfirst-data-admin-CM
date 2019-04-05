@@ -1,0 +1,67 @@
+{
+  "id": 1293186601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.09614,5.39685,10.09614,5.39685",
+    "geom:latitude":5.39685,
+    "geom:longitude":10.09614,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sa",
+    "gn:country_code":"CM",
+    "gn:dem":1522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8562480,
+    "gn:latitude":5.39685,
+    "gn:longitude":10.09614,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Sa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8562480
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"6bdb590186d268aae9245ba505d9bf21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1293186601,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1293186601,
+    "wof:lastmodified":1536724280,
+    "wof:name":"Sa",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.09614,
+    5.39685,
+    10.09614,
+    5.39685
+],
+  "geometry": {"coordinates":[10.09614,5.39685],"type":"Point"}
+}

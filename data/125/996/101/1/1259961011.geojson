@@ -1,0 +1,67 @@
+{
+  "id": 1259961011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.13333,4.76667,13.13333,4.76667",
+    "geom:latitude":4.76667,
+    "geom:longitude":13.13333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tikare",
+    "gn:country_code":"CM",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221508,
+    "gn:latitude":4.76667,
+    "gn:longitude":13.13333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Tikar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221508
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5705214ace5e7f3d07aa9bb808e043f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011277,
+            "locality_id":1259961011,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1259961011,
+    "wof:lastmodified":1536667579,
+    "wof:name":"Tikare",
+    "wof:parent_id":1092011277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.13333,
+    4.76667,
+    13.13333,
+    4.76667
+],
+  "geometry": {"coordinates":[13.13333,4.76667],"type":"Point"}
+}

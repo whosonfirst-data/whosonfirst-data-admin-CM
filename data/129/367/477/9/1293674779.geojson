@@ -1,0 +1,70 @@
+{
+  "id": 1293674779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.36283,5.31621,10.36283,5.31621",
+    "geom:latitude":5.31621,
+    "geom:longitude":10.36283,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nom",
+    "gn:country_code":"CM",
+    "gn:dem":1609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109522,
+    "gn:latitude":5.31621,
+    "gn:longitude":10.36283,
+    "gn:modification_date":"2013-09-10",
+    "gn:name":"Nom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Banom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092012197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109522
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"258d1feb5e7a0760ac139269031c7a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012197,
+            "locality_id":1293674779,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1293674779,
+    "wof:lastmodified":1537591357,
+    "wof:name":"Nom",
+    "wof:parent_id":1092012197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.36283,
+    5.31621,
+    10.36283,
+    5.31621
+],
+  "geometry": {"coordinates":[10.36283,5.31621],"type":"Point"}
+}

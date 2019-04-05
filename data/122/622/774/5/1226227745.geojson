@@ -1,0 +1,67 @@
+{
+  "id": 1226227745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.06068,5.56722,10.06068,5.56722",
+    "geom:latitude":5.56722,
+    "geom:longitude":10.06068,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tali",
+    "gn:country_code":"CM",
+    "gn:dem":1812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074934,
+    "gn:latitude":5.56722,
+    "gn:longitude":10.06068,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Tali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074934
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5c8aa099f93bdf087c984bf8f3ca1324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1226227745,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1226227745,
+    "wof:lastmodified":1536959589,
+    "wof:name":"Tali",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.06068,
+    5.56722,
+    10.06068,
+    5.56722
+],
+  "geometry": {"coordinates":[10.06068,5.56722],"type":"Point"}
+}

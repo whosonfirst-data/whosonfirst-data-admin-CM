@@ -1,0 +1,70 @@
+{
+  "id": 1259677497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.55501,6.5888,12.55501,6.5888",
+    "geom:latitude":6.5888,
+    "geom:longitude":12.55501,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Boudjou Boudjou",
+    "gn:country_code":"CM",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233426,
+    "gn:latitude":6.5888,
+    "gn:longitude":12.55501,
+    "gn:modification_date":"2014-02-06",
+    "gn:name":"Boudjou Boudjou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bouzoubouzou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233426
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"da26d33d80624e8559725d9edd59e045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011605,
+            "locality_id":1259677497,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1259677497,
+    "wof:lastmodified":1537591316,
+    "wof:name":"Boudjou Boudjou",
+    "wof:parent_id":1092011605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.55501,
+    6.5888,
+    12.55501,
+    6.5888
+],
+  "geometry": {"coordinates":[12.55501,6.5888],"type":"Point"}
+}

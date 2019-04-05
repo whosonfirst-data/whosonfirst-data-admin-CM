@@ -1,0 +1,71 @@
+{
+  "id": 1209802411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.83085,10.87919,13.83085,10.87919",
+    "geom:latitude":10.87919,
+    "geom:longitude":13.83085,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mazay",
+    "gn:country_code":"CM",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228175,
+    "gn:latitude":10.87919,
+    "gn:longitude":13.83085,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Mazay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maza\u00ef",
+        "Mazay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228175
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"82fdedbc08f6f3cf515a7dc1cde176e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1209802411,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1209802411,
+    "wof:lastmodified":1537591258,
+    "wof:name":"Mazay",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.83085,
+    10.87919,
+    13.83085,
+    10.87919
+],
+  "geometry": {"coordinates":[13.83085,10.87919],"type":"Point"}
+}

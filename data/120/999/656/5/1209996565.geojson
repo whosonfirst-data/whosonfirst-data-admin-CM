@@ -1,0 +1,67 @@
+{
+  "id": 1209996565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.93939,11.20269,13.93939,11.20269",
+    "geom:latitude":11.20269,
+    "geom:longitude":13.93939,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sera Adji",
+    "gn:country_code":"CM",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8710739,
+    "gn:latitude":11.20269,
+    "gn:longitude":13.93939,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"S\u00e9ra Adji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8710739
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"6c02b85aafd5dcfd82c19ca8b5c57dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011759,
+            "locality_id":1209996565,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1209996565,
+    "wof:lastmodified":1536383235,
+    "wof:name":"Sera Adji",
+    "wof:parent_id":1092011759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.93939,
+    11.20269,
+    13.93939,
+    11.20269
+],
+  "geometry": {"coordinates":[13.93939,11.20269],"type":"Point"}
+}

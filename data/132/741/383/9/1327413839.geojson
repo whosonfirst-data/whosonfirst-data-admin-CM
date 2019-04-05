@@ -1,0 +1,67 @@
+{
+  "id": 1327413839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.87807,10.41052,13.87807,10.41052",
+    "geom:latitude":10.41052,
+    "geom:longitude":13.87807,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Djimeta",
+    "gn:country_code":"CM",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2232809,
+    "gn:latitude":10.41052,
+    "gn:longitude":13.87807,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Djim\u00e9ta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2232809
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"518370acbc507107021857979815e6ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1327413839,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1327413839,
+    "wof:lastmodified":1536707910,
+    "wof:name":"Djimeta",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.87807,
+    10.41052,
+    13.87807,
+    10.41052
+],
+  "geometry": {"coordinates":[13.87807,10.41052],"type":"Point"}
+}

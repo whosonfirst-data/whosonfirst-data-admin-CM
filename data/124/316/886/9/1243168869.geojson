@@ -1,0 +1,67 @@
+{
+  "id": 1243168869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.44295,5.99902,10.44295,5.99902",
+    "geom:latitude":5.99902,
+    "geom:longitude":10.44295,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Naka",
+    "gn:country_code":"CM",
+    "gn:dem":1183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9096502,
+    "gn:latitude":5.99902,
+    "gn:longitude":10.44295,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Naka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9096502
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"6fb5a9b573ad3129e050ff2cdd1f3117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010693,
+            "locality_id":1243168869,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1243168869,
+    "wof:lastmodified":1536709096,
+    "wof:name":"Naka",
+    "wof:parent_id":1092010693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.44295,
+    5.99902,
+    10.44295,
+    5.99902
+],
+  "geometry": {"coordinates":[10.44295,5.99902],"type":"Point"}
+}

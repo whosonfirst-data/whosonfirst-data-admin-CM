@@ -1,0 +1,67 @@
+{
+  "id": 1226033005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.16667,4.76667,13.16667,4.76667",
+    "geom:latitude":4.76667,
+    "geom:longitude":13.16667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ngombe II",
+    "gn:country_code":"CM",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2224645,
+    "gn:latitude":4.76667,
+    "gn:longitude":13.16667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ngomb\u00e9 II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2224645
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"7df6fe47934f1b6984149765f4a704bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011277,
+            "locality_id":1226033005,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1226033005,
+    "wof:lastmodified":1536743282,
+    "wof:name":"Ngombe II",
+    "wof:parent_id":1092011277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.16667,
+    4.76667,
+    13.16667,
+    4.76667
+],
+  "geometry": {"coordinates":[13.16667,4.76667],"type":"Point"}
+}

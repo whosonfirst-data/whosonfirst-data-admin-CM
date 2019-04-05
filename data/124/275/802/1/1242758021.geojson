@@ -1,0 +1,63 @@
+{
+  "id": 1242758021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.72336,12.65676,14.72336,12.65676",
+    "geom:latitude":12.65676,
+    "geom:longitude":14.72336,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Koundoue",
+    "gn:country_code":"CM",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2229846,
+    "gn:latitude":12.65676,
+    "gn:longitude":14.72336,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Koundou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2229846
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"11b7e61ac501afd00c072b4b84d12705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1242758021,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242758021,
+    "wof:lastmodified":1536803749,
+    "wof:name":"Koundoue",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.72336,
+    12.65676,
+    14.72336,
+    12.65676
+],
+  "geometry": {"coordinates":[14.72336,12.65676],"type":"Point"}
+}

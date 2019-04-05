@@ -1,0 +1,61 @@
+{
+  "id": 1209596637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.36667,3.6,11.36667,3.6",
+    "geom:latitude":3.6,
+    "geom:longitude":11.36667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Meyila",
+    "gn:country_code":"CM",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2226868,
+    "gn:latitude":3.6,
+    "gn:longitude":11.36667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"M\u00e9yila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2226868
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"3d8adc5a6e48ea7ac6249b5d5500b800",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209596637
+        }
+    ],
+    "wof:id":1209596637,
+    "wof:lastmodified":1536282303,
+    "wof:name":"Meyila",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.36667,
+    3.6,
+    11.36667,
+    3.6
+],
+  "geometry": {"coordinates":[11.36667,3.6],"type":"Point"}
+}

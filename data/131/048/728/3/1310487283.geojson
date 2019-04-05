@@ -1,0 +1,67 @@
+{
+  "id": 1310487283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.06667,5.88333,11.06667,5.88333",
+    "geom:latitude":5.88333,
+    "geom:longitude":11.06667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Malouro",
+    "gn:country_code":"CM",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228731,
+    "gn:latitude":5.88333,
+    "gn:longitude":11.06667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Malouro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228731
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"779355626b8b7d8bd5d524be6e931fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010521,
+            "locality_id":1310487283,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1310487283,
+    "wof:lastmodified":1536943745,
+    "wof:name":"Malouro",
+    "wof:parent_id":1092010521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.06667,
+    5.88333,
+    11.06667,
+    5.88333
+],
+  "geometry": {"coordinates":[11.06667,5.88333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277079065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.6178,4.576,9.6178,4.576",
+    "geom:latitude":4.576,
+    "geom:longitude":9.6178,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Djoungo",
+    "gn:country_code":"CM",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2232750,
+    "gn:latitude":4.576,
+    "gn:longitude":9.6178,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Djoungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2232750
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"836734a22136b423ed5e6d95d773a3dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011087,
+            "locality_id":1277079065,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1277079065,
+    "wof:lastmodified":1536773516,
+    "wof:name":"Djoungo",
+    "wof:parent_id":1092011087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.6178,
+    4.576,
+    9.6178,
+    4.576
+],
+  "geometry": {"coordinates":[9.6178,4.576],"type":"Point"}
+}

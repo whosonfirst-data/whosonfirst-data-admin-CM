@@ -1,0 +1,67 @@
+{
+  "id": 1326908531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.26667,3.96667,11.26667,3.96667",
+    "geom:latitude":3.96667,
+    "geom:longitude":11.26667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nkolmelen",
+    "gn:country_code":"CM",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223950,
+    "gn:latitude":3.96667,
+    "gn:longitude":11.26667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Nkolm\u00e9len",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092012079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223950
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"29ee80f8cb3eec7e1058c061b038c898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012079,
+            "locality_id":1326908531,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1326908531,
+    "wof:lastmodified":1536939704,
+    "wof:name":"Nkolmelen",
+    "wof:parent_id":1092012079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.26667,
+    3.96667,
+    11.26667,
+    3.96667
+],
+  "geometry": {"coordinates":[11.26667,3.96667],"type":"Point"}
+}

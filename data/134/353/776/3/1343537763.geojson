@@ -1,0 +1,67 @@
+{
+  "id": 1343537763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.29462,8.98431,13.29462,8.98431",
+    "geom:latitude":8.98431,
+    "geom:longitude":13.29462,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Koubadje",
+    "gn:country_code":"CM",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2229955,
+    "gn:latitude":8.98431,
+    "gn:longitude":13.29462,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Koubadj\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2229955
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"6274677e9e104a59c1f7b395e8734cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1343537763,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1343537763,
+    "wof:lastmodified":1536633374,
+    "wof:name":"Koubadje",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.29462,
+    8.98431,
+    13.29462,
+    8.98431
+],
+  "geometry": {"coordinates":[13.29462,8.98431],"type":"Point"}
+}

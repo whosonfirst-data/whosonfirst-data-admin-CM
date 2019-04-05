@@ -1,0 +1,61 @@
+{
+  "id": 1209594919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.80737,9.21465,13.80737,9.21465",
+    "geom:latitude":9.21465,
+    "geom:longitude":13.80737,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Djoungoundou",
+    "gn:country_code":"CM",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8667684,
+    "gn:latitude":9.21465,
+    "gn:longitude":13.80737,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Djoungoundou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8667684
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"67df6d911c1cf28c9ae6b321b943f4d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209594919
+        }
+    ],
+    "wof:id":1209594919,
+    "wof:lastmodified":1536282356,
+    "wof:name":"Djoungoundou",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.80737,
+    9.21465,
+    13.80737,
+    9.21465
+],
+  "geometry": {"coordinates":[13.80737,9.21465],"type":"Point"}
+}

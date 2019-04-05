@@ -1,0 +1,67 @@
+{
+  "id": 1293188019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85951,10.6479,14.85951,10.6479",
+    "geom:latitude":10.6479,
+    "geom:longitude":14.85951,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Djamboutou",
+    "gn:country_code":"CM",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6730668,
+    "gn:latitude":10.6479,
+    "gn:longitude":14.85951,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Djamboutou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1108390249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6730668
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"cfa476372adb43ea7e2fb168cf32c692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1108390249,
+            "locality_id":1293188019,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1293188019,
+    "wof:lastmodified":1536722194,
+    "wof:name":"Djamboutou",
+    "wof:parent_id":1108390249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85951,
+    10.6479,
+    14.85951,
+    10.6479
+],
+  "geometry": {"coordinates":[14.85951,10.6479],"type":"Point"}
+}

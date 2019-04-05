@@ -1,0 +1,67 @@
+{
+  "id": 1276319055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.07627,5.48046,10.07627,5.48046",
+    "geom:latitude":5.48046,
+    "geom:longitude":10.07627,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lap",
+    "gn:country_code":"CM",
+    "gn:dem":1476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8563370,
+    "gn:latitude":5.48046,
+    "gn:longitude":10.07627,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Lap",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8563370
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"cc0404c9550678fbf8d418f242d6584f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1276319055,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1276319055,
+    "wof:lastmodified":1536798010,
+    "wof:name":"Lap",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.07627,
+    5.48046,
+    10.07627,
+    5.48046
+],
+  "geometry": {"coordinates":[10.07627,5.48046],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209092029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.22861,5.43295,10.22861,5.43295",
+    "geom:latitude":5.43295,
+    "geom:longitude":10.22861,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Latset",
+    "gn:country_code":"CM",
+    "gn:dem":1545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8605196,
+    "gn:latitude":5.43295,
+    "gn:longitude":10.22861,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Latset",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Latset III"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8605196
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5546e3261d798c4549260204a730d4fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209092029
+        }
+    ],
+    "wof:id":1209092029,
+    "wof:lastmodified":1537591366,
+    "wof:name":"Latset",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.22861,
+    5.43295,
+    10.22861,
+    5.43295
+],
+  "geometry": {"coordinates":[10.22861,5.43295],"type":"Point"}
+}

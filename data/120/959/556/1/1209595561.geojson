@@ -1,0 +1,61 @@
+{
+  "id": 1209595561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.82658,10.87701,14.82658,10.87701",
+    "geom:latitude":10.87701,
+    "geom:longitude":14.82658,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Gourgouley",
+    "gn:country_code":"CM",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6730448,
+    "gn:latitude":10.87701,
+    "gn:longitude":14.82658,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Gourgouley",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6730448
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"639151fe07ff0395168acac887f858f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209595561
+        }
+    ],
+    "wof:id":1209595561,
+    "wof:lastmodified":1536282335,
+    "wof:name":"Gourgouley",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.826579999999998,
+    10.87701,
+    14.826579999999998,
+    10.87701
+],
+  "geometry": {"coordinates":[14.82658,10.87701],"type":"Point"}
+}

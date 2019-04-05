@@ -1,0 +1,77 @@
+{
+  "id": 1226228523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.58764,7.76999,15.58764,7.76999",
+    "geom:latitude":7.76999,
+    "geom:longitude":15.58764,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bogdibo",
+    "gn:country_code":"CM",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6870100,
+    "gn:latitude":7.76999,
+    "gn:longitude":15.58764,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Bogdibo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911,
+        85632245,
+        85669957,
+        1092011703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6870100
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c7ea3f47428c2edcb0ba870b8c9b0595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1226228523,
+            "region_id":85678469
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011703,
+            "locality_id":1226228523,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1226228523,
+    "wof:lastmodified":1536958461,
+    "wof:name":"Bogdibo",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.58764,
+    7.76999,
+    15.58764,
+    7.76999
+],
+  "geometry": {"coordinates":[15.58764,7.76999],"type":"Point"}
+}

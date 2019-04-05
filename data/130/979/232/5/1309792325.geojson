@@ -1,0 +1,67 @@
+{
+  "id": 1309792325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.44694,7.54389,15.44694,7.54389",
+    "geom:latitude":7.54389,
+    "geom:longitude":15.44694,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mbaimboum",
+    "gn:country_code":"CM",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10172906,
+    "gn:latitude":7.54389,
+    "gn:longitude":15.44694,
+    "gn:modification_date":"2015-03-20",
+    "gn:name":"Mbaimboum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10172906
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"b5af906ddf819708d4f0b7a2457f2a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011703,
+            "locality_id":1309792325,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1309792325,
+    "wof:lastmodified":1536950728,
+    "wof:name":"Mbaimboum",
+    "wof:parent_id":1092011703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.44694,
+    7.54389,
+    15.44694,
+    7.54389
+],
+  "geometry": {"coordinates":[15.44694,7.54389],"type":"Point"}
+}

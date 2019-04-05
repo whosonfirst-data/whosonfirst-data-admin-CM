@@ -1,0 +1,67 @@
+{
+  "id": 1343358199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.08333,4.53333,10.08333,4.53333",
+    "geom:latitude":4.53333,
+    "geom:longitude":10.08333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Timte",
+    "gn:country_code":"CM",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221476,
+    "gn:latitude":4.53333,
+    "gn:longitude":10.08333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Timt\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221476
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"2d946cb46af426b9da2a9baa36c4b0cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011119,
+            "locality_id":1343358199,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1343358199,
+    "wof:lastmodified":1536893520,
+    "wof:name":"Timte",
+    "wof:parent_id":1092011119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.08333,
+    4.53333,
+    10.08333,
+    4.53333
+],
+  "geometry": {"coordinates":[10.08333,4.53333],"type":"Point"}
+}

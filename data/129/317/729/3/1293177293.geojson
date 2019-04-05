@@ -1,0 +1,67 @@
+{
+  "id": 1293177293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.47381,8.60339,12.47381,8.60339",
+    "geom:latitude":8.60339,
+    "geom:longitude":12.47381,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yeli Manga",
+    "gn:country_code":"CM",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10426217,
+    "gn:latitude":8.60339,
+    "gn:longitude":12.47381,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Y\u00e9li Manga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10426217
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"fb79278c720ed528abb3cf43bd5eebff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011667,
+            "locality_id":1293177293,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1293177293,
+    "wof:lastmodified":1536737348,
+    "wof:name":"Yeli Manga",
+    "wof:parent_id":1092011667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.47381,
+    8.60339,
+    12.47381,
+    8.60339
+],
+  "geometry": {"coordinates":[12.47381,8.60339],"type":"Point"}
+}

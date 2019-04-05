@@ -1,0 +1,71 @@
+{
+  "id": 1226432107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.2023,5.065,9.2023,5.065",
+    "geom:latitude":5.065,
+    "geom:longitude":9.2023,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dyengue",
+    "gn:country_code":"CM",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858241,
+    "gn:latitude":5.065,
+    "gn:longitude":9.2023,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dyengue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dyenge",
+        "Dyengue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092010791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858241
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5708a41ebd5a80392e3169cba8ffe085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010791,
+            "locality_id":1226432107,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1226432107,
+    "wof:lastmodified":1537591350,
+    "wof:name":"Dyengue",
+    "wof:parent_id":1092010791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.2023,
+    5.065,
+    9.2023,
+    5.065
+],
+  "geometry": {"coordinates":[9.2023,5.065],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293665509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.81116,9.54874,13.81116,9.54874",
+    "geom:latitude":9.54874,
+    "geom:longitude":13.81116,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Waidango",
+    "gn:country_code":"CM",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8669103,
+    "gn:latitude":9.54874,
+    "gn:longitude":13.81116,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Wa\u00efdango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8669103
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"bbe0280fdd02d652817cc8d844e6e9f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1293665509,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1293665509,
+    "wof:lastmodified":1537026516,
+    "wof:name":"Waidango",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81116,
+    9.54874,
+    13.81116,
+    9.54874
+],
+  "geometry": {"coordinates":[13.81116,9.54874],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343242387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.11453,10.22947,15.11453,10.22947",
+    "geom:latitude":10.22947,
+    "geom:longitude":15.11453,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Oudonday",
+    "gn:country_code":"CM",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2230794,
+    "gn:latitude":10.22947,
+    "gn:longitude":15.11453,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Oudonday",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hodandeye",
+        "Oudonday"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1108390249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2230794
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"2fa54c695d23490897656ea48f2777f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1108390249,
+            "locality_id":1343242387,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1343242387,
+    "wof:lastmodified":1537591286,
+    "wof:name":"Oudonday",
+    "wof:parent_id":1108390249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.11453,
+    10.22947,
+    15.11453,
+    10.22947
+],
+  "geometry": {"coordinates":[15.11453,10.22947],"type":"Point"}
+}

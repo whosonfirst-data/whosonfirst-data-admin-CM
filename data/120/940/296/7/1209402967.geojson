@@ -1,0 +1,65 @@
+{
+  "id": 1209402967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.21667,3.36667,11.21667,3.36667",
+    "geom:latitude":3.36667,
+    "geom:longitude":11.21667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nbabewa",
+    "gn:country_code":"CM",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2225415,
+    "gn:latitude":3.36667,
+    "gn:longitude":11.21667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Nbabewa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbaboua",
+        "Nbabewa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225415
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"dba8292939e5a5a3f5c31092b6cc6418",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209402967
+        }
+    ],
+    "wof:id":1209402967,
+    "wof:lastmodified":1537591238,
+    "wof:name":"Nbabewa",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.21667,
+    3.36667,
+    11.21667,
+    3.36667
+],
+  "geometry": {"coordinates":[11.21667,3.36667],"type":"Point"}
+}

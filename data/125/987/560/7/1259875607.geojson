@@ -1,0 +1,67 @@
+{
+  "id": 1259875607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.98333,4.88333,8.98333,4.88333",
+    "geom:latitude":4.88333,
+    "geom:longitude":8.98333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ndjia",
+    "gn:country_code":"CM",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2225210,
+    "gn:latitude":4.88333,
+    "gn:longitude":8.98333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ndjia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092010791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225210
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"15c7ed2890e29201fc2ae16c6ea2e5fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010791,
+            "locality_id":1259875607,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1259875607,
+    "wof:lastmodified":1536790966,
+    "wof:name":"Ndjia",
+    "wof:parent_id":1092010791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.98333,
+    4.88333,
+    8.98333,
+    4.88333
+],
+  "geometry": {"coordinates":[8.98333,4.88333],"type":"Point"}
+}

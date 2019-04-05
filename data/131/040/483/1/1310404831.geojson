@@ -1,0 +1,67 @@
+{
+  "id": 1310404831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.93109,5.23437,9.93109,5.23437",
+    "geom:latitude":5.23437,
+    "geom:longitude":9.93109,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mangwete",
+    "gn:country_code":"CM",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858370,
+    "gn:latitude":5.23437,
+    "gn:longitude":9.93109,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Mangw\u00e9t\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858370
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"a401b9096faa441e3cbd6aadf7b36946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011087,
+            "locality_id":1310404831,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1310404831,
+    "wof:lastmodified":1537059639,
+    "wof:name":"Mangwete",
+    "wof:parent_id":1092011087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.93109,
+    5.23437,
+    9.93109,
+    5.23437
+],
+  "geometry": {"coordinates":[9.93109,5.23437],"type":"Point"}
+}

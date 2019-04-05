@@ -1,0 +1,67 @@
+{
+  "id": 1326552487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.43283,5.42446,10.43283,5.42446",
+    "geom:latitude":5.42446,
+    "geom:longitude":10.43283,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"To'mlem",
+    "gn:country_code":"CM",
+    "gn:dem":1499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8607574,
+    "gn:latitude":5.42446,
+    "gn:longitude":10.43283,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"To\u2019mlem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092012225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8607574
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d5a411dc15fd04fc088c8792fc5ff3bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012225,
+            "locality_id":1326552487,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1326552487,
+    "wof:lastmodified":1536954919,
+    "wof:name":"To'mlem",
+    "wof:parent_id":1092012225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.43283,
+    5.42446,
+    10.43283,
+    5.42446
+],
+  "geometry": {"coordinates":[10.43283,5.42446],"type":"Point"}
+}

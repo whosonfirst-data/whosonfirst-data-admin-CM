@@ -1,0 +1,67 @@
+{
+  "id": 1225943303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.8417,5.3517,9.8417,5.3517",
+    "geom:latitude":5.3517,
+    "geom:longitude":9.8417,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mbetta",
+    "gn:country_code":"CM",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858279,
+    "gn:latitude":5.3517,
+    "gn:longitude":9.8417,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Mbetta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858279
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"a008cd49f2206f2e859687f2dc84b9c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011063,
+            "locality_id":1225943303,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1225943303,
+    "wof:lastmodified":1536871858,
+    "wof:name":"Mbetta",
+    "wof:parent_id":1092011063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8417,
+    5.3517,
+    9.8417,
+    5.3517
+],
+  "geometry": {"coordinates":[9.8417,5.3517],"type":"Point"}
+}

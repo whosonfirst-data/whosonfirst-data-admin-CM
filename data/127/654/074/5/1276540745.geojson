@@ -1,0 +1,67 @@
+{
+  "id": 1276540745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.23333,6.13333,10.23333,6.13333",
+    "geom:latitude":6.13333,
+    "geom:longitude":10.23333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ngotin",
+    "gn:country_code":"CM",
+    "gn:dem":1116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2224575,
+    "gn:latitude":6.13333,
+    "gn:longitude":10.23333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ngotin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2224575
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"558732b88a6c85939356d2046d0126e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010661,
+            "locality_id":1276540745,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1276540745,
+    "wof:lastmodified":1536997329,
+    "wof:name":"Ngotin",
+    "wof:parent_id":1092010661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.23333,
+    6.13333,
+    10.23333,
+    6.13333
+],
+  "geometry": {"coordinates":[10.23333,6.13333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276787891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.02094,5.79284,10.02094,5.79284",
+    "geom:latitude":5.79284,
+    "geom:longitude":10.02094,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Anyene",
+    "gn:country_code":"CM",
+    "gn:dem":1604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9093641,
+    "gn:latitude":5.79284,
+    "gn:longitude":10.02094,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Anyene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9093641
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"25876c9ea6d755d937e7bc9a7a853ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010661,
+            "locality_id":1276787891,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1276787891,
+    "wof:lastmodified":1536666973,
+    "wof:name":"Anyene",
+    "wof:parent_id":1092010661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.02094,
+    5.79284,
+    10.02094,
+    5.79284
+],
+  "geometry": {"coordinates":[10.02094,5.79284],"type":"Point"}
+}

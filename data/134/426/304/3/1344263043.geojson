@@ -1,0 +1,67 @@
+{
+  "id": 1344263043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.5,5.9,13.5,5.9",
+    "geom:latitude":5.9,
+    "geom:longitude":13.5,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dang-Haoussa",
+    "gn:country_code":"CM",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233248,
+    "gn:latitude":5.9,
+    "gn:longitude":13.5,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Dang-Haoussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233248
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"3964b2d10ca4060e6e6351fb2879157e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011395,
+            "locality_id":1344263043,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1344263043,
+    "wof:lastmodified":1537077267,
+    "wof:name":"Dang-Haoussa",
+    "wof:parent_id":1092011395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.5,
+    5.9,
+    13.5,
+    5.9
+],
+  "geometry": {"coordinates":[13.5,5.9],"type":"Point"}
+}

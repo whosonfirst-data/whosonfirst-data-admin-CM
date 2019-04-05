@@ -1,0 +1,67 @@
+{
+  "id": 1226829187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.24428,10.88371,14.24428,10.88371",
+    "geom:latitude":10.88371,
+    "geom:longitude":14.24428,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ouro Kourou Kouro",
+    "gn:country_code":"CM",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6732032,
+    "gn:latitude":10.88371,
+    "gn:longitude":14.24428,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Ouro Kourou Kouro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6732032
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"330c12700d049b1ccc195cd7fc58e419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011977,
+            "locality_id":1226829187,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1226829187,
+    "wof:lastmodified":1537088999,
+    "wof:name":"Ouro Kourou Kouro",
+    "wof:parent_id":1092011977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.24428,
+    10.88371,
+    14.24428,
+    10.88371
+],
+  "geometry": {"coordinates":[14.24428,10.88371],"type":"Point"}
+}

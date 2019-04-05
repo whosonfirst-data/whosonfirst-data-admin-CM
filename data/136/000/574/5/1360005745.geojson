@@ -1,0 +1,67 @@
+{
+  "id": 1360005745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.03476,5.41597,10.03476,5.41597",
+    "geom:latitude":5.41597,
+    "geom:longitude":10.03476,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Maka",
+    "gn:country_code":"CM",
+    "gn:dem":1394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8562522,
+    "gn:latitude":5.41597,
+    "gn:longitude":10.03476,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Maka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8562522
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"12061dab5022016b878da90438660eeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1360005745,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1360005745,
+    "wof:lastmodified":1537057617,
+    "wof:name":"Maka",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.03476,
+    5.41597,
+    10.03476,
+    5.41597
+],
+  "geometry": {"coordinates":[10.03476,5.41597],"type":"Point"}
+}

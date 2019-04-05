@@ -1,0 +1,67 @@
+{
+  "id": 1243259655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.05,5.41667,11.05,5.41667",
+    "geom:latitude":5.41667,
+    "geom:longitude":11.05,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Makoumbi",
+    "gn:country_code":"CM",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228835,
+    "gn:latitude":5.41667,
+    "gn:longitude":11.05,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Makoumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228835
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ff27c70c4315b3f00b73c545d8c40a35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010521,
+            "locality_id":1243259655,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1243259655,
+    "wof:lastmodified":1537071738,
+    "wof:name":"Makoumbi",
+    "wof:parent_id":1092010521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.05,
+    5.41667,
+    11.05,
+    5.41667
+],
+  "geometry": {"coordinates":[11.05,5.41667],"type":"Point"}
+}

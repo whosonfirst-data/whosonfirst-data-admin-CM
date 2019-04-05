@@ -1,0 +1,71 @@
+{
+  "id": 1260307275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.88333,6.23333,9.88333,6.23333",
+    "geom:latitude":6.23333,
+    "geom:longitude":9.88333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mubadji",
+    "gn:country_code":"CM",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2225762,
+    "gn:latitude":6.23333,
+    "gn:longitude":9.88333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mubadji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mubaji",
+        "Mubadji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225762
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"823240a9ecd5e9354ca2d88b5b937da7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010619,
+            "locality_id":1260307275,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1260307275,
+    "wof:lastmodified":1537591241,
+    "wof:name":"Mubadji",
+    "wof:parent_id":1092010619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.88333,
+    6.23333,
+    9.88333,
+    6.23333
+],
+  "geometry": {"coordinates":[9.88333,6.23333],"type":"Point"}
+}

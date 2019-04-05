@@ -1,0 +1,72 @@
+{
+  "id": 1243528275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.74026,2.65602,11.74026,2.65602",
+    "geom:latitude":2.65602,
+    "geom:longitude":11.74026,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mvangane",
+    "gn:country_code":"CM",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2225704,
+    "gn:latitude":2.65602,
+    "gn:longitude":11.74026,
+    "gn:modification_date":"2011-03-21",
+    "gn:name":"Mvangane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mvangan",
+        "Mvangane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669971,
+        1092012173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225704,
+        "wk:page":"Mvangane"
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"4bbe54117afa1fe796c41824aa930f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012173,
+            "locality_id":1243528275,
+            "region_id":85669971
+        }
+    ],
+    "wof:id":1243528275,
+    "wof:lastmodified":1537591241,
+    "wof:name":"Mvangane",
+    "wof:parent_id":1092012173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.74026,
+    2.65602,
+    11.74026,
+    2.65602
+],
+  "geometry": {"coordinates":[11.74026,2.65602],"type":"Point"}
+}

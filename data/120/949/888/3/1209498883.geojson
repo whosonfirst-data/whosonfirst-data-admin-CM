@@ -1,0 +1,61 @@
+{
+  "id": 1209498883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.36667,6.26667,14.36667,6.26667",
+    "geom:latitude":6.26667,
+    "geom:longitude":14.36667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Deyna",
+    "gn:country_code":"CM",
+    "gn:dem":957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233132,
+    "gn:latitude":6.26667,
+    "gn:longitude":14.36667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Deyna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233132
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c42ca5e80c9220b4059d494a61fb59c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209498883
+        }
+    ],
+    "wof:id":1209498883,
+    "wof:lastmodified":1536285247,
+    "wof:name":"Deyna",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.36667,
+    6.26667,
+    14.36667,
+    6.26667
+],
+  "geometry": {"coordinates":[14.36667,6.26667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309689473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.99273,11.54765,14.99273,11.54765",
+    "geom:latitude":11.54765,
+    "geom:longitude":14.99273,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kalgoulou",
+    "gn:country_code":"CM",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2230550,
+    "gn:latitude":11.54765,
+    "gn:longitude":14.99273,
+    "gn:modification_date":"2008-08-01",
+    "gn:name":"Kalgoulou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2230550
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"3ffc433b2808fa41c569823e35ea760e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1309689473,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1309689473,
+    "wof:lastmodified":1537095635,
+    "wof:name":"Kalgoulou",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.99273,
+    11.54765,
+    14.99273,
+    11.54765
+],
+  "geometry": {"coordinates":[14.99273,11.54765],"type":"Point"}
+}

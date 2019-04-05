@@ -1,0 +1,67 @@
+{
+  "id": 1293085469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.29997,5.64673,9.29997,5.64673",
+    "geom:latitude":5.64673,
+    "geom:longitude":9.29997,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tokpwa",
+    "gn:country_code":"CM",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858123,
+    "gn:latitude":5.64673,
+    "gn:longitude":9.29997,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Tokpwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858123
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"2bb7f372a2b86059714d6192ac4811c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011003,
+            "locality_id":1293085469,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1293085469,
+    "wof:lastmodified":1536868540,
+    "wof:name":"Tokpwa",
+    "wof:parent_id":1092011003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.29997,
+    5.64673,
+    9.29997,
+    5.64673
+],
+  "geometry": {"coordinates":[9.29997,5.64673],"type":"Point"}
+}

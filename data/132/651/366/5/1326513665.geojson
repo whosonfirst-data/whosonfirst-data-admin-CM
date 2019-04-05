@@ -1,0 +1,67 @@
+{
+  "id": 1326513665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.36667,3.46667,12.36667,3.46667",
+    "geom:latitude":3.46667,
+    "geom:longitude":12.36667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Meuba",
+    "gn:country_code":"CM",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2226913,
+    "gn:latitude":3.46667,
+    "gn:longitude":12.36667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Meuba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669971,
+        1092011365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2226913
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ca375756d599de9a8c9038aabf8e5131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011365,
+            "locality_id":1326513665,
+            "region_id":85669971
+        }
+    ],
+    "wof:id":1326513665,
+    "wof:lastmodified":1537010153,
+    "wof:name":"Meuba",
+    "wof:parent_id":1092011365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.36667,
+    3.46667,
+    12.36667,
+    3.46667
+],
+  "geometry": {"coordinates":[12.36667,3.46667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293476959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.90687,10.2218,13.90687,10.2218",
+    "geom:latitude":10.2218,
+    "geom:longitude":13.90687,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mayo Kewe",
+    "gn:country_code":"CM",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228207,
+    "gn:latitude":10.2218,
+    "gn:longitude":13.90687,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Mayo K\u00e9w\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mayo K\u00e9w\u00e9",
+        "Ma\u00efk\u00e9v\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228207
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"afea2ace206a876c129fec0b7fb807f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1293476959,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1293476959,
+    "wof:lastmodified":1537591259,
+    "wof:name":"Mayo Kewe",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.90687,
+    10.2218,
+    13.90687,
+    10.2218
+],
+  "geometry": {"coordinates":[13.90687,10.2218],"type":"Point"}
+}

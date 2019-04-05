@@ -1,0 +1,74 @@
+{
+  "id": 1226064109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.38247,5.14984,9.38247,5.14984",
+    "geom:latitude":5.14984,
+    "geom:longitude":9.38247,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Talangaye",
+    "gn:country_code":"CM",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221742,
+    "gn:latitude":5.14984,
+    "gn:longitude":9.38247,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Talangaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Talangayi",
+        "Talangaje",
+        "Talanj\u00e9",
+        "Talanganye",
+        "Talangaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221742
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"53006a198be68390e9d4d56cd7c619fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011063,
+            "locality_id":1226064109,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1226064109,
+    "wof:lastmodified":1537591201,
+    "wof:name":"Talangaye",
+    "wof:parent_id":1092011063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.38247,
+    5.14984,
+    9.38247,
+    5.14984
+],
+  "geometry": {"coordinates":[9.38247,5.14984],"type":"Point"}
+}

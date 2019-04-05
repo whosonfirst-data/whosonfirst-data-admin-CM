@@ -1,0 +1,67 @@
+{
+  "id": 1293275827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.3,3.4,12.3,3.4",
+    "geom:latitude":3.4,
+    "geom:longitude":12.3,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Teng I",
+    "gn:country_code":"CM",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221561,
+    "gn:latitude":3.4,
+    "gn:longitude":12.3,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Teng I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669971,
+        1092011365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221561
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"0606dd9aca869d6d8e91e55d65531a24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011365,
+            "locality_id":1293275827,
+            "region_id":85669971
+        }
+    ],
+    "wof:id":1293275827,
+    "wof:lastmodified":1537088988,
+    "wof:name":"Teng I",
+    "wof:parent_id":1092011365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3,
+    3.4,
+    12.3,
+    3.4
+],
+  "geometry": {"coordinates":[12.3,3.4],"type":"Point"}
+}

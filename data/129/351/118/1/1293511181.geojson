@@ -1,0 +1,67 @@
+{
+  "id": 1293511181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.25,6.6,10.25,6.6",
+    "geom:latitude":6.6,
+    "geom:longitude":10.25,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Missong",
+    "gn:country_code":"CM",
+    "gn:dem":865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2226460,
+    "gn:latitude":6.6,
+    "gn:longitude":10.25,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Missong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2226460
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"1ae686568d1e6176bdc31299bbe67af7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010619,
+            "locality_id":1293511181,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1293511181,
+    "wof:lastmodified":1536752908,
+    "wof:name":"Missong",
+    "wof:parent_id":1092010619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.25,
+    6.6,
+    10.25,
+    6.6
+],
+  "geometry": {"coordinates":[10.25,6.6],"type":"Point"}
+}

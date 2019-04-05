@@ -1,0 +1,67 @@
+{
+  "id": 1293870855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.95277,10.96181,14.95277,10.96181",
+    "geom:latitude":10.96181,
+    "geom:longitude":14.95277,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Keraha",
+    "gn:country_code":"CM",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6730411,
+    "gn:latitude":10.96181,
+    "gn:longitude":14.95277,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"K\u00e9raha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1108390249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6730411
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"13768f9adf5a6655ebcbd9784539f7a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1108390249,
+            "locality_id":1293870855,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1293870855,
+    "wof:lastmodified":1536731852,
+    "wof:name":"Keraha",
+    "wof:parent_id":1108390249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.95277,
+    10.96181,
+    14.95277,
+    10.96181
+],
+  "geometry": {"coordinates":[14.95277,10.96181],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293476915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.72178,10.88074,13.72178,10.88074",
+    "geom:latitude":10.88074,
+    "geom:longitude":13.72178,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ldoubam",
+    "gn:country_code":"CM",
+    "gn:dem":1094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2229200,
+    "gn:latitude":10.88074,
+    "gn:longitude":13.72178,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ldoubam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loubam",
+        "Ldoubam",
+        "Libam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2229200
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c95cc2cc475a514959633bb2472881ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1293476915,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1293476915,
+    "wof:lastmodified":1537591270,
+    "wof:name":"Ldoubam",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.72178,
+    10.88074,
+    13.72178,
+    10.88074
+],
+  "geometry": {"coordinates":[13.72178,10.88074],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259688787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.5322,4.0276,9.5322,4.0276",
+    "geom:latitude":4.0276,
+    "geom:longitude":9.5322,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Moungangue",
+    "gn:country_code":"CM",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594891,
+    "gn:latitude":4.0276,
+    "gn:longitude":9.5322,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Moungangu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092012257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594891
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"342ad63bf425bafc9eb418bfe1adbed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012257,
+            "locality_id":1259688787,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1259688787,
+    "wof:lastmodified":1537056834,
+    "wof:name":"Moungangue",
+    "wof:parent_id":1092012257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.5322,
+    4.0276,
+    9.5322,
+    4.0276
+],
+  "geometry": {"coordinates":[9.5322,4.0276],"type":"Point"}
+}

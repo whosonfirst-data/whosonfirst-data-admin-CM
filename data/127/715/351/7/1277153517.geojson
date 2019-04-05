@@ -1,0 +1,67 @@
+{
+  "id": 1277153517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1545,7.3034,15.1545,7.3034",
+    "geom:latitude":7.3034,
+    "geom:longitude":15.1545,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dompta",
+    "gn:country_code":"CM",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6870144,
+    "gn:latitude":7.3034,
+    "gn:longitude":15.1545,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Dompta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6870144
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"3e466ee3112ab4948685fd3106f87106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011703,
+            "locality_id":1277153517,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1277153517,
+    "wof:lastmodified":1536665723,
+    "wof:name":"Dompta",
+    "wof:parent_id":1092011703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1545,
+    7.3034,
+    15.1545,
+    7.3034
+],
+  "geometry": {"coordinates":[15.1545,7.3034],"type":"Point"}
+}

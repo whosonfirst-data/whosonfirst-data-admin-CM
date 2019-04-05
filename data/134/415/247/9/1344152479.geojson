@@ -1,0 +1,73 @@
+{
+  "id": 1344152479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.91667,6.85,13.91667,6.85",
+    "geom:latitude":6.85,
+    "geom:longitude":13.91667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mbang Mbere",
+    "gn:country_code":"CM",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2227996,
+    "gn:latitude":6.85,
+    "gn:longitude":13.91667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mbang Mb\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mb\u00e9r\u00e9",
+        "Mbera",
+        "Mab\u00e9r\u00e9",
+        "Mbang Mb\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2227996
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f374c4200b9fc87aee4f740d4b35cf88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011581,
+            "locality_id":1344152479,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1344152479,
+    "wof:lastmodified":1537591256,
+    "wof:name":"Mbang Mbere",
+    "wof:parent_id":1092011581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.91667,
+    6.85,
+    13.91667,
+    6.85
+],
+  "geometry": {"coordinates":[13.91667,6.85],"type":"Point"}
+}

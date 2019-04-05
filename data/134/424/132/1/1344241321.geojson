@@ -1,0 +1,67 @@
+{
+  "id": 1344241321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.9876,4.2191,8.9876,4.2191",
+    "geom:latitude":4.2191,
+    "geom:longitude":8.9876,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bibundi",
+    "gn:country_code":"CM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2234245,
+    "gn:latitude":4.2191,
+    "gn:longitude":8.9876,
+    "gn:modification_date":"2008-11-24",
+    "gn:name":"Bibundi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092010823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2234245
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"18fd97757cda46105063bdf7c3da3001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010823,
+            "locality_id":1344241321,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1344241321,
+    "wof:lastmodified":1536612130,
+    "wof:name":"Bibundi",
+    "wof:parent_id":1092010823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9876,
+    4.2191,
+    8.9876,
+    4.2191
+],
+  "geometry": {"coordinates":[8.9876,4.2191],"type":"Point"}
+}

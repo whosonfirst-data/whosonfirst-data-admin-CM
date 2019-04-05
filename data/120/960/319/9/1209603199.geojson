@@ -1,0 +1,65 @@
+{
+  "id": 1209603199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.81667,4.4,11.81667,4.4",
+    "geom:latitude":4.4,
+    "geom:longitude":11.81667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ndjore",
+    "gn:country_code":"CM",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2225183,
+    "gn:latitude":4.4,
+    "gn:longitude":11.81667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ndjor\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nior\u00e9",
+        "Ndjor\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225183
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f795f3358a64464e8f853a610d3acb82",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209603199
+        }
+    ],
+    "wof:id":1209603199,
+    "wof:lastmodified":1537591236,
+    "wof:name":"Ndjore",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.81667,
+    4.4,
+    11.81667,
+    4.4
+],
+  "geometry": {"coordinates":[11.81667,4.4],"type":"Point"}
+}

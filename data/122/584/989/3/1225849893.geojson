@@ -1,0 +1,67 @@
+{
+  "id": 1225849893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.9402,4.5502,9.9402,4.5502",
+    "geom:latitude":4.5502,
+    "geom:longitude":9.9402,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ndokpo",
+    "gn:country_code":"CM",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595063,
+    "gn:latitude":4.5502,
+    "gn:longitude":9.9402,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Ndokpo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595063
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"277fe551241b18095c5e7d7c64ffef5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011119,
+            "locality_id":1225849893,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1225849893,
+    "wof:lastmodified":1537006925,
+    "wof:name":"Ndokpo",
+    "wof:parent_id":1092011119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9402,
+    4.5502,
+    9.9402,
+    4.5502
+],
+  "geometry": {"coordinates":[9.9402,4.5502],"type":"Point"}
+}

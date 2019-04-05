@@ -1,0 +1,67 @@
+{
+  "id": 1326925159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.4881,4.7317,9.4881,4.7317",
+    "geom:latitude":4.7317,
+    "geom:longitude":9.4881,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ikiliwindi",
+    "gn:country_code":"CM",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2230716,
+    "gn:latitude":4.7317,
+    "gn:longitude":9.4881,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Ikiliwindi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092010859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2230716
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5428650667705468e344a094f4a3cb7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010859,
+            "locality_id":1326925159,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1326925159,
+    "wof:lastmodified":1536915474,
+    "wof:name":"Ikiliwindi",
+    "wof:parent_id":1092010859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.4881,
+    4.7317,
+    9.4881,
+    4.7317
+],
+  "geometry": {"coordinates":[9.4881,4.7317],"type":"Point"}
+}

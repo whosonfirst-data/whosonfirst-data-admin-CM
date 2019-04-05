@@ -1,0 +1,67 @@
+{
+  "id": 1343480871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.06603,5.40772,10.06603,5.40772",
+    "geom:latitude":5.40772,
+    "geom:longitude":10.06603,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Femletagli",
+    "gn:country_code":"CM",
+    "gn:dem":1453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8562526,
+    "gn:latitude":5.40772,
+    "gn:longitude":10.06603,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Feml\u00e9tagli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8562526
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"74417dc46e5fd83dc605c8e1a2791375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1343480871,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1343480871,
+    "wof:lastmodified":1536717050,
+    "wof:name":"Femletagli",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.06603,
+    5.40772,
+    10.06603,
+    5.40772
+],
+  "geometry": {"coordinates":[10.06603,5.40772],"type":"Point"}
+}

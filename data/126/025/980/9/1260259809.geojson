@@ -1,0 +1,67 @@
+{
+  "id": 1260259809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.48478,10.52376,14.48478,10.52376",
+    "geom:latitude":10.52376,
+    "geom:longitude":14.48478,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Talindou",
+    "gn:country_code":"CM",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6732347,
+    "gn:latitude":10.52376,
+    "gn:longitude":14.48478,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Talindou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6732347
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"35389176fe0b9841b2c6ad7cccec3db4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011977,
+            "locality_id":1260259809,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1260259809,
+    "wof:lastmodified":1536743623,
+    "wof:name":"Talindou",
+    "wof:parent_id":1092011977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48478,
+    10.52376,
+    14.48478,
+    10.52376
+],
+  "geometry": {"coordinates":[14.48478,10.52376],"type":"Point"}
+}

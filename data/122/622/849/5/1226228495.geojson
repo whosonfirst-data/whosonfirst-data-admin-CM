@@ -1,0 +1,67 @@
+{
+  "id": 1226228495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.46943,9.44094,13.46943,9.44094",
+    "geom:latitude":9.44094,
+    "geom:longitude":13.46943,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Boulgou",
+    "gn:country_code":"CM",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8665361,
+    "gn:latitude":9.44094,
+    "gn:longitude":13.46943,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Boulgou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8665361
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"fafcbcb157acf23bc765ed67b3ad217e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1226228495,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1226228495,
+    "wof:lastmodified":1536958504,
+    "wof:name":"Boulgou",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.46943,
+    9.44094,
+    13.46943,
+    9.44094
+],
+  "geometry": {"coordinates":[13.46943,9.44094],"type":"Point"}
+}

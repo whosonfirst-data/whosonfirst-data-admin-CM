@@ -1,0 +1,67 @@
+{
+  "id": 1209200833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.24953,10.03416,13.24953,10.03416",
+    "geom:latitude":10.03416,
+    "geom:longitude":13.24953,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Landroho",
+    "gn:country_code":"CM",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2229625,
+    "gn:latitude":10.03416,
+    "gn:longitude":13.24953,
+    "gn:modification_date":"2014-04-05",
+    "gn:name":"Landroho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Landouro",
+        "Landrouho",
+        "Landroho",
+        "Landrouha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2229625
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"77dab37f2efcc3e48d924cce8e55f3e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209200833
+        }
+    ],
+    "wof:id":1209200833,
+    "wof:lastmodified":1537591272,
+    "wof:name":"Landroho",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.24953,
+    10.03416,
+    13.24953,
+    10.03416
+],
+  "geometry": {"coordinates":[13.24953,10.03416],"type":"Point"}
+}

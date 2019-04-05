@@ -1,0 +1,67 @@
+{
+  "id": 1243359417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.9441,5.6655,9.9441,5.6655",
+    "geom:latitude":5.6655,
+    "geom:longitude":9.9441,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kenyang",
+    "gn:country_code":"CM",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858038,
+    "gn:latitude":5.6655,
+    "gn:longitude":9.9441,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Kenyang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858038
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d886aa3a80223ce3a1a6c1c1406d1715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011035,
+            "locality_id":1243359417,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1243359417,
+    "wof:lastmodified":1536931817,
+    "wof:name":"Kenyang",
+    "wof:parent_id":1092011035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9441,
+    5.6655,
+    9.9441,
+    5.6655
+],
+  "geometry": {"coordinates":[9.9441,5.6655],"type":"Point"}
+}

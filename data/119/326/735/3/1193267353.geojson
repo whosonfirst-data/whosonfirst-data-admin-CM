@@ -1,0 +1,67 @@
+{
+  "id": 1193267353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.41667,6.9,14.41667,6.9",
+    "geom:latitude":6.9,
+    "geom:longitude":14.41667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dibi Manbere",
+    "gn:country_code":"CM",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233104,
+    "gn:latitude":6.9,
+    "gn:longitude":14.41667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Dibi Manb\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233104
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"46804512ce0118e5c4c16186dd30b5b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011581,
+            "locality_id":1193267353,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1193267353,
+    "wof:lastmodified":1536374425,
+    "wof:name":"Dibi Manbere",
+    "wof:parent_id":1092011581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.41667,
+    6.9,
+    14.41667,
+    6.9
+],
+  "geometry": {"coordinates":[14.41667,6.9],"type":"Point"}
+}

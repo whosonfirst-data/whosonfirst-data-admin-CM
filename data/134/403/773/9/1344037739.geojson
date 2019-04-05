@@ -1,0 +1,71 @@
+{
+  "id": 1344037739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.42385,11.01985,14.42385,11.01985",
+    "geom:latitude":11.01985,
+    "geom:longitude":14.42385,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Makoche",
+    "gn:country_code":"CM",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2226258,
+    "gn:latitude":11.01985,
+    "gn:longitude":14.42385,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Makoch\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mokoss\u00e9",
+        "Makoch\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2226258
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"31dd6177409453f1463ade837c8091ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011759,
+            "locality_id":1344037739,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1344037739,
+    "wof:lastmodified":1537591245,
+    "wof:name":"Makoche",
+    "wof:parent_id":1092011759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.42385,
+    11.01985,
+    14.42385,
+    11.01985
+],
+  "geometry": {"coordinates":[14.42385,11.01985],"type":"Point"}
+}

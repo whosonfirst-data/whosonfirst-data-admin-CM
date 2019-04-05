@@ -1,0 +1,71 @@
+{
+  "id": 1344034921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.04114,11.43394,15.04114,11.43394",
+    "geom:latitude":11.43394,
+    "geom:longitude":15.04114,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Hamadou",
+    "gn:country_code":"CM",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2230833,
+    "gn:latitude":11.43394,
+    "gn:longitude":15.04114,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Hamadou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amadou",
+        "Hamadou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2230833
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"7dea76770c81971670393f97fcffab6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1344034921,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1344034921,
+    "wof:lastmodified":1537591287,
+    "wof:name":"Hamadou",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.04114,
+    11.43394,
+    15.04114,
+    11.43394
+],
+  "geometry": {"coordinates":[15.04114,11.43394],"type":"Point"}
+}

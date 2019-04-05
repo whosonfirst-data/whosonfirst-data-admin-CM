@@ -1,0 +1,65 @@
+{
+  "id": 1209293821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.91182,10.03697,13.91182,10.03697",
+    "geom:latitude":10.03697,
+    "geom:longitude":13.91182,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Larbak",
+    "gn:country_code":"CM",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2229601,
+    "gn:latitude":10.03697,
+    "gn:longitude":13.91182,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Larbak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Larba",
+        "Larbak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2229601
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"e36684b242d152a8718029775be1150c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209293821
+        }
+    ],
+    "wof:id":1209293821,
+    "wof:lastmodified":1537591272,
+    "wof:name":"Larbak",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.91182,
+    10.03697,
+    13.91182,
+    10.03697
+],
+  "geometry": {"coordinates":[13.91182,10.03697],"type":"Point"}
+}

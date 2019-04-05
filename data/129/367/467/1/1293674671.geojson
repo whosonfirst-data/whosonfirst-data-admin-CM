@@ -1,0 +1,67 @@
+{
+  "id": 1293674671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.37502,5.48517,10.37502,5.48517",
+    "geom:latitude":5.48517,
+    "geom:longitude":10.37502,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ndoumdi",
+    "gn:country_code":"CM",
+    "gn:dem":1318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8607425,
+    "gn:latitude":5.48517,
+    "gn:longitude":10.37502,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Ndoumdi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8607425
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"340fe3ea73bf861dbd6609660890bc25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010591,
+            "locality_id":1293674671,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1293674671,
+    "wof:lastmodified":1537013787,
+    "wof:name":"Ndoumdi",
+    "wof:parent_id":1092010591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.37502,
+    5.48517,
+    10.37502,
+    5.48517
+],
+  "geometry": {"coordinates":[10.37502,5.48517],"type":"Point"}
+}

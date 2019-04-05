@@ -1,0 +1,61 @@
+{
+  "id": 1209086583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26984,10.18479,14.26984,10.18479",
+    "geom:latitude":10.18479,
+    "geom:longitude":14.26984,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Dagayang",
+    "gn:country_code":"CM",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6730317,
+    "gn:latitude":10.18479,
+    "gn:longitude":14.26984,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Dagayang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6730317
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c360b74f3183dc216b682d9e35a4d83e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209086583
+        }
+    ],
+    "wof:id":1209086583,
+    "wof:lastmodified":1536298167,
+    "wof:name":"Dagayang",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26984,
+    10.18479,
+    14.26984,
+    10.18479
+],
+  "geometry": {"coordinates":[14.26984,10.18479],"type":"Point"}
+}

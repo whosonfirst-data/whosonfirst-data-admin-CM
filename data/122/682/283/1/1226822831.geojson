@@ -1,0 +1,67 @@
+{
+  "id": 1226822831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.38333,2.21667,13.38333,2.21667",
+    "geom:latitude":2.21667,
+    "geom:longitude":13.38333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zoula",
+    "gn:country_code":"CM",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220664,
+    "gn:latitude":2.21667,
+    "gn:longitude":13.38333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Zoula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669971,
+        1092011365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220664
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"7506d305e3f5874791f6ec8d3644b0d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011365,
+            "locality_id":1226822831,
+            "region_id":85669971
+        }
+    ],
+    "wof:id":1226822831,
+    "wof:lastmodified":1536601416,
+    "wof:name":"Zoula",
+    "wof:parent_id":1092011365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.38333,
+    2.21667,
+    13.38333,
+    2.21667
+],
+  "geometry": {"coordinates":[13.38333,2.21667],"type":"Point"}
+}

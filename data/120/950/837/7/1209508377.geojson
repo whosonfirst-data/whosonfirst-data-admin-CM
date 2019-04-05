@@ -1,0 +1,61 @@
+{
+  "id": 1209508377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.62598,5.69617,10.62598,5.69617",
+    "geom:latitude":5.69617,
+    "geom:longitude":10.62598,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nkouncha'",
+    "gn:country_code":"CM",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9100965,
+    "gn:latitude":5.69617,
+    "gn:longitude":10.62598,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Nkouncha\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9100965
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"604ac439b77be60a6ff591e4ddc28d0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209508377
+        }
+    ],
+    "wof:id":1209508377,
+    "wof:lastmodified":1536284961,
+    "wof:name":"Nkouncha'",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.62598,
+    5.69617,
+    10.62598,
+    5.69617
+],
+  "geometry": {"coordinates":[10.62598,5.69617],"type":"Point"}
+}

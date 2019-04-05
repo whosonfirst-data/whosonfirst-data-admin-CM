@@ -1,0 +1,61 @@
+{
+  "id": 1209593771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.18333,3.43333,12.18333,3.43333",
+    "geom:latitude":3.43333,
+    "geom:longitude":12.18333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Adjap",
+    "gn:country_code":"CM",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2235980,
+    "gn:latitude":3.43333,
+    "gn:longitude":12.18333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Adjap",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2235980
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f85d3035c6ee1463f83afe2626a9d1a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209593771
+        }
+    ],
+    "wof:id":1209593771,
+    "wof:lastmodified":1536282392,
+    "wof:name":"Adjap",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.18333,
+    3.43333,
+    12.18333,
+    3.43333
+],
+  "geometry": {"coordinates":[12.18333,3.43333],"type":"Point"}
+}

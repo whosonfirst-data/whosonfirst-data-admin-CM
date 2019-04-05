@@ -1,0 +1,67 @@
+{
+  "id": 1276958929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.86757,10.78851,13.86757,10.78851",
+    "geom:latitude":10.78851,
+    "geom:longitude":13.86757,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Gueleleje",
+    "gn:country_code":"CM",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074310,
+    "gn:latitude":10.78851,
+    "gn:longitude":13.86757,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Guel\u00e9l\u00e9j\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074310
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"230437caeced89295473827e2b309b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1276958929,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1276958929,
+    "wof:lastmodified":1536936188,
+    "wof:name":"Gueleleje",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.86757,
+    10.78851,
+    13.86757,
+    10.78851
+],
+  "geometry": {"coordinates":[13.86757,10.78851],"type":"Point"}
+}

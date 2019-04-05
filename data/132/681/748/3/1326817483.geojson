@@ -1,0 +1,71 @@
+{
+  "id": 1326817483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.83589,10.46732,13.83589,10.46732",
+    "geom:latitude":10.46732,
+    "geom:longitude":13.83589,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mayo Ladde",
+    "gn:country_code":"CM",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228206,
+    "gn:latitude":10.46732,
+    "gn:longitude":13.83589,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Mayo Ladd\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mayo Lad\u00e9",
+        "Mayo Ladd\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228206
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f656d65aa62a2755d4f45a151a2a9f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1326817483,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1326817483,
+    "wof:lastmodified":1537591259,
+    "wof:name":"Mayo Ladde",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.83589,
+    10.46732,
+    13.83589,
+    10.46732
+],
+  "geometry": {"coordinates":[13.83589,10.46732],"type":"Point"}
+}

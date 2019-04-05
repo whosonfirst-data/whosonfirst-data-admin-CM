@@ -1,0 +1,73 @@
+{
+  "id": 1276742505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.80126,8.62821,12.80126,8.62821",
+    "geom:latitude":8.62821,
+    "geom:longitude":12.80126,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tchamba",
+    "gn:country_code":"CM",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221645,
+    "gn:latitude":8.62821,
+    "gn:longitude":12.80126,
+    "gn:modification_date":"2014-07-15",
+    "gn:name":"Tchamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jamba",
+        "Djamba",
+        "Tschamb\u0101",
+        "Tchamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221645
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"9ff49ba00d2a2b94e58a23ed033894e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011667,
+            "locality_id":1276742505,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1276742505,
+    "wof:lastmodified":1537591200,
+    "wof:name":"Tchamba",
+    "wof:parent_id":1092011667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.80126,
+    8.62821,
+    12.80126,
+    8.62821
+],
+  "geometry": {"coordinates":[12.80126,8.62821],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276226401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.35658,5.00406,10.35658,5.00406",
+    "geom:latitude":5.00406,
+    "geom:longitude":10.35658,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ndoumcane",
+    "gn:country_code":"CM",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560476,
+    "gn:latitude":5.00406,
+    "gn:longitude":10.35658,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Ndoumcane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560476
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"fbf617e94c333535aa5fa528d7dea7a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011119,
+            "locality_id":1276226401,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1276226401,
+    "wof:lastmodified":1536922795,
+    "wof:name":"Ndoumcane",
+    "wof:parent_id":1092011119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.35658,
+    5.00406,
+    10.35658,
+    5.00406
+],
+  "geometry": {"coordinates":[10.35658,5.00406],"type":"Point"}
+}

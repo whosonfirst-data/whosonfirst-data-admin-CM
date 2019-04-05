@@ -1,0 +1,67 @@
+{
+  "id": 1259769597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.57044,8.51701,13.57044,8.51701",
+    "geom:latitude":8.51701,
+    "geom:longitude":13.57044,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kogla",
+    "gn:country_code":"CM",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2230215,
+    "gn:latitude":8.51701,
+    "gn:longitude":13.57044,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Kogla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2230215
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"4891d2a3097be01234b239078bf1579a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1259769597,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1259769597,
+    "wof:lastmodified":1536943699,
+    "wof:name":"Kogla",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.57044,
+    8.51701,
+    13.57044,
+    8.51701
+],
+  "geometry": {"coordinates":[13.57044,8.51701],"type":"Point"}
+}

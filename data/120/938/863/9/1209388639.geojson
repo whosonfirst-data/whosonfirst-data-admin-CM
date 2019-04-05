@@ -1,0 +1,61 @@
+{
+  "id": 1209388639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.96667,2.58333,11.96667,2.58333",
+    "geom:latitude":2.58333,
+    "geom:longitude":11.96667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ndik",
+    "gn:country_code":"CM",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2225266,
+    "gn:latitude":2.58333,
+    "gn:longitude":11.96667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ndik",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225266
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"06fc4cd0298463f6666388eed355a3ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209388639
+        }
+    ],
+    "wof:id":1209388639,
+    "wof:lastmodified":1536288537,
+    "wof:name":"Ndik",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.96667,
+    2.58333,
+    11.96667,
+    2.58333
+],
+  "geometry": {"coordinates":[11.96667,2.58333],"type":"Point"}
+}

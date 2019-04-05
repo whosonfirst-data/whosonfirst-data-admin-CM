@@ -1,0 +1,71 @@
+{
+  "id": 1243260643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.4,6.48333,10.4,6.48333",
+    "geom:latitude":6.48333,
+    "geom:longitude":10.4,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Subum",
+    "gn:country_code":"CM",
+    "gn:dem":1371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221790,
+    "gn:latitude":6.48333,
+    "gn:longitude":10.4,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Subum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bum",
+        "Subum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221790
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"55e9c1f9ac2a9a0bcbefb8f37d781b70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010759,
+            "locality_id":1243260643,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1243260643,
+    "wof:lastmodified":1537591201,
+    "wof:name":"Subum",
+    "wof:parent_id":1092010759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4,
+    6.48333,
+    10.4,
+    6.48333
+],
+  "geometry": {"coordinates":[10.4,6.48333],"type":"Point"}
+}

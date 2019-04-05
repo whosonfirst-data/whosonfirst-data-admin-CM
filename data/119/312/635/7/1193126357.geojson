@@ -1,0 +1,68 @@
+{
+  "id": 1193126357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.48502,6.3668,11.48502,6.3668",
+    "geom:latitude":6.3668,
+    "geom:longitude":11.48502,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Carrefour Njaa",
+    "gn:country_code":"CM",
+    "gn:dem":745,
+    "gn:elevation":"750.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6621062,
+    "gn:latitude":6.3668,
+    "gn:longitude":11.48502,
+    "gn:modification_date":"2008-01-05",
+    "gn:name":"Carrefour Njaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6621062
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"45bfc15e16f1228dc1cb21b6fd98cd61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011501,
+            "locality_id":1193126357,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1193126357,
+    "wof:lastmodified":1536380497,
+    "wof:name":"Carrefour Njaa",
+    "wof:parent_id":1092011501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.48502,
+    6.3668,
+    11.48502,
+    6.3668
+],
+  "geometry": {"coordinates":[11.48502,6.3668],"type":"Point"}
+}

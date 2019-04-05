@@ -1,0 +1,67 @@
+{
+  "id": 1226339187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.31597,5.45868,10.31597,5.45868",
+    "geom:latitude":5.45868,
+    "geom:longitude":10.31597,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tola'fie",
+    "gn:country_code":"CM",
+    "gn:dem":1487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8607472,
+    "gn:latitude":5.45868,
+    "gn:longitude":10.31597,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Tola\u2019fi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8607472
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"7e5eb1572cc10ddefcf514d3ad7af7e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1226339187,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1226339187,
+    "wof:lastmodified":1536799049,
+    "wof:name":"Tola'fie",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.31597,
+    5.45868,
+    10.31597,
+    5.45868
+],
+  "geometry": {"coordinates":[10.31597,5.45868],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260057315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.6497,11.6794,14.6497,11.6794",
+    "geom:latitude":11.6794,
+    "geom:longitude":14.6497,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zgague",
+    "gn:country_code":"CM",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220722,
+    "gn:latitude":11.6794,
+    "gn:longitude":14.6497,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Zgagu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Segag\u00e9",
+        "S\u00e9gagu\u00e9",
+        "Ziguagu\u00e9",
+        "Zgagu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220722
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d854246f6f748d250fa4878cb05ed9d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1260057315,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1260057315,
+    "wof:lastmodified":1537591190,
+    "wof:name":"Zgague",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.6497,
+    11.6794,
+    14.6497,
+    11.6794
+],
+  "geometry": {"coordinates":[14.6497,11.6794],"type":"Point"}
+}

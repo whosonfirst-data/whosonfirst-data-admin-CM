@@ -1,0 +1,67 @@
+{
+  "id": 1225833195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.51667,5.41667,12.51667,5.41667",
+    "geom:latitude":5.41667,
+    "geom:longitude":12.51667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mogo",
+    "gn:country_code":"CM",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2226315,
+    "gn:latitude":5.41667,
+    "gn:longitude":12.51667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092012311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2226315
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"32dbcf2d1ca90cefd4958feba2ffde6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012311,
+            "locality_id":1225833195,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1225833195,
+    "wof:lastmodified":1537030459,
+    "wof:name":"Mogo",
+    "wof:parent_id":1092012311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.51667,
+    5.41667,
+    12.51667,
+    5.41667
+],
+  "geometry": {"coordinates":[12.51667,5.41667],"type":"Point"}
+}

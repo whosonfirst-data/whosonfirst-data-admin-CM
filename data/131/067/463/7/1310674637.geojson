@@ -1,0 +1,67 @@
+{
+  "id": 1310674637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.11667,2.2,11.11667,2.2",
+    "geom:latitude":2.2,
+    "geom:longitude":11.11667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mindjo",
+    "gn:country_code":"CM",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2226631,
+    "gn:latitude":2.2,
+    "gn:longitude":11.11667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mindjo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669971,
+        1092012107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2226631
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"0e401b84bd2f0cb6756edcd4f5a5aa0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012107,
+            "locality_id":1310674637,
+            "region_id":85669971
+        }
+    ],
+    "wof:id":1310674637,
+    "wof:lastmodified":1536672911,
+    "wof:name":"Mindjo",
+    "wof:parent_id":1092012107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.11667,
+    2.2,
+    11.11667,
+    2.2
+],
+  "geometry": {"coordinates":[11.11667,2.2],"type":"Point"}
+}

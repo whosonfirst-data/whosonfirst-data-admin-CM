@@ -1,0 +1,61 @@
+{
+  "id": 1226668985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.76222,3.45083,9.76222,3.45083",
+    "geom:latitude":3.45083,
+    "geom:longitude":9.76222,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Matanda I",
+    "gn:country_code":"CM",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595250,
+    "gn:latitude":3.45083,
+    "gn:longitude":9.76222,
+    "gn:modification_date":"2001-08-15",
+    "gn:name":"Matanda I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595250
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d9ffa598d69df0cb9e9b6847f7912fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226668985,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226668985,
+    "wof:lastmodified":1536825119,
+    "wof:name":"Matanda I",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.76222,
+    3.45083,
+    9.76222,
+    3.45083
+],
+  "geometry": {"coordinates":[9.76222,3.45083],"type":"Point"}
+}

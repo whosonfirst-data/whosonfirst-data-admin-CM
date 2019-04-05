@@ -1,0 +1,67 @@
+{
+  "id": 1276248847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.34474,5.44408,10.34474,5.44408",
+    "geom:latitude":5.44408,
+    "geom:longitude":10.34474,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nkiet",
+    "gn:country_code":"CM",
+    "gn:dem":1518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8607464,
+    "gn:latitude":5.44408,
+    "gn:longitude":10.34474,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Nki\u00e8t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092012197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8607464
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"8e55434475a352c398ecd56702ed5bfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012197,
+            "locality_id":1276248847,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1276248847,
+    "wof:lastmodified":1536891598,
+    "wof:name":"Nkiet",
+    "wof:parent_id":1092012197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.34474,
+    5.44408,
+    10.34474,
+    5.44408
+],
+  "geometry": {"coordinates":[10.34474,5.44408],"type":"Point"}
+}

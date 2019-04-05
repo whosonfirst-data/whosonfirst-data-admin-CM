@@ -1,0 +1,77 @@
+{
+  "id": 1260370529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.09193,11.06756,15.09193,11.06756",
+    "geom:latitude":11.06756,
+    "geom:longitude":15.09193,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Galami",
+    "gn:country_code":"CM",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6769378,
+    "gn:latitude":11.06756,
+    "gn:longitude":15.09193,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Galami",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900627,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6769378
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"e550476a6ee5ba57fddada0112e9f735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900627,
+            "locality_id":1260370529,
+            "region_id":85678473
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1260370529,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1260370529,
+    "wof:lastmodified":1537089078,
+    "wof:name":"Galami",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.09193,
+    11.06756,
+    15.09193,
+    11.06756
+],
+  "geometry": {"coordinates":[15.09193,11.06756],"type":"Point"}
+}

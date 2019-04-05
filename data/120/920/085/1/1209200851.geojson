@@ -1,0 +1,67 @@
+{
+  "id": 1209200851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0994,9.0123,14.0994,9.0123",
+    "geom:latitude":9.0123,
+    "geom:longitude":14.0994,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Doukouroum",
+    "gn:country_code":"CM",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2232526,
+    "gn:latitude":9.0123,
+    "gn:longitude":14.0994,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Doukouroum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doukeroum",
+        "D\u016dkerum",
+        "Doukroum",
+        "Doukouroum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2232526
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"880714a60a3806d809a1fac7911e8bec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209200851
+        }
+    ],
+    "wof:id":1209200851,
+    "wof:lastmodified":1537591306,
+    "wof:name":"Doukouroum",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0994,
+    9.0123,
+    14.0994,
+    9.0123
+],
+  "geometry": {"coordinates":[14.0994,9.0123],"type":"Point"}
+}

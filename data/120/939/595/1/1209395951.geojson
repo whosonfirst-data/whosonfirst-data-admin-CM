@@ -1,0 +1,61 @@
+{
+  "id": 1209395951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.61667,3.76667,11.61667,3.76667",
+    "geom:latitude":3.76667,
+    "geom:longitude":11.61667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nkasomo",
+    "gn:country_code":"CM",
+    "gn:dem":701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2224144,
+    "gn:latitude":3.76667,
+    "gn:longitude":11.61667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Nkasomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2224144
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d6dbb35276ec186bbf12fb5cac8d5881",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209395951
+        }
+    ],
+    "wof:id":1209395951,
+    "wof:lastmodified":1536288301,
+    "wof:name":"Nkasomo",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.61667,
+    3.76667,
+    11.61667,
+    3.76667
+],
+  "geometry": {"coordinates":[11.61667,3.76667],"type":"Point"}
+}

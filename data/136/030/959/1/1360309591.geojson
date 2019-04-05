@@ -1,0 +1,67 @@
+{
+  "id": 1360309591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.78333,5.5,13.78333,5.5",
+    "geom:latitude":5.5,
+    "geom:longitude":13.78333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bodomo",
+    "gn:country_code":"CM",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233816,
+    "gn:latitude":5.5,
+    "gn:longitude":13.78333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Bodomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233816
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"cf4ea7af93aabc549f904fdf45531e4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011395,
+            "locality_id":1360309591,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1360309591,
+    "wof:lastmodified":1536619644,
+    "wof:name":"Bodomo",
+    "wof:parent_id":1092011395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.78333,
+    5.5,
+    13.78333,
+    5.5
+],
+  "geometry": {"coordinates":[13.78333,5.5],"type":"Point"}
+}

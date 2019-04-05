@@ -1,0 +1,71 @@
+{
+  "id": 1243240669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.66443,11.01736,14.66443,11.01736",
+    "geom:latitude":11.01736,
+    "geom:longitude":14.66443,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Assogo Woumre",
+    "gn:country_code":"CM",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222904,
+    "gn:latitude":11.01736,
+    "gn:longitude":14.66443,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Assogo Woumr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oumr\u00e9",
+        "Assogo Woumr\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222904
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"39a106820a3fc26ece9324b7e30bf91f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011977,
+            "locality_id":1243240669,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1243240669,
+    "wof:lastmodified":1537591214,
+    "wof:name":"Assogo Woumre",
+    "wof:parent_id":1092011977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66443,
+    11.01736,
+    14.66443,
+    11.01736
+],
+  "geometry": {"coordinates":[14.66443,11.01736],"type":"Point"}
+}

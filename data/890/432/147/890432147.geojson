@@ -1,0 +1,88 @@
+{
+  "id": 890432147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.25,4.6,11.25,4.6",
+    "geom:latitude":4.6,
+    "geom:longitude":11.25,
+    "gn:country":"CM",
+    "gn:fcode":"PPL",
+    "gn:pop":1833,
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Ombessa"
+    ],
+    "name:eng_x_preferred":[
+        "Ombessa"
+    ],
+    "name:fre_x_preferred":[
+        "Ombessa"
+    ],
+    "name:ita_x_preferred":[
+        "Ombessa"
+    ],
+    "name:may_x_preferred":[
+        "Ombessa"
+    ],
+    "name:swe_x_preferred":[
+        "Omb\u00e9sa"
+    ],
+    "name:unk_x_variant":[
+        "Ombessa"
+    ],
+    "qs:name":"Omb\u00e9sa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223162,
+        "gp:id":1300271,
+        "qs:id":278266,
+        "wd:id":"Q7089921"
+    },
+    "wof:country":"CM",
+    "wof:created":1469051930,
+    "wof:geomhash":"9d0b00a6dadcfeb90c6bd4d3be798067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011309,
+            "locality_id":890432147,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":890432147,
+    "wof:lastmodified":1513938908,
+    "wof:name":"Omb\u00e9sa",
+    "wof:parent_id":1092011309,
+    "wof:placetype":"locality",
+    "wof:population":1833,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.25,
+    4.6,
+    11.25,
+    4.6
+],
+  "geometry": {"coordinates":[11.25,4.6],"type":"Point"}
+}

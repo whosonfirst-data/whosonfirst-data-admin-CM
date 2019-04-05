@@ -1,0 +1,67 @@
+{
+  "id": 1243343545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53323,10.15024,14.53323,10.15024",
+    "geom:latitude":10.15024,
+    "geom:longitude":14.53323,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Dingding",
+    "gn:country_code":"CM",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6731979,
+    "gn:latitude":10.15024,
+    "gn:longitude":14.53323,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Dingding",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6731979
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"da630d6cc71ff685d192613e85d64032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011963,
+            "locality_id":1243343545,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1243343545,
+    "wof:lastmodified":1536954065,
+    "wof:name":"Dingding",
+    "wof:parent_id":1092011963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53323,
+    10.15024,
+    14.53323,
+    10.15024
+],
+  "geometry": {"coordinates":[14.53323,10.15024],"type":"Point"}
+}

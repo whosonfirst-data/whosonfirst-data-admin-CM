@@ -1,0 +1,72 @@
+{
+  "id": 1209838243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.88861,3.83694,9.88861,3.83694",
+    "geom:latitude":3.83694,
+    "geom:longitude":9.88861,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sakimbanda",
+    "gn:cc2":"CM",
+    "gn:country_code":"CM",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222324,
+    "gn:latitude":3.83694,
+    "gn:longitude":9.88861,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sakimbanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakimbonda",
+        "Sakimbanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222324
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f8335a378339e2a147432727a4d1f7ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011153,
+            "locality_id":1209838243,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1209838243,
+    "wof:lastmodified":1537591207,
+    "wof:name":"Sakimbanda",
+    "wof:parent_id":1092011153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.88861,
+    3.83694,
+    9.88861,
+    3.83694
+],
+  "geometry": {"coordinates":[9.88861,3.83694],"type":"Point"}
+}

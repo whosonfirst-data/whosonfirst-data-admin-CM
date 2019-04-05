@@ -1,0 +1,67 @@
+{
+  "id": 1360074953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.3962,5.843,9.3962,5.843",
+    "geom:latitude":5.843,
+    "geom:longitude":9.3962,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mukoyong",
+    "gn:country_code":"CM",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858100,
+    "gn:latitude":5.843,
+    "gn:longitude":9.3962,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Mukoyong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858100
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"a5b68c4fbedc5b3c603382dddffb6fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011003,
+            "locality_id":1360074953,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1360074953,
+    "wof:lastmodified":1536960257,
+    "wof:name":"Mukoyong",
+    "wof:parent_id":1092011003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.3962,
+    5.843,
+    9.3962,
+    5.843
+],
+  "geometry": {"coordinates":[9.3962,5.843],"type":"Point"}
+}

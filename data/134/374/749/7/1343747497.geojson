@@ -1,0 +1,67 @@
+{
+  "id": 1343747497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.77601,5.66183,10.77601,5.66183",
+    "geom:latitude":5.66183,
+    "geom:longitude":10.77601,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Metakiet",
+    "gn:country_code":"CM",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9111422,
+    "gn:latitude":5.66183,
+    "gn:longitude":10.77601,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Metaki\u00e8t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9111422
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"875ed18f589732477df7c6b7f1613336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010521,
+            "locality_id":1343747497,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1343747497,
+    "wof:lastmodified":1536828669,
+    "wof:name":"Metakiet",
+    "wof:parent_id":1092010521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.77601,
+    5.66183,
+    10.77601,
+    5.66183
+],
+  "geometry": {"coordinates":[10.77601,5.66183],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259804767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.45,6.26667,10.45,6.26667",
+    "geom:latitude":6.26667,
+    "geom:longitude":10.45,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Itchimo",
+    "gn:country_code":"CM",
+    "gn:dem":1960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2230659,
+    "gn:latitude":6.26667,
+    "gn:longitude":10.45,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Itchimo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2230659
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"8687a0e680012883e8d87e6a71ff064b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010759,
+            "locality_id":1259804767,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1259804767,
+    "wof:lastmodified":1536892305,
+    "wof:name":"Itchimo",
+    "wof:parent_id":1092010759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.45,
+    6.26667,
+    10.45,
+    6.26667
+],
+  "geometry": {"coordinates":[10.45,6.26667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209801093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.1,5.85,11.1,5.85",
+    "geom:latitude":5.85,
+    "geom:longitude":11.1,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Manki II",
+    "gn:country_code":"CM",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228489,
+    "gn:latitude":5.85,
+    "gn:longitude":11.1,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Manki II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mam\u00e9chi",
+        "Manki II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228489
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"7b7c099a6740c2d6207e9c2033786f9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010521,
+            "locality_id":1209801093,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1209801093,
+    "wof:lastmodified":1537591263,
+    "wof:name":"Manki II",
+    "wof:parent_id":1092010521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.1,
+    5.85,
+    11.1,
+    5.85
+],
+  "geometry": {"coordinates":[11.1,5.85],"type":"Point"}
+}

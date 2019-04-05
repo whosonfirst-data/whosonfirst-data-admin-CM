@@ -1,0 +1,65 @@
+{
+  "id": 1209696101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22495,10.03664,15.22495,10.03664",
+    "geom:latitude":10.03664,
+    "geom:longitude":15.22495,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bosgoy",
+    "gn:country_code":"CM",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233605,
+    "gn:latitude":10.03664,
+    "gn:longitude":15.22495,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bosgoy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bosgoye",
+        "Bosgoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233605
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"46f452674229129cd344916d767afe65",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209696101
+        }
+    ],
+    "wof:id":1209696101,
+    "wof:lastmodified":1537591318,
+    "wof:name":"Bosgoy",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22495,
+    10.03664,
+    15.22495,
+    10.03664
+],
+  "geometry": {"coordinates":[15.22495,10.03664],"type":"Point"}
+}

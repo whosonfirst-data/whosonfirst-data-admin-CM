@@ -1,0 +1,71 @@
+{
+  "id": 1259489179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06667,3.6,15.06667,3.6",
+    "geom:latitude":3.6,
+    "geom:longitude":15.06667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mbyali",
+    "gn:country_code":"CM",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2227550,
+    "gn:latitude":3.6,
+    "gn:longitude":15.06667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mbyali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbial\u00e9",
+        "Mbyali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2227550
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"01a5db68c2b1bca492c9e7f0b75993f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011465,
+            "locality_id":1259489179,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1259489179,
+    "wof:lastmodified":1537591253,
+    "wof:name":"Mbyali",
+    "wof:parent_id":1092011465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06667,
+    3.6,
+    15.06667,
+    3.6
+],
+  "geometry": {"coordinates":[15.06667,3.6],"type":"Point"}
+}

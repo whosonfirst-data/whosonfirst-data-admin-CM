@@ -1,0 +1,67 @@
+{
+  "id": 1326962175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.80727,4.68599,9.80727,4.68599",
+    "geom:latitude":4.68599,
+    "geom:longitude":9.80727,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dibombe",
+    "gn:country_code":"CM",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595076,
+    "gn:latitude":4.68599,
+    "gn:longitude":9.80727,
+    "gn:modification_date":"2018-01-23",
+    "gn:name":"Dibomb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595076
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c7688bb501c5ef8825d315c97ded22ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011087,
+            "locality_id":1326962175,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1326962175,
+    "wof:lastmodified":1536860356,
+    "wof:name":"Dibombe",
+    "wof:parent_id":1092011087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.80727,
+    4.68599,
+    9.80727,
+    4.68599
+],
+  "geometry": {"coordinates":[9.80727,4.68599],"type":"Point"}
+}

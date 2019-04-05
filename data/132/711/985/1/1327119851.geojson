@@ -1,0 +1,70 @@
+{
+  "id": 1327119851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.38042,5.45956,10.38042,5.45956",
+    "geom:latitude":5.45956,
+    "geom:longitude":10.38042,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tchouo",
+    "gn:country_code":"CM",
+    "gn:dem":1341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109632,
+    "gn:latitude":5.45956,
+    "gn:longitude":10.38042,
+    "gn:modification_date":"2013-09-10",
+    "gn:name":"Tchouo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tchouo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109632
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"a61129e8a2b66532266ee5df18c1c5a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010591,
+            "locality_id":1327119851,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1327119851,
+    "wof:lastmodified":1537591359,
+    "wof:name":"Tchouo",
+    "wof:parent_id":1092010591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.38042,
+    5.45956,
+    10.38042,
+    5.45956
+],
+  "geometry": {"coordinates":[10.38042,5.45956],"type":"Point"}
+}

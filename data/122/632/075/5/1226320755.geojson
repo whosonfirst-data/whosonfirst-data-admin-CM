@@ -1,0 +1,68 @@
+{
+  "id": 1226320755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.75,4.2,11.75,4.2",
+    "geom:latitude":4.2,
+    "geom:longitude":11.75,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Edzendouan",
+    "gn:country_code":"CM",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2232215,
+    "gn:latitude":4.2,
+    "gn:longitude":11.75,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Edzendouan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092010921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2232215,
+        "wk:page":"Edzendouan"
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"dcc9493f65206b2a7a5fc78e5abe2f30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010921,
+            "locality_id":1226320755,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1226320755,
+    "wof:lastmodified":1537489550,
+    "wof:name":"Edzendouan",
+    "wof:parent_id":1092010921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.75,
+    4.2,
+    11.75,
+    4.2
+],
+  "geometry": {"coordinates":[11.75,4.2],"type":"Point"}
+}

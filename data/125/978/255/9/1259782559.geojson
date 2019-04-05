@@ -1,0 +1,71 @@
+{
+  "id": 1259782559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.9937,4.5344,9.9937,4.5344",
+    "geom:latitude":4.5344,
+    "geom:longitude":9.9937,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Nkongmalan",
+    "gn:country_code":"CM",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595062,
+    "gn:latitude":4.5344,
+    "gn:longitude":9.9937,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Nkongmalan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkomalang",
+        "Nkongmalan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595062
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"007329e12a7a6ac4052838a2bd2fef8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011119,
+            "locality_id":1259782559,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1259782559,
+    "wof:lastmodified":1537591346,
+    "wof:name":"Nkongmalan",
+    "wof:parent_id":1092011119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9937,
+    4.5344,
+    9.9937,
+    4.5344
+],
+  "geometry": {"coordinates":[9.9937,4.5344],"type":"Point"}
+}

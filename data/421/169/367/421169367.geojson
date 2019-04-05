@@ -1,0 +1,105 @@
+{
+  "id": 421169367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.55,5.88333,14.55,5.88333",
+    "geom:latitude":5.88333,
+    "geom:longitude":14.55,
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Garoua-Boula\u00ef"
+    ],
+    "name:eng_x_preferred":[
+        "Garoua-Boula\u00ef"
+    ],
+    "name:fra_x_preferred":[
+        "Garoua-Boula\u00ef"
+    ],
+    "name:fre_x_preferred":[
+        "Garoua-Boula\u00ef"
+    ],
+    "name:may_x_preferred":[
+        "Garoua-Boula\u00ef"
+    ],
+    "name:msa_x_preferred":[
+        "Garoua-Boula\u00ef"
+    ],
+    "name:pol_x_preferred":[
+        "Garoua Boula\u00ef"
+    ],
+    "name:por_x_preferred":[
+        "Garoua Boula\u00ef"
+    ],
+    "qs:gn_country":"CM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2231319,
+    "qs:gn_pop":46615,
+    "qs:name":"Garoua Boula\u00ef",
+    "qs:name_adm0":"Cameroun",
+    "qs:name_adm1":"Est",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1297111,
+    "qs:woe_adm0":23424785,
+    "qs:woe_id":1301519,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":406,
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231319,
+        "gp:id":1301519,
+        "qs:id":1297111,
+        "wd:id":"Q5523752"
+    },
+    "wof:country":"CM",
+    "wof:created":1459008806,
+    "wof:geomhash":"f33ce2a3f30c5412317addf50fe06151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011395,
+            "locality_id":421169367,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":421169367,
+    "wof:lastmodified":1527716171,
+    "wof:name":"Garoua Boula\u00ef",
+    "wof:parent_id":1092011395,
+    "wof:placetype":"locality",
+    "wof:population":46615,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55,
+    5.88333,
+    14.55,
+    5.88333
+],
+  "geometry": {"coordinates":[14.55,5.88333],"type":"Point"}
+}

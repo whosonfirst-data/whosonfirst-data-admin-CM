@@ -1,0 +1,70 @@
+{
+  "id": 1293610295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.21916,5.80341,10.21916,5.80341",
+    "geom:latitude":5.80341,
+    "geom:longitude":10.21916,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Santa-Coffee",
+    "gn:country_code":"CM",
+    "gn:dem":1745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109660,
+    "gn:latitude":5.80341,
+    "gn:longitude":10.21916,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Santa-Coffee",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Santa-Coffee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109660
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"9b8f1f874f726240692aaa50b27e4cd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010661,
+            "locality_id":1293610295,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1293610295,
+    "wof:lastmodified":1537591360,
+    "wof:name":"Santa-Coffee",
+    "wof:parent_id":1092010661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.21916,
+    5.80341,
+    10.21916,
+    5.80341
+],
+  "geometry": {"coordinates":[10.21916,5.80341],"type":"Point"}
+}

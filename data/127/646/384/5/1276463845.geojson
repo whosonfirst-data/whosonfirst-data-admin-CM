@@ -1,0 +1,67 @@
+{
+  "id": 1276463845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.37161,5.59254,10.37161,5.59254",
+    "geom:latitude":5.59254,
+    "geom:longitude":10.37161,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bakeula",
+    "gn:country_code":"CM",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9085966,
+    "gn:latitude":5.59254,
+    "gn:longitude":10.37161,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Bakeula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9085966
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"eeeaec09f54ed715b37d4f31292a284b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010591,
+            "locality_id":1276463845,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1276463845,
+    "wof:lastmodified":1536600720,
+    "wof:name":"Bakeula",
+    "wof:parent_id":1092010591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.37161,
+    5.59254,
+    10.37161,
+    5.59254
+],
+  "geometry": {"coordinates":[10.37161,5.59254],"type":"Point"}
+}

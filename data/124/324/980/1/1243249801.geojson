@@ -1,0 +1,67 @@
+{
+  "id": 1243249801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.64041,8.19916,13.64041,8.19916",
+    "geom:latitude":8.19916,
+    "geom:longitude":13.64041,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Banda",
+    "gn:country_code":"CM",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2234920,
+    "gn:latitude":8.19916,
+    "gn:longitude":13.64041,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Banda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2234920
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"b0c08a81fbcf4bdcfbf4a716bbe8b2b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011703,
+            "locality_id":1243249801,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1243249801,
+    "wof:lastmodified":1537085850,
+    "wof:name":"Banda",
+    "wof:parent_id":1092011703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.64041,
+    8.19916,
+    13.64041,
+    8.19916
+],
+  "geometry": {"coordinates":[13.64041,8.19916],"type":"Point"}
+}

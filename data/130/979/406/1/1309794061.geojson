@@ -1,0 +1,67 @@
+{
+  "id": 1309794061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.28333,4.51667,12.28333,4.51667",
+    "geom:latitude":4.51667,
+    "geom:longitude":12.28333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Okassang",
+    "gn:country_code":"CM",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223230,
+    "gn:latitude":4.51667,
+    "gn:longitude":12.28333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Okassang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223230
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f08b5885b0f5f8f0283a955b7dd4ea00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011277,
+            "locality_id":1309794061,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1309794061,
+    "wof:lastmodified":1536948335,
+    "wof:name":"Okassang",
+    "wof:parent_id":1092011277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.28333,
+    4.51667,
+    12.28333,
+    4.51667
+],
+  "geometry": {"coordinates":[12.28333,4.51667],"type":"Point"}
+}

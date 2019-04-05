@@ -1,0 +1,67 @@
+{
+  "id": 1310299205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.29746,6.85672,12.29746,6.85672",
+    "geom:latitude":6.85672,
+    "geom:longitude":12.29746,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Yolabambdi",
+    "gn:country_code":"CM",
+    "gn:dem":1054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8696040,
+    "gn:latitude":6.85672,
+    "gn:longitude":12.29746,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Yolabambdi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8696040
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"9b53f9fbb8fd30d61b845ae838620232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011605,
+            "locality_id":1310299205,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1310299205,
+    "wof:lastmodified":1536717351,
+    "wof:name":"Yolabambdi",
+    "wof:parent_id":1092011605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.29746,
+    6.85672,
+    12.29746,
+    6.85672
+],
+  "geometry": {"coordinates":[12.29746,6.85672],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277161843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.28556,4.00222,9.28556,4.00222",
+    "geom:latitude":4.00222,
+    "geom:longitude":9.28556,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mabeta",
+    "gn:country_code":"CM",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2229080,
+    "gn:latitude":4.00222,
+    "gn:longitude":9.28556,
+    "gn:modification_date":"2003-02-12",
+    "gn:name":"Mabeta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092010823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2229080
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"6da527a7eee072d6d4dde2c408931416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010823,
+            "locality_id":1277161843,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1277161843,
+    "wof:lastmodified":1536653622,
+    "wof:name":"Mabeta",
+    "wof:parent_id":1092010823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.28556,
+    4.00222,
+    9.28556,
+    4.00222
+],
+  "geometry": {"coordinates":[9.28556,4.00222],"type":"Point"}
+}

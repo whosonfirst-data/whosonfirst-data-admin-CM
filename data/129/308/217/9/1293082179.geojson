@@ -1,0 +1,71 @@
+{
+  "id": 1293082179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.25,4.53333,11.25,4.53333",
+    "geom:latitude":4.53333,
+    "geom:longitude":11.25,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yambasa",
+    "gn:country_code":"CM",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221003,
+    "gn:latitude":4.53333,
+    "gn:longitude":11.25,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Yambasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yambassa",
+        "Yambasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221003
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c70f3319339bf26952009751fc6a3bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011309,
+            "locality_id":1293082179,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1293082179,
+    "wof:lastmodified":1537591193,
+    "wof:name":"Yambasa",
+    "wof:parent_id":1092011309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.25,
+    4.53333,
+    11.25,
+    4.53333
+],
+  "geometry": {"coordinates":[11.25,4.53333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343647803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.40356,8.41482,13.40356,8.41482",
+    "geom:latitude":8.41482,
+    "geom:longitude":13.40356,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dingbare",
+    "gn:country_code":"CM",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233034,
+    "gn:latitude":8.41482,
+    "gn:longitude":13.40356,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Dingbar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233034
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"633e57fce7050cc628e374fb44df068d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1343647803,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1343647803,
+    "wof:lastmodified":1536972899,
+    "wof:name":"Dingbare",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.40356,
+    8.41482,
+    13.40356,
+    8.41482
+],
+  "geometry": {"coordinates":[13.40356,8.41482],"type":"Point"}
+}

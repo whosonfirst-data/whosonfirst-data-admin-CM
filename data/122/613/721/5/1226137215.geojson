@@ -1,0 +1,67 @@
+{
+  "id": 1226137215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.86677,6.09511,9.86677,6.09511",
+    "geom:latitude":6.09511,
+    "geom:longitude":9.86677,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Atvebe",
+    "gn:country_code":"CM",
+    "gn:dem":1472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6855215,
+    "gn:latitude":6.09511,
+    "gn:longitude":9.86677,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Atv\u00e9b\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6855215
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ea044db9d20855822eed23a89a45a24d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010649,
+            "locality_id":1226137215,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1226137215,
+    "wof:lastmodified":1537086837,
+    "wof:name":"Atvebe",
+    "wof:parent_id":1092010649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.86677,
+    6.09511,
+    9.86677,
+    6.09511
+],
+  "geometry": {"coordinates":[9.86677,6.09511],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326616341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.95896,9.68163,13.95896,9.68163",
+    "geom:latitude":9.68163,
+    "geom:longitude":13.95896,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ouro-Maray",
+    "gn:country_code":"CM",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228405,
+    "gn:latitude":9.68163,
+    "gn:longitude":13.95896,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Ouro-Maray",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mareille"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228405
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"7e01a55c0206163683d2543fd9637408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1326616341,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1326616341,
+    "wof:lastmodified":1537591262,
+    "wof:name":"Ouro-Maray",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95896,
+    9.68163,
+    13.95896,
+    9.68163
+],
+  "geometry": {"coordinates":[13.95896,9.68163],"type":"Point"}
+}

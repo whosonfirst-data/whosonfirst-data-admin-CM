@@ -1,0 +1,67 @@
+{
+  "id": 1260378071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.29016,12.43316,14.29016,12.43316",
+    "geom:latitude":12.43316,
+    "geom:longitude":14.29016,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Djamena",
+    "gn:country_code":"CM",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11251172,
+    "gn:latitude":12.43316,
+    "gn:longitude":14.29016,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Djamena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11251172
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"eadb628ee9507bf299328646d7a0ed57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1260378071,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1260378071,
+    "wof:lastmodified":1537079130,
+    "wof:name":"Djamena",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.29016,
+    12.43316,
+    14.29016,
+    12.43316
+],
+  "geometry": {"coordinates":[14.29016,12.43316],"type":"Point"}
+}

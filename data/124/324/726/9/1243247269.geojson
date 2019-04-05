@@ -1,0 +1,67 @@
+{
+  "id": 1243247269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.39232,6.64656,12.39232,6.64656",
+    "geom:latitude":6.64656,
+    "geom:longitude":12.39232,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ndoum",
+    "gn:country_code":"CM",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8696114,
+    "gn:latitude":6.64656,
+    "gn:longitude":12.39232,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Ndoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8696114
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ea3c7663bdf00756c5d15bfc14148c35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011605,
+            "locality_id":1243247269,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1243247269,
+    "wof:lastmodified":1537089438,
+    "wof:name":"Ndoum",
+    "wof:parent_id":1092011605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.39232,
+    6.64656,
+    12.39232,
+    6.64656
+],
+  "geometry": {"coordinates":[12.39232,6.64656],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260173217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.09773,5.78171,10.09773,5.78171",
+    "geom:latitude":5.78171,
+    "geom:longitude":10.09773,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Asso",
+    "gn:country_code":"CM",
+    "gn:dem":2023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9093738,
+    "gn:latitude":5.78171,
+    "gn:longitude":10.09773,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Asso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9093738
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"09027ece1ce3847cae699b7f3da58fc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010661,
+            "locality_id":1260173217,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1260173217,
+    "wof:lastmodified":1536860657,
+    "wof:name":"Asso",
+    "wof:parent_id":1092010661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.09773,
+    5.78171,
+    10.09773,
+    5.78171
+],
+  "geometry": {"coordinates":[10.09773,5.78171],"type":"Point"}
+}

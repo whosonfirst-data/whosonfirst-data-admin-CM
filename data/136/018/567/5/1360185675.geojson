@@ -1,0 +1,67 @@
+{
+  "id": 1360185675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.38333,5.06667,13.38333,5.06667",
+    "geom:latitude":5.06667,
+    "geom:longitude":13.38333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mbambo",
+    "gn:country_code":"CM",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228055,
+    "gn:latitude":5.06667,
+    "gn:longitude":13.38333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mbambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228055
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"035d3d43f2deb229d01ea02b771b0f94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011395,
+            "locality_id":1360185675,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1360185675,
+    "wof:lastmodified":1536800564,
+    "wof:name":"Mbambo",
+    "wof:parent_id":1092011395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.38333,
+    5.06667,
+    13.38333,
+    5.06667
+],
+  "geometry": {"coordinates":[13.38333,5.06667],"type":"Point"}
+}

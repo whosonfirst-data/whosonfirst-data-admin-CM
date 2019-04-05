@@ -1,0 +1,67 @@
+{
+  "id": 1326908621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.56667,3.76667,11.56667,3.76667",
+    "geom:latitude":3.76667,
+    "geom:longitude":11.56667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nkolngok",
+    "gn:country_code":"CM",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223905,
+    "gn:latitude":3.76667,
+    "gn:longitude":11.56667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Nkolngok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092010921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223905
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"07a58351a0a342592ad903a913a54c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010921,
+            "locality_id":1326908621,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1326908621,
+    "wof:lastmodified":1536939581,
+    "wof:name":"Nkolngok",
+    "wof:parent_id":1092010921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.56667,
+    3.76667,
+    11.56667,
+    3.76667
+],
+  "geometry": {"coordinates":[11.56667,3.76667],"type":"Point"}
+}

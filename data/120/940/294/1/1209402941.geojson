@@ -1,0 +1,61 @@
+{
+  "id": 1209402941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.08333,5.1,11.08333,5.1",
+    "geom:latitude":5.1,
+    "geom:longitude":11.08333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Biouaminso",
+    "gn:country_code":"CM",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2234009,
+    "gn:latitude":5.1,
+    "gn:longitude":11.08333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Biouaminso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2234009
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"a51196981ec410c8d4ed9bcac0f47877",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209402941
+        }
+    ],
+    "wof:id":1209402941,
+    "wof:lastmodified":1536288086,
+    "wof:name":"Biouaminso",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.08333,
+    5.1,
+    11.08333,
+    5.1
+],
+  "geometry": {"coordinates":[11.08333,5.1],"type":"Point"}
+}

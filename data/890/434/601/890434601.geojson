@@ -1,0 +1,91 @@
+{
+  "id": 890434601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.9027,4.4591,8.9027,4.4591",
+    "geom:latitude":4.4591,
+    "geom:longitude":8.9027,
+    "gn:country":"CM",
+    "gn:fcode":"PPL",
+    "gn:pop":24741,
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043c\u0443\u0441\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Bamuso"
+    ],
+    "name:eng_x_preferred":[
+        "Bamuso"
+    ],
+    "name:fre_x_preferred":[
+        "Bamusso"
+    ],
+    "name:ita_x_preferred":[
+        "Bamuso"
+    ],
+    "name:may_x_preferred":[
+        "Bamuso"
+    ],
+    "name:swe_x_preferred":[
+        "Bamusso"
+    ],
+    "name:unk_x_variant":[
+        "Bamuso"
+    ],
+    "qs:name":"Bamusso",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092010791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2234941,
+        "gp:id":1301105,
+        "qs:id":139095,
+        "wd:id":"Q4853554"
+    },
+    "wof:country":"CM",
+    "wof:created":1469052032,
+    "wof:geomhash":"44d2721ac482a8138d1b6f6b552843c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010791,
+            "locality_id":890434601,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":890434601,
+    "wof:lastmodified":1513938806,
+    "wof:name":"Bamusso",
+    "wof:parent_id":1092010791,
+    "wof:placetype":"locality",
+    "wof:population":24741,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9027,
+    4.4591,
+    8.9027,
+    4.4591
+],
+  "geometry": {"coordinates":[8.9027,4.4591],"type":"Point"}
+}

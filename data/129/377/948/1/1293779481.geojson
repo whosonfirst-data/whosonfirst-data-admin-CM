@@ -1,0 +1,73 @@
+{
+  "id": 1293779481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.25803,5.38229,10.25803,5.38229",
+    "geom:latitude":5.38229,
+    "geom:longitude":10.25803,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tchum",
+    "gn:country_code":"CM",
+    "gn:dem":1550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109186,
+    "gn:latitude":5.38229,
+    "gn:longitude":10.25803,
+    "gn:modification_date":"2013-09-10",
+    "gn:name":"Tchum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Batchum"
+    ],
+    "name:und_x_variant":[
+        "Tchum I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092012197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109186
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"4c84ef0cb92fa67917a81fb4383e6ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012197,
+            "locality_id":1293779481,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1293779481,
+    "wof:lastmodified":1537591357,
+    "wof:name":"Tchum",
+    "wof:parent_id":1092012197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.25803,
+    5.38229,
+    10.25803,
+    5.38229
+],
+  "geometry": {"coordinates":[10.25803,5.38229],"type":"Point"}
+}

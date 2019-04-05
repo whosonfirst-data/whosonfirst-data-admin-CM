@@ -1,0 +1,67 @@
+{
+  "id": 1293668513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03,9.921,14.03,9.921",
+    "geom:latitude":9.921,
+    "geom:longitude":14.03,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dibi",
+    "gn:country_code":"CM",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6869376,
+    "gn:latitude":9.921,
+    "gn:longitude":14.03,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Dibi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6869376
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"7ca50b900e930eca7269ea733f12f191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1293668513,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1293668513,
+    "wof:lastmodified":1537022356,
+    "wof:name":"Dibi",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03,
+    9.921,
+    14.03,
+    9.921
+],
+  "geometry": {"coordinates":[14.03,9.921],"type":"Point"}
+}

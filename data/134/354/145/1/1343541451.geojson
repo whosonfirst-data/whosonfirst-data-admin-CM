@@ -1,0 +1,67 @@
+{
+  "id": 1343541451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35068,10.38046,14.35068,10.38046",
+    "geom:latitude":10.38046,
+    "geom:longitude":14.35068,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Metched",
+    "gn:country_code":"CM",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6731996,
+    "gn:latitude":10.38046,
+    "gn:longitude":14.35068,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Metched",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6731996
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"7e774180bcde6272282a06c734c65b17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011963,
+            "locality_id":1343541451,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1343541451,
+    "wof:lastmodified":1536627659,
+    "wof:name":"Metched",
+    "wof:parent_id":1092011963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35068,
+    10.38046,
+    14.35068,
+    10.38046
+],
+  "geometry": {"coordinates":[14.35068,10.38046],"type":"Point"}
+}

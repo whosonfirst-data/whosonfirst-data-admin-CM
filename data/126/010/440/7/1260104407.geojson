@@ -1,0 +1,67 @@
+{
+  "id": 1260104407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01667,2.01667,15.01667,2.01667",
+    "geom:latitude":2.01667,
+    "geom:longitude":15.01667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Adjala",
+    "gn:country_code":"CM",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236003,
+    "gn:latitude":2.01667,
+    "gn:longitude":15.01667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Adjala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236003
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d465e5965a0e32a3a34ee1face76e208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011465,
+            "locality_id":1260104407,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1260104407,
+    "wof:lastmodified":1536957937,
+    "wof:name":"Adjala",
+    "wof:parent_id":1092011465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01667,
+    2.01667,
+    15.01667,
+    2.01667
+],
+  "geometry": {"coordinates":[15.01667,2.01667],"type":"Point"}
+}

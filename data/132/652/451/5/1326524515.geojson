@@ -1,0 +1,67 @@
+{
+  "id": 1326524515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.73333,6.53333,10.73333,6.53333",
+    "geom:latitude":6.53333,
+    "geom:longitude":10.73333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nsungli",
+    "gn:country_code":"CM",
+    "gn:dem":1662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223498,
+    "gn:latitude":6.53333,
+    "gn:longitude":10.73333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Nsungli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223498
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f97e1e3b6c6a97009d8c74110e520281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010727,
+            "locality_id":1326524515,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1326524515,
+    "wof:lastmodified":1536994422,
+    "wof:name":"Nsungli",
+    "wof:parent_id":1092010727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.73333,
+    6.53333,
+    10.73333,
+    6.53333
+],
+  "geometry": {"coordinates":[10.73333,6.53333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209210575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.15386,5.53232,10.15386,5.53232",
+    "geom:latitude":5.53232,
+    "geom:longitude":10.15386,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nsa",
+    "gn:country_code":"CM",
+    "gn:dem":1610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074965,
+    "gn:latitude":5.53232,
+    "gn:longitude":10.15386,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Nsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074965
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5c3af8ac268e183236c2878fa77be842",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209210575
+        }
+    ],
+    "wof:id":1209210575,
+    "wof:lastmodified":1536294304,
+    "wof:name":"Nsa",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.15386,
+    5.53232,
+    10.15386,
+    5.53232
+],
+  "geometry": {"coordinates":[10.15386,5.53232],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209503261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.5,3.63333,11.5,3.63333",
+    "geom:latitude":3.63333,
+    "geom:longitude":11.5,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Abang I",
+    "gn:country_code":"CM",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236126,
+    "gn:latitude":3.63333,
+    "gn:longitude":11.5,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Abang I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236126
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"fb0de3fbda30b3e42b4f80b6c59aca01",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209503261
+        }
+    ],
+    "wof:id":1209503261,
+    "wof:lastmodified":1536285114,
+    "wof:name":"Abang I",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.5,
+    3.63333,
+    11.5,
+    3.63333
+],
+  "geometry": {"coordinates":[11.5,3.63333],"type":"Point"}
+}

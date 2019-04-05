@@ -1,0 +1,67 @@
+{
+  "id": 1360061835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.19817,8.40345,13.19817,8.40345",
+    "geom:latitude":8.40345,
+    "geom:longitude":13.19817,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ringo",
+    "gn:country_code":"CM",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222416,
+    "gn:latitude":8.40345,
+    "gn:longitude":13.19817,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Ringo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222416
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"36f7d4d254c51e5b99078697fc5fe0ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011667,
+            "locality_id":1360061835,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1360061835,
+    "wof:lastmodified":1536978694,
+    "wof:name":"Ringo",
+    "wof:parent_id":1092011667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.19817,
+    8.40345,
+    13.19817,
+    8.40345
+],
+  "geometry": {"coordinates":[13.19817,8.40345],"type":"Point"}
+}

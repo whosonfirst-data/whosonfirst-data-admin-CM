@@ -1,0 +1,76 @@
+{
+  "id": 1310498443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.42202,5.94547,10.42202,5.94547",
+    "geom:latitude":5.94547,
+    "geom:longitude":10.42202,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bamali",
+    "gn:country_code":"CM",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2234999,
+    "gn:latitude":5.94547,
+    "gn:longitude":10.42202,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Bamali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bamali"
+    ],
+    "name:fra_x_variant":[
+        "Bamale"
+    ],
+    "name:und_x_variant":[
+        "Bamale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2234999
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"bc96a49c026a05c6c9a8e2c2674c4c38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010693,
+            "locality_id":1310498443,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1310498443,
+    "wof:lastmodified":1537591332,
+    "wof:name":"Bamali",
+    "wof:parent_id":1092010693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.42202,
+    5.94547,
+    10.42202,
+    5.94547
+],
+  "geometry": {"coordinates":[10.42202,5.94547],"type":"Point"}
+}

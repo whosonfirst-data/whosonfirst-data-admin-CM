@@ -1,0 +1,73 @@
+{
+  "id": 1343545725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.254,4.9025,9.254,4.9025",
+    "geom:latitude":4.9025,
+    "geom:longitude":9.254,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dikome Balue",
+    "gn:country_code":"CM",
+    "gn:dem":1166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233061,
+    "gn:latitude":4.9025,
+    "gn:longitude":9.254,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dikome Balue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Likume",
+        "Dikome",
+        "Dikome Balue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092010791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233061,
+        "wk:page":"Dikome-Balue"
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"335c9eddd852158f0634fee100bbbeec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010791,
+            "locality_id":1343545725,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1343545725,
+    "wof:lastmodified":1537591312,
+    "wof:name":"Dikome Balue",
+    "wof:parent_id":1092010791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.254,
+    4.9025,
+    9.254,
+    4.9025
+],
+  "geometry": {"coordinates":[9.254,4.9025],"type":"Point"}
+}

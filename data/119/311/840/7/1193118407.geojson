@@ -1,0 +1,68 @@
+{
+  "id": 1193118407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.93333,4.88333,12.93333,4.88333",
+    "geom:latitude":4.88333,
+    "geom:longitude":12.93333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nsem",
+    "gn:country_code":"CM",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223544,
+    "gn:latitude":4.88333,
+    "gn:longitude":12.93333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Nsem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223544,
+        "wk:page":"Nsem"
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ce717d006b05d0a06e344ae41a8e59a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011277,
+            "locality_id":1193118407,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1193118407,
+    "wof:lastmodified":1537489522,
+    "wof:name":"Nsem",
+    "wof:parent_id":1092011277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.93333,
+    4.88333,
+    12.93333,
+    4.88333
+],
+  "geometry": {"coordinates":[12.93333,4.88333],"type":"Point"}
+}

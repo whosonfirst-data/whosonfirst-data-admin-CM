@@ -1,0 +1,71 @@
+{
+  "id": 1192999435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.18333,3.45,11.18333,3.45",
+    "geom:latitude":3.45,
+    "geom:longitude":11.18333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Osoe Bikobo",
+    "gn:country_code":"CM",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223084,
+    "gn:latitude":3.45,
+    "gn:longitude":11.18333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Oso\u00e9 Bikobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Osso\u00e9-Bikobo",
+        "Oso\u00e9 Bikobo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223084
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"73b95485d8e2b6034f81d75133a0c5ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011209,
+            "locality_id":1192999435,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1192999435,
+    "wof:lastmodified":1537591217,
+    "wof:name":"Osoe Bikobo",
+    "wof:parent_id":1092011209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.18333,
+    3.45,
+    11.18333,
+    3.45
+],
+  "geometry": {"coordinates":[11.18333,3.45],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226564467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.16895,5.49603,10.16895,5.49603",
+    "geom:latitude":5.49603,
+    "geom:longitude":10.16895,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Metsa",
+    "gn:country_code":"CM",
+    "gn:dem":1464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8605258,
+    "gn:latitude":5.49603,
+    "gn:longitude":10.16895,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Metsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8605258
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"1935f09904d6f743ca35002e026677ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1226564467,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1226564467,
+    "wof:lastmodified":1536970882,
+    "wof:name":"Metsa",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.16895,
+    5.49603,
+    10.16895,
+    5.49603
+],
+  "geometry": {"coordinates":[10.16895,5.49603],"type":"Point"}
+}

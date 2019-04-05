@@ -1,0 +1,67 @@
+{
+  "id": 1276251717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.81667,3.98333,9.81667,3.98333",
+    "geom:latitude":3.98333,
+    "geom:longitude":9.81667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yassa",
+    "gn:country_code":"CM",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220944,
+    "gn:latitude":3.98333,
+    "gn:longitude":9.81667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Yassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092012257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220944
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"8ee46d01f34c301aa7fcc1910da5a696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012257,
+            "locality_id":1276251717,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1276251717,
+    "wof:lastmodified":1536887673,
+    "wof:name":"Yassa",
+    "wof:parent_id":1092012257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.81667,
+    3.98333,
+    9.81667,
+    3.98333
+],
+  "geometry": {"coordinates":[9.81667,3.98333],"type":"Point"}
+}

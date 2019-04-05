@@ -1,0 +1,67 @@
+{
+  "id": 1309983319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98513,10.67029,13.98513,10.67029",
+    "geom:latitude":10.67029,
+    "geom:longitude":13.98513,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ndevele",
+    "gn:country_code":"CM",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074716,
+    "gn:latitude":10.67029,
+    "gn:longitude":13.98513,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Nd\u00e9vel\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074716
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"1bb96dd4689ff204bc53777acf59f7b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1309983319,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1309983319,
+    "wof:lastmodified":1536675313,
+    "wof:name":"Ndevele",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98513,
+    10.67029,
+    13.98513,
+    10.67029
+],
+  "geometry": {"coordinates":[13.98513,10.67029],"type":"Point"}
+}

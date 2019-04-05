@@ -1,0 +1,67 @@
+{
+  "id": 1327413829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22083,10.15361,15.22083,10.15361",
+    "geom:latitude":10.15361,
+    "geom:longitude":15.22083,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Wina",
+    "gn:country_code":"CM",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596841,
+    "gn:latitude":10.15361,
+    "gn:longitude":15.22083,
+    "gn:modification_date":"2003-08-01",
+    "gn:name":"Wina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1108390249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596841
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"dc93b129588257ccd0f530b8473f2c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1108390249,
+            "locality_id":1327413829,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1327413829,
+    "wof:lastmodified":1536707926,
+    "wof:name":"Wina",
+    "wof:parent_id":1108390249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22083,
+    10.15361,
+    15.22083,
+    10.15361
+],
+  "geometry": {"coordinates":[15.22083,10.15361],"type":"Point"}
+}

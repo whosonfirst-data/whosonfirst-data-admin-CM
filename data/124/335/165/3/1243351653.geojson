@@ -1,0 +1,67 @@
+{
+  "id": 1243351653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.48333,4.08333,11.48333,4.08333",
+    "geom:latitude":4.08333,
+    "geom:longitude":11.48333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nkolfep",
+    "gn:country_code":"CM",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223978,
+    "gn:latitude":4.08333,
+    "gn:longitude":11.48333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Nkolfep",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092012079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223978
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"4c56bc2c250cb28b70a5443e69d87789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012079,
+            "locality_id":1243351653,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1243351653,
+    "wof:lastmodified":1536942815,
+    "wof:name":"Nkolfep",
+    "wof:parent_id":1092012079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.48333,
+    4.08333,
+    11.48333,
+    4.08333
+],
+  "geometry": {"coordinates":[11.48333,4.08333],"type":"Point"}
+}

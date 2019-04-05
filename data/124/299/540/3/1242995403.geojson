@@ -1,0 +1,67 @@
+{
+  "id": 1242995403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.25938,5.51239,10.25938,5.51239",
+    "geom:latitude":5.51239,
+    "geom:longitude":10.25938,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Balepa",
+    "gn:country_code":"CM",
+    "gn:dem":1478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9086427,
+    "gn:latitude":5.51239,
+    "gn:longitude":10.25938,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Bal\u00e9pa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9086427
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"596981ff39a2426d5cec95e584ad69ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010559,
+            "locality_id":1242995403,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1242995403,
+    "wof:lastmodified":1536958829,
+    "wof:name":"Balepa",
+    "wof:parent_id":1092010559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.25938,
+    5.51239,
+    10.25938,
+    5.51239
+],
+  "geometry": {"coordinates":[10.25938,5.51239],"type":"Point"}
+}

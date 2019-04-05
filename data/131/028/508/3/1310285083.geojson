@@ -1,0 +1,67 @@
+{
+  "id": 1310285083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.19125,10.21279,14.19125,10.21279",
+    "geom:latitude":10.21279,
+    "geom:longitude":14.19125,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Badjava",
+    "gn:country_code":"CM",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6730308,
+    "gn:latitude":10.21279,
+    "gn:longitude":14.19125,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Badjava",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6730308
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"b807a9c58660960295ebf9a2c6e1e791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011963,
+            "locality_id":1310285083,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1310285083,
+    "wof:lastmodified":1536737375,
+    "wof:name":"Badjava",
+    "wof:parent_id":1092011963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.19125,
+    10.21279,
+    14.19125,
+    10.21279
+],
+  "geometry": {"coordinates":[14.19125,10.21279],"type":"Point"}
+}

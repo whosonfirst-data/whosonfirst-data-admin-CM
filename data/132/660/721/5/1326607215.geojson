@@ -1,0 +1,71 @@
+{
+  "id": 1326607215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.49412,12.58534,14.49412,12.58534",
+    "geom:latitude":12.58534,
+    "geom:longitude":14.49412,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Dougmo I",
+    "gn:country_code":"CM",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2232547,
+    "gn:latitude":12.58534,
+    "gn:longitude":14.49412,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Dougmo I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dougmo",
+        "Dougmo I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2232547
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"e3dda93a5d77fd9c5330302552854cef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1326607215,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1326607215,
+    "wof:lastmodified":1537591306,
+    "wof:name":"Dougmo I",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.49412,
+    12.58534,
+    14.49412,
+    12.58534
+],
+  "geometry": {"coordinates":[14.49412,12.58534],"type":"Point"}
+}

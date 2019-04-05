@@ -1,0 +1,67 @@
+{
+  "id": 1293870145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.48333,7.86667,14.48333,7.86667",
+    "geom:latitude":7.86667,
+    "geom:longitude":14.48333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bouga",
+    "gn:country_code":"CM",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233553,
+    "gn:latitude":7.86667,
+    "gn:longitude":14.48333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Bouga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233553
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"42bce89da3ec9a64dc81b94887234f9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011703,
+            "locality_id":1293870145,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1293870145,
+    "wof:lastmodified":1536732868,
+    "wof:name":"Bouga",
+    "wof:parent_id":1092011703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48333,
+    7.86667,
+    14.48333,
+    7.86667
+],
+  "geometry": {"coordinates":[14.48333,7.86667],"type":"Point"}
+}

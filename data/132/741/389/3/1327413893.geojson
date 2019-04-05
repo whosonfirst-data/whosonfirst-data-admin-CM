@@ -1,0 +1,67 @@
+{
+  "id": 1327413893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.60292,10.7802,14.60292,10.7802",
+    "geom:latitude":10.7802,
+    "geom:longitude":14.60292,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tchoufol Kraguire",
+    "gn:country_code":"CM",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6732086,
+    "gn:latitude":10.7802,
+    "gn:longitude":14.60292,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Tchoufol Kraguir\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6732086
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ae2a3b5472978c0dc89f86f47f68b9c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011977,
+            "locality_id":1327413893,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1327413893,
+    "wof:lastmodified":1536707830,
+    "wof:name":"Tchoufol Kraguire",
+    "wof:parent_id":1092011977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.60292,
+    10.7802,
+    14.60292,
+    10.7802
+],
+  "geometry": {"coordinates":[14.60292,10.7802],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343447375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.88333,10.05,13.88333,10.05",
+    "geom:latitude":10.05,
+    "geom:longitude":13.88333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Lakawar",
+    "gn:country_code":"CM",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2229658,
+    "gn:latitude":10.05,
+    "gn:longitude":13.88333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Lakawar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lakaor",
+        "Lakawar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2229658
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d166e5f087a09cf9508d844963d72139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1343447375,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1343447375,
+    "wof:lastmodified":1537591273,
+    "wof:name":"Lakawar",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.88333,
+    10.05,
+    13.88333,
+    10.05
+],
+  "geometry": {"coordinates":[13.88333,10.05],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209009193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.8792,4.5673,9.8792,4.5673",
+    "geom:latitude":4.5673,
+    "geom:longitude":9.8792,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bobok",
+    "gn:country_code":"CM",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233843,
+    "gn:latitude":4.5673,
+    "gn:longitude":9.8792,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Bobok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233843
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"4d1000d7175e3b0606f982651acba608",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209009193
+        }
+    ],
+    "wof:id":1209009193,
+    "wof:lastmodified":1536300503,
+    "wof:name":"Bobok",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8792,
+    4.5673,
+    9.8792,
+    4.5673
+],
+  "geometry": {"coordinates":[9.8792,4.5673],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293191457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.32316,5.69154,10.32316,5.69154",
+    "geom:latitude":5.69154,
+    "geom:longitude":10.32316,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mekagok",
+    "gn:country_code":"CM",
+    "gn:dem":1246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9085337,
+    "gn:latitude":5.69154,
+    "gn:longitude":10.32316,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"M\u00e9kagok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9085337
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"27f04c903419e806b6e2ce8e1a4cf283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010559,
+            "locality_id":1293191457,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1293191457,
+    "wof:lastmodified":1536717196,
+    "wof:name":"Mekagok",
+    "wof:parent_id":1092010559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.32316,
+    5.69154,
+    10.32316,
+    5.69154
+],
+  "geometry": {"coordinates":[10.32316,5.69154],"type":"Point"}
+}

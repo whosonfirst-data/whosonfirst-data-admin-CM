@@ -1,0 +1,67 @@
+{
+  "id": 1242944477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.42798,10.00153,13.42798,10.00153",
+    "geom:latitude":10.00153,
+    "geom:longitude":13.42798,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kapkana",
+    "gn:country_code":"CM",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2230461,
+    "gn:latitude":10.00153,
+    "gn:longitude":13.42798,
+    "gn:modification_date":"2008-05-08",
+    "gn:name":"Kapkana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2230461
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"1f77ccf4a956e0fc007dd32a110b62f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1242944477,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1242944477,
+    "wof:lastmodified":1537031025,
+    "wof:name":"Kapkana",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.42798,
+    10.00153,
+    13.42798,
+    10.00153
+],
+  "geometry": {"coordinates":[13.42798,10.00153],"type":"Point"}
+}

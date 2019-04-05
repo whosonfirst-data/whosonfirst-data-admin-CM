@@ -1,0 +1,61 @@
+{
+  "id": 1209502195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.42277,10.17133,14.42277,10.17133",
+    "geom:latitude":10.17133,
+    "geom:longitude":14.42277,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tourkouri",
+    "gn:country_code":"CM",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6731986,
+    "gn:latitude":10.17133,
+    "gn:longitude":14.42277,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Tourkouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6731986
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"06cfd5dbcf77020506805d15768ff0d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209502195
+        }
+    ],
+    "wof:id":1209502195,
+    "wof:lastmodified":1536285147,
+    "wof:name":"Tourkouri",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.422770000000002,
+    10.17133,
+    14.422770000000002,
+    10.17133
+],
+  "geometry": {"coordinates":[14.42277,10.17133],"type":"Point"}
+}

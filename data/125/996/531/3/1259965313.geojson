@@ -1,0 +1,67 @@
+{
+  "id": 1259965313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.43784,5.51787,10.43784,5.51787",
+    "geom:latitude":5.51787,
+    "geom:longitude":10.43784,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Laangwen",
+    "gn:country_code":"CM",
+    "gn:dem":1349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9086321,
+    "gn:latitude":5.51787,
+    "gn:longitude":10.43784,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Laangw\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9086321
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"36b61c1b52fd970a7561f50241bfaa87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010591,
+            "locality_id":1259965313,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1259965313,
+    "wof:lastmodified":1536661386,
+    "wof:name":"Laangwen",
+    "wof:parent_id":1092010591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.43784,
+    5.51787,
+    10.43784,
+    5.51787
+],
+  "geometry": {"coordinates":[10.43784,5.51787],"type":"Point"}
+}

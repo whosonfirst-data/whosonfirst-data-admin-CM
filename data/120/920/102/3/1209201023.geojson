@@ -1,0 +1,61 @@
+{
+  "id": 1209201023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.88012,9.19995,13.88012,9.19995",
+    "geom:latitude":9.19995,
+    "geom:longitude":13.88012,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Karedje",
+    "gn:country_code":"CM",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8667689,
+    "gn:latitude":9.19995,
+    "gn:longitude":13.88012,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Kar\u00e9dj\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8667689
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"da07a74d7061dc8ec40b74b606ead7e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209201023
+        }
+    ],
+    "wof:id":1209201023,
+    "wof:lastmodified":1536294611,
+    "wof:name":"Karedje",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.880120000000002,
+    9.19995,
+    13.880120000000002,
+    9.19995
+],
+  "geometry": {"coordinates":[13.88012,9.19995],"type":"Point"}
+}

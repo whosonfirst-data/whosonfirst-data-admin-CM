@@ -1,0 +1,67 @@
+{
+  "id": 1293268573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.3063,9.94214,13.3063,9.94214",
+    "geom:latitude":9.94214,
+    "geom:longitude":13.3063,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sabongari",
+    "gn:country_code":"CM",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8672762,
+    "gn:latitude":9.94214,
+    "gn:longitude":13.3063,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Sabongari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8672762
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ea0e8ab54880e9fc5c60b4625c03e6fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1293268573,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1293268573,
+    "wof:lastmodified":1536602564,
+    "wof:name":"Sabongari",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.3063,
+    9.94214,
+    13.3063,
+    9.94214
+],
+  "geometry": {"coordinates":[13.3063,9.94214],"type":"Point"}
+}

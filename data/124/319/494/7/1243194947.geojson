@@ -1,0 +1,67 @@
+{
+  "id": 1243194947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.69806,3.57639,9.69806,3.57639",
+    "geom:latitude":3.57639,
+    "geom:longitude":9.69806,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Botonga",
+    "gn:country_code":"CM",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233587,
+    "gn:latitude":3.57639,
+    "gn:longitude":9.69806,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Botonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233587
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d1fce2e83415cbcd7af663a921e3c0e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011153,
+            "locality_id":1243194947,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1243194947,
+    "wof:lastmodified":1536671116,
+    "wof:name":"Botonga",
+    "wof:parent_id":1092011153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.69806,
+    3.57639,
+    9.69806,
+    3.57639
+],
+  "geometry": {"coordinates":[9.69806,3.57639],"type":"Point"}
+}

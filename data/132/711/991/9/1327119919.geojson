@@ -1,0 +1,67 @@
+{
+  "id": 1327119919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.31417,5.40762,10.31417,5.40762",
+    "geom:latitude":5.40762,
+    "geom:longitude":10.31417,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nkwoke",
+    "gn:country_code":"CM",
+    "gn:dem":1493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8607628,
+    "gn:latitude":5.40762,
+    "gn:longitude":10.31417,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Nkwok\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092012197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8607628
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"e291798324e9191dc4b2d2dcc6e5571b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012197,
+            "locality_id":1327119919,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1327119919,
+    "wof:lastmodified":1536632752,
+    "wof:name":"Nkwoke",
+    "wof:parent_id":1092012197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.31417,
+    5.40762,
+    10.31417,
+    5.40762
+],
+  "geometry": {"coordinates":[10.31417,5.40762],"type":"Point"}
+}

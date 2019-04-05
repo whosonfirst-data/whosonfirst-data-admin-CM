@@ -1,0 +1,67 @@
+{
+  "id": 1326606409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97895,9.75627,13.97895,9.75627",
+    "geom:latitude":9.75627,
+    "geom:longitude":13.97895,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ciment",
+    "gn:country_code":"CM",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8669239,
+    "gn:latitude":9.75627,
+    "gn:longitude":13.97895,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ciment",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8669239
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"2ac990b5ff7eb75d337d874b4f68ae66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1326606409,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1326606409,
+    "wof:lastmodified":1536876296,
+    "wof:name":"Ciment",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97895,
+    9.75627,
+    13.97895,
+    9.75627
+],
+  "geometry": {"coordinates":[13.97895,9.75627],"type":"Point"}
+}

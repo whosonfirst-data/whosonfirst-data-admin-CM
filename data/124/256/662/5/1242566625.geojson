@@ -1,0 +1,71 @@
+{
+  "id": 1242566625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.45,7.33333,13.45,7.33333",
+    "geom:latitude":7.33333,
+    "geom:longitude":13.45,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mbiassoro",
+    "gn:country_code":"CM",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2227817,
+    "gn:latitude":7.33333,
+    "gn:longitude":13.45,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mbiassoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbiass\u00e9ra",
+        "Mbiassoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2227817
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"a0378c242c150fa179dfffd86a41b747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011581,
+            "locality_id":1242566625,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1242566625,
+    "wof:lastmodified":1537591255,
+    "wof:name":"Mbiassoro",
+    "wof:parent_id":1092011581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.45,
+    7.33333,
+    13.45,
+    7.33333
+],
+  "geometry": {"coordinates":[13.45,7.33333],"type":"Point"}
+}

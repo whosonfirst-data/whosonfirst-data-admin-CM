@@ -1,0 +1,67 @@
+{
+  "id": 1243055955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.68333,3.55,11.68333,3.55",
+    "geom:latitude":3.55,
+    "geom:longitude":11.68333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Avebe",
+    "gn:country_code":"CM",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2235377,
+    "gn:latitude":3.55,
+    "gn:longitude":11.68333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Av\u00e9b\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2235377
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"9a29511be70e3ec1465cfeaf0cabbe26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011209,
+            "locality_id":1243055955,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1243055955,
+    "wof:lastmodified":1536870372,
+    "wof:name":"Avebe",
+    "wof:parent_id":1092011209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.68333,
+    3.55,
+    11.68333,
+    3.55
+],
+  "geometry": {"coordinates":[11.68333,3.55],"type":"Point"}
+}

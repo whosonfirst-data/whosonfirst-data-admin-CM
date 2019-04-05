@@ -1,0 +1,67 @@
+{
+  "id": 1327266895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.11667,3.96667,13.11667,3.96667",
+    "geom:latitude":3.96667,
+    "geom:longitude":13.11667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Myan II",
+    "gn:country_code":"CM",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2225563,
+    "gn:latitude":3.96667,
+    "gn:longitude":13.11667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Myan II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225563
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ac4fe2fbaaa9c8823457861cf7170d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011347,
+            "locality_id":1327266895,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1327266895,
+    "wof:lastmodified":1536920521,
+    "wof:name":"Myan II",
+    "wof:parent_id":1092011347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.11667,
+    3.96667,
+    13.11667,
+    3.96667
+],
+  "geometry": {"coordinates":[13.11667,3.96667],"type":"Point"}
+}

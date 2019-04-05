@@ -1,0 +1,67 @@
+{
+  "id": 1293770823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.95515,11.05309,13.95515,11.05309",
+    "geom:latitude":11.05309,
+    "geom:longitude":13.95515,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Salakatchi",
+    "gn:country_code":"CM",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6759112,
+    "gn:latitude":11.05309,
+    "gn:longitude":13.95515,
+    "gn:modification_date":"2014-02-11",
+    "gn:name":"Salakatchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6759112
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"59d8103e74ff1ae23d6ba93859eb8f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1293770823,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1293770823,
+    "wof:lastmodified":1536874748,
+    "wof:name":"Salakatchi",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95515,
+    11.05309,
+    13.95515,
+    11.05309
+],
+  "geometry": {"coordinates":[13.95515,11.05309],"type":"Point"}
+}

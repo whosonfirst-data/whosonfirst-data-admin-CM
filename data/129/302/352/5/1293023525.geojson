@@ -1,0 +1,67 @@
+{
+  "id": 1293023525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.92806,3.35778,9.92806,3.35778",
+    "geom:latitude":3.35778,
+    "geom:longitude":9.92806,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Elambong",
+    "gn:country_code":"CM",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595243,
+    "gn:latitude":3.35778,
+    "gn:longitude":9.92806,
+    "gn:modification_date":"2001-08-15",
+    "gn:name":"Elambong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595243
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"a94f869d3cd47bd88c217aa49a2a814f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011153,
+            "locality_id":1293023525,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1293023525,
+    "wof:lastmodified":1536958934,
+    "wof:name":"Elambong",
+    "wof:parent_id":1092011153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.92806,
+    3.35778,
+    9.92806,
+    3.35778
+],
+  "geometry": {"coordinates":[9.92806,3.35778],"type":"Point"}
+}

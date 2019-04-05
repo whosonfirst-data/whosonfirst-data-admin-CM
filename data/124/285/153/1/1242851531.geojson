@@ -1,0 +1,72 @@
+{
+  "id": 1242851531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.6114,12.65659,14.6114,12.65659",
+    "geom:latitude":12.65659,
+    "geom:longitude":14.6114,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Douelou",
+    "gn:country_code":"CM",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222938,
+    "gn:latitude":12.65659,
+    "gn:longitude":14.6114,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Dou\u00e9lou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9dehr",
+        "Oueilonaga",
+        "Dou\u00e9lou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222938
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"8add50b01f558ca61951cccfd127ade7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1242851531,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1242851531,
+    "wof:lastmodified":1537591215,
+    "wof:name":"Douelou",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.6114,
+    12.65659,
+    14.6114,
+    12.65659
+],
+  "geometry": {"coordinates":[14.6114,12.65659],"type":"Point"}
+}

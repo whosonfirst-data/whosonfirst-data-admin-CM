@@ -1,0 +1,115 @@
+{
+  "id": 421175861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.28333,6.23333,10.28333,6.23333",
+    "geom:latitude":6.23333,
+    "geom:longitude":10.28333,
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Njinikom"
+    ],
+    "name:deu_x_preferred":[
+        "Njinikom"
+    ],
+    "name:dut_x_preferred":[
+        "Njinikom"
+    ],
+    "name:eng_x_preferred":[
+        "Njinikom"
+    ],
+    "name:fra_x_preferred":[
+        "Njinikom"
+    ],
+    "name:fre_x_preferred":[
+        "Njinikom"
+    ],
+    "name:ger_x_preferred":[
+        "Njinikom"
+    ],
+    "name:may_x_preferred":[
+        "Njinikom"
+    ],
+    "name:msa_x_preferred":[
+        "Njinikom"
+    ],
+    "name:swe_x_preferred":[
+        "Njinikom"
+    ],
+    "name:unk_x_variant":[
+        "Njnikom"
+    ],
+    "qs:gn_country":"CM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2224212,
+    "qs:gn_pop":8247,
+    "qs:name":"Njinikom",
+    "qs:name_adm0":"Cameroun",
+    "qs:name_adm1":"Nord-Ouest",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1034411,
+    "qs:woe_adm0":23424785,
+    "qs:woe_id":1304387,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":93,
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2224212,
+        "gp:id":1304387,
+        "qs:id":1034411,
+        "wd:id":"Q7042443",
+        "wk:page":"Njinikom"
+    },
+    "wof:country":"CM",
+    "wof:created":1459009082,
+    "wof:geomhash":"2c77fd10e95ab34b9045ed5f9f1322aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010759,
+            "locality_id":421175861,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":421175861,
+    "wof:lastmodified":1527716338,
+    "wof:name":"Njinikom",
+    "wof:parent_id":1092010759,
+    "wof:placetype":"locality",
+    "wof:population":8247,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.28333,
+    6.23333,
+    10.28333,
+    6.23333
+],
+  "geometry": {"coordinates":[10.28333,6.23333],"type":"Point"}
+}

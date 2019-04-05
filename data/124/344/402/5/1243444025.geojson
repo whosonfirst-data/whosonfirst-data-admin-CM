@@ -1,0 +1,67 @@
+{
+  "id": 1243444025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.29577,5.63176,9.29577,5.63176",
+    "geom:latitude":5.63176,
+    "geom:longitude":9.29577,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ossing",
+    "gn:country_code":"CM",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223063,
+    "gn:latitude":5.63176,
+    "gn:longitude":9.29577,
+    "gn:modification_date":"2008-10-15",
+    "gn:name":"Ossing",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223063
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"3308b554759e07e70e59b027d99e80b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011003,
+            "locality_id":1243444025,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1243444025,
+    "wof:lastmodified":1536808661,
+    "wof:name":"Ossing",
+    "wof:parent_id":1092011003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.29577,
+    5.63176,
+    9.29577,
+    5.63176
+],
+  "geometry": {"coordinates":[9.29577,5.63176],"type":"Point"}
+}

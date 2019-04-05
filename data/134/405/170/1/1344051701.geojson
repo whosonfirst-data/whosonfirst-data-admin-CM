@@ -1,0 +1,67 @@
+{
+  "id": 1344051701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.1212,4.8918,9.1212,4.8918",
+    "geom:latitude":4.8918,
+    "geom:longitude":9.1212,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Motindi",
+    "gn:country_code":"CM",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594871,
+    "gn:latitude":4.8918,
+    "gn:longitude":9.1212,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Motindi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092010791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594871
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c2aa2ac34c10db219fb93554e0a2d6d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010791,
+            "locality_id":1344051701,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1344051701,
+    "wof:lastmodified":1536887855,
+    "wof:name":"Motindi",
+    "wof:parent_id":1092010791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.1212,
+    4.8918,
+    9.1212,
+    4.8918
+],
+  "geometry": {"coordinates":[9.1212,4.8918],"type":"Point"}
+}

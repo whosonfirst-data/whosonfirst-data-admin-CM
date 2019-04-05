@@ -1,0 +1,67 @@
+{
+  "id": 1277056247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.61667,10.33333,13.61667,10.33333",
+    "geom:latitude":10.33333,
+    "geom:longitude":13.61667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Douvouni",
+    "gn:country_code":"CM",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2232457,
+    "gn:latitude":10.33333,
+    "gn:longitude":13.61667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Douvouni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2232457
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ba3753e661bf94a56983c889bd1332ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1277056247,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1277056247,
+    "wof:lastmodified":1536804467,
+    "wof:name":"Douvouni",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.61667,
+    10.33333,
+    13.61667,
+    10.33333
+],
+  "geometry": {"coordinates":[13.61667,10.33333],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209303641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.96667,7.43333,12.96667,7.43333",
+    "geom:latitude":7.43333,
+    "geom:longitude":12.96667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Djada",
+    "gn:country_code":"CM",
+    "gn:dem":932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2232976,
+    "gn:latitude":7.43333,
+    "gn:longitude":12.96667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Djada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alhadji",
+        "Djada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2232976
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"6b298c098b29605c602cb07867a9e249",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209303641
+        }
+    ],
+    "wof:id":1209303641,
+    "wof:lastmodified":1537591311,
+    "wof:name":"Djada",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.96667,
+    7.43333,
+    12.96667,
+    7.43333
+],
+  "geometry": {"coordinates":[12.96667,7.43333],"type":"Point"}
+}

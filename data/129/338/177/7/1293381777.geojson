@@ -1,0 +1,67 @@
+{
+  "id": 1293381777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.81067,6.40508,9.81067,6.40508",
+    "geom:latitude":6.40508,
+    "geom:longitude":9.81067,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Benagudi",
+    "gn:country_code":"CM",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6855354,
+    "gn:latitude":6.40508,
+    "gn:longitude":9.81067,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Benagudi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6855354
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"a1aa2a14d0b6186a3a6fde6fb177b1c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010619,
+            "locality_id":1293381777,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1293381777,
+    "wof:lastmodified":1536940138,
+    "wof:name":"Benagudi",
+    "wof:parent_id":1092010619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.81067,
+    6.40508,
+    9.81067,
+    6.40508
+],
+  "geometry": {"coordinates":[9.81067,6.40508],"type":"Point"}
+}

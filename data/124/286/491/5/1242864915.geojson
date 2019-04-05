@@ -1,0 +1,76 @@
+{
+  "id": 1242864915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.0804,5.32623,10.0804,5.32623",
+    "geom:latitude":5.32623,
+    "geom:longitude":10.0804,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Fontsa Toula",
+    "gn:country_code":"CM",
+    "gn:dem":1455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221364,
+    "gn:latitude":5.32623,
+    "gn:longitude":10.0804,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Fontsa Toula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Touala"
+    ],
+    "name:fra_x_variant":[
+        "Fontsa Toula"
+    ],
+    "name:und_x_variant":[
+        "Fontsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221364
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"af7ad71325fb404a21b9092a7cc6b5be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1242864915,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1242864915,
+    "wof:lastmodified":1537591198,
+    "wof:name":"Fontsa Toula",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0804,
+    5.32623,
+    10.0804,
+    5.32623
+],
+  "geometry": {"coordinates":[10.0804,5.32623],"type":"Point"}
+}

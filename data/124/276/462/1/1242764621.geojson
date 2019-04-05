@@ -1,0 +1,67 @@
+{
+  "id": 1242764621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.85043,10.90126,13.85043,10.90126",
+    "geom:latitude":10.90126,
+    "geom:longitude":13.85043,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Madakoua",
+    "gn:country_code":"CM",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2229037,
+    "gn:latitude":10.90126,
+    "gn:longitude":13.85043,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Madakoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2229037
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"01acb014389f5a07267d9a4337a3f79d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1242764621,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1242764621,
+    "wof:lastmodified":1536794570,
+    "wof:name":"Madakoua",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.85043,
+    10.90126,
+    13.85043,
+    10.90126
+],
+  "geometry": {"coordinates":[13.85043,10.90126],"type":"Point"}
+}

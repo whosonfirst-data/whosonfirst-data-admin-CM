@@ -1,0 +1,67 @@
+{
+  "id": 1209996609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.84325,10.81626,13.84325,10.81626",
+    "geom:latitude":10.81626,
+    "geom:longitude":13.84325,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zoguilaway",
+    "gn:country_code":"CM",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074285,
+    "gn:latitude":10.81626,
+    "gn:longitude":13.84325,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Zoguilaway",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074285
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"699131078c3ce414fd89cff70ce06ab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1209996609,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1209996609,
+    "wof:lastmodified":1536383193,
+    "wof:name":"Zoguilaway",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.84325,
+    10.81626,
+    13.84325,
+    10.81626
+],
+  "geometry": {"coordinates":[13.84325,10.81626],"type":"Point"}
+}

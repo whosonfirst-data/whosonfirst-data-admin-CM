@@ -1,0 +1,61 @@
+{
+  "id": 1209185159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.06667,2.6,12.06667,2.6",
+    "geom:latitude":2.6,
+    "geom:longitude":12.06667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Oyem",
+    "gn:country_code":"CM",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222764,
+    "gn:latitude":2.6,
+    "gn:longitude":12.06667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Oyem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222764
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"68a91f7a1edec04f61592b1fda0a5f02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209185159
+        }
+    ],
+    "wof:id":1209185159,
+    "wof:lastmodified":1536295126,
+    "wof:name":"Oyem",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.06667,
+    2.6,
+    12.06667,
+    2.6
+],
+  "geometry": {"coordinates":[12.06667,2.6],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259875533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.1474,5.0816,9.1474,5.0816",
+    "geom:latitude":5.0816,
+    "geom:longitude":9.1474,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dibonda I",
+    "gn:country_code":"CM",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858181,
+    "gn:latitude":5.0816,
+    "gn:longitude":9.1474,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Dibonda I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092010791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858181
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d3275d431113033af1b32f31f410686a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010791,
+            "locality_id":1259875533,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1259875533,
+    "wof:lastmodified":1536791067,
+    "wof:name":"Dibonda I",
+    "wof:parent_id":1092010791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.1474,
+    5.0816,
+    9.1474,
+    5.0816
+],
+  "geometry": {"coordinates":[9.1474,5.0816],"type":"Point"}
+}

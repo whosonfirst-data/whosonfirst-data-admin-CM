@@ -1,0 +1,67 @@
+{
+  "id": 1276212363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.14876,5.31739,10.14876,5.31739",
+    "geom:latitude":5.31739,
+    "geom:longitude":10.14876,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ndoumba",
+    "gn:country_code":"CM",
+    "gn:dem":1326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8561374,
+    "gn:latitude":5.31739,
+    "gn:longitude":10.14876,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Ndoumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8561374
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"6d18e48bcf9c61378e73f8330992b881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1276212363,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1276212363,
+    "wof:lastmodified":1536941844,
+    "wof:name":"Ndoumba",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.14876,
+    5.31739,
+    10.14876,
+    5.31739
+],
+  "geometry": {"coordinates":[10.14876,5.31739],"type":"Point"}
+}

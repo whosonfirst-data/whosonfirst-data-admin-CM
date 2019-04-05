@@ -1,0 +1,75 @@
+{
+  "id": 1293104787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.05,4.26667,14.05,4.26667",
+    "geom:latitude":4.26667,
+    "geom:longitude":14.05,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ngelebok",
+    "gn:country_code":"CM",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2224779,
+    "gn:latitude":4.26667,
+    "gn:longitude":14.05,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ng\u00e9l\u00e9bok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ng\u012dlabo",
+        "Ngu\u00e9l\u00e9bok",
+        "Nguilabo",
+        "Ngu\u00e9l\u00e9bo",
+        "Ng\u00e9l\u00e9bok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2224779,
+        "wk:page":"Nguelebok"
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"56cc11ff0d126570f82c68f4f8c41550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011431,
+            "locality_id":1293104787,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1293104787,
+    "wof:lastmodified":1537591231,
+    "wof:name":"Ngelebok",
+    "wof:parent_id":1092011431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.05,
+    4.26667,
+    14.05,
+    4.26667
+],
+  "geometry": {"coordinates":[14.05,4.26667],"type":"Point"}
+}

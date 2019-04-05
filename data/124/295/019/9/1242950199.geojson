@@ -1,0 +1,71 @@
+{
+  "id": 1242950199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.48734,10.31417,14.48734,10.31417",
+    "geom:latitude":10.31417,
+    "geom:longitude":14.48734,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Dolandio",
+    "gn:country_code":"CM",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2232659,
+    "gn:latitude":10.31417,
+    "gn:longitude":14.48734,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dolandio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dollago",
+        "Dolandio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2232659
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"15438014460af2b36552c74d88167a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011963,
+            "locality_id":1242950199,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1242950199,
+    "wof:lastmodified":1537591307,
+    "wof:name":"Dolandio",
+    "wof:parent_id":1092011963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48734,
+    10.31417,
+    14.48734,
+    10.31417
+],
+  "geometry": {"coordinates":[14.48734,10.31417],"type":"Point"}
+}

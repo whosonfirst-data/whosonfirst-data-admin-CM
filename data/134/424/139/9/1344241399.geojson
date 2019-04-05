@@ -1,0 +1,67 @@
+{
+  "id": 1344241399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.7214,5.0122,9.7214,5.0122",
+    "geom:latitude":5.0122,
+    "geom:longitude":9.7214,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Elase",
+    "gn:country_code":"CM",
+    "gn:dem":1238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858343,
+    "gn:latitude":5.0122,
+    "gn:longitude":9.7214,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Elase",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858343
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ef4ea2b9bd2702820605e225da03d6dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011063,
+            "locality_id":1344241399,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1344241399,
+    "wof:lastmodified":1536612012,
+    "wof:name":"Elase",
+    "wof:parent_id":1092011063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.7214,
+    5.0122,
+    9.7214,
+    5.0122
+],
+  "geometry": {"coordinates":[9.7214,5.0122],"type":"Point"}
+}

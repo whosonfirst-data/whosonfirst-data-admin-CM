@@ -1,0 +1,67 @@
+{
+  "id": 1226625647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.69298,9.89135,13.69298,9.89135",
+    "geom:latitude":9.89135,
+    "geom:longitude":13.69298,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Fokoum",
+    "gn:country_code":"CM",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8668972,
+    "gn:latitude":9.89135,
+    "gn:longitude":13.69298,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Fokoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8668972
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c5d4543ada118b59e65214f790cb98d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1226625647,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1226625647,
+    "wof:lastmodified":1536888083,
+    "wof:name":"Fokoum",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.69298,
+    9.89135,
+    13.69298,
+    9.89135
+],
+  "geometry": {"coordinates":[13.69298,9.89135],"type":"Point"}
+}

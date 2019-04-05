@@ -1,0 +1,72 @@
+{
+  "id": 1293374433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.72117,5.11095,9.72117,5.11095",
+    "geom:latitude":5.11095,
+    "geom:longitude":9.72117,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Enyandong",
+    "gn:country_code":"CM",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223380,
+    "gn:latitude":5.11095,
+    "gn:longitude":9.72117,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Enyandong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Njandong",
+        "Nyandong",
+        "Enyandong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223380
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f6e0cfec5943e5c9a0454c998d7ed185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011063,
+            "locality_id":1293374433,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1293374433,
+    "wof:lastmodified":1537591219,
+    "wof:name":"Enyandong",
+    "wof:parent_id":1092011063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.72117,
+    5.11095,
+    9.72117,
+    5.11095
+],
+  "geometry": {"coordinates":[9.72117,5.11095],"type":"Point"}
+}

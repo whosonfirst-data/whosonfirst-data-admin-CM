@@ -1,0 +1,72 @@
+{
+  "id": 1327017841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.71667,4.55,10.71667,4.55",
+    "geom:latitude":4.55,
+    "geom:longitude":10.71667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ndokbasabem",
+    "gn:country_code":"CM",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2225131,
+    "gn:latitude":4.55,
+    "gn:longitude":10.71667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ndokbasabem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndokobassaben",
+        "Nobkobassaben",
+        "Ndokbasabem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225131
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5c6bb4a44cfd6e50473be5d53d15759f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011309,
+            "locality_id":1327017841,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1327017841,
+    "wof:lastmodified":1537591235,
+    "wof:name":"Ndokbasabem",
+    "wof:parent_id":1092011309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.71667,
+    4.55,
+    10.71667,
+    4.55
+],
+  "geometry": {"coordinates":[10.71667,4.55],"type":"Point"}
+}

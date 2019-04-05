@@ -1,0 +1,67 @@
+{
+  "id": 1225964287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.95,5.38333,9.95,5.38333",
+    "geom:latitude":5.38333,
+    "geom:longitude":9.95,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Zennela",
+    "gn:country_code":"CM",
+    "gn:dem":1492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220740,
+    "gn:latitude":5.38333,
+    "gn:longitude":9.95,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Zennela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220740
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"495434c29317186bf578d136e7843d6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1225964287,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1225964287,
+    "wof:lastmodified":1536841557,
+    "wof:name":"Zennela",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.95,
+    5.38333,
+    9.95,
+    5.38333
+],
+  "geometry": {"coordinates":[9.95,5.38333],"type":"Point"}
+}

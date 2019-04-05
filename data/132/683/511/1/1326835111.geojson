@@ -1,0 +1,67 @@
+{
+  "id": 1326835111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.9522,4.5114,9.9522,4.5114",
+    "geom:latitude":4.5114,
+    "geom:longitude":9.9522,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ndokbong",
+    "gn:country_code":"CM",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595061,
+    "gn:latitude":4.5114,
+    "gn:longitude":9.9522,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Ndokbong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595061
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"4ed91735623c42c3fca006b7fa7b32fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011119,
+            "locality_id":1326835111,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1326835111,
+    "wof:lastmodified":1537042810,
+    "wof:name":"Ndokbong",
+    "wof:parent_id":1092011119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9522,
+    4.5114,
+    9.9522,
+    4.5114
+],
+  "geometry": {"coordinates":[9.9522,4.5114],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242657775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43525,12.44945,14.43525,12.44945",
+    "geom:latitude":12.44945,
+    "geom:longitude":14.43525,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Goubago",
+    "gn:country_code":"CM",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231044,
+    "gn:latitude":12.44945,
+    "gn:longitude":14.43525,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Goubago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231044
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"13631b998e6f4b55bd370d7c5e192b5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1242657775,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1242657775,
+    "wof:lastmodified":1536948699,
+    "wof:name":"Goubago",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43525,
+    12.44945,
+    14.43525,
+    12.44945
+],
+  "geometry": {"coordinates":[14.43525,12.44945],"type":"Point"}
+}

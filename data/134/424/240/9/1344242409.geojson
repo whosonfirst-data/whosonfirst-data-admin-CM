@@ -1,0 +1,78 @@
+{
+  "id": 1344242409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.22624,5.32635,10.22624,5.32635",
+    "geom:latitude":5.32635,
+    "geom:longitude":10.22624,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Fotouni",
+    "gn:country_code":"CM",
+    "gn:dem":1553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231533,
+    "gn:latitude":5.32635,
+    "gn:longitude":10.22624,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Fotouni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fotouni"
+    ],
+    "name:fra_x_variant":[
+        "Foutouni",
+        "Fokouni"
+    ],
+    "name:und_x_variant":[
+        "Foutouni",
+        "Fokouni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231533
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ebda1a7705f4870c5be65843c128295b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010971,
+            "locality_id":1344242409,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1344242409,
+    "wof:lastmodified":1537591297,
+    "wof:name":"Fotouni",
+    "wof:parent_id":1092010971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.22624,
+    5.32635,
+    10.22624,
+    5.32635
+],
+  "geometry": {"coordinates":[10.22624,5.32635],"type":"Point"}
+}

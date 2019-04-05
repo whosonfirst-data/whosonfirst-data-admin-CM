@@ -1,0 +1,67 @@
+{
+  "id": 1242867833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.95,6.81667,11.95,6.81667",
+    "geom:latitude":6.81667,
+    "geom:longitude":11.95,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mayo Banyo",
+    "gn:country_code":"CM",
+    "gn:dem":1007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228222,
+    "gn:latitude":6.81667,
+    "gn:longitude":11.95,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mayo Banyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228222
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5f7b3a03f7e474c1ed39ff115c82eb01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011501,
+            "locality_id":1242867833,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1242867833,
+    "wof:lastmodified":1536645070,
+    "wof:name":"Mayo Banyo",
+    "wof:parent_id":1092011501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.95,
+    6.81667,
+    11.95,
+    6.81667
+],
+  "geometry": {"coordinates":[11.95,6.81667],"type":"Point"}
+}

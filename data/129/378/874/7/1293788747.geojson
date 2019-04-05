@@ -1,0 +1,63 @@
+{
+  "id": 1293788747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.45,3.9425,9.45,3.9425",
+    "geom:latitude":3.9425,
+    "geom:longitude":9.45,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tende",
+    "gn:country_code":"CM",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221565,
+    "gn:latitude":3.9425,
+    "gn:longitude":9.45,
+    "gn:modification_date":"2001-08-15",
+    "gn:name":"Tend\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221565
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"baafb1758a639bd0848e6150a9306a2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293788747,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293788747,
+    "wof:lastmodified":1536848695,
+    "wof:name":"Tende",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.45,
+    3.9425,
+    9.45,
+    3.9425
+],
+  "geometry": {"coordinates":[9.45,3.9425],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276328935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.6968,6.4897,9.6968,6.4897",
+    "geom:latitude":6.4897,
+    "geom:longitude":9.6968,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Aligande",
+    "gn:country_code":"CM",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6855393,
+    "gn:latitude":6.4897,
+    "gn:longitude":9.6968,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Aligande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6855393
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"1145b71b4d50f90540bcf336ab6036eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011003,
+            "locality_id":1276328935,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1276328935,
+    "wof:lastmodified":1536785006,
+    "wof:name":"Aligande",
+    "wof:parent_id":1092011003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.6968,
+    6.4897,
+    9.6968,
+    6.4897
+],
+  "geometry": {"coordinates":[9.6968,6.4897],"type":"Point"}
+}

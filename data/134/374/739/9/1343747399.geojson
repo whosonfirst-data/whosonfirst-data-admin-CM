@@ -1,0 +1,74 @@
+{
+  "id": 1343747399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.32462,5.3148,10.32462,5.3148",
+    "geom:latitude":5.3148,
+    "geom:longitude":10.32462,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Batie",
+    "gn:country_code":"CM",
+    "gn:dem":1602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2234683,
+    "gn:latitude":5.3148,
+    "gn:longitude":10.32462,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Bati\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bati\u00e9"
+    ],
+    "name:und_x_variant":[
+        "Bafi\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092012197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2234683,
+        "wk:page":"Bati%C3%A9%2C_Cameroon"
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"bfdb0d3ec924d17735abac4408363fd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012197,
+            "locality_id":1343747399,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1343747399,
+    "wof:lastmodified":1537591328,
+    "wof:name":"Batie",
+    "wof:parent_id":1092012197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.32462,
+    5.3148,
+    10.32462,
+    5.3148
+],
+  "geometry": {"coordinates":[10.32462,5.3148],"type":"Point"}
+}

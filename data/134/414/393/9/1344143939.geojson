@@ -1,0 +1,67 @@
+{
+  "id": 1344143939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.63135,10.72437,13.63135,10.72437",
+    "geom:latitude":10.72437,
+    "geom:longitude":13.63135,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mogodo",
+    "gn:country_code":"CM",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760131,
+    "gn:latitude":10.72437,
+    "gn:longitude":13.63135,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Mogodo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760131
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"2ea3fefc91d5ec3c93182cf9d3a0b17b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1344143939,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1344143939,
+    "wof:lastmodified":1536755229,
+    "wof:name":"Mogodo",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.63135,
+    10.72437,
+    13.63135,
+    10.72437
+],
+  "geometry": {"coordinates":[13.63135,10.72437],"type":"Point"}
+}

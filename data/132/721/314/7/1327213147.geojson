@@ -1,0 +1,67 @@
+{
+  "id": 1327213147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0807,8.7091,14.0807,8.7091",
+    "geom:latitude":8.7091,
+    "geom:longitude":14.0807,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bassari",
+    "gn:country_code":"CM",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2234718,
+    "gn:latitude":8.7091,
+    "gn:longitude":14.0807,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"Bassari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2234718
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"1ff563626114f3aa509d68cfd1d57d0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011703,
+            "locality_id":1327213147,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1327213147,
+    "wof:lastmodified":1536996709,
+    "wof:name":"Bassari",
+    "wof:parent_id":1092011703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0807,
+    8.7091,
+    14.0807,
+    8.7091
+],
+  "geometry": {"coordinates":[14.0807,8.7091],"type":"Point"}
+}

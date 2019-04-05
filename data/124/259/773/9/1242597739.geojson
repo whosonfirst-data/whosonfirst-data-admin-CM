@@ -1,0 +1,70 @@
+{
+  "id": 1242597739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.33016,5.29614,10.33016,5.29614",
+    "geom:latitude":5.29614,
+    "geom:longitude":10.33016,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Njekou",
+    "gn:country_code":"CM",
+    "gn:dem":1649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109126,
+    "gn:latitude":5.29614,
+    "gn:longitude":10.33016,
+    "gn:modification_date":"2013-09-10",
+    "gn:name":"Njekou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ndjekou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092012197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109126
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"6a8c0abf4adb1aefe2831648e40bdc78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012197,
+            "locality_id":1242597739,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1242597739,
+    "wof:lastmodified":1537591357,
+    "wof:name":"Njekou",
+    "wof:parent_id":1092012197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.33016,
+    5.29614,
+    10.33016,
+    5.29614
+],
+  "geometry": {"coordinates":[10.33016,5.29614],"type":"Point"}
+}

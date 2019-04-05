@@ -1,0 +1,67 @@
+{
+  "id": 1226519381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.81226,11.02921,13.81226,11.02921",
+    "geom:latitude":11.02921,
+    "geom:longitude":13.81226,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ecole",
+    "gn:country_code":"CM",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8710580,
+    "gn:latitude":11.02921,
+    "gn:longitude":13.81226,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Ecole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8710580
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"28ce99719ab571a5f974576cd2283fe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1226519381,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1226519381,
+    "wof:lastmodified":1537034614,
+    "wof:name":"Ecole",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81226,
+    11.02921,
+    13.81226,
+    11.02921
+],
+  "geometry": {"coordinates":[13.81226,11.02921],"type":"Point"}
+}

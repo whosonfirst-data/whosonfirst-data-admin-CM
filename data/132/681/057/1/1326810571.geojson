@@ -1,0 +1,67 @@
+{
+  "id": 1326810571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.42254,9.99701,15.42254,9.99701",
+    "geom:latitude":9.99701,
+    "geom:longitude":15.42254,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Gobo Gaioua",
+    "gn:country_code":"CM",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861037,
+    "gn:latitude":9.99701,
+    "gn:longitude":15.42254,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Gobo Ga\u00efoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1108390249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861037
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"02b43ce9c3fb739a9edeb77a91a07e02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1108390249,
+            "locality_id":1326810571,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1326810571,
+    "wof:lastmodified":1537076922,
+    "wof:name":"Gobo Gaioua",
+    "wof:parent_id":1108390249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.42254,
+    9.99701,
+    15.42254,
+    9.99701
+],
+  "geometry": {"coordinates":[15.42254,9.99701],"type":"Point"}
+}

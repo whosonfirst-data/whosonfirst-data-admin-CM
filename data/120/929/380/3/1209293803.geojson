@@ -1,0 +1,61 @@
+{
+  "id": 1209293803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.9972,8.6417,14.9972,8.6417",
+    "geom:latitude":8.6417,
+    "geom:longitude":14.9972,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gor",
+    "gn:country_code":"CM",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231066,
+    "gn:latitude":8.6417,
+    "gn:longitude":14.9972,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"Gor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231066
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"6f827bc1596fcf9b1d7d0c12d32f4e50",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209293803
+        }
+    ],
+    "wof:id":1209293803,
+    "wof:lastmodified":1536291601,
+    "wof:name":"Gor",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.9972,
+    8.6417,
+    14.9972,
+    8.6417
+],
+  "geometry": {"coordinates":[14.9972,8.6417],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242956521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.0,2.41667,10.0,2.41667",
+    "geom:latitude":2.41667,
+    "geom:longitude":10.0,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Edjom",
+    "gn:country_code":"CM",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2232228,
+    "gn:latitude":2.41667,
+    "gn:longitude":10.0,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Edjom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669971,
+        1092012139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2232228
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f8c15a16eb5d48bd5a25c86b8f98be09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012139,
+            "locality_id":1242956521,
+            "region_id":85669971
+        }
+    ],
+    "wof:id":1242956521,
+    "wof:lastmodified":1537014229,
+    "wof:name":"Edjom",
+    "wof:parent_id":1092012139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0,
+    2.41667,
+    10.0,
+    2.41667
+],
+  "geometry": {"coordinates":[10.0,2.41667],"type":"Point"}
+}

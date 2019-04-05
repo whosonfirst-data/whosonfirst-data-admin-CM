@@ -1,0 +1,73 @@
+{
+  "id": 1226067465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.61324,5.5184,10.61324,5.5184",
+    "geom:latitude":5.5184,
+    "geom:longitude":10.61324,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ndoumben",
+    "gn:country_code":"CM",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109755,
+    "gn:latitude":5.5184,
+    "gn:longitude":10.61324,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Ndoumb\u00e8n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ndoumbem"
+    ],
+    "name:und_x_variant":[
+        "Ndoumb\u00e8n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109755
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f84f426d8a2c93a04d7708e324054a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010521,
+            "locality_id":1226067465,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1226067465,
+    "wof:lastmodified":1537591362,
+    "wof:name":"Ndoumben",
+    "wof:parent_id":1092010521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.61324,
+    5.5184,
+    10.61324,
+    5.5184
+],
+  "geometry": {"coordinates":[10.61324,5.5184],"type":"Point"}
+}

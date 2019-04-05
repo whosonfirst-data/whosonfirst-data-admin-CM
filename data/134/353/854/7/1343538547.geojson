@@ -1,0 +1,71 @@
+{
+  "id": 1343538547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53018,12.3522,14.53018,12.3522",
+    "geom:latitude":12.3522,
+    "geom:longitude":14.53018,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Beramcaragoua",
+    "gn:country_code":"CM",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2234376,
+    "gn:latitude":12.3522,
+    "gn:longitude":14.53018,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Beramcaragoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9ramkaragoua",
+        "Beramkaragoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2234376
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"225a5a15f24565f53b4f7fe6dd291e99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1343538547,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1343538547,
+    "wof:lastmodified":1537591325,
+    "wof:name":"Beramcaragoua",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53018,
+    12.3522,
+    14.53018,
+    12.3522
+],
+  "geometry": {"coordinates":[14.53018,12.3522],"type":"Point"}
+}

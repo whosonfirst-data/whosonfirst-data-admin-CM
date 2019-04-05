@@ -1,0 +1,67 @@
+{
+  "id": 1276526005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.7,4.6,12.7,4.6",
+    "geom:latitude":4.6,
+    "geom:longitude":12.7,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ndandouk",
+    "gn:country_code":"CM",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2225355,
+    "gn:latitude":4.6,
+    "gn:longitude":12.7,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ndandouk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225355
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"b80dcc5099e6760ba8d85528bf838dd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011277,
+            "locality_id":1276526005,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1276526005,
+    "wof:lastmodified":1537017167,
+    "wof:name":"Ndandouk",
+    "wof:parent_id":1092011277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.7,
+    4.6,
+    12.7,
+    4.6
+],
+  "geometry": {"coordinates":[12.7,4.6],"type":"Point"}
+}

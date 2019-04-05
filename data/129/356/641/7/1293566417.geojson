@@ -1,0 +1,67 @@
+{
+  "id": 1293566417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.31277,11.07556,14.31277,11.07556",
+    "geom:latitude":11.07556,
+    "geom:longitude":14.31277,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tchikire",
+    "gn:country_code":"CM",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6685573,
+    "gn:latitude":11.07556,
+    "gn:longitude":14.31277,
+    "gn:modification_date":"2008-05-30",
+    "gn:name":"Tchikir\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6685573
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d96bf670e664266c4cfe8e7a1f80a5d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011759,
+            "locality_id":1293566417,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1293566417,
+    "wof:lastmodified":1536673327,
+    "wof:name":"Tchikire",
+    "wof:parent_id":1092011759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.31277,
+    11.07556,
+    14.31277,
+    11.07556
+],
+  "geometry": {"coordinates":[14.31277,11.07556],"type":"Point"}
+}

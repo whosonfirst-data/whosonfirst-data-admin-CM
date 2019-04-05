@@ -1,0 +1,71 @@
+{
+  "id": 1259684555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.21667,3.5,15.21667,3.5",
+    "geom:latitude":3.5,
+    "geom:longitude":15.21667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Menziong",
+    "gn:country_code":"CM",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2227049,
+    "gn:latitude":3.5,
+    "gn:longitude":15.21667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Menziong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meuzion",
+        "Menziong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2227049
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"2ec82acdb5575cc563425d252d18ba03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011465,
+            "locality_id":1259684555,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1259684555,
+    "wof:lastmodified":1537591250,
+    "wof:name":"Menziong",
+    "wof:parent_id":1092011465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.21667,
+    3.5,
+    15.21667,
+    3.5
+],
+  "geometry": {"coordinates":[15.21667,3.5],"type":"Point"}
+}

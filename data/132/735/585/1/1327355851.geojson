@@ -1,0 +1,70 @@
+{
+  "id": 1327355851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.04028,5.41362,10.04028,5.41362",
+    "geom:latitude":5.41362,
+    "geom:longitude":10.04028,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lepo",
+    "gn:country_code":"CM",
+    "gn:dem":1394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7108915,
+    "gn:latitude":5.41362,
+    "gn:longitude":10.04028,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Lepo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lepo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7108915
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"55c11e263464c31f00eafd5773cd279b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1327355851,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1327355851,
+    "wof:lastmodified":1537591354,
+    "wof:name":"Lepo",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.04028,
+    5.41362,
+    10.04028,
+    5.41362
+],
+  "geometry": {"coordinates":[10.04028,5.41362],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1243158477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.25,9.91667,13.25,9.91667",
+    "geom:latitude":9.91667,
+    "geom:longitude":13.25,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ouro Djidjoua",
+    "gn:country_code":"CM",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222867,
+    "gn:latitude":9.91667,
+    "gn:longitude":13.25,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ouro Djidjoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287,
+        85632735,
+        85675451,
+        1108563927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222867
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"8b85f2c7dadc7724c609c356840be1ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1243158477,
+            "region_id":85669957
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563927,
+            "locality_id":1243158477,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1243158477,
+    "wof:lastmodified":1536724123,
+    "wof:name":"Ouro Djidjoua",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.25,
+    9.91667,
+    13.25,
+    9.91667
+],
+  "geometry": {"coordinates":[13.25,9.91667],"type":"Point"}
+}

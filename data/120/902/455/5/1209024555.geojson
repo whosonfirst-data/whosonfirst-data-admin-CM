@@ -1,0 +1,61 @@
+{
+  "id": 1209024555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.3,6.31667,11.3,6.31667",
+    "geom:latitude":6.31667,
+    "geom:longitude":11.3,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Biridjom",
+    "gn:country_code":"CM",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233991,
+    "gn:latitude":6.31667,
+    "gn:longitude":11.3,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Biridjom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233991
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"4d0951981745b29540cd030565fedab5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209024555
+        }
+    ],
+    "wof:id":1209024555,
+    "wof:lastmodified":1536300042,
+    "wof:name":"Biridjom",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.3,
+    6.3166699999999985,
+    11.3,
+    6.3166699999999985
+],
+  "geometry": {"coordinates":[11.3,6.31667],"type":"Point"}
+}

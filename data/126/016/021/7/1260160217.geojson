@@ -1,0 +1,67 @@
+{
+  "id": 1260160217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.36973,9.89572,13.36973,9.89572",
+    "geom:latitude":9.89572,
+    "geom:longitude":13.36973,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Doundehi Mbabi",
+    "gn:country_code":"CM",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8673807,
+    "gn:latitude":9.89572,
+    "gn:longitude":13.36973,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Dound\u00e9hi Mbabi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8673807
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"71ed4ed34f417ebb7b1c0b16d80ef1fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1260160217,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1260160217,
+    "wof:lastmodified":1536879148,
+    "wof:name":"Doundehi Mbabi",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.36973,
+    9.89572,
+    13.36973,
+    9.89572
+],
+  "geometry": {"coordinates":[13.36973,9.89572],"type":"Point"}
+}

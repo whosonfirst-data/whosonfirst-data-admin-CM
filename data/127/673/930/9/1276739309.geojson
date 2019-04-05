@@ -1,0 +1,67 @@
+{
+  "id": 1276739309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0525,7.2198,15.0525,7.2198",
+    "geom:latitude":7.2198,
+    "geom:longitude":15.0525,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mbonou Lania",
+    "gn:country_code":"CM",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6870308,
+    "gn:latitude":7.2198,
+    "gn:longitude":15.0525,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Mbonou Lania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6870308
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c54c286469f378b568735fcb11423e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011703,
+            "locality_id":1276739309,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1276739309,
+    "wof:lastmodified":1536732166,
+    "wof:name":"Mbonou Lania",
+    "wof:parent_id":1092011703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0525,
+    7.2198,
+    15.0525,
+    7.2198
+],
+  "geometry": {"coordinates":[15.0525,7.2198],"type":"Point"}
+}

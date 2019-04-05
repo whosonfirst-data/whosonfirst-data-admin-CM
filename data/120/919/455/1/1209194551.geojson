@@ -1,0 +1,67 @@
+{
+  "id": 1209194551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.68152,10.78114,14.68152,10.78114",
+    "geom:latitude":10.78114,
+    "geom:longitude":14.68152,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Guingley",
+    "gn:country_code":"CM",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2230865,
+    "gn:latitude":10.78114,
+    "gn:longitude":14.68152,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Guingley",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ginglei",
+        "Guingler",
+        "Guingle\u00ef",
+        "Guingley"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2230865
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"4da6734a7eb81795ea0596f96ea1870e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209194551
+        }
+    ],
+    "wof:id":1209194551,
+    "wof:lastmodified":1537591288,
+    "wof:name":"Guingley",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.68152,
+    10.78114,
+    14.68152,
+    10.78114
+],
+  "geometry": {"coordinates":[14.68152,10.78114],"type":"Point"}
+}

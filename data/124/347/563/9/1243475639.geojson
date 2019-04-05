@@ -1,0 +1,67 @@
+{
+  "id": 1243475639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.43987,5.97916,10.43987,5.97916",
+    "geom:latitude":5.97916,
+    "geom:longitude":10.43987,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Momo",
+    "gn:country_code":"CM",
+    "gn:dem":1173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9096503,
+    "gn:latitude":5.97916,
+    "gn:longitude":10.43987,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Momo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9096503
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"3d4fb88f25df52cf4c5fc5d209349f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010693,
+            "locality_id":1243475639,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1243475639,
+    "wof:lastmodified":1536763806,
+    "wof:name":"Momo",
+    "wof:parent_id":1092010693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.43987,
+    5.97916,
+    10.43987,
+    5.97916
+],
+  "geometry": {"coordinates":[10.43987,5.97916],"type":"Point"}
+}

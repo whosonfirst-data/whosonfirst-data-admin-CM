@@ -1,0 +1,67 @@
+{
+  "id": 1293171721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.21667,2.9,11.21667,2.9",
+    "geom:latitude":2.9,
+    "geom:longitude":11.21667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bouss",
+    "gn:country_code":"CM",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233439,
+    "gn:latitude":2.9,
+    "gn:longitude":11.21667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Bouss",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669971,
+        1092012173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233439
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"244279225e4a7423f26395b2b6ec7f07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012173,
+            "locality_id":1293171721,
+            "region_id":85669971
+        }
+    ],
+    "wof:id":1293171721,
+    "wof:lastmodified":1536745118,
+    "wof:name":"Bouss",
+    "wof:parent_id":1092012173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.21667,
+    2.9,
+    11.21667,
+    2.9
+],
+  "geometry": {"coordinates":[11.21667,2.9],"type":"Point"}
+}

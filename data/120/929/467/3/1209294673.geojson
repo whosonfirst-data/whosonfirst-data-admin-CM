@@ -1,0 +1,61 @@
+{
+  "id": 1209294673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07934,11.61148,15.07934,11.61148",
+    "geom:latitude":11.61148,
+    "geom:longitude":15.07934,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Braka",
+    "gn:country_code":"CM",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6769412,
+    "gn:latitude":11.61148,
+    "gn:longitude":15.07934,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Braka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6769412
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"7260c29c01394b4e85578a392da20f1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209294673
+        }
+    ],
+    "wof:id":1209294673,
+    "wof:lastmodified":1536291571,
+    "wof:name":"Braka",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07934,
+    11.61148,
+    15.07934,
+    11.61148
+],
+  "geometry": {"coordinates":[15.07934,11.61148],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343638723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.71179,10.1014,14.71179,10.1014",
+    "geom:latitude":10.1014,
+    "geom:longitude":14.71179,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Pitchotonguel",
+    "gn:country_code":"CM",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6731581,
+    "gn:latitude":10.1014,
+    "gn:longitude":14.71179,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Pitchotonguel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6731581
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"6df540edb20f024daa8d046f1204436f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011963,
+            "locality_id":1343638723,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1343638723,
+    "wof:lastmodified":1536985659,
+    "wof:name":"Pitchotonguel",
+    "wof:parent_id":1092011963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.71179,
+    10.1014,
+    14.71179,
+    10.1014
+],
+  "geometry": {"coordinates":[14.71179,10.1014],"type":"Point"}
+}

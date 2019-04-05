@@ -1,0 +1,67 @@
+{
+  "id": 1276427327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.47668,9.4703,13.47668,9.4703",
+    "geom:latitude":9.4703,
+    "geom:longitude":13.47668,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ndoudja",
+    "gn:country_code":"CM",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8665364,
+    "gn:latitude":9.4703,
+    "gn:longitude":13.47668,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ndoudja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8665364
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ea4dbb3f90c751a24ccd3c498ad8fc18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1276427327,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1276427327,
+    "wof:lastmodified":1536652619,
+    "wof:name":"Ndoudja",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.47668,
+    9.4703,
+    13.47668,
+    9.4703
+],
+  "geometry": {"coordinates":[13.47668,9.4703],"type":"Point"}
+}

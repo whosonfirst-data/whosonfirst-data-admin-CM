@@ -1,0 +1,71 @@
+{
+  "id": 1259763393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97477,10.89817,13.97477,10.89817",
+    "geom:latitude":10.89817,
+    "geom:longitude":13.97477,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Djingue",
+    "gn:country_code":"CM",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2232796,
+    "gn:latitude":10.89817,
+    "gn:longitude":13.97477,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Djingu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djing\u00e9",
+        "Djingu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2232796
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"feedb4994d37ace5da3938b3490a5000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1259763393,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1259763393,
+    "wof:lastmodified":1537591309,
+    "wof:name":"Djingue",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97477,
+    10.89817,
+    13.97477,
+    10.89817
+],
+  "geometry": {"coordinates":[13.97477,10.89817],"type":"Point"}
+}

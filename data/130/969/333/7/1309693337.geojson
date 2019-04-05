@@ -1,0 +1,67 @@
+{
+  "id": 1309693337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.16667,4.8,11.16667,4.8",
+    "geom:latitude":4.8,
+    "geom:longitude":11.16667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Dodiare",
+    "gn:country_code":"CM",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2232688,
+    "gn:latitude":4.8,
+    "gn:longitude":11.16667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Dodiar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2232688
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c9ad8476040a23932da51e8b36288be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011309,
+            "locality_id":1309693337,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1309693337,
+    "wof:lastmodified":1537090091,
+    "wof:name":"Dodiare",
+    "wof:parent_id":1092011309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.16667,
+    4.8,
+    11.16667,
+    4.8
+],
+  "geometry": {"coordinates":[11.16667,4.8],"type":"Point"}
+}

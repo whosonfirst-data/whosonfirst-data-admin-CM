@@ -1,0 +1,67 @@
+{
+  "id": 1343749983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.58333,5.85,11.58333,5.85",
+    "geom:latitude":5.85,
+    "geom:longitude":11.58333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Biwawe",
+    "gn:country_code":"CM",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233900,
+    "gn:latitude":5.85,
+    "gn:longitude":11.58333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Biwaw\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092012311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233900
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"64ae29ecab736555ae6ca41aa9a5a725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012311,
+            "locality_id":1343749983,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1343749983,
+    "wof:lastmodified":1536825097,
+    "wof:name":"Biwawe",
+    "wof:parent_id":1092012311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.58333,
+    5.85,
+    11.58333,
+    5.85
+],
+  "geometry": {"coordinates":[11.58333,5.85],"type":"Point"}
+}

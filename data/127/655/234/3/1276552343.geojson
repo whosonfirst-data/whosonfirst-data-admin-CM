@@ -1,0 +1,67 @@
+{
+  "id": 1276552343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.76667,3.71667,9.76667,3.71667",
+    "geom:latitude":3.71667,
+    "geom:longitude":9.76667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Nya Mben",
+    "gn:country_code":"CM",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223394,
+    "gn:latitude":3.71667,
+    "gn:longitude":9.76667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Nya Mben",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223394
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"185815ad53e396ec0637a75300705640",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011153,
+            "locality_id":1276552343,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1276552343,
+    "wof:lastmodified":1536981831,
+    "wof:name":"Nya Mben",
+    "wof:parent_id":1092011153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.76667,
+    3.71667,
+    9.76667,
+    3.71667
+],
+  "geometry": {"coordinates":[9.76667,3.71667],"type":"Point"}
+}

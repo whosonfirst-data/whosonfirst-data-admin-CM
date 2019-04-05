@@ -1,0 +1,88 @@
+{
+  "id": 890437831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.3144,4.0913,9.3144,4.0913",
+    "geom:latitude":4.0913,
+    "geom:longitude":9.3144,
+    "gn:country":"CM",
+    "gn:fcode":"PPL",
+    "gn:pop":47478,
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u0443\u0442\u0435\u043d\u0433\u0435\u043d\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Mutengene"
+    ],
+    "name:eng_x_preferred":[
+        "Mutengene"
+    ],
+    "name:fre_x_preferred":[
+        "Mutengene"
+    ],
+    "name:pol_x_preferred":[
+        "Mutengene"
+    ],
+    "name:por_x_preferred":[
+        "Mutengene"
+    ],
+    "name:swe_x_preferred":[
+        "Mutengene"
+    ],
+    "qs:name":"Mutengene",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092010823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225728,
+        "gp:id":12512353,
+        "qs:id":139002,
+        "wd:id":"Q10334043"
+    },
+    "wof:country":"CM",
+    "wof:created":1469052167,
+    "wof:geomhash":"f175b9a2af3df60555d20fce1bc0a5fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010823,
+            "locality_id":890437831,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":890437831,
+    "wof:lastmodified":1513938886,
+    "wof:name":"Mutengene",
+    "wof:parent_id":1092010823,
+    "wof:placetype":"locality",
+    "wof:population":47478,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.3144,
+    4.0913,
+    9.3144,
+    4.0913
+],
+  "geometry": {"coordinates":[9.3144,4.0913],"type":"Point"}
+}

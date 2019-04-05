@@ -1,0 +1,68 @@
+{
+  "id": 1344080609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.85786,5.58228,13.85786,5.58228",
+    "geom:latitude":5.58228,
+    "geom:longitude":13.85786,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2229251.0",
+    "gn:asciiname":"Mararaba",
+    "gn:country_code":"CM",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228412,
+    "gn:latitude":5.58228,
+    "gn:longitude":13.85786,
+    "gn:modification_date":"2014-09-03",
+    "gn:name":"Mararaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228412
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"bdba7a9c4206a9eccea6d3c5b83d3baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011395,
+            "locality_id":1344080609,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1344080609,
+    "wof:lastmodified":1536845486,
+    "wof:name":"Mararaba",
+    "wof:parent_id":1092011395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.85786,
+    5.58228,
+    13.85786,
+    5.58228
+],
+  "geometry": {"coordinates":[13.85786,5.58228],"type":"Point"}
+}

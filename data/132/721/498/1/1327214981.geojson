@@ -1,0 +1,67 @@
+{
+  "id": 1327214981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.28333,4.18333,11.28333,4.18333",
+    "geom:latitude":4.18333,
+    "geom:longitude":11.28333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Okok",
+    "gn:country_code":"CM",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223218,
+    "gn:latitude":4.18333,
+    "gn:longitude":11.28333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Okok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092012079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223218
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"2fa0ef8e68d0751faa0b0db78b2acd3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012079,
+            "locality_id":1327214981,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1327214981,
+    "wof:lastmodified":1536993987,
+    "wof:name":"Okok",
+    "wof:parent_id":1092012079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.28333,
+    4.18333,
+    11.28333,
+    4.18333
+],
+  "geometry": {"coordinates":[11.28333,4.18333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310182397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9081,10.38168,13.9081,10.38168",
+    "geom:latitude":10.38168,
+    "geom:longitude":13.9081,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Djimeita",
+    "gn:country_code":"CM",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8990713,
+    "gn:latitude":10.38168,
+    "gn:longitude":13.9081,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Djim\u00e9ita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8990713
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"288eeb3e21d98b8e19a8ce9f4ab8be16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1310182397,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1310182397,
+    "wof:lastmodified":1536885185,
+    "wof:name":"Djimeita",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9081,
+    10.38168,
+    13.9081,
+    10.38168
+],
+  "geometry": {"coordinates":[13.9081,10.38168],"type":"Point"}
+}

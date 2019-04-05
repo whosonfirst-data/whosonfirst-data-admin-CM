@@ -1,0 +1,70 @@
+{
+  "id": 1242965197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.05054,5.81105,10.05054,5.81105",
+    "geom:latitude":5.81105,
+    "geom:longitude":10.05054,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kwengnen",
+    "gn:country_code":"CM",
+    "gn:dem":1704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7108956,
+    "gn:latitude":5.81105,
+    "gn:longitude":10.05054,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Kwengnen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kwengnen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7108956
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f1a9d00c7ddb5d7c65d7bfe3ea83a9ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010661,
+            "locality_id":1242965197,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1242965197,
+    "wof:lastmodified":1537591355,
+    "wof:name":"Kwengnen",
+    "wof:parent_id":1092010661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.05054,
+    5.81105,
+    10.05054,
+    5.81105
+],
+  "geometry": {"coordinates":[10.05054,5.81105],"type":"Point"}
+}

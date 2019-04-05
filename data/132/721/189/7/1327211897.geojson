@@ -1,0 +1,67 @@
+{
+  "id": 1327211897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.18333,5.23333,12.18333,5.23333",
+    "geom:latitude":5.23333,
+    "geom:longitude":12.18333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mbemdem",
+    "gn:country_code":"CM",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2227875,
+    "gn:latitude":5.23333,
+    "gn:longitude":12.18333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mbemdem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092012311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2227875
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"6f34cdbf0bb461e1320b78192a5c3e0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012311,
+            "locality_id":1327211897,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1327211897,
+    "wof:lastmodified":1536998544,
+    "wof:name":"Mbemdem",
+    "wof:parent_id":1092012311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.18333,
+    5.23333,
+    12.18333,
+    5.23333
+],
+  "geometry": {"coordinates":[12.18333,5.23333],"type":"Point"}
+}

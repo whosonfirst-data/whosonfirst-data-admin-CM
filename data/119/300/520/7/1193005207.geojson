@@ -1,0 +1,67 @@
+{
+  "id": 1193005207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81148,12.2592,14.81148,12.2592",
+    "geom:latitude":12.2592,
+    "geom:longitude":14.81148,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sao",
+    "gn:country_code":"CM",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222216,
+    "gn:latitude":12.2592,
+    "gn:longitude":14.81148,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Sao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222216
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"873a0bd54a072937e0ffe5100e4d4393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1193005207,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1193005207,
+    "wof:lastmodified":1536366497,
+    "wof:name":"Sao",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81148,
+    12.2592,
+    14.81148,
+    12.2592
+],
+  "geometry": {"coordinates":[14.81148,12.2592],"type":"Point"}
+}

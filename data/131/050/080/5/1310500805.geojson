@@ -1,0 +1,67 @@
+{
+  "id": 1310500805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.92204,5.08499,9.92204,5.08499",
+    "geom:latitude":5.08499,
+    "geom:longitude":9.92204,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ndidiang",
+    "gn:country_code":"CM",
+    "gn:dem":1025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2225271,
+    "gn:latitude":5.08499,
+    "gn:longitude":9.92204,
+    "gn:modification_date":"2008-10-15",
+    "gn:name":"Ndidiang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225271
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"fe20f47eee5fe298d276eabe36601395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011087,
+            "locality_id":1310500805,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1310500805,
+    "wof:lastmodified":1536924399,
+    "wof:name":"Ndidiang",
+    "wof:parent_id":1092011087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.92204,
+    5.08499,
+    9.92204,
+    5.08499
+],
+  "geometry": {"coordinates":[9.92204,5.08499],"type":"Point"}
+}

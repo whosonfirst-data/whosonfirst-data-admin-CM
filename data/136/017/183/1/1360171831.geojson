@@ -1,0 +1,77 @@
+{
+  "id": 1360171831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.64723,11.96846,14.64723,11.96846",
+    "geom:latitude":11.96846,
+    "geom:longitude":14.64723,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Djogone",
+    "gn:country_code":"CM",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2232776,
+    "gn:latitude":11.96846,
+    "gn:longitude":14.64723,
+    "gn:modification_date":"2008-05-30",
+    "gn:name":"Djogone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735,
+        85632735,
+        85675301,
+        1108563761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2232776
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"10b3e4ac98b5c3f622491c02e68a4550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1360171831,
+            "region_id":85669933
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563761,
+            "locality_id":1360171831,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1360171831,
+    "wof:lastmodified":1536819683,
+    "wof:name":"Djogone",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64723,
+    11.96846,
+    14.64723,
+    11.96846
+],
+  "geometry": {"coordinates":[14.64723,11.96846],"type":"Point"}
+}

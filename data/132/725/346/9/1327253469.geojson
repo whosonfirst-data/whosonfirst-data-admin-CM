@@ -1,0 +1,73 @@
+{
+  "id": 1327253469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.82935,5.23405,10.82935,5.23405",
+    "geom:latitude":5.23405,
+    "geom:longitude":10.82935,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Maloua",
+    "gn:country_code":"CM",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228749,
+    "gn:latitude":5.23405,
+    "gn:longitude":10.82935,
+    "gn:modification_date":"2013-08-04",
+    "gn:name":"Maloua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Maloa"
+    ],
+    "name:fra_x_variant":[
+        "Maloua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228749
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"164d674bc994de5fe64bc77f17b69ba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010521,
+            "locality_id":1327253469,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1327253469,
+    "wof:lastmodified":1537591265,
+    "wof:name":"Maloua",
+    "wof:parent_id":1092010521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.82935,
+    5.23405,
+    10.82935,
+    5.23405
+],
+  "geometry": {"coordinates":[10.82935,5.23405],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343440527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3967,9.1579,14.3967,9.1579",
+    "geom:latitude":9.1579,
+    "geom:longitude":14.3967,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tchabal",
+    "gn:country_code":"CM",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221652,
+    "gn:latitude":9.1579,
+    "gn:longitude":14.3967,
+    "gn:modification_date":"2008-10-27",
+    "gn:name":"Tchabal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900237,
+        85632245,
+        85669957,
+        1092011703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221652
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f7b81b8891d657f42a2c13d2bd3e287d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900237,
+            "locality_id":1343440527,
+            "region_id":85678495
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011703,
+            "locality_id":1343440527,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1343440527,
+    "wof:lastmodified":1536775685,
+    "wof:name":"Tchabal",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3967,
+    9.1579,
+    14.3967,
+    9.1579
+],
+  "geometry": {"coordinates":[14.3967,9.1579],"type":"Point"}
+}

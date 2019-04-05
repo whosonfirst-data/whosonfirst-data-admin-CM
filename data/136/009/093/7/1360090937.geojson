@@ -1,0 +1,67 @@
+{
+  "id": 1360090937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.61667,3.16667,13.61667,3.16667",
+    "geom:latitude":3.16667,
+    "geom:longitude":13.61667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ngoulmokong",
+    "gn:country_code":"CM",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2224513,
+    "gn:latitude":3.16667,
+    "gn:longitude":13.61667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ngoulmokong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2224513
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"3af7081c5baa6c4642635da5eea275e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011347,
+            "locality_id":1360090937,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1360090937,
+    "wof:lastmodified":1536937935,
+    "wof:name":"Ngoulmokong",
+    "wof:parent_id":1092011347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.61667,
+    3.16667,
+    13.61667,
+    3.16667
+],
+  "geometry": {"coordinates":[13.61667,3.16667],"type":"Point"}
+}

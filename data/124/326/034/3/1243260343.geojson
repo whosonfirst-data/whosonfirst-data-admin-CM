@@ -1,0 +1,70 @@
+{
+  "id": 1243260343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.57164,5.97702,10.57164,5.97702",
+    "geom:latitude":5.97702,
+    "geom:longitude":10.57164,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kwatang",
+    "gn:country_code":"CM",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7108676,
+    "gn:latitude":5.97702,
+    "gn:longitude":10.57164,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Kwatang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kwatang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7108676
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"744b7eba0a68897aae492749bbde1523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010693,
+            "locality_id":1243260343,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1243260343,
+    "wof:lastmodified":1537591352,
+    "wof:name":"Kwatang",
+    "wof:parent_id":1092010693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.57164,
+    5.97702,
+    10.57164,
+    5.97702
+],
+  "geometry": {"coordinates":[10.57164,5.97702],"type":"Point"}
+}

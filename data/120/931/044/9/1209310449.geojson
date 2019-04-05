@@ -1,0 +1,61 @@
+{
+  "id": 1209310449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.6676,4.5627,8.6676,4.5627",
+    "geom:latitude":4.5627,
+    "geom:longitude":8.6676,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ebwota",
+    "gn:country_code":"CM",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6915355,
+    "gn:latitude":4.5627,
+    "gn:longitude":8.6676,
+    "gn:modification_date":"2009-01-07",
+    "gn:name":"Ebwota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6915355
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"9513f8323652c3ef71df625b3c0c266e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209310449
+        }
+    ],
+    "wof:id":1209310449,
+    "wof:lastmodified":1536291047,
+    "wof:name":"Ebwota",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.6676,
+    4.5627,
+    8.6676,
+    4.5627
+],
+  "geometry": {"coordinates":[8.6676,4.5627],"type":"Point"}
+}

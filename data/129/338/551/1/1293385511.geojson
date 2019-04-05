@@ -1,0 +1,70 @@
+{
+  "id": 1293385511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.0716,5.55925,10.0716,5.55925",
+    "geom:latitude":5.55925,
+    "geom:longitude":10.0716,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ndo",
+    "gn:country_code":"CM",
+    "gn:dem":1856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7108909,
+    "gn:latitude":5.55925,
+    "gn:longitude":10.0716,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Ndo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ndo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7108909
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"334c4f1ffd0c956f2fb8ddaf1bf6972e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1293385511,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1293385511,
+    "wof:lastmodified":1537591354,
+    "wof:name":"Ndo",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0716,
+    5.55925,
+    10.0716,
+    5.55925
+],
+  "geometry": {"coordinates":[10.0716,5.55925],"type":"Point"}
+}

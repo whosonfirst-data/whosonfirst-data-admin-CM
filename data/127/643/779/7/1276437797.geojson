@@ -1,0 +1,67 @@
+{
+  "id": 1276437797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.45228,5.30203,10.45228,5.30203",
+    "geom:latitude":5.30203,
+    "geom:longitude":10.45228,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hiala'",
+    "gn:country_code":"CM",
+    "gn:dem":1446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8607755,
+    "gn:latitude":5.30203,
+    "gn:longitude":10.45228,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Hiala\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092012225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8607755
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5b6414482bdf967e35e327b0e91e3204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012225,
+            "locality_id":1276437797,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1276437797,
+    "wof:lastmodified":1536637532,
+    "wof:name":"Hiala'",
+    "wof:parent_id":1092012225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.45228,
+    5.30203,
+    10.45228,
+    5.30203
+],
+  "geometry": {"coordinates":[10.45228,5.30203],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309699415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.95291,11.9114,14.95291,11.9114",
+    "geom:latitude":11.9114,
+    "geom:longitude":14.95291,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mildi",
+    "gn:country_code":"CM",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2226687,
+    "gn:latitude":11.9114,
+    "gn:longitude":14.95291,
+    "gn:modification_date":"2008-05-30",
+    "gn:name":"Mildi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2226687
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"a6b745dd111254ecdf82a6fd38de9d3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1309699415,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1309699415,
+    "wof:lastmodified":1537081387,
+    "wof:name":"Mildi",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.95291,
+    11.9114,
+    14.95291,
+    11.9114
+],
+  "geometry": {"coordinates":[14.95291,11.9114],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243344625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.48333,3.88333,11.48333,3.88333",
+    "geom:latitude":3.88333,
+    "geom:longitude":11.48333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mesa",
+    "gn:country_code":"CM",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2227024,
+    "gn:latitude":3.88333,
+    "gn:longitude":11.48333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mesa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092012045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2227024
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"708b1be0d7a32ea478f9e9f921eabe83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012045,
+            "locality_id":1243344625,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1243344625,
+    "wof:lastmodified":1536952541,
+    "wof:name":"Mesa",
+    "wof:parent_id":1092012045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.48333,
+    3.88333,
+    11.48333,
+    3.88333
+],
+  "geometry": {"coordinates":[11.48333,3.88333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1277157351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.71554,11.00403,14.71554,11.00403",
+    "geom:latitude":11.00403,
+    "geom:longitude":14.71554,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Alagarno Mouzgoum",
+    "gn:country_code":"CM",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2235736,
+    "gn:latitude":11.00403,
+    "gn:longitude":14.71554,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Alagarno Mouzgoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alagarno Mousgoum",
+        "Alagarno Mouzgoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2235736
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"070259db8ea4865b4342283e9f0816e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011977,
+            "locality_id":1277157351,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1277157351,
+    "wof:lastmodified":1537591341,
+    "wof:name":"Alagarno Mouzgoum",
+    "wof:parent_id":1092011977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.71554,
+    11.00403,
+    14.71554,
+    11.00403
+],
+  "geometry": {"coordinates":[14.71554,11.00403],"type":"Point"}
+}

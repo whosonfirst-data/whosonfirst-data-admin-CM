@@ -1,0 +1,67 @@
+{
+  "id": 1225920541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.78333,9.58333,13.78333,9.58333",
+    "geom:latitude":9.58333,
+    "geom:longitude":13.78333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Goudje",
+    "gn:country_code":"CM",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231032,
+    "gn:latitude":9.58333,
+    "gn:longitude":13.78333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Goudj\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231032
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5b7d1939f1a297b574a8f0331287f9ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1225920541,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1225920541,
+    "wof:lastmodified":1536906127,
+    "wof:name":"Goudje",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.78333,
+    9.58333,
+    13.78333,
+    9.58333
+],
+  "geometry": {"coordinates":[13.78333,9.58333],"type":"Point"}
+}

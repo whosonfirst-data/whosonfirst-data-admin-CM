@@ -1,0 +1,67 @@
+{
+  "id": 1259679403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.32692,5.41955,10.32692,5.41955",
+    "geom:latitude":5.41955,
+    "geom:longitude":10.32692,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Njila'",
+    "gn:country_code":"CM",
+    "gn:dem":1505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8607487,
+    "gn:latitude":5.41955,
+    "gn:longitude":10.32692,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Njila\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092012197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8607487
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"1cf3c2639a06acb78189c1d1b113ee7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012197,
+            "locality_id":1259679403,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1259679403,
+    "wof:lastmodified":1537069891,
+    "wof:name":"Njila'",
+    "wof:parent_id":1092012197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.32692,
+    5.41955,
+    10.32692,
+    5.41955
+],
+  "geometry": {"coordinates":[10.32692,5.41955],"type":"Point"}
+}

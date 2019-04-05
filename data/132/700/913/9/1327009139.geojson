@@ -1,0 +1,71 @@
+{
+  "id": 1327009139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.35362,9.47642,13.35362,9.47642",
+    "geom:latitude":9.47642,
+    "geom:longitude":13.35362,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tifel",
+    "gn:country_code":"CM",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221518,
+    "gn:latitude":9.47642,
+    "gn:longitude":13.35362,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Tif\u00e8l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tif\u00e8l",
+        "Tifel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221518
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f3a65ff3abfc37f9ca4d412142174d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1327009139,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1327009139,
+    "wof:lastmodified":1537591199,
+    "wof:name":"Tifel",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.35362,
+    9.47642,
+    13.35362,
+    9.47642
+],
+  "geometry": {"coordinates":[13.35362,9.47642],"type":"Point"}
+}

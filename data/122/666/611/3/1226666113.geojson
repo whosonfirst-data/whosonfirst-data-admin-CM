@@ -1,0 +1,77 @@
+{
+  "id": 1226666113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.0945,5.57831,10.0945,5.57831",
+    "geom:latitude":5.57831,
+    "geom:longitude":10.0945,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ntsuetetsa",
+    "gn:country_code":"CM",
+    "gn:dem":1870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2232698,
+    "gn:latitude":5.57831,
+    "gn:longitude":10.0945,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ntsu\u00e9tetsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Djuttitsa"
+    ],
+    "name:fra_x_variant":[
+        "Ntsu\u00e9tetsa",
+        "Djutittsa"
+    ],
+    "name:und_x_variant":[
+        "Djutittsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2232698
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5f7f3bcb3c119c1a175163aa7f64a689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1226666113,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1226666113,
+    "wof:lastmodified":1537591308,
+    "wof:name":"Ntsuetetsa",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0945,
+    5.57831,
+    10.0945,
+    5.57831
+],
+  "geometry": {"coordinates":[10.0945,5.57831],"type":"Point"}
+}

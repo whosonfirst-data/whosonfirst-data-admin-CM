@@ -1,0 +1,67 @@
+{
+  "id": 1276143661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.33572,5.96611,10.33572,5.96611",
+    "geom:latitude":5.96611,
+    "geom:longitude":10.33572,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bukejam",
+    "gn:country_code":"CM",
+    "gn:dem":1220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9096465,
+    "gn:latitude":5.96611,
+    "gn:longitude":10.33572,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Buk\u00e9jam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9096465
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c65eb28374c2477b96aac5695e41ff86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010661,
+            "locality_id":1276143661,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1276143661,
+    "wof:lastmodified":1537031527,
+    "wof:name":"Bukejam",
+    "wof:parent_id":1092010661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.33572,
+    5.96611,
+    10.33572,
+    5.96611
+],
+  "geometry": {"coordinates":[10.33572,5.96611],"type":"Point"}
+}

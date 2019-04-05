@@ -1,0 +1,67 @@
+{
+  "id": 1326917391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.01606,10.40857,14.01606,10.40857",
+    "geom:latitude":10.40857,
+    "geom:longitude":14.01606,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kibeng",
+    "gn:country_code":"CM",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6730221,
+    "gn:latitude":10.40857,
+    "gn:longitude":14.01606,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Kibeng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6730221
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"dcdc44b52e25a90e6894474332f442b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011977,
+            "locality_id":1326917391,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1326917391,
+    "wof:lastmodified":1536926903,
+    "wof:name":"Kibeng",
+    "wof:parent_id":1092011977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.01606,
+    10.40857,
+    14.01606,
+    10.40857
+],
+  "geometry": {"coordinates":[14.01606,10.40857],"type":"Point"}
+}

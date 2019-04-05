@@ -1,0 +1,61 @@
+{
+  "id": 1209200977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.66667,9.56667,13.66667,9.56667",
+    "geom:latitude":9.56667,
+    "geom:longitude":13.66667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Rnana",
+    "gn:country_code":"CM",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222412,
+    "gn:latitude":9.56667,
+    "gn:longitude":13.66667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Rnana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222412
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"237ce7f871248473ae9fafe535ef012e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209200977
+        }
+    ],
+    "wof:id":1209200977,
+    "wof:lastmodified":1536294612,
+    "wof:name":"Rnana",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.666670000000002,
+    9.56667,
+    13.666670000000002,
+    9.56667
+],
+  "geometry": {"coordinates":[13.66667,9.56667],"type":"Point"}
+}

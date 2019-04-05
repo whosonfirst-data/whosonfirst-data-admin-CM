@@ -1,0 +1,67 @@
+{
+  "id": 1293469877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88314,10.02098,14.88314,10.02098",
+    "geom:latitude":10.02098,
+    "geom:longitude":14.88314,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Dadjamka",
+    "gn:country_code":"CM",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6731608,
+    "gn:latitude":10.02098,
+    "gn:longitude":14.88314,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Dadjamka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1108390249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6731608
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"b88f926b07f83700941b7e61c93eab8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1108390249,
+            "locality_id":1293469877,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1293469877,
+    "wof:lastmodified":1536811967,
+    "wof:name":"Dadjamka",
+    "wof:parent_id":1108390249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88314,
+    10.02098,
+    14.88314,
+    10.02098
+],
+  "geometry": {"coordinates":[14.88314,10.02098],"type":"Point"}
+}

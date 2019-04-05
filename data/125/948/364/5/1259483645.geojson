@@ -1,0 +1,71 @@
+{
+  "id": 1259483645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01667,3.21667,15.01667,3.21667",
+    "geom:latitude":3.21667,
+    "geom:longitude":15.01667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Badekok",
+    "gn:country_code":"CM",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2235243,
+    "gn:latitude":3.21667,
+    "gn:longitude":15.01667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bad\u00e9kok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bend\u00e9ko",
+        "Bad\u00e9kok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2235243
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"9c2bd53374a381010f8e10918105aa72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011465,
+            "locality_id":1259483645,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1259483645,
+    "wof:lastmodified":1537591335,
+    "wof:name":"Badekok",
+    "wof:parent_id":1092011465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01667,
+    3.21667,
+    15.01667,
+    3.21667
+],
+  "geometry": {"coordinates":[15.01667,3.21667],"type":"Point"}
+}

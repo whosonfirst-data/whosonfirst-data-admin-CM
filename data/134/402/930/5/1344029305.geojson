@@ -1,0 +1,71 @@
+{
+  "id": 1344029305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.96152,9.81591,13.96152,9.81591",
+    "geom:latitude":9.81591,
+    "geom:longitude":13.96152,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ouro Maloum Sidiki",
+    "gn:country_code":"CM",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222065,
+    "gn:latitude":9.81591,
+    "gn:longitude":13.96152,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Ouro Maloum Sidiki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidiki",
+        "Ouro Malloum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222065
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f9e96052607d25fd220671afd3fb0bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1344029305,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1344029305,
+    "wof:lastmodified":1537591204,
+    "wof:name":"Ouro Maloum Sidiki",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.96152,
+    9.81591,
+    13.96152,
+    9.81591
+],
+  "geometry": {"coordinates":[13.96152,9.81591],"type":"Point"}
+}

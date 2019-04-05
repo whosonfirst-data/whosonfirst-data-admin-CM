@@ -1,0 +1,66 @@
+{
+  "id": 890435499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.00472,4.2475,9.00472,4.2475",
+    "geom:latitude":4.2475,
+    "geom:longitude":9.00472,
+    "gn:country":"CM",
+    "gn:fcode":"PPL",
+    "gn:pop":17800,
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Idenao",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092010823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594800,
+        "gp:id":1301828,
+        "qs:id":1036679
+    },
+    "wof:country":"CM",
+    "wof:created":1469052070,
+    "wof:geomhash":"e72b2a45f53686dbb1f10efff56f5ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010823,
+            "locality_id":890435499,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":890435499,
+    "wof:lastmodified":1505343548,
+    "wof:name":"Idenao",
+    "wof:parent_id":1092010823,
+    "wof:placetype":"locality",
+    "wof:population":17800,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.00472,
+    4.2475,
+    9.00472,
+    4.2475
+],
+  "geometry": {"coordinates":[9.00472,4.2475],"type":"Point"}
+}

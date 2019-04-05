@@ -1,0 +1,67 @@
+{
+  "id": 1310089879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.9355,5.3802,8.9355,5.3802",
+    "geom:latitude":5.3802,
+    "geom:longitude":8.9355,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Abakpa",
+    "gn:country_code":"CM",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236155,
+    "gn:latitude":5.3802,
+    "gn:longitude":8.9355,
+    "gn:modification_date":"2008-10-02",
+    "gn:name":"Abakpa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236155
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f8930ae053cad54a1ada3ade5705057d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011003,
+            "locality_id":1310089879,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1310089879,
+    "wof:lastmodified":1537018289,
+    "wof:name":"Abakpa",
+    "wof:parent_id":1092011003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9355,
+    5.3802,
+    8.9355,
+    5.3802
+],
+  "geometry": {"coordinates":[8.9355,5.3802],"type":"Point"}
+}

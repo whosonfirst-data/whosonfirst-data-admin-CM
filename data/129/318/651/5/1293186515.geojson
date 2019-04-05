@@ -1,0 +1,70 @@
+{
+  "id": 1293186515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.65037,5.76449,10.65037,5.76449",
+    "geom:latitude":5.76449,
+    "geom:longitude":10.65037,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Njikwop",
+    "gn:country_code":"CM",
+    "gn:dem":1176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7110331,
+    "gn:latitude":5.76449,
+    "gn:longitude":10.65037,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Njikwop",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Njikwop"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7110331
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"cfd597816ff5dd5424232bd386812c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010521,
+            "locality_id":1293186515,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1293186515,
+    "wof:lastmodified":1537591364,
+    "wof:name":"Njikwop",
+    "wof:parent_id":1092010521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.65037,
+    5.76449,
+    10.65037,
+    5.76449
+],
+  "geometry": {"coordinates":[10.65037,5.76449],"type":"Point"}
+}

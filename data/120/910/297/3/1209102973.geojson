@@ -1,0 +1,61 @@
+{
+  "id": 1209102973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.01685,5.40987,10.01685,5.40987",
+    "geom:latitude":5.40987,
+    "geom:longitude":10.01685,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Letie",
+    "gn:country_code":"CM",
+    "gn:dem":1415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8562521,
+    "gn:latitude":5.40987,
+    "gn:longitude":10.01685,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Letie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8562521
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c17329222ba84fc62fbae45086445b0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209102973
+        }
+    ],
+    "wof:id":1209102973,
+    "wof:lastmodified":1536297673,
+    "wof:name":"Letie",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.01685,
+    5.40987,
+    10.01685,
+    5.40987
+],
+  "geometry": {"coordinates":[10.01685,5.40987],"type":"Point"}
+}

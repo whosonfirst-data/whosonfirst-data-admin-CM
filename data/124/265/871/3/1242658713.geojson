@@ -1,0 +1,67 @@
+{
+  "id": 1242658713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.66667,3.7,10.66667,3.7",
+    "geom:latitude":3.7,
+    "geom:longitude":10.66667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Penanhouat",
+    "gn:country_code":"CM",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222628,
+    "gn:latitude":3.7,
+    "gn:longitude":10.66667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"P\u00e9nanhouat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222628
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5129b7d9b587b69d4643fbcf71e531fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011187,
+            "locality_id":1242658713,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1242658713,
+    "wof:lastmodified":1536947391,
+    "wof:name":"Penanhouat",
+    "wof:parent_id":1092011187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.66667,
+    3.7,
+    10.66667,
+    3.7
+],
+  "geometry": {"coordinates":[10.66667,3.7],"type":"Point"}
+}

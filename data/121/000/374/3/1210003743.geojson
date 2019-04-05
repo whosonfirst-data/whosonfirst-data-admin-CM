@@ -1,0 +1,71 @@
+{
+  "id": 1210003743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.64056,11.39028,14.64056,11.39028",
+    "geom:latitude":11.39028,
+    "geom:longitude":14.64056,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Khwaya",
+    "gn:country_code":"CM",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222405,
+    "gn:latitude":11.39028,
+    "gn:longitude":14.64056,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khwaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rohaya",
+        "Khwaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222405
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"44749e9d79dd1f123983893aea873964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1210003743,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1210003743,
+    "wof:lastmodified":1537591208,
+    "wof:name":"Khwaya",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64056,
+    11.39028,
+    14.64056,
+    11.39028
+],
+  "geometry": {"coordinates":[14.64056,11.39028],"type":"Point"}
+}

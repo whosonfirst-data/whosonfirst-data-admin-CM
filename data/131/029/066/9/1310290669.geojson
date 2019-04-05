@@ -1,0 +1,67 @@
+{
+  "id": 1310290669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.58709,5.74948,10.58709,5.74948",
+    "geom:latitude":5.74948,
+    "geom:longitude":10.58709,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Njingwen",
+    "gn:country_code":"CM",
+    "gn:dem":1166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9100897,
+    "gn:latitude":5.74948,
+    "gn:longitude":10.58709,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Njingwen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9100897
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"3b4f999b20dbe653a9dc49962bc367a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010521,
+            "locality_id":1310290669,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1310290669,
+    "wof:lastmodified":1536729741,
+    "wof:name":"Njingwen",
+    "wof:parent_id":1092010521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.58709,
+    5.74948,
+    10.58709,
+    5.74948
+],
+  "geometry": {"coordinates":[10.58709,5.74948],"type":"Point"}
+}

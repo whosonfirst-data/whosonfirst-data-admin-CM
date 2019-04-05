@@ -1,0 +1,67 @@
+{
+  "id": 1327313899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.91761,10.76323,13.91761,10.76323",
+    "geom:latitude":10.76323,
+    "geom:longitude":13.91761,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Pragadaya",
+    "gn:country_code":"CM",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074463,
+    "gn:latitude":10.76323,
+    "gn:longitude":13.91761,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Pragadaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074463
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"9ef7957e9784cfd9275b47852a71a330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1327313899,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1327313899,
+    "wof:lastmodified":1536850898,
+    "wof:name":"Pragadaya",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.91761,
+    10.76323,
+    13.91761,
+    10.76323
+],
+  "geometry": {"coordinates":[13.91761,10.76323],"type":"Point"}
+}

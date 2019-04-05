@@ -1,0 +1,67 @@
+{
+  "id": 1260050885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.5,2.93333,10.5,2.93333",
+    "geom:latitude":2.93333,
+    "geom:longitude":10.5,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Madjabibomg",
+    "gn:country_code":"CM",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2229015,
+    "gn:latitude":2.93333,
+    "gn:longitude":10.5,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Madjabibomg",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669971,
+        1092012139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2229015
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f2052fe1578c5d682b214a978c5e36d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012139,
+            "locality_id":1260050885,
+            "region_id":85669971
+        }
+    ],
+    "wof:id":1260050885,
+    "wof:lastmodified":1537033644,
+    "wof:name":"Madjabibomg",
+    "wof:parent_id":1092012139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.5,
+    2.93333,
+    10.5,
+    2.93333
+],
+  "geometry": {"coordinates":[10.5,2.93333],"type":"Point"}
+}

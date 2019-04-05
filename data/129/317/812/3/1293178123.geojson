@@ -1,0 +1,67 @@
+{
+  "id": 1293178123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03333,11.06667,14.03333,11.06667",
+    "geom:latitude":11.06667,
+    "geom:longitude":14.03333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bayoe",
+    "gn:country_code":"CM",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2234646,
+    "gn:latitude":11.06667,
+    "gn:longitude":14.03333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Bayo\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2234646
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"3065c75b24375322524882120087e828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011759,
+            "locality_id":1293178123,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1293178123,
+    "wof:lastmodified":1536736213,
+    "wof:name":"Bayoe",
+    "wof:parent_id":1092011759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03333,
+    11.06667,
+    14.03333,
+    11.06667
+],
+  "geometry": {"coordinates":[14.03333,11.06667],"type":"Point"}
+}

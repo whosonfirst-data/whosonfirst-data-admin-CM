@@ -1,0 +1,61 @@
+{
+  "id": 1209193681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.38601,9.90502,13.38601,9.90502",
+    "geom:latitude":9.90502,
+    "geom:longitude":13.38601,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Doumsi",
+    "gn:country_code":"CM",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8673808,
+    "gn:latitude":9.90502,
+    "gn:longitude":13.38601,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Doumsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8673808
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"436226088b60e74e781730ecc11a8d67",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209193681
+        }
+    ],
+    "wof:id":1209193681,
+    "wof:lastmodified":1536294847,
+    "wof:name":"Doumsi",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.38601,
+    9.90502,
+    13.38601,
+    9.90502
+],
+  "geometry": {"coordinates":[13.38601,9.90502],"type":"Point"}
+}

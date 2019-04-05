@@ -1,0 +1,67 @@
+{
+  "id": 1243349079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.26667,6.03333,11.26667,6.03333",
+    "geom:latitude":6.03333,
+    "geom:longitude":11.26667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tche",
+    "gn:country_code":"CM",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221632,
+    "gn:latitude":6.03333,
+    "gn:longitude":11.26667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Tche",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221632
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"6ce976ad539160ee4dfdbafd123df144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010521,
+            "locality_id":1243349079,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1243349079,
+    "wof:lastmodified":1536946380,
+    "wof:name":"Tche",
+    "wof:parent_id":1092010521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.26667,
+    6.03333,
+    11.26667,
+    6.03333
+],
+  "geometry": {"coordinates":[11.26667,6.03333],"type":"Point"}
+}

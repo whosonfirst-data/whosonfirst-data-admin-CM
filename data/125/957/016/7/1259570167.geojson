@@ -1,0 +1,80 @@
+{
+  "id": 1259570167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.95957,11.26284,13.95957,11.26284",
+    "geom:latitude":11.26284,
+    "geom:longitude":13.95957,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ndabakoro",
+    "gn:country_code":"CM",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6756937,
+    "gn:latitude":11.26284,
+    "gn:longitude":13.95957,
+    "gn:modification_date":"2014-02-11",
+    "gn:name":"Ndabakoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndabakora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011759,
+        85632735,
+        85675301,
+        1108563479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6756937
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"de41645cdbaa0e9bfdf307585d2cde81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011759,
+            "locality_id":1259570167,
+            "region_id":85669933
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563479,
+            "locality_id":1259570167,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1259570167,
+    "wof:lastmodified":1537591347,
+    "wof:name":"Ndabakoro",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95957,
+    11.26284,
+    13.95957,
+    11.26284
+],
+  "geometry": {"coordinates":[13.95957,11.26284],"type":"Point"}
+}

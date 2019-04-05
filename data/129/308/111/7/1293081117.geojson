@@ -1,0 +1,72 @@
+{
+  "id": 1293081117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.45249,10.06437,13.45249,10.06437",
+    "geom:latitude":10.06437,
+    "geom:longitude":13.45249,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Wandalang",
+    "gn:country_code":"CM",
+    "gn:dem":963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2229969,
+    "gn:latitude":10.06437,
+    "gn:longitude":13.45249,
+    "gn:modification_date":"2014-04-05",
+    "gn:name":"Wandalang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwadalang",
+        "Kouadalang",
+        "Wandalang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2229969
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5a41075d459ed8dbc31a79e0fbab0117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1293081117,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1293081117,
+    "wof:lastmodified":1537591277,
+    "wof:name":"Wandalang",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.45249,
+    10.06437,
+    13.45249,
+    10.06437
+],
+  "geometry": {"coordinates":[13.45249,10.06437],"type":"Point"}
+}

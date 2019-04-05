@@ -1,0 +1,67 @@
+{
+  "id": 1226642221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.54455,4.72047,9.54455,4.72047",
+    "geom:latitude":4.72047,
+    "geom:longitude":9.54455,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Etam",
+    "gn:country_code":"CM",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231831,
+    "gn:latitude":4.72047,
+    "gn:longitude":9.54455,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Etam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231831
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"7b375b44d190c541fbe82dc022459524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011063,
+            "locality_id":1226642221,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1226642221,
+    "wof:lastmodified":1536863151,
+    "wof:name":"Etam",
+    "wof:parent_id":1092011063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.54455,
+    4.72047,
+    9.54455,
+    4.72047
+],
+  "geometry": {"coordinates":[9.54455,4.72047],"type":"Point"}
+}

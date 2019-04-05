@@ -1,0 +1,70 @@
+{
+  "id": 1192994773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.77728,9.91042,13.77728,9.91042",
+    "geom:latitude":9.91042,
+    "geom:longitude":13.77728,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Laminguel",
+    "gn:country_code":"CM",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2229248,
+    "gn:latitude":9.91042,
+    "gn:longitude":13.77728,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Laminguel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lominguel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2229248
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"b7d278a8b6e1601d42457f55293c5550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1192994773,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1192994773,
+    "wof:lastmodified":1537591270,
+    "wof:name":"Laminguel",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.77728,
+    9.91042,
+    13.77728,
+    9.91042
+],
+  "geometry": {"coordinates":[13.77728,9.91042],"type":"Point"}
+}

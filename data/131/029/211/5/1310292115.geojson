@@ -1,0 +1,67 @@
+{
+  "id": 1310292115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.94168,10.83941,13.94168,10.83941",
+    "geom:latitude":10.83941,
+    "geom:longitude":13.94168,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Galanba",
+    "gn:country_code":"CM",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074112,
+    "gn:latitude":10.83941,
+    "gn:longitude":13.94168,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Galanba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074112
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"37db10e0146c0da9b3ef9bc166e150c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1310292115,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1310292115,
+    "wof:lastmodified":1536727644,
+    "wof:name":"Galanba",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.94168,
+    10.83941,
+    13.94168,
+    10.83941
+],
+  "geometry": {"coordinates":[13.94168,10.83941],"type":"Point"}
+}

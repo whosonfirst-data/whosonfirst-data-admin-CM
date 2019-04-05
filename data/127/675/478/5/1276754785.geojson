@@ -1,0 +1,73 @@
+{
+  "id": 1276754785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.05494,5.43571,10.05494,5.43571",
+    "geom:latitude":5.43571,
+    "geom:longitude":10.05494,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Foreke Dschang",
+    "gn:country_code":"CM",
+    "gn:dem":1343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231557,
+    "gn:latitude":5.43571,
+    "gn:longitude":10.05494,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Forek\u00e9 Dschang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Forek\u00e9 Dschang"
+    ],
+    "name:fra_x_variant":[
+        "Fol\u00e9k\u00e9 Tsang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231557
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d889ecf20f86a2103328921156e57056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1276754785,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1276754785,
+    "wof:lastmodified":1537591298,
+    "wof:name":"Foreke Dschang",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.05494,
+    5.43571,
+    10.05494,
+    5.43571
+],
+  "geometry": {"coordinates":[10.05494,5.43571],"type":"Point"}
+}

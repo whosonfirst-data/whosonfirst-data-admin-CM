@@ -1,0 +1,117 @@
+{
+  "id": 421168449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.8553,5.8358,9.8553,5.8358",
+    "geom:latitude":5.8358,
+    "geom:longitude":9.8553,
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0442\u0438\u0431\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Batibo"
+    ],
+    "name:deu_x_preferred":[
+        "Batibo"
+    ],
+    "name:dut_x_preferred":[
+        "Batibo"
+    ],
+    "name:eng_x_preferred":[
+        "Batibo"
+    ],
+    "name:epo_x_preferred":[
+        "Batibo"
+    ],
+    "name:fra_x_preferred":[
+        "Batibo"
+    ],
+    "name:fre_x_preferred":[
+        "Batibo"
+    ],
+    "name:ger_x_preferred":[
+        "Batibo"
+    ],
+    "name:may_x_preferred":[
+        "Batibo"
+    ],
+    "name:msa_x_preferred":[
+        "Batibo"
+    ],
+    "name:swe_x_preferred":[
+        "Batibo"
+    ],
+    "qs:gn_country":"CM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2234684,
+    "qs:gn_pop":9163,
+    "qs:name":"Batibo",
+    "qs:name_adm0":"Cameroun",
+    "qs:name_adm1":"Nord-Ouest",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1297080,
+    "qs:woe_adm0":23424785,
+    "qs:woe_id":1299861,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":545,
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2234684,
+        "gp:id":1299861,
+        "qs:id":1297080,
+        "wd:id":"Q4869256"
+    },
+    "wof:country":"CM",
+    "wof:created":1459008765,
+    "wof:geomhash":"1f163d32bafe390373603d3c35f1efd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010649,
+            "locality_id":421168449,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":421168449,
+    "wof:lastmodified":1527716091,
+    "wof:name":"Batibo",
+    "wof:parent_id":1092010649,
+    "wof:placetype":"locality",
+    "wof:population":9163,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8553,
+    5.8358,
+    9.8553,
+    5.8358
+],
+  "geometry": {"coordinates":[9.8553,5.8358],"type":"Point"}
+}

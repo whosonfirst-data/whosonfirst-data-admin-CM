@@ -1,0 +1,61 @@
+{
+  "id": 1209083309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.90385,10.43083,14.90385,10.43083",
+    "geom:latitude":10.43083,
+    "geom:longitude":14.90385,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bourlouk",
+    "gn:country_code":"CM",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6730674,
+    "gn:latitude":10.43083,
+    "gn:longitude":14.90385,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Bourlouk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6730674
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"14def4b9171ba21d2b871fa4a8f3cdad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209083309
+        }
+    ],
+    "wof:id":1209083309,
+    "wof:lastmodified":1536298267,
+    "wof:name":"Bourlouk",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.90385,
+    10.43083,
+    14.90385,
+    10.43083
+],
+  "geometry": {"coordinates":[14.90385,10.43083],"type":"Point"}
+}

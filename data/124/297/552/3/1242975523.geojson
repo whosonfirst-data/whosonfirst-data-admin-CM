@@ -1,0 +1,67 @@
+{
+  "id": 1242975523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.8684,4.5785,9.8684,4.5785",
+    "geom:latitude":4.5785,
+    "geom:longitude":9.8684,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dimbong",
+    "gn:country_code":"CM",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595066,
+    "gn:latitude":4.5785,
+    "gn:longitude":9.8684,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Dimbong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595066
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ef17e464219089018ecbfb287932046f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011119,
+            "locality_id":1242975523,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1242975523,
+    "wof:lastmodified":1536986635,
+    "wof:name":"Dimbong",
+    "wof:parent_id":1092011119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8684,
+    4.5785,
+    9.8684,
+    4.5785
+],
+  "geometry": {"coordinates":[9.8684,4.5785],"type":"Point"}
+}

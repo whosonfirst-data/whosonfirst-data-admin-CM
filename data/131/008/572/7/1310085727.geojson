@@ -1,0 +1,67 @@
+{
+  "id": 1310085727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63087,11.89294,14.63087,11.89294",
+    "geom:latitude":11.89294,
+    "geom:longitude":14.63087,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Labado",
+    "gn:country_code":"CM",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2229708,
+    "gn:latitude":11.89294,
+    "gn:longitude":14.63087,
+    "gn:modification_date":"2008-05-30",
+    "gn:name":"Labado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2229708
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"e838d44b8d530fb717e00772433f434a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1310085727,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1310085727,
+    "wof:lastmodified":1537024003,
+    "wof:name":"Labado",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63087,
+    11.89294,
+    14.63087,
+    11.89294
+],
+  "geometry": {"coordinates":[14.63087,11.89294],"type":"Point"}
+}

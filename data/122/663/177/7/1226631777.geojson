@@ -1,0 +1,73 @@
+{
+  "id": 1226631777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.50434,5.1753,10.50434,5.1753",
+    "geom:latitude":5.1753,
+    "geom:longitude":10.50434,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ndia'nse",
+    "gn:country_code":"CM",
+    "gn:dem":1421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109676,
+    "gn:latitude":5.1753,
+    "gn:longitude":10.50434,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Ndia\u2019nse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tangwa"
+    ],
+    "name:und_x_variant":[
+        "Ndia\u2019nse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109676
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"1dea29f843e918b8c93c2a7db7c4bb7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010493,
+            "locality_id":1226631777,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1226631777,
+    "wof:lastmodified":1537591361,
+    "wof:name":"Ndia'nse",
+    "wof:parent_id":1092010493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.50434,
+    5.1753,
+    10.50434,
+    5.1753
+],
+  "geometry": {"coordinates":[10.50434,5.1753],"type":"Point"}
+}

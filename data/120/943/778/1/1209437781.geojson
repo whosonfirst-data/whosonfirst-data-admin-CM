@@ -1,0 +1,61 @@
+{
+  "id": 1209437781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.9646,4.5755,9.9646,4.5755",
+    "geom:latitude":4.5755,
+    "geom:longitude":9.9646,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Banya II",
+    "gn:country_code":"CM",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2234796,
+    "gn:latitude":4.5755,
+    "gn:longitude":9.9646,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Banya II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2234796
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"b973cdbeb87db630491e67c204a9b4ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209437781
+        }
+    ],
+    "wof:id":1209437781,
+    "wof:lastmodified":1536287051,
+    "wof:name":"Banya II",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9646,
+    4.5755,
+    9.9646,
+    4.5755
+],
+  "geometry": {"coordinates":[9.9646,4.5755],"type":"Point"}
+}

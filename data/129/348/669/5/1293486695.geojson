@@ -1,0 +1,71 @@
+{
+  "id": 1293486695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.8196,4.0365,9.8196,4.0365",
+    "geom:latitude":4.0365,
+    "geom:longitude":9.8196,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Djapoma",
+    "gn:country_code":"CM",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220953,
+    "gn:latitude":4.0365,
+    "gn:longitude":9.8196,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Djapoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Japoma",
+        "Djapoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092012257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220953
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"1baa2c0b01e6497e32a6d7d884f2bfd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012257,
+            "locality_id":1293486695,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1293486695,
+    "wof:lastmodified":1537591193,
+    "wof:name":"Djapoma",
+    "wof:parent_id":1092012257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8196,
+    4.0365,
+    9.8196,
+    4.0365
+],
+  "geometry": {"coordinates":[9.8196,4.0365],"type":"Point"}
+}

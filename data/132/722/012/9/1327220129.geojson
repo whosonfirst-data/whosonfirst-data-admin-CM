@@ -1,0 +1,67 @@
+{
+  "id": 1327220129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.96952,8.75186,13.96952,8.75186",
+    "geom:latitude":8.75186,
+    "geom:longitude":13.96952,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kamale",
+    "gn:country_code":"CM",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2230532,
+    "gn:latitude":8.75186,
+    "gn:longitude":13.96952,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Kamal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2230532
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d6679f41bd30c5a073d74aec36f67bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011703,
+            "locality_id":1327220129,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1327220129,
+    "wof:lastmodified":1536986581,
+    "wof:name":"Kamale",
+    "wof:parent_id":1092011703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.96952,
+    8.75186,
+    13.96952,
+    8.75186
+],
+  "geometry": {"coordinates":[13.96952,8.75186],"type":"Point"}
+}

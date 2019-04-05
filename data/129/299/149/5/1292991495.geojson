@@ -1,0 +1,67 @@
+{
+  "id": 1292991495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.22769,5.47443,10.22769,5.47443",
+    "geom:latitude":5.47443,
+    "geom:longitude":10.22769,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Zemekong",
+    "gn:country_code":"CM",
+    "gn:dem":1428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8605233,
+    "gn:latitude":5.47443,
+    "gn:longitude":10.22769,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Zemekong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8605233
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"a5a18469cd7bccb3d1dedcfddf04d6ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1292991495,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1292991495,
+    "wof:lastmodified":1537004325,
+    "wof:name":"Zemekong",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.22769,
+    5.47443,
+    10.22769,
+    5.47443
+],
+  "geometry": {"coordinates":[10.22769,5.47443],"type":"Point"}
+}

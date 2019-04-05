@@ -1,0 +1,67 @@
+{
+  "id": 1209902651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.18333,9.33333,13.18333,9.33333",
+    "geom:latitude":9.33333,
+    "geom:longitude":13.18333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Nassarao",
+    "gn:country_code":"CM",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2225425,
+    "gn:latitude":9.33333,
+    "gn:longitude":13.18333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Nassarao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225425
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"0865b50bff036b0701783b80c14b2993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1209902651,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1209902651,
+    "wof:lastmodified":1536385735,
+    "wof:name":"Nassarao",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.18333,
+    9.33333,
+    13.18333,
+    9.33333
+],
+  "geometry": {"coordinates":[13.18333,9.33333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226330481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.7,3.96667,10.7,3.96667",
+    "geom:latitude":3.96667,
+    "geom:longitude":10.7,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mom",
+    "gn:country_code":"CM",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2226212,
+    "gn:latitude":3.96667,
+    "gn:longitude":10.7,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2226212
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ab1686dc805b44c72ddad795ebbfa04d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011187,
+            "locality_id":1226330481,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1226330481,
+    "wof:lastmodified":1536811007,
+    "wof:name":"Mom",
+    "wof:parent_id":1092011187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.7,
+    3.96667,
+    10.7,
+    3.96667
+],
+  "geometry": {"coordinates":[10.7,3.96667],"type":"Point"}
+}

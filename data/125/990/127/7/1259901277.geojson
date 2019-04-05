@@ -1,0 +1,67 @@
+{
+  "id": 1259901277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.96312,6.62951,9.96312,6.62951",
+    "geom:latitude":6.62951,
+    "geom:longitude":9.96312,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tukissong",
+    "gn:country_code":"CM",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6855415,
+    "gn:latitude":6.62951,
+    "gn:longitude":9.96312,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Tukissong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6855415
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d53bb6ba0ccedd984204e41831063250",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010619,
+            "locality_id":1259901277,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1259901277,
+    "wof:lastmodified":1536753536,
+    "wof:name":"Tukissong",
+    "wof:parent_id":1092010619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.96312,
+    6.62951,
+    9.96312,
+    6.62951
+],
+  "geometry": {"coordinates":[9.96312,6.62951],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259572117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.59986,6.52405,12.59986,6.52405",
+    "geom:latitude":6.52405,
+    "geom:longitude":12.59986,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ngaoubela",
+    "gn:country_code":"CM",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9035781,
+    "gn:latitude":6.52405,
+    "gn:longitude":12.59986,
+    "gn:modification_date":"2014-05-14",
+    "gn:name":"Ngaoubela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9035781,
+        "wk:page":"Ngaoubela"
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"26a39fdaceaa7ae4fe22c7d56323b4d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011605,
+            "locality_id":1259572117,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1259572117,
+    "wof:lastmodified":1537489579,
+    "wof:name":"Ngaoubela",
+    "wof:parent_id":1092011605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.59986,
+    6.52405,
+    12.59986,
+    6.52405
+],
+  "geometry": {"coordinates":[12.59986,6.52405],"type":"Point"}
+}

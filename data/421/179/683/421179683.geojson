@@ -1,0 +1,79 @@
+{
+  "id": 421179683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.61667,2.35,10.61667,2.35",
+    "geom:latitude":2.35,
+    "geom:longitude":10.61667,
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2229107,
+    "qs:gn_pop":875,
+    "qs:name":"Maan",
+    "qs:name_adm0":"Cameroun",
+    "qs:name_adm1":"Sud",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":431575,
+    "qs:woe_adm0":23424785,
+    "qs:woe_id":1478494,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669971,
+        1092012107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2229107,
+        "gp:id":1478494,
+        "qs:id":431575
+    },
+    "wof:country":"CM",
+    "wof:created":1459009229,
+    "wof:geomhash":"3d9c415ade11cb727aa3ff05cade3d37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012107,
+            "locality_id":421179683,
+            "region_id":85669971
+        }
+    ],
+    "wof:id":421179683,
+    "wof:lastmodified":1505340644,
+    "wof:name":"Maan",
+    "wof:parent_id":1092012107,
+    "wof:placetype":"locality",
+    "wof:population":875,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.61667,
+    2.35,
+    10.61667,
+    2.35
+],
+  "geometry": {"coordinates":[10.61667,2.35],"type":"Point"}
+}

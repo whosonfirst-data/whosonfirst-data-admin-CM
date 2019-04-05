@@ -1,0 +1,61 @@
+{
+  "id": 1209301491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.02168,10.66849,14.02168,10.66849",
+    "geom:latitude":10.66849,
+    "geom:longitude":14.02168,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Megaza",
+    "gn:country_code":"CM",
+    "gn:dem":736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6729709,
+    "gn:latitude":10.66849,
+    "gn:longitude":14.02168,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"M\u00e9gaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6729709
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"0e4d7d69e1ac5a8793d90c547b4b2962",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209301491
+        }
+    ],
+    "wof:id":1209301491,
+    "wof:lastmodified":1536291342,
+    "wof:name":"Megaza",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.021679999999998,
+    10.66849,
+    14.021679999999998,
+    10.66849
+],
+  "geometry": {"coordinates":[14.02168,10.66849],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226419583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.56246,12.45153,14.56246,12.45153",
+    "geom:latitude":12.45153,
+    "geom:longitude":14.56246,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Heder",
+    "gn:country_code":"CM",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783148,
+    "gn:latitude":12.45153,
+    "gn:longitude":14.56246,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"H\u00e9der",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783148
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"50e65a36caf5f02b989d1109a94dd1c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1226419583,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1226419583,
+    "wof:lastmodified":1536683172,
+    "wof:name":"Heder",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.56246,
+    12.45153,
+    14.56246,
+    12.45153
+],
+  "geometry": {"coordinates":[14.56246,12.45153],"type":"Point"}
+}

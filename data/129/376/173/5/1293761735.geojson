@@ -1,0 +1,67 @@
+{
+  "id": 1293761735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.43333,3.96667,11.43333,3.96667",
+    "geom:latitude":3.96667,
+    "geom:longitude":11.43333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nouma",
+    "gn:country_code":"CM",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223587,
+    "gn:latitude":3.96667,
+    "gn:longitude":11.43333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Nouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092012079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223587
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"9bfea56fd369a0412cf4641a2fa43291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012079,
+            "locality_id":1293761735,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1293761735,
+    "wof:lastmodified":1536888397,
+    "wof:name":"Nouma",
+    "wof:parent_id":1092012079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.43333,
+    3.96667,
+    11.43333,
+    3.96667
+],
+  "geometry": {"coordinates":[11.43333,3.96667],"type":"Point"}
+}

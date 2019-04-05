@@ -1,0 +1,71 @@
+{
+  "id": 1259959861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.37658,12.66343,14.37658,12.66343",
+    "geom:latitude":12.66343,
+    "geom:longitude":14.37658,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ouadak",
+    "gn:country_code":"CM",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223003,
+    "gn:latitude":12.66343,
+    "gn:longitude":14.37658,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ouadak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouedak",
+        "Ouadak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223003
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"3835392fa1248f2a8e90d8e7beb7a24c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1259959861,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1259959861,
+    "wof:lastmodified":1537591216,
+    "wof:name":"Ouadak",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.37658,
+    12.66343,
+    14.37658,
+    12.66343
+],
+  "geometry": {"coordinates":[14.37658,12.66343],"type":"Point"}
+}

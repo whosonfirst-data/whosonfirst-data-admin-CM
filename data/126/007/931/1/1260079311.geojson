@@ -1,0 +1,73 @@
+{
+  "id": 1260079311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.56421,4.05362,10.56421,4.05362",
+    "geom:latitude":4.05362,
+    "geom:longitude":10.56421,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2222269.0",
+    "gn:asciiname":"Sakbayeme",
+    "gn:country_code":"CM",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222326,
+    "gn:latitude":4.05362,
+    "gn:longitude":10.56421,
+    "gn:modification_date":"2015-02-28",
+    "gn:name":"Sakbay\u00e9m\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Song-Sag",
+        "Zakbayeme",
+        "Sakbay\u00e9m\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222326
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"cc79a32bb7ab88b063516fc5d285c90b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011153,
+            "locality_id":1260079311,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1260079311,
+    "wof:lastmodified":1537591207,
+    "wof:name":"Sakbayeme",
+    "wof:parent_id":1092011153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.56421,
+    4.05362,
+    10.56421,
+    4.05362
+],
+  "geometry": {"coordinates":[10.56421,4.05362],"type":"Point"}
+}

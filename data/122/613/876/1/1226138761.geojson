@@ -1,0 +1,72 @@
+{
+  "id": 1226138761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.7696,5.0856,9.7696,5.0856",
+    "geom:latitude":5.0856,
+    "geom:longitude":9.7696,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Banguem",
+    "gn:country_code":"CM",
+    "gn:dem":1222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858332,
+    "gn:latitude":5.0856,
+    "gn:longitude":9.7696,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Banguem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bangem",
+        "Banguem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858332,
+        "wk:page":"Bangem"
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"700ecf1d7484af80631315d2539b0581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011063,
+            "locality_id":1226138761,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1226138761,
+    "wof:lastmodified":1537591350,
+    "wof:name":"Banguem",
+    "wof:parent_id":1092011063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.7696,
+    5.0856,
+    9.7696,
+    5.0856
+],
+  "geometry": {"coordinates":[9.7696,5.0856],"type":"Point"}
+}

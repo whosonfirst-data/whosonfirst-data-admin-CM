@@ -1,0 +1,67 @@
+{
+  "id": 1277053051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.89425,11.05194,13.89425,11.05194",
+    "geom:latitude":11.05194,
+    "geom:longitude":13.89425,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Guelapar",
+    "gn:country_code":"CM",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6759110,
+    "gn:latitude":11.05194,
+    "gn:longitude":13.89425,
+    "gn:modification_date":"2014-02-11",
+    "gn:name":"Gu\u00e9lapar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6759110
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"60f1cc75bc57e675b979cbb36ad8a607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1277053051,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1277053051,
+    "wof:lastmodified":1536808655,
+    "wof:name":"Guelapar",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.89425,
+    11.05194,
+    13.89425,
+    11.05194
+],
+  "geometry": {"coordinates":[13.89425,11.05194],"type":"Point"}
+}

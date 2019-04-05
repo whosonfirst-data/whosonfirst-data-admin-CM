@@ -1,0 +1,67 @@
+{
+  "id": 1260360965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.83333,9.68333,13.83333,9.68333",
+    "geom:latitude":9.68333,
+    "geom:longitude":13.83333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Baila",
+    "gn:country_code":"CM",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2235145,
+    "gn:latitude":9.68333,
+    "gn:longitude":13.83333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ba\u00efla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2235145
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"677977fb228066498135c548f2006943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1260360965,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1260360965,
+    "wof:lastmodified":1536605210,
+    "wof:name":"Baila",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.83333,
+    9.68333,
+    13.83333,
+    9.68333
+],
+  "geometry": {"coordinates":[13.83333,9.68333],"type":"Point"}
+}

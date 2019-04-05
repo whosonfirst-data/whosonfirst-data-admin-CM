@@ -1,0 +1,67 @@
+{
+  "id": 1277155331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.48333,4.21667,11.48333,4.21667",
+    "geom:latitude":4.21667,
+    "geom:longitude":11.48333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ngongo",
+    "gn:country_code":"CM",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2224604,
+    "gn:latitude":4.21667,
+    "gn:longitude":11.48333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ngongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092012079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2224604
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"0243e02f59678d56eed52d877c7b88d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012079,
+            "locality_id":1277155331,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1277155331,
+    "wof:lastmodified":1536663101,
+    "wof:name":"Ngongo",
+    "wof:parent_id":1092012079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.48333,
+    4.21667,
+    11.48333,
+    4.21667
+],
+  "geometry": {"coordinates":[11.48333,4.21667],"type":"Point"}
+}

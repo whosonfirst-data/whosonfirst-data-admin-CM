@@ -1,0 +1,67 @@
+{
+  "id": 1259461281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.48333,3.76667,11.48333,3.76667",
+    "geom:latitude":3.76667,
+    "geom:longitude":11.48333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Etoa",
+    "gn:country_code":"CM",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231815,
+    "gn:latitude":3.76667,
+    "gn:longitude":11.48333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Etoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092012045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231815
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"b802f88669a3e4400f6bed150d31cfdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012045,
+            "locality_id":1259461281,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1259461281,
+    "wof:lastmodified":1536890375,
+    "wof:name":"Etoa",
+    "wof:parent_id":1092012045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.48333,
+    3.76667,
+    11.48333,
+    3.76667
+],
+  "geometry": {"coordinates":[11.48333,3.76667],"type":"Point"}
+}

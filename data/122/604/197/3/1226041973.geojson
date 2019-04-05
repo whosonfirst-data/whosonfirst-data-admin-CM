@@ -1,0 +1,67 @@
+{
+  "id": 1226041973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.8353,4.3291,9.8353,4.3291",
+    "geom:latitude":4.3291,
+    "geom:longitude":9.8353,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bonalambo",
+    "gn:country_code":"CM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594980,
+    "gn:latitude":4.3291,
+    "gn:longitude":9.8353,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Bonalambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594980
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d6bbcc9039c05d933288940c24b3b957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011119,
+            "locality_id":1226041973,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1226041973,
+    "wof:lastmodified":1536730946,
+    "wof:name":"Bonalambo",
+    "wof:parent_id":1092011119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8353,
+    4.3291,
+    9.8353,
+    4.3291
+],
+  "geometry": {"coordinates":[9.8353,4.3291],"type":"Point"}
+}

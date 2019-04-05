@@ -1,0 +1,67 @@
+{
+  "id": 1310299247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.28333,7.08333,13.28333,7.08333",
+    "geom:latitude":7.08333,
+    "geom:longitude":13.28333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Metet",
+    "gn:country_code":"CM",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2226936,
+    "gn:latitude":7.08333,
+    "gn:longitude":13.28333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Metet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2226936
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"18004dd75d4d5316ef8eefe6e8464295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011581,
+            "locality_id":1310299247,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1310299247,
+    "wof:lastmodified":1536717289,
+    "wof:name":"Metet",
+    "wof:parent_id":1092011581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.28333,
+    7.08333,
+    13.28333,
+    7.08333
+],
+  "geometry": {"coordinates":[13.28333,7.08333],"type":"Point"}
+}

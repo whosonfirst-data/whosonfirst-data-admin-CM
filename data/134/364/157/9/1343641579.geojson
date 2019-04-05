@@ -1,0 +1,67 @@
+{
+  "id": 1343641579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.62845,10.61722,14.62845,10.61722",
+    "geom:latitude":10.61722,
+    "geom:longitude":14.62845,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ouro Daye",
+    "gn:country_code":"CM",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6730688,
+    "gn:latitude":10.61722,
+    "gn:longitude":14.62845,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Ouro Day\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6730688
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"42bbda53ce693cf14ad8b17407ab7962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011977,
+            "locality_id":1343641579,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1343641579,
+    "wof:lastmodified":1536981639,
+    "wof:name":"Ouro Daye",
+    "wof:parent_id":1092011977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.62845,
+    10.61722,
+    14.62845,
+    10.61722
+],
+  "geometry": {"coordinates":[14.62845,10.61722],"type":"Point"}
+}

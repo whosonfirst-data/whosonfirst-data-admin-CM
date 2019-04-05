@@ -1,0 +1,71 @@
+{
+  "id": 1343847819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.1557,4.4835,9.1557,4.4835",
+    "geom:latitude":4.4835,
+    "geom:longitude":9.1557,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ekumbe Ekundunene",
+    "gn:country_code":"CM",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594821,
+    "gn:latitude":4.4835,
+    "gn:longitude":9.1557,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ekumbe Ekundunene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ekume Ekundunene",
+        "Ekumbe Ekundunene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092010859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594821
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c560e3ef66cfff637a2f958b3215e389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010859,
+            "locality_id":1343847819,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1343847819,
+    "wof:lastmodified":1537591345,
+    "wof:name":"Ekumbe Ekundunene",
+    "wof:parent_id":1092010859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.1557,
+    4.4835,
+    9.1557,
+    4.4835
+],
+  "geometry": {"coordinates":[9.1557,4.4835],"type":"Point"}
+}

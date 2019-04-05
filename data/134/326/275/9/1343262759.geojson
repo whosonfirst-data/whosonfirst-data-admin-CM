@@ -1,0 +1,73 @@
+{
+  "id": 1343262759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.82388,3.74127,12.82388,3.74127",
+    "geom:latitude":3.74127,
+    "geom:longitude":12.82388,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Messamena",
+    "gn:cc2":"CM",
+    "gn:country_code":"CM",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2227015,
+    "gn:latitude":3.74127,
+    "gn:longitude":12.82388,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Messam\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mesam\u00e9na",
+        "Messam\u00e9na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2227015,
+        "wk:page":"Messamena"
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"eb50d280adebd684713e5f7cfbadad03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011347,
+            "locality_id":1343262759,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1343262759,
+    "wof:lastmodified":1537591250,
+    "wof:name":"Messamena",
+    "wof:parent_id":1092011347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.82388,
+    3.74127,
+    12.82388,
+    3.74127
+],
+  "geometry": {"coordinates":[12.82388,3.74127],"type":"Point"}
+}

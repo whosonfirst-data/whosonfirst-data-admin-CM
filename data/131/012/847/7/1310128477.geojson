@@ -1,0 +1,72 @@
+{
+  "id": 1310128477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.9168,5.2198,9.9168,5.2198",
+    "geom:latitude":5.2198,
+    "geom:longitude":9.9168,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Essekou",
+    "gn:country_code":"CM",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231850,
+    "gn:latitude":5.2198,
+    "gn:longitude":9.9168,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ess\u00e9kou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ess\u00e4ku",
+        "Esaku",
+        "Ess\u00e9kou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231850
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c67e3fa40f27b94ef5e2746613e3d9b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011087,
+            "locality_id":1310128477,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1310128477,
+    "wof:lastmodified":1537591301,
+    "wof:name":"Essekou",
+    "wof:parent_id":1092011087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9168,
+    5.2198,
+    9.9168,
+    5.2198
+],
+  "geometry": {"coordinates":[9.9168,5.2198],"type":"Point"}
+}

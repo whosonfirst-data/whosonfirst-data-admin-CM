@@ -1,0 +1,67 @@
+{
+  "id": 1276212895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.34017,9.37065,13.34017,9.37065",
+    "geom:latitude":9.37065,
+    "geom:longitude":13.34017,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Pomla Petel",
+    "gn:country_code":"CM",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8665325,
+    "gn:latitude":9.37065,
+    "gn:longitude":13.34017,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Pomla P\u00e9tel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8665325
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"6dbda1bc4c76880080921066625ad84f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1276212895,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1276212895,
+    "wof:lastmodified":1536941163,
+    "wof:name":"Pomla Petel",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.34017,
+    9.37065,
+    13.34017,
+    9.37065
+],
+  "geometry": {"coordinates":[13.34017,9.37065],"type":"Point"}
+}

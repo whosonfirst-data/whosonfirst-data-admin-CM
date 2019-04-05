@@ -1,0 +1,67 @@
+{
+  "id": 1360056399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.18333,2.25,11.18333,2.25",
+    "geom:latitude":2.25,
+    "geom:longitude":11.18333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mekomengona",
+    "gn:country_code":"CM",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2227325,
+    "gn:latitude":2.25,
+    "gn:longitude":11.18333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"M\u00e9komengona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669971,
+        1092012107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2227325
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"074b869af6704eb173e5a4c61e452ff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012107,
+            "locality_id":1360056399,
+            "region_id":85669971
+        }
+    ],
+    "wof:id":1360056399,
+    "wof:lastmodified":1536986394,
+    "wof:name":"Mekomengona",
+    "wof:parent_id":1092012107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.18333,
+    2.25,
+    11.18333,
+    2.25
+],
+  "geometry": {"coordinates":[11.18333,2.25],"type":"Point"}
+}

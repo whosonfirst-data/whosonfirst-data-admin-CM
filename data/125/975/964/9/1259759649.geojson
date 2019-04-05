@@ -1,0 +1,67 @@
+{
+  "id": 1259759649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1026,9.8522,14.1026,9.8522",
+    "geom:latitude":9.8522,
+    "geom:longitude":14.1026,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Golomon",
+    "gn:country_code":"CM",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6869372,
+    "gn:latitude":9.8522,
+    "gn:longitude":14.1026,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Golomon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6869372
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"37a6c1e5ecdb7efd2a9d2c6cc92944d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1259759649,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1259759649,
+    "wof:lastmodified":1536957516,
+    "wof:name":"Golomon",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1026,
+    9.8522,
+    14.1026,
+    9.8522
+],
+  "geometry": {"coordinates":[14.1026,9.8522],"type":"Point"}
+}

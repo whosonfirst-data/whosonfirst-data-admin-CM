@@ -1,0 +1,67 @@
+{
+  "id": 1309826175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.1517,5.3307,10.1517,5.3307",
+    "geom:latitude":5.3307,
+    "geom:longitude":10.1517,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mandong",
+    "gn:country_code":"CM",
+    "gn:dem":1337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8561377,
+    "gn:latitude":5.3307,
+    "gn:longitude":10.1517,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Mandong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8561377
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"221213f0aea05b93a976635ddc7aa1c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1309826175,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1309826175,
+    "wof:lastmodified":1536901861,
+    "wof:name":"Mandong",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1517,
+    5.3307,
+    10.1517,
+    5.3307
+],
+  "geometry": {"coordinates":[10.1517,5.3307],"type":"Point"}
+}

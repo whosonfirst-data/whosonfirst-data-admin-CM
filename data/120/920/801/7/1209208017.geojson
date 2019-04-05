@@ -1,0 +1,61 @@
+{
+  "id": 1209208017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.60705,5.10425,10.60705,5.10425",
+    "geom:latitude":5.10425,
+    "geom:longitude":10.60705,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mango'",
+    "gn:country_code":"CM",
+    "gn:dem":1324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8561096,
+    "gn:latitude":5.10425,
+    "gn:longitude":10.60705,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Mango\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8561096
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"b47791798d0a299f5a70408106b9e5a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209208017
+        }
+    ],
+    "wof:id":1209208017,
+    "wof:lastmodified":1536294387,
+    "wof:name":"Mango'",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.60705,
+    5.10425,
+    10.60705,
+    5.10425
+],
+  "geometry": {"coordinates":[10.60705,5.10425],"type":"Point"}
+}

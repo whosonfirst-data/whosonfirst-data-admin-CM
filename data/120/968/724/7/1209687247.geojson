@@ -1,0 +1,66 @@
+{
+  "id": 1209687247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.88086,10.03214,13.88086,10.03214",
+    "geom:latitude":10.03214,
+    "geom:longitude":13.88086,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Goulong Fali",
+    "gn:country_code":"CM",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231001,
+    "gn:latitude":10.03214,
+    "gn:longitude":13.88086,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Goulong Fali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goulon",
+        "Goulong Fali",
+        "Goulon Fali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231001
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"8532f0c97d93c3f3a82ae9dc28146f40",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209687247
+        }
+    ],
+    "wof:id":1209687247,
+    "wof:lastmodified":1537591290,
+    "wof:name":"Goulong Fali",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.88086,
+    10.03214,
+    13.88086,
+    10.03214
+],
+  "geometry": {"coordinates":[13.88086,10.03214],"type":"Point"}
+}

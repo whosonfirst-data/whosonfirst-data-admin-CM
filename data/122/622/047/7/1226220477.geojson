@@ -1,0 +1,67 @@
+{
+  "id": 1226220477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.41667,3.88333,11.41667,3.88333",
+    "geom:latitude":3.88333,
+    "geom:longitude":11.41667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ozom Nkolafeme",
+    "gn:country_code":"CM",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222758,
+    "gn:latitude":3.88333,
+    "gn:longitude":11.41667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ozom Nkolaf\u00e9m\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092012079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222758
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"173ba23a1fe656f1e5090e973b29848e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012079,
+            "locality_id":1226220477,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1226220477,
+    "wof:lastmodified":1536969807,
+    "wof:name":"Ozom Nkolafeme",
+    "wof:parent_id":1092012079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.41667,
+    3.88333,
+    11.41667,
+    3.88333
+],
+  "geometry": {"coordinates":[11.41667,3.88333],"type":"Point"}
+}

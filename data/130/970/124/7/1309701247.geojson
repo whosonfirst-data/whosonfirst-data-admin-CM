@@ -1,0 +1,67 @@
+{
+  "id": 1309701247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.21667,8.11667,12.21667,8.11667",
+    "geom:latitude":8.11667,
+    "geom:longitude":12.21667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kotcholi",
+    "gn:country_code":"CM",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2229982,
+    "gn:latitude":8.11667,
+    "gn:longitude":12.21667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kotcholi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108564419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2229982
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d40517f25f05fec17006c0904fa3abec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564419,
+            "locality_id":1309701247,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1309701247,
+    "wof:lastmodified":1537078745,
+    "wof:name":"Kotcholi",
+    "wof:parent_id":1108564419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.21667,
+    8.11667,
+    12.21667,
+    8.11667
+],
+  "geometry": {"coordinates":[12.21667,8.11667],"type":"Point"}
+}

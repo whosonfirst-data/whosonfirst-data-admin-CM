@@ -1,0 +1,65 @@
+{
+  "id": 1209391347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3399,8.5548,14.3399,8.5548",
+    "geom:latitude":8.5548,
+    "geom:longitude":14.3399,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Landou",
+    "gn:country_code":"CM",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2229626,
+    "gn:latitude":8.5548,
+    "gn:longitude":14.3399,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Landou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Landu",
+        "Landou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2229626
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f2bb68e0110e0be9bd3663e3851b6b13",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209391347
+        }
+    ],
+    "wof:id":1209391347,
+    "wof:lastmodified":1537591273,
+    "wof:name":"Landou",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3399,
+    8.5548,
+    14.3399,
+    8.5548
+],
+  "geometry": {"coordinates":[14.3399,8.5548],"type":"Point"}
+}

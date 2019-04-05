@@ -1,0 +1,67 @@
+{
+  "id": 1293223247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.796,4.984,9.796,4.984",
+    "geom:latitude":4.984,
+    "geom:longitude":9.796,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Moumekeng",
+    "gn:country_code":"CM",
+    "gn:dem":1329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595144,
+    "gn:latitude":4.984,
+    "gn:longitude":9.796,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Moum\u00e9keng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595144
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"098faa74b9aaec5519552511657da836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011087,
+            "locality_id":1293223247,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1293223247,
+    "wof:lastmodified":1536670965,
+    "wof:name":"Moumekeng",
+    "wof:parent_id":1092011087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.796,
+    4.984,
+    9.796,
+    4.984
+],
+  "geometry": {"coordinates":[9.796,4.984],"type":"Point"}
+}

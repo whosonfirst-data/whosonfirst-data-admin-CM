@@ -1,0 +1,67 @@
+{
+  "id": 1225836849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.50267,5.96587,10.50267,5.96587",
+    "geom:latitude":5.96587,
+    "geom:longitude":10.50267,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Messo",
+    "gn:country_code":"CM",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9112313,
+    "gn:latitude":5.96587,
+    "gn:longitude":10.50267,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Mess\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9112313
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"bb2d42051c6f32b05708bb686183879c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010693,
+            "locality_id":1225836849,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1225836849,
+    "wof:lastmodified":1537025419,
+    "wof:name":"Messo",
+    "wof:parent_id":1092010693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.50267,
+    5.96587,
+    10.50267,
+    5.96587
+],
+  "geometry": {"coordinates":[10.50267,5.96587],"type":"Point"}
+}

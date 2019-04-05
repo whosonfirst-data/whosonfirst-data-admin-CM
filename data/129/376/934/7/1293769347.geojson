@@ -1,0 +1,71 @@
+{
+  "id": 1293769347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.57121,5.05436,10.57121,5.05436",
+    "geom:latitude":5.05436,
+    "geom:longitude":10.57121,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bassamba",
+    "gn:country_code":"CM",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109671,
+    "gn:latitude":5.05436,
+    "gn:longitude":10.57121,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Bassamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sa\u2019mba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109671,
+        "wk:page":"Bassamba"
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"700607d523f44c63a5b6d3f33db7e7ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010493,
+            "locality_id":1293769347,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1293769347,
+    "wof:lastmodified":1537591360,
+    "wof:name":"Bassamba",
+    "wof:parent_id":1092010493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.57121,
+    5.05436,
+    10.57121,
+    5.05436
+],
+  "geometry": {"coordinates":[10.57121,5.05436],"type":"Point"}
+}

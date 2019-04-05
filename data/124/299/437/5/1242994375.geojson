@@ -1,0 +1,71 @@
+{
+  "id": 1242994375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.92643,6.75509,9.92643,6.75509",
+    "geom:latitude":6.75509,
+    "geom:longitude":9.92643,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gayama",
+    "gn:country_code":"CM",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231294,
+    "gn:latitude":6.75509,
+    "gn:longitude":9.92643,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Gayama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gajama",
+        "Gayama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231294
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"4e7d20cf520d804fc67e15413c212b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010619,
+            "locality_id":1242994375,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1242994375,
+    "wof:lastmodified":1537591293,
+    "wof:name":"Gayama",
+    "wof:parent_id":1092010619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.92643,
+    6.75509,
+    9.92643,
+    6.75509
+],
+  "geometry": {"coordinates":[9.92643,6.75509],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343936077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.85,3.93333,10.85,3.93333",
+    "geom:latitude":3.93333,
+    "geom:longitude":10.85,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ngok Mapoubi",
+    "gn:country_code":"CM",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2224683,
+    "gn:latitude":3.93333,
+    "gn:longitude":10.85,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ngok Mapoubi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2224683
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"24690253e30a0459f06d5acfd37915f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011187,
+            "locality_id":1343936077,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1343936077,
+    "wof:lastmodified":1537052978,
+    "wof:name":"Ngok Mapoubi",
+    "wof:parent_id":1092011187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.85,
+    3.93333,
+    10.85,
+    3.93333
+],
+  "geometry": {"coordinates":[10.85,3.93333],"type":"Point"}
+}

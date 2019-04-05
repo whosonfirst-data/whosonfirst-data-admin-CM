@@ -1,0 +1,67 @@
+{
+  "id": 1293709217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.91667,5.73333,10.91667,5.73333",
+    "geom:latitude":5.73333,
+    "geom:longitude":10.91667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Fontain",
+    "gn:country_code":"CM",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231565,
+    "gn:latitude":5.73333,
+    "gn:longitude":10.91667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Fontain",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231565
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"937c6e5aaba3a7c98f87730ea6e8d2d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010521,
+            "locality_id":1293709217,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1293709217,
+    "wof:lastmodified":1536964632,
+    "wof:name":"Fontain",
+    "wof:parent_id":1092010521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.91667,
+    5.73333,
+    10.91667,
+    5.73333
+],
+  "geometry": {"coordinates":[10.91667,5.73333],"type":"Point"}
+}

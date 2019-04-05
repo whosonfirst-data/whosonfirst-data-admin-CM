@@ -1,0 +1,70 @@
+{
+  "id": 1309991497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.96471,5.87002,10.96471,5.87002",
+    "geom:latitude":5.87002,
+    "geom:longitude":10.96471,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Maram",
+    "gn:country_code":"CM",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7108701,
+    "gn:latitude":5.87002,
+    "gn:longitude":10.96471,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Maram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Maram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7108701
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f85735b888ec1187d5236306b5727b09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010521,
+            "locality_id":1309991497,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1309991497,
+    "wof:lastmodified":1537591352,
+    "wof:name":"Maram",
+    "wof:parent_id":1092010521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.96471,
+    5.87002,
+    10.96471,
+    5.87002
+],
+  "geometry": {"coordinates":[10.96471,5.87002],"type":"Point"}
+}

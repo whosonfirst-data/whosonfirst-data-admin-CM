@@ -1,0 +1,70 @@
+{
+  "id": 1293023087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.47001,5.263,10.47001,5.263",
+    "geom:latitude":5.263,
+    "geom:longitude":10.47001,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tefam",
+    "gn:country_code":"CM",
+    "gn:dem":1425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2234669,
+    "gn:latitude":5.263,
+    "gn:longitude":10.47001,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Tefam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Batoufam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092012225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2234669
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"4dbf42a2e8c41ad69a42779284d911a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012225,
+            "locality_id":1293023087,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1293023087,
+    "wof:lastmodified":1537591328,
+    "wof:name":"Tefam",
+    "wof:parent_id":1092012225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.47001,
+    5.263,
+    10.47001,
+    5.263
+],
+  "geometry": {"coordinates":[10.47001,5.263],"type":"Point"}
+}

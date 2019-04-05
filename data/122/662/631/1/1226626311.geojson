@@ -1,0 +1,67 @@
+{
+  "id": 1226626311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98002,10.96795,13.98002,10.96795",
+    "geom:latitude":10.96795,
+    "geom:longitude":13.98002,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kotsrehe",
+    "gn:country_code":"CM",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9124654,
+    "gn:latitude":10.96795,
+    "gn:longitude":13.98002,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Kotsr\u00e9h\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9124654
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"890eecd91c5b80cdc264b44bc0e59667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011759,
+            "locality_id":1226626311,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1226626311,
+    "wof:lastmodified":1536887081,
+    "wof:name":"Kotsrehe",
+    "wof:parent_id":1092011759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98002,
+    10.96795,
+    13.98002,
+    10.96795
+],
+  "geometry": {"coordinates":[13.98002,10.96795],"type":"Point"}
+}

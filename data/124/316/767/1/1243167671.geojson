@@ -1,0 +1,70 @@
+{
+  "id": 1243167671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.64378,5.57565,10.64378,5.57565",
+    "geom:latitude":5.57565,
+    "geom:longitude":10.64378,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nkoupa're",
+    "gn:country_code":"CM",
+    "gn:dem":1173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7110437,
+    "gn:latitude":5.57565,
+    "gn:longitude":10.64378,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Nkoupa\u2019re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nkoupa\u2019re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7110437
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"92bc5ad839cb2c59fddbc527a2c29e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010521,
+            "locality_id":1243167671,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1243167671,
+    "wof:lastmodified":1537591364,
+    "wof:name":"Nkoupa're",
+    "wof:parent_id":1092010521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.64378,
+    5.57565,
+    10.64378,
+    5.57565
+],
+  "geometry": {"coordinates":[10.64378,5.57565],"type":"Point"}
+}

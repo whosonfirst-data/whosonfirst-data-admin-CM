@@ -1,0 +1,67 @@
+{
+  "id": 1226140005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.55322,5.66844,10.55322,5.66844",
+    "geom:latitude":5.66844,
+    "geom:longitude":10.55322,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ngwen-Njiamgbie",
+    "gn:country_code":"CM",
+    "gn:dem":1184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9100973,
+    "gn:latitude":5.66844,
+    "gn:longitude":10.55322,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ngwen-Njiamgbi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9100973
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"1ba401a30a5cad14ac778d85646c0eb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010521,
+            "locality_id":1226140005,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1226140005,
+    "wof:lastmodified":1537082856,
+    "wof:name":"Ngwen-Njiamgbie",
+    "wof:parent_id":1092010521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.55322,
+    5.66844,
+    10.55322,
+    5.66844
+],
+  "geometry": {"coordinates":[10.55322,5.66844],"type":"Point"}
+}

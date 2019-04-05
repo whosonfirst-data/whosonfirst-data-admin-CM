@@ -1,0 +1,73 @@
+{
+  "id": 1309697839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.75831,5.67555,10.75831,5.67555",
+    "geom:latitude":5.67555,
+    "geom:longitude":10.75831,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nkoumelap",
+    "gn:country_code":"CM",
+    "gn:dem":1183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2229873,
+    "gn:latitude":5.67555,
+    "gn:longitude":10.75831,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Nkoumelap",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Koum\u00e9lap"
+    ],
+    "name:fra_x_variant":[
+        "Nkoumelap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2229873
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"b264c599dd63ee5e480917ab07544ad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010521,
+            "locality_id":1309697839,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1309697839,
+    "wof:lastmodified":1537591276,
+    "wof:name":"Nkoumelap",
+    "wof:parent_id":1092010521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.75831,
+    5.67555,
+    10.75831,
+    5.67555
+],
+  "geometry": {"coordinates":[10.75831,5.67555],"type":"Point"}
+}

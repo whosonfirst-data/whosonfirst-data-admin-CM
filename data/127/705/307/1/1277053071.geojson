@@ -1,0 +1,67 @@
+{
+  "id": 1277053071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97583,10.8522,13.97583,10.8522",
+    "geom:latitude":10.8522,
+    "geom:longitude":13.97583,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Maksa",
+    "gn:country_code":"CM",
+    "gn:dem":748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074107,
+    "gn:latitude":10.8522,
+    "gn:longitude":13.97583,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Maksa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074107
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"756fcde1968c8403211eec014845bdb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1277053071,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1277053071,
+    "wof:lastmodified":1536808627,
+    "wof:name":"Maksa",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97583,
+    10.8522,
+    13.97583,
+    10.8522
+],
+  "geometry": {"coordinates":[13.97583,10.8522],"type":"Point"}
+}

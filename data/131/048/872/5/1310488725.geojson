@@ -1,0 +1,71 @@
+{
+  "id": 1310488725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.82595,12.63764,14.82595,12.63764",
+    "geom:latitude":12.63764,
+    "geom:longitude":14.82595,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Douguia",
+    "gn:country_code":"CM",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2232550,
+    "gn:latitude":12.63764,
+    "gn:longitude":14.82595,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Douguia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dougia",
+        "Douguia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2232550
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"627ddd74cafa2f9cabfee85ae545479f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1310488725,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1310488725,
+    "wof:lastmodified":1537591306,
+    "wof:name":"Douguia",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.82595,
+    12.63764,
+    14.82595,
+    12.63764
+],
+  "geometry": {"coordinates":[14.82595,12.63764],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276218695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.61667,6.81667,10.61667,6.81667",
+    "geom:latitude":6.81667,
+    "geom:longitude":10.61667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ndaka",
+    "gn:country_code":"CM",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2225381,
+    "gn:latitude":6.81667,
+    "gn:longitude":10.61667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ndaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225381
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"6ffe1747461cbff1c291c5b12636060f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010727,
+            "locality_id":1276218695,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1276218695,
+    "wof:lastmodified":1536933359,
+    "wof:name":"Ndaka",
+    "wof:parent_id":1092010727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.61667,
+    6.81667,
+    10.61667,
+    6.81667
+],
+  "geometry": {"coordinates":[10.61667,6.81667],"type":"Point"}
+}

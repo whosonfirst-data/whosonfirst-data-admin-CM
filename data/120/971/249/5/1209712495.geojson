@@ -1,0 +1,67 @@
+{
+  "id": 1209712495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.8793,5.8108,9.8793,5.8108",
+    "geom:latitude":5.8108,
+    "geom:longitude":9.8793,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Atanga",
+    "gn:country_code":"CM",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6857991,
+    "gn:latitude":5.8108,
+    "gn:longitude":9.8793,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Atanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6857991
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"95af0fd0b8d21ff38aa789a296756a17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010649,
+            "locality_id":1209712495,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1209712495,
+    "wof:lastmodified":1536390065,
+    "wof:name":"Atanga",
+    "wof:parent_id":1092010649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8793,
+    5.8108,
+    9.8793,
+    5.8108
+],
+  "geometry": {"coordinates":[9.8793,5.8108],"type":"Point"}
+}

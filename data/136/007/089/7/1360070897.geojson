@@ -1,0 +1,76 @@
+{
+  "id": 1360070897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.78645,5.38803,10.78645,5.38803",
+    "geom:latitude":5.38803,
+    "geom:longitude":10.78645,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mferipa",
+    "gn:country_code":"CM",
+    "gn:dem":960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228390,
+    "gn:latitude":5.38803,
+    "gn:longitude":10.78645,
+    "gn:modification_date":"2013-08-04",
+    "gn:name":"Mferipa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Maripa"
+    ],
+    "name:fra_x_variant":[
+        "Mferipa"
+    ],
+    "name:und_x_variant":[
+        "Feuripa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228390
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d790784c3004e373019116be921e802e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010521,
+            "locality_id":1360070897,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1360070897,
+    "wof:lastmodified":1537591262,
+    "wof:name":"Mferipa",
+    "wof:parent_id":1092010521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.78645,
+    5.38803,
+    10.78645,
+    5.38803
+],
+  "geometry": {"coordinates":[10.78645,5.38803],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276368915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.9575,3.63972,9.9575,3.63972",
+    "geom:latitude":3.63972,
+    "geom:longitude":9.9575,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kotto",
+    "gn:country_code":"CM",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595290,
+    "gn:latitude":3.63972,
+    "gn:longitude":9.9575,
+    "gn:modification_date":"2001-08-15",
+    "gn:name":"Kotto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595290
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"b10167450e31f6d50b1f56efdcd73f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011153,
+            "locality_id":1276368915,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1276368915,
+    "wof:lastmodified":1536731252,
+    "wof:name":"Kotto",
+    "wof:parent_id":1092011153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9575,
+    3.63972,
+    9.9575,
+    3.63972
+],
+  "geometry": {"coordinates":[9.9575,3.63972],"type":"Point"}
+}

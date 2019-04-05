@@ -1,0 +1,71 @@
+{
+  "id": 1309707095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.96667,5.46667,8.96667,5.46667",
+    "geom:latitude":5.46667,
+    "geom:longitude":8.96667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Klein Mbobu",
+    "gn:country_code":"CM",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2230260,
+    "gn:latitude":5.46667,
+    "gn:longitude":8.96667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Klein Mbobu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Klein Mbobue",
+        "Klein Mbobu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2230260
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"3117328fc33d6f0dc8b35ac2e9cfa378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011003,
+            "locality_id":1309707095,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1309707095,
+    "wof:lastmodified":1537591280,
+    "wof:name":"Klein Mbobu",
+    "wof:parent_id":1092011003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.96667,
+    5.46667,
+    8.96667,
+    5.46667
+],
+  "geometry": {"coordinates":[8.96667,5.46667],"type":"Point"}
+}

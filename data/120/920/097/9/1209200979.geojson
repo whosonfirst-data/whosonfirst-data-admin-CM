@@ -1,0 +1,61 @@
+{
+  "id": 1209200979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.50315,8.40599,13.50315,8.40599",
+    "geom:latitude":8.40599,
+    "geom:longitude":13.50315,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mantiba",
+    "gn:country_code":"CM",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228452,
+    "gn:latitude":8.40599,
+    "gn:longitude":13.50315,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Mantiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228452
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"6fa08cd39b4772b3c7b0bdfb100057ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209200979
+        }
+    ],
+    "wof:id":1209200979,
+    "wof:lastmodified":1536294612,
+    "wof:name":"Mantiba",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.50315,
+    8.40599,
+    13.50315,
+    8.40599
+],
+  "geometry": {"coordinates":[13.50315,8.40599],"type":"Point"}
+}

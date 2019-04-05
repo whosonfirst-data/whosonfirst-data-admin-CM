@@ -1,0 +1,67 @@
+{
+  "id": 1343447245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.85395,9.52118,13.85395,9.52118",
+    "geom:latitude":9.52118,
+    "geom:longitude":13.85395,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Djarendi",
+    "gn:country_code":"CM",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8669128,
+    "gn:latitude":9.52118,
+    "gn:longitude":13.85395,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Djarendi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8669128
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"07041d1cb8fbdafa28cc4ddd4845e166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1343447245,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1343447245,
+    "wof:lastmodified":1536765746,
+    "wof:name":"Djarendi",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.85395,
+    9.52118,
+    13.85395,
+    9.52118
+],
+  "geometry": {"coordinates":[13.85395,9.52118],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209598939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.75,2.98333,11.75,2.98333",
+    "geom:latitude":2.98333,
+    "geom:longitude":11.75,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ngoungoum",
+    "gn:country_code":"CM",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2224476,
+    "gn:latitude":2.98333,
+    "gn:longitude":11.75,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ngoungoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2224476
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"2f8db720c2590692844bcb457418afef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209598939
+        }
+    ],
+    "wof:id":1209598939,
+    "wof:lastmodified":1536282231,
+    "wof:name":"Ngoungoum",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.75,
+    2.98333,
+    11.75,
+    2.98333
+],
+  "geometry": {"coordinates":[11.75,2.98333],"type":"Point"}
+}

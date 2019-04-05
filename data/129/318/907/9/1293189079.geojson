@@ -1,0 +1,67 @@
+{
+  "id": 1293189079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.98333,3.48333,11.98333,3.48333",
+    "geom:latitude":3.48333,
+    "geom:longitude":11.98333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nkomindong",
+    "gn:country_code":"CM",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223820,
+    "gn:latitude":3.48333,
+    "gn:longitude":11.98333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Nkomindong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223820
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"2bbd3cb16a31dd36f8fc584083cc3204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011243,
+            "locality_id":1293189079,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1293189079,
+    "wof:lastmodified":1536720668,
+    "wof:name":"Nkomindong",
+    "wof:parent_id":1092011243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.98333,
+    3.48333,
+    11.98333,
+    3.48333
+],
+  "geometry": {"coordinates":[11.98333,3.48333],"type":"Point"}
+}

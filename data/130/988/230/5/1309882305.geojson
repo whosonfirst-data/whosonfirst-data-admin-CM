@@ -1,0 +1,70 @@
+{
+  "id": 1309882305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.44088,9.36217,13.44088,9.36217",
+    "geom:latitude":9.36217,
+    "geom:longitude":13.44088,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Nassarao Yermi",
+    "gn:country_code":"CM",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2225424,
+    "gn:latitude":9.36217,
+    "gn:longitude":13.44088,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Nassarao Yermi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nassarao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225424
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"62c369c71eceaccbda0624fba5b200a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1309882305,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1309882305,
+    "wof:lastmodified":1537591239,
+    "wof:name":"Nassarao Yermi",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.44088,
+    9.36217,
+    13.44088,
+    9.36217
+],
+  "geometry": {"coordinates":[13.44088,9.36217],"type":"Point"}
+}

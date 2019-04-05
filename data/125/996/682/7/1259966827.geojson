@@ -1,0 +1,71 @@
+{
+  "id": 1259966827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.77113,12.4546,14.77113,12.4546",
+    "geom:latitude":12.4546,
+    "geom:longitude":14.77113,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kineboya",
+    "gn:country_code":"CM",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2230282,
+    "gn:latitude":12.4546,
+    "gn:longitude":14.77113,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Kineboya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kinboya",
+        "Kineboya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2230282
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"8b0592f9335c285115cbf3f3a7b6c331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1259966827,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1259966827,
+    "wof:lastmodified":1537591280,
+    "wof:name":"Kineboya",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.77113,
+    12.4546,
+    14.77113,
+    12.4546
+],
+  "geometry": {"coordinates":[14.77113,12.4546],"type":"Point"}
+}

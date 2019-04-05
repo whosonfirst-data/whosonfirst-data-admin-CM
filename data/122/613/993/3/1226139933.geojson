@@ -1,0 +1,73 @@
+{
+  "id": 1226139933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.46174,5.31901,10.46174,5.31901",
+    "geom:latitude":5.31901,
+    "geom:longitude":10.46174,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Famla'",
+    "gn:country_code":"CM",
+    "gn:dem":1445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109742,
+    "gn:latitude":5.31901,
+    "gn:longitude":10.46174,
+    "gn:modification_date":"2013-09-10",
+    "gn:name":"Famla\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Famta"
+    ],
+    "name:und_x_variant":[
+        "Famla\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092012225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109742
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"0f44a47f3a74a8a3f17d660e47a3efcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012225,
+            "locality_id":1226139933,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1226139933,
+    "wof:lastmodified":1537591362,
+    "wof:name":"Famla'",
+    "wof:parent_id":1092012225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.46174,
+    5.31901,
+    10.46174,
+    5.31901
+],
+  "geometry": {"coordinates":[10.46174,5.31901],"type":"Point"}
+}

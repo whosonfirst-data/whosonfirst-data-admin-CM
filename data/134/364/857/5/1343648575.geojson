@@ -1,0 +1,67 @@
+{
+  "id": 1343648575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.44719,12.52312,14.44719,12.52312",
+    "geom:latitude":12.52312,
+    "geom:longitude":14.44719,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Milie I",
+    "gn:country_code":"CM",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783120,
+    "gn:latitude":12.52312,
+    "gn:longitude":14.44719,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Mili\u00e9 I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783120
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"e21103f29b04e7f2e1e715365c90ee6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1343648575,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1343648575,
+    "wof:lastmodified":1536971810,
+    "wof:name":"Milie I",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.44719,
+    12.52312,
+    14.44719,
+    12.52312
+],
+  "geometry": {"coordinates":[14.44719,12.52312],"type":"Point"}
+}

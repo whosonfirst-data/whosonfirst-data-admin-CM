@@ -1,0 +1,67 @@
+{
+  "id": 1259965387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.19967,5.56631,10.19967,5.56631",
+    "geom:latitude":5.56631,
+    "geom:longitude":10.19967,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Toula",
+    "gn:country_code":"CM",
+    "gn:dem":1563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074834,
+    "gn:latitude":5.56631,
+    "gn:longitude":10.19967,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Toula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074834
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"75891aad32a8f0eaac50423100b6d7fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010559,
+            "locality_id":1259965387,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1259965387,
+    "wof:lastmodified":1536661284,
+    "wof:name":"Toula",
+    "wof:parent_id":1092010559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.19967,
+    5.56631,
+    10.19967,
+    5.56631
+],
+  "geometry": {"coordinates":[10.19967,5.56631],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276958789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.87512,10.8384,13.87512,10.8384",
+    "geom:latitude":10.8384,
+    "geom:longitude":13.87512,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Massala",
+    "gn:country_code":"CM",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074171,
+    "gn:latitude":10.8384,
+    "gn:longitude":13.87512,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Massala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074171
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"3754472582fb5b19dadd3aa58b3b4f86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1276958789,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1276958789,
+    "wof:lastmodified":1536936370,
+    "wof:name":"Massala",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.87512,
+    10.8384,
+    13.87512,
+    10.8384
+],
+  "geometry": {"coordinates":[13.87512,10.8384],"type":"Point"}
+}

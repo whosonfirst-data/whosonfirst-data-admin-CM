@@ -1,0 +1,67 @@
+{
+  "id": 1193010019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.6745,5.9797,9.6745,5.9797",
+    "geom:latitude":5.9797,
+    "geom:longitude":9.6745,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lapu",
+    "gn:country_code":"CM",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6857994,
+    "gn:latitude":5.9797,
+    "gn:longitude":9.6745,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Lapu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6857994
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"11d1ca85865d605209a57a51e4b3658b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010649,
+            "locality_id":1193010019,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1193010019,
+    "wof:lastmodified":1536384442,
+    "wof:name":"Lapu",
+    "wof:parent_id":1092010649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.6745,
+    5.9797,
+    9.6745,
+    5.9797
+],
+  "geometry": {"coordinates":[9.6745,5.9797],"type":"Point"}
+}

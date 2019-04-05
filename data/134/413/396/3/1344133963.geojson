@@ -1,0 +1,67 @@
+{
+  "id": 1344133963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98719,10.90372,13.98719,10.90372",
+    "geom:latitude":10.90372,
+    "geom:longitude":13.98719,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Dougve",
+    "gn:country_code":"CM",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760006,
+    "gn:latitude":10.90372,
+    "gn:longitude":13.98719,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Dougv\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760006
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"7ad49335318d1a41f7eb79a9e127925c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1344133963,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1344133963,
+    "wof:lastmodified":1536770079,
+    "wof:name":"Dougve",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98719,
+    10.90372,
+    13.98719,
+    10.90372
+],
+  "geometry": {"coordinates":[13.98719,10.90372],"type":"Point"}
+}

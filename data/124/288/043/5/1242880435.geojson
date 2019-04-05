@@ -1,0 +1,67 @@
+{
+  "id": 1242880435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13333,3.7,15.13333,3.7",
+    "geom:latitude":3.7,
+    "geom:longitude":15.13333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mampele",
+    "gn:country_code":"CM",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228661,
+    "gn:latitude":3.7,
+    "gn:longitude":15.13333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mamp\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228661
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c014d8e206547d8bd0a3ff2f9c673d47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011465,
+            "locality_id":1242880435,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1242880435,
+    "wof:lastmodified":1536625553,
+    "wof:name":"Mampele",
+    "wof:parent_id":1092011465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13333,
+    3.7,
+    15.13333,
+    3.7
+],
+  "geometry": {"coordinates":[15.13333,3.7],"type":"Point"}
+}

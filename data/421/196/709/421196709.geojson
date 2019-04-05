@@ -1,0 +1,115 @@
+{
+  "id": 421196709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.83333,4.76667,10.83333,4.76667",
+    "geom:latitude":4.76667,
+    "geom:longitude":10.83333,
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Ndikinim\u00e9ki"
+    ],
+    "name:dut_x_preferred":[
+        "Ndikinim\u00e9ki"
+    ],
+    "name:eng_x_preferred":[
+        "Ndikinim\u00e9ki"
+    ],
+    "name:fra_x_preferred":[
+        "Ndikinim\u00e9ki"
+    ],
+    "name:fre_x_preferred":[
+        "Ndikinim\u00e9ki"
+    ],
+    "name:ger_x_preferred":[
+        "Ndikinim\u00e9ki"
+    ],
+    "name:ita_x_preferred":[
+        "Ndikinim\u00e9ki"
+    ],
+    "name:may_x_preferred":[
+        "Ndikinim\u00e9ki"
+    ],
+    "name:msa_x_preferred":[
+        "Ndikinim\u00e9ki"
+    ],
+    "name:swe_x_preferred":[
+        "Ndikinim\u00e9ki"
+    ],
+    "name:unk_x_variant":[
+        "Ndikinemeki"
+    ],
+    "qs:gn_country":"CM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2225263,
+    "qs:gn_pop":8247,
+    "qs:name":"Ndikinim\u00e9ki",
+    "qs:name_adm0":"Cameroun",
+    "qs:name_adm1":"Centre",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1297166,
+    "qs:woe_adm0":23424785,
+    "qs:woe_id":1303936,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":83,
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225263,
+        "gp:id":1303936,
+        "qs:id":1297166,
+        "wd:id":"Q14944568",
+        "wk:page":"Ndikinim\u00e9ki"
+    },
+    "wof:country":"CM",
+    "wof:created":1459009890,
+    "wof:geomhash":"acbca3081d8e9bdfb5979488323d5d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011309,
+            "locality_id":421196709,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":421196709,
+    "wof:lastmodified":1527716360,
+    "wof:name":"Ndikinim\u00e9ki",
+    "wof:parent_id":1092011309,
+    "wof:placetype":"locality",
+    "wof:population":8247,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.83333,
+    4.76667,
+    10.83333,
+    4.76667
+],
+  "geometry": {"coordinates":[10.83333,4.76667],"type":"Point"}
+}

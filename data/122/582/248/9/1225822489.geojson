@@ -1,0 +1,71 @@
+{
+  "id": 1225822489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.70138,12.33609,14.70138,12.33609",
+    "geom:latitude":12.33609,
+    "geom:longitude":14.70138,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Micheka",
+    "gn:country_code":"CM",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2230278,
+    "gn:latitude":12.33609,
+    "gn:longitude":14.70138,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Micheka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiniania",
+        "Kinyanya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2230278
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"0e15edada80d39870c8b9e630ea28c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1225822489,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1225822489,
+    "wof:lastmodified":1537591280,
+    "wof:name":"Micheka",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.70138,
+    12.33609,
+    14.70138,
+    12.33609
+],
+  "geometry": {"coordinates":[14.70138,12.33609],"type":"Point"}
+}

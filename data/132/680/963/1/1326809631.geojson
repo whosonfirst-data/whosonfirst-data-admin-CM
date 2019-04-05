@@ -1,0 +1,70 @@
+{
+  "id": 1326809631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.99907,9.27541,12.99907,9.27541",
+    "geom:latitude":9.27541,
+    "geom:longitude":12.99907,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Offam",
+    "gn:country_code":"CM",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223254,
+    "gn:latitude":9.27541,
+    "gn:longitude":12.99907,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Offam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ofam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223254
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"aed0b34d10b931713784dcb1a2d1a447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1326809631,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1326809631,
+    "wof:lastmodified":1537591218,
+    "wof:name":"Offam",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.99907,
+    9.27541,
+    12.99907,
+    9.27541
+],
+  "geometry": {"coordinates":[12.99907,9.27541],"type":"Point"}
+}

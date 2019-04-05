@@ -1,0 +1,67 @@
+{
+  "id": 1343835291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.89393,10.1681,14.89393,10.1681",
+    "geom:latitude":10.1681,
+    "geom:longitude":14.89393,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Dana",
+    "gn:country_code":"CM",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6731636,
+    "gn:latitude":10.1681,
+    "gn:longitude":14.89393,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Dana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6731636
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f1a80b9966e679369440a83aeb49bc5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011963,
+            "locality_id":1343835291,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1343835291,
+    "wof:lastmodified":1536703250,
+    "wof:name":"Dana",
+    "wof:parent_id":1092011963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.89393,
+    10.1681,
+    14.89393,
+    10.1681
+],
+  "geometry": {"coordinates":[14.89393,10.1681],"type":"Point"}
+}

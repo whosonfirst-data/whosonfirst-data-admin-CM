@@ -1,0 +1,67 @@
+{
+  "id": 1226220481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.75,4.65,10.75,4.65",
+    "geom:latitude":4.65,
+    "geom:longitude":10.75,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ndokononoro",
+    "gn:country_code":"CM",
+    "gn:dem":836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2225103,
+    "gn:latitude":4.65,
+    "gn:longitude":10.75,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ndokononoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225103
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c0cbdc78dd61aca649ea1b0a0856fc60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011309,
+            "locality_id":1226220481,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1226220481,
+    "wof:lastmodified":1536969800,
+    "wof:name":"Ndokononoro",
+    "wof:parent_id":1092011309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.75,
+    4.65,
+    10.75,
+    4.65
+],
+  "geometry": {"coordinates":[10.75,4.65],"type":"Point"}
+}

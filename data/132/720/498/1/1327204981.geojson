@@ -1,0 +1,72 @@
+{
+  "id": 1327204981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.33333,3.1,11.33333,3.1",
+    "geom:latitude":3.1,
+    "geom:longitude":11.33333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Soumou",
+    "gn:country_code":"CM",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221822,
+    "gn:latitude":3.1,
+    "gn:longitude":11.33333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Soumou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sch\u00famu",
+        "Schoumou",
+        "Soumou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669971,
+        1092012173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221822
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"e0fba95c615d593a3ead831c2e4265df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012173,
+            "locality_id":1327204981,
+            "region_id":85669971
+        }
+    ],
+    "wof:id":1327204981,
+    "wof:lastmodified":1537591202,
+    "wof:name":"Soumou",
+    "wof:parent_id":1092012173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.33333,
+    3.1,
+    11.33333,
+    3.1
+],
+  "geometry": {"coordinates":[11.33333,3.1],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327320041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3165,9.2554,14.3165,9.2554",
+    "geom:latitude":9.2554,
+    "geom:longitude":14.3165,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Wouro Goni",
+    "gn:country_code":"CM",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222855,
+    "gn:latitude":9.2554,
+    "gn:longitude":14.3165,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Wouro Goni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouro Goni",
+        "Wouro Goni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222855
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d4d6493605ec7b0a5073a61771456564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011703,
+            "locality_id":1327320041,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1327320041,
+    "wof:lastmodified":1537591213,
+    "wof:name":"Wouro Goni",
+    "wof:parent_id":1092011703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3165,
+    9.2554,
+    14.3165,
+    9.2554
+],
+  "geometry": {"coordinates":[14.3165,9.2554],"type":"Point"}
+}

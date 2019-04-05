@@ -1,0 +1,61 @@
+{
+  "id": 1209610445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.96639,6.82153,12.96639,6.82153",
+    "geom:latitude":6.82153,
+    "geom:longitude":12.96639,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Djaoro Jomo",
+    "gn:country_code":"CM",
+    "gn:dem":1081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8696085,
+    "gn:latitude":6.82153,
+    "gn:longitude":12.96639,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Djaoro Jomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8696085
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d02d01c4ec3bc03ddc300106a955137d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209610445
+        }
+    ],
+    "wof:id":1209610445,
+    "wof:lastmodified":1536281865,
+    "wof:name":"Djaoro Jomo",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.96639,
+    6.82153,
+    12.96639,
+    6.82153
+],
+  "geometry": {"coordinates":[12.96639,6.82153],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1242567463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.5013,4.5515,8.5013,4.5515",
+    "geom:latitude":4.5515,
+    "geom:longitude":8.5013,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jabane II",
+    "gn:country_code":"CM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2230642,
+    "gn:latitude":4.5515,
+    "gn:longitude":8.5013,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Jabane II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abana",
+        "Abana Ntuen",
+        "Jabana II",
+        "Jabane II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092010791,
+        1108563073,
+        85632735,
+        85675331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2230642
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"e0a25cda1ac2183071a9eeb6178a4401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010791,
+            "locality_id":1242567463,
+            "region_id":85669967
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1108563073,
+            "locality_id":1242567463,
+            "region_id":85669967
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563073,
+            "locality_id":1242567463,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1242567463,
+    "wof:lastmodified":1537591284,
+    "wof:name":"Jabane II",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.5013,
+    4.5515,
+    8.5013,
+    4.5515
+],
+  "geometry": {"coordinates":[8.5013,4.5515],"type":"Point"}
+}

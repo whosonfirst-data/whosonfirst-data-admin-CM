@@ -1,0 +1,67 @@
+{
+  "id": 1293268695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.6333,9.32533,13.6333,9.32533",
+    "geom:latitude":9.32533,
+    "geom:longitude":13.6333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Langui-Be",
+    "gn:country_code":"CM",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8665522,
+    "gn:latitude":9.32533,
+    "gn:longitude":13.6333,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Langui-B\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8665522
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"04ee4b730c2af0777bea163ea6555135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1293268695,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1293268695,
+    "wof:lastmodified":1536602381,
+    "wof:name":"Langui-Be",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.6333,
+    9.32533,
+    13.6333,
+    9.32533
+],
+  "geometry": {"coordinates":[13.6333,9.32533],"type":"Point"}
+}

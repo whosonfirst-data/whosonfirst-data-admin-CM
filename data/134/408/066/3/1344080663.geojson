@@ -1,0 +1,67 @@
+{
+  "id": 1344080663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13333,3.73333,15.13333,3.73333",
+    "geom:latitude":3.73333,
+    "geom:longitude":15.13333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mang",
+    "gn:country_code":"CM",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228560,
+    "gn:latitude":3.73333,
+    "gn:longitude":15.13333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228560
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"9e40ddc8065c0c2ebf0ea20394cdac50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011465,
+            "locality_id":1344080663,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1344080663,
+    "wof:lastmodified":1536845404,
+    "wof:name":"Mang",
+    "wof:parent_id":1092011465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13333,
+    3.73333,
+    15.13333,
+    3.73333
+],
+  "geometry": {"coordinates":[15.13333,3.73333],"type":"Point"}
+}

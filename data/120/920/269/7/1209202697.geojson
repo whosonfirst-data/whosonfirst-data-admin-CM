@@ -1,0 +1,61 @@
+{
+  "id": 1209202697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.75,3.5,11.75,3.5",
+    "geom:latitude":3.5,
+    "geom:longitude":11.75,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mbadoumou II",
+    "gn:country_code":"CM",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228134,
+    "gn:latitude":3.5,
+    "gn:longitude":11.75,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mbadoumou II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228134
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"868aa526a5ce0accdd9303c4528d1577",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209202697
+        }
+    ],
+    "wof:id":1209202697,
+    "wof:lastmodified":1536294556,
+    "wof:name":"Mbadoumou II",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.75,
+    3.5,
+    11.75,
+    3.5
+],
+  "geometry": {"coordinates":[11.75,3.5],"type":"Point"}
+}

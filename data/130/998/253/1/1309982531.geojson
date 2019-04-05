@@ -1,0 +1,67 @@
+{
+  "id": 1309982531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.28333,9.95,13.28333,9.95",
+    "geom:latitude":9.95,
+    "geom:longitude":13.28333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ouro Laouane",
+    "gn:country_code":"CM",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222844,
+    "gn:latitude":9.95,
+    "gn:longitude":13.28333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ouro Laouane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222844
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"33bf815ed082198d7f5127b73d15ac7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1309982531,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1309982531,
+    "wof:lastmodified":1536676486,
+    "wof:name":"Ouro Laouane",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.28333,
+    9.95,
+    13.28333,
+    9.95
+],
+  "geometry": {"coordinates":[13.28333,9.95],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259970447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.03333,5.75,11.03333,5.75",
+    "geom:latitude":5.75,
+    "geom:longitude":11.03333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Makoutem",
+    "gn:country_code":"CM",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228829,
+    "gn:latitude":5.75,
+    "gn:longitude":11.03333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Makoutem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makourem",
+        "Makoutem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228829
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"9c39e404977e8c7b9ec8a08a12a9c310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010521,
+            "locality_id":1259970447,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1259970447,
+    "wof:lastmodified":1537591266,
+    "wof:name":"Makoutem",
+    "wof:parent_id":1092010521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.03333,
+    5.75,
+    11.03333,
+    5.75
+],
+  "geometry": {"coordinates":[11.03333,5.75],"type":"Point"}
+}

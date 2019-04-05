@@ -1,0 +1,67 @@
+{
+  "id": 1310623253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.83158,5.4128,10.83158,5.4128",
+    "geom:latitude":5.4128,
+    "geom:longitude":10.83158,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Njinkout",
+    "gn:country_code":"CM",
+    "gn:dem":967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8594925,
+    "gn:latitude":5.4128,
+    "gn:longitude":10.83158,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Njinkout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8594925
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"9144689a0a582aefe4e72da4b9724765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010521,
+            "locality_id":1310623253,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1310623253,
+    "wof:lastmodified":1536746870,
+    "wof:name":"Njinkout",
+    "wof:parent_id":1092010521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.83158,
+    5.4128,
+    10.83158,
+    5.4128
+],
+  "geometry": {"coordinates":[10.83158,5.4128],"type":"Point"}
+}

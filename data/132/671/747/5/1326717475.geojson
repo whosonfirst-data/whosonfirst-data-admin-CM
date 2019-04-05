@@ -1,0 +1,71 @@
+{
+  "id": 1326717475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.34264,12.48012,14.34264,12.48012",
+    "geom:latitude":12.48012,
+    "geom:longitude":14.34264,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Moungachiri",
+    "gn:country_code":"CM",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228554,
+    "gn:latitude":12.48012,
+    "gn:longitude":14.34264,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Moungachiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mangachiri",
+        "Moungachiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228554
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"66e83d198fdf0d4c93db2a8600d00c93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1326717475,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1326717475,
+    "wof:lastmodified":1537591264,
+    "wof:name":"Moungachiri",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.34264,
+    12.48012,
+    14.34264,
+    12.48012
+],
+  "geometry": {"coordinates":[14.34264,12.48012],"type":"Point"}
+}

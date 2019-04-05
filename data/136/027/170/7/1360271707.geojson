@@ -1,0 +1,67 @@
+{
+  "id": 1360271707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.11667,8.41667,14.11667,8.41667",
+    "geom:latitude":8.41667,
+    "geom:longitude":14.11667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Pani",
+    "gn:country_code":"CM",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222690,
+    "gn:latitude":8.41667,
+    "gn:longitude":14.11667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Pani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222690
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"61a3c5d53aefac10df9cc6d2195c8671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011703,
+            "locality_id":1360271707,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1360271707,
+    "wof:lastmodified":1536676456,
+    "wof:name":"Pani",
+    "wof:parent_id":1092011703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11667,
+    8.41667,
+    14.11667,
+    8.41667
+],
+  "geometry": {"coordinates":[14.11667,8.41667],"type":"Point"}
+}

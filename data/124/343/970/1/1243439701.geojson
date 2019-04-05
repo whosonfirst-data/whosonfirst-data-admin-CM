@@ -1,0 +1,67 @@
+{
+  "id": 1243439701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.01857,5.5757,10.01857,5.5757",
+    "geom:latitude":5.5757,
+    "geom:longitude":10.01857,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lembet",
+    "gn:country_code":"CM",
+    "gn:dem":1894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074938,
+    "gn:latitude":5.5757,
+    "gn:longitude":10.01857,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Lemb\u00e8t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074938
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"045b20cbff08988063edafcfdadc96ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1243439701,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1243439701,
+    "wof:lastmodified":1536814543,
+    "wof:name":"Lembet",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.01857,
+    5.5757,
+    10.01857,
+    5.5757
+],
+  "geometry": {"coordinates":[10.01857,5.5757],"type":"Point"}
+}

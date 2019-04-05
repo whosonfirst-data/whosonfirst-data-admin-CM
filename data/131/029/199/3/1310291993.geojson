@@ -1,0 +1,72 @@
+{
+  "id": 1310291993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.60857,10.23824,13.60857,10.23824",
+    "geom:latitude":10.23824,
+    "geom:longitude":13.60857,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Dogwoy",
+    "gn:country_code":"CM",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2232666,
+    "gn:latitude":10.23824,
+    "gn:longitude":13.60857,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Dogwoy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dokwo\u00ef",
+        "Dokoy",
+        "Dogwoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2232666
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"711b11b5da05fd2bec73e1c987440d35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1310291993,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1310291993,
+    "wof:lastmodified":1537591307,
+    "wof:name":"Dogwoy",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.60857,
+    10.23824,
+    13.60857,
+    10.23824
+],
+  "geometry": {"coordinates":[13.60857,10.23824],"type":"Point"}
+}

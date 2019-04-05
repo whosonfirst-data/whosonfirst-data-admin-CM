@@ -1,0 +1,67 @@
+{
+  "id": 1243442489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.26667,3.78333,11.26667,3.78333",
+    "geom:latitude":3.78333,
+    "geom:longitude":11.26667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nkolyege",
+    "gn:country_code":"CM",
+    "gn:dem":737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223850,
+    "gn:latitude":3.78333,
+    "gn:longitude":11.26667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Nkoly\u00e9g\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092010889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223850
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"a4e25b59b65d5e036b1321ee87832c33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010889,
+            "locality_id":1243442489,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1243442489,
+    "wof:lastmodified":1536810729,
+    "wof:name":"Nkolyege",
+    "wof:parent_id":1092010889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.26667,
+    3.78333,
+    11.26667,
+    3.78333
+],
+  "geometry": {"coordinates":[11.26667,3.78333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309929805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.61667,3.53333,12.61667,3.53333",
+    "geom:latitude":3.53333,
+    "geom:longitude":12.61667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Komba",
+    "gn:country_code":"CM",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2230145,
+    "gn:latitude":3.53333,
+    "gn:longitude":12.61667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Komba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Komba I",
+        "Komba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2230145
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ed83522fdebe483d9b115e6510be4ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011347,
+            "locality_id":1309929805,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1309929805,
+    "wof:lastmodified":1537591279,
+    "wof:name":"Komba",
+    "wof:parent_id":1092011347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.61667,
+    3.53333,
+    12.61667,
+    3.53333
+],
+  "geometry": {"coordinates":[12.61667,3.53333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259503607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.45384,5.26915,10.45384,5.26915",
+    "geom:latitude":5.26915,
+    "geom:longitude":10.45384,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Demtse",
+    "gn:country_code":"CM",
+    "gn:dem":1566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8607772,
+    "gn:latitude":5.26915,
+    "gn:longitude":10.45384,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Demtse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092012225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8607772
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"346f5328a489a20b762b768cd78afe40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012225,
+            "locality_id":1259503607,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1259503607,
+    "wof:lastmodified":1536828957,
+    "wof:name":"Demtse",
+    "wof:parent_id":1092012225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.45384,
+    5.26915,
+    10.45384,
+    5.26915
+],
+  "geometry": {"coordinates":[10.45384,5.26915],"type":"Point"}
+}

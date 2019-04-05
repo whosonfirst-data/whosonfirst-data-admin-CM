@@ -1,0 +1,67 @@
+{
+  "id": 1326852849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.24768,5.52185,10.24768,5.52185",
+    "geom:latitude":5.52185,
+    "geom:longitude":10.24768,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Wouang I",
+    "gn:country_code":"CM",
+    "gn:dem":1436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9086424,
+    "gn:latitude":5.52185,
+    "gn:longitude":10.24768,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Wouang I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9086424
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"999529576f06267c611c6fd4e88e37fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010559,
+            "locality_id":1326852849,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1326852849,
+    "wof:lastmodified":1537018316,
+    "wof:name":"Wouang I",
+    "wof:parent_id":1092010559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.24768,
+    5.52185,
+    10.24768,
+    5.52185
+],
+  "geometry": {"coordinates":[10.24768,5.52185],"type":"Point"}
+}

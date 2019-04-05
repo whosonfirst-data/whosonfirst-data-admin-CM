@@ -1,0 +1,61 @@
+{
+  "id": 1209592079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2976,7.3534,15.2976,7.3534",
+    "geom:latitude":7.3534,
+    "geom:longitude":15.2976,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mbitao",
+    "gn:country_code":"CM",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6870296,
+    "gn:latitude":7.3534,
+    "gn:longitude":15.2976,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Mbitao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6870296
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"86c36a761ee8c5c39b5c4a05e48cdde1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209592079
+        }
+    ],
+    "wof:id":1209592079,
+    "wof:lastmodified":1536282446,
+    "wof:name":"Mbitao",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2976,
+    7.3534,
+    15.2976,
+    7.3534
+],
+  "geometry": {"coordinates":[15.2976,7.3534],"type":"Point"}
+}

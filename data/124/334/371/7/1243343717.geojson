@@ -1,0 +1,67 @@
+{
+  "id": 1243343717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92768,10.71791,13.92768,10.71791",
+    "geom:latitude":10.71791,
+    "geom:longitude":13.92768,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mbokomguilawa",
+    "gn:country_code":"CM",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760019,
+    "gn:latitude":10.71791,
+    "gn:longitude":13.92768,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Mbokomguilawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760019
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"0e2c163403f0ceafe6738559c17297a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1243343717,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1243343717,
+    "wof:lastmodified":1536953821,
+    "wof:name":"Mbokomguilawa",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.92768,
+    10.71791,
+    13.92768,
+    10.71791
+],
+  "geometry": {"coordinates":[13.92768,10.71791],"type":"Point"}
+}

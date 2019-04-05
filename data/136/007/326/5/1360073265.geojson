@@ -1,0 +1,72 @@
+{
+  "id": 1360073265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.4,3.7,10.4,3.7",
+    "geom:latitude":3.7,
+    "geom:longitude":10.4,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"So Dibanga",
+    "gn:country_code":"CM",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221979,
+    "gn:latitude":3.7,
+    "gn:longitude":10.4,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"So Dibanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Song-Jei\u2019s",
+        "Sobibango",
+        "So Dibanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221979
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"532113cf29da2401867e39a90def3e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011187,
+            "locality_id":1360073265,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1360073265,
+    "wof:lastmodified":1537591204,
+    "wof:name":"So Dibanga",
+    "wof:parent_id":1092011187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4,
+    3.7,
+    10.4,
+    3.7
+],
+  "geometry": {"coordinates":[10.4,3.7],"type":"Point"}
+}

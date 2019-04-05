@@ -1,0 +1,67 @@
+{
+  "id": 1327465731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.8142,4.1107,9.8142,4.1107",
+    "geom:latitude":4.1107,
+    "geom:longitude":9.8142,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bayis",
+    "gn:country_code":"CM",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594942,
+    "gn:latitude":4.1107,
+    "gn:longitude":9.8142,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Bayis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092012257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594942
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"482781803a4c8ce0ea9489a075987592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012257,
+            "locality_id":1327465731,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1327465731,
+    "wof:lastmodified":1536631180,
+    "wof:name":"Bayis",
+    "wof:parent_id":1092012257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8142,
+    4.1107,
+    9.8142,
+    4.1107
+],
+  "geometry": {"coordinates":[9.8142,4.1107],"type":"Point"}
+}

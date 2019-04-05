@@ -1,0 +1,71 @@
+{
+  "id": 1260168423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.29153,10.4273,14.29153,10.4273",
+    "geom:latitude":10.4273,
+    "geom:longitude":14.29153,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Yakang",
+    "gn:country_code":"CM",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221022,
+    "gn:latitude":10.4273,
+    "gn:longitude":14.29153,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Yakang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jakang",
+        "Yakang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221022
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"fd503369a150ba7f4aa640aea099a09d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011963,
+            "locality_id":1260168423,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1260168423,
+    "wof:lastmodified":1537591193,
+    "wof:name":"Yakang",
+    "wof:parent_id":1092011963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.29153,
+    10.4273,
+    14.29153,
+    10.4273
+],
+  "geometry": {"coordinates":[14.29153,10.4273],"type":"Point"}
+}

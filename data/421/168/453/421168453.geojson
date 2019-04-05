@@ -1,0 +1,102 @@
+{
+  "id": 421168453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.61667,4.23333,10.61667,4.23333",
+    "geom:latitude":4.23333,
+    "geom:longitude":10.61667,
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Ngambe"
+    ],
+    "name:dut_x_preferred":[
+        "Ngamb\u00e9"
+    ],
+    "name:eng_x_preferred":[
+        "Ngamb\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Ngambe"
+    ],
+    "name:fre_x_preferred":[
+        "Ngambe"
+    ],
+    "name:ger_x_preferred":[
+        "Ngambe"
+    ],
+    "name:unk_x_variant":[
+        "Babimbi"
+    ],
+    "qs:gn_country":"CM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2224863,
+    "qs:gn_pop":6414,
+    "qs:name":"Ngamb\u00e9",
+    "qs:name_adm0":"Cameroun",
+    "qs:name_adm1":"Littoral",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1297162,
+    "qs:woe_adm0":23424785,
+    "qs:woe_id":1304113,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2224863,
+        "gp:id":1304113,
+        "qs:id":1297162,
+        "wd:id":"Q7021939"
+    },
+    "wof:country":"CM",
+    "wof:created":1459008765,
+    "wof:geomhash":"105ec7446526f1ea61c187c25b2e991c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011153,
+            "locality_id":421168453,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":421168453,
+    "wof:lastmodified":1527716093,
+    "wof:name":"Ngamb\u00e9",
+    "wof:parent_id":1092011153,
+    "wof:placetype":"locality",
+    "wof:population":6414,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.61667,
+    4.23333,
+    10.61667,
+    4.23333
+],
+  "geometry": {"coordinates":[10.61667,4.23333],"type":"Point"}
+}

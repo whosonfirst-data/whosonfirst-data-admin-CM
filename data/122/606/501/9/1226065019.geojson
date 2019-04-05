@@ -1,0 +1,67 @@
+{
+  "id": 1226065019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.28365,5.54468,10.28365,5.54468",
+    "geom:latitude":5.54468,
+    "geom:longitude":10.28365,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bandjinsi",
+    "gn:country_code":"CM",
+    "gn:dem":1411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9086396,
+    "gn:latitude":5.54468,
+    "gn:longitude":10.28365,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Bandjinsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9086396
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"cea603198da0fc18f000dd4a7a153998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010559,
+            "locality_id":1226065019,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1226065019,
+    "wof:lastmodified":1536697670,
+    "wof:name":"Bandjinsi",
+    "wof:parent_id":1092010559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.28365,
+    5.54468,
+    10.28365,
+    5.54468
+],
+  "geometry": {"coordinates":[10.28365,5.54468],"type":"Point"}
+}

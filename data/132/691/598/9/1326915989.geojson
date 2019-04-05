@@ -1,0 +1,70 @@
+{
+  "id": 1326915989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.40925,5.29064,10.40925,5.29064",
+    "geom:latitude":5.29064,
+    "geom:longitude":10.40925,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Djeve",
+    "gn:country_code":"CM",
+    "gn:dem":1781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109532,
+    "gn:latitude":5.29064,
+    "gn:longitude":10.40925,
+    "gn:modification_date":"2013-09-10",
+    "gn:name":"Djeve",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Djeve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092012197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109532
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"173c6aa628a6bea52b9fa6e0bd30c585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012197,
+            "locality_id":1326915989,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1326915989,
+    "wof:lastmodified":1537591358,
+    "wof:name":"Djeve",
+    "wof:parent_id":1092012197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.40925,
+    5.29064,
+    10.40925,
+    5.29064
+],
+  "geometry": {"coordinates":[10.40925,5.29064],"type":"Point"}
+}

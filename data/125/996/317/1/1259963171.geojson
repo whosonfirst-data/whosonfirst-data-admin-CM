@@ -1,0 +1,67 @@
+{
+  "id": 1259963171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.33333,2.28333,13.33333,2.28333",
+    "geom:latitude":2.28333,
+    "geom:longitude":13.33333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Lele",
+    "gn:country_code":"CM",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2229540,
+    "gn:latitude":2.28333,
+    "gn:longitude":13.33333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"L\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669971,
+        1092011365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2229540
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"141e4c6711a0303a15fc6a1cfb626ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011365,
+            "locality_id":1259963171,
+            "region_id":85669971
+        }
+    ],
+    "wof:id":1259963171,
+    "wof:lastmodified":1536664441,
+    "wof:name":"Lele",
+    "wof:parent_id":1092011365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.33333,
+    2.28333,
+    13.33333,
+    2.28333
+],
+  "geometry": {"coordinates":[13.33333,2.28333],"type":"Point"}
+}

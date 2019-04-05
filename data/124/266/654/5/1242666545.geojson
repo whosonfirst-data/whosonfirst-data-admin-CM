@@ -1,0 +1,72 @@
+{
+  "id": 1242666545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.6,7.9,13.6,7.9",
+    "geom:latitude":7.9,
+    "geom:longitude":13.6,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ngaouyanga",
+    "gn:country_code":"CM",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2224826,
+    "gn:latitude":7.9,
+    "gn:longitude":13.6,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ngaouyanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaoyanga",
+        "Goyanga",
+        "Ngaouyanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2224826
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"eb81c0feec5088e2e31de9758a2999df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011581,
+            "locality_id":1242666545,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1242666545,
+    "wof:lastmodified":1537591232,
+    "wof:name":"Ngaouyanga",
+    "wof:parent_id":1092011581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.6,
+    7.9,
+    13.6,
+    7.9
+],
+  "geometry": {"coordinates":[13.6,7.9],"type":"Point"}
+}

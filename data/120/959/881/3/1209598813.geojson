@@ -1,0 +1,61 @@
+{
+  "id": 1209598813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.91667,3.28333,11.91667,3.28333",
+    "geom:latitude":3.28333,
+    "geom:longitude":11.91667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mesok",
+    "gn:country_code":"CM",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2226997,
+    "gn:latitude":3.28333,
+    "gn:longitude":11.91667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"M\u00e9sok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2226997
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"75aff9e2231c8348b0ffe2cec91a29c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209598813
+        }
+    ],
+    "wof:id":1209598813,
+    "wof:lastmodified":1536282235,
+    "wof:name":"Mesok",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.91667,
+    3.2833300000000003,
+    11.91667,
+    3.2833300000000003
+],
+  "geometry": {"coordinates":[11.91667,3.28333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243430979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3645,7.4456,15.3645,7.4456",
+    "geom:latitude":7.4456,
+    "geom:longitude":15.3645,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sourou Loubol",
+    "gn:country_code":"CM",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6870363,
+    "gn:latitude":7.4456,
+    "gn:longitude":15.3645,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Sourou Loubol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6870363
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ff4f19305150bcdd3ddb6ae0b4f59d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011703,
+            "locality_id":1243430979,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1243430979,
+    "wof:lastmodified":1536826899,
+    "wof:name":"Sourou Loubol",
+    "wof:parent_id":1092011703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3645,
+    7.4456,
+    15.3645,
+    7.4456
+],
+  "geometry": {"coordinates":[15.3645,7.4456],"type":"Point"}
+}

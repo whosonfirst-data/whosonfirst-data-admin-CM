@@ -1,0 +1,67 @@
+{
+  "id": 1226737853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.08333,4.53333,12.08333,4.53333",
+    "geom:latitude":4.53333,
+    "geom:longitude":12.08333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mengonde",
+    "gn:country_code":"CM",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2227097,
+    "gn:latitude":4.53333,
+    "gn:longitude":12.08333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mengond\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2227097
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"bcb9302569117fbf959e370eb48a1764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011277,
+            "locality_id":1226737853,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1226737853,
+    "wof:lastmodified":1536727299,
+    "wof:name":"Mengonde",
+    "wof:parent_id":1092011277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.08333,
+    4.53333,
+    12.08333,
+    4.53333
+],
+  "geometry": {"coordinates":[12.08333,4.53333],"type":"Point"}
+}

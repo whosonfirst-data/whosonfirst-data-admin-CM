@@ -1,0 +1,67 @@
+{
+  "id": 1343948725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.50562,5.11524,10.50562,5.11524",
+    "geom:latitude":5.11524,
+    "geom:longitude":10.50562,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Wok",
+    "gn:country_code":"CM",
+    "gn:dem":1391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8561054,
+    "gn:latitude":5.11524,
+    "gn:longitude":10.50562,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Wok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8561054
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"03c3770a019983a5f521720a4636bcf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010493,
+            "locality_id":1343948725,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1343948725,
+    "wof:lastmodified":1537035443,
+    "wof:name":"Wok",
+    "wof:parent_id":1092010493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.50562,
+    5.11524,
+    10.50562,
+    5.11524
+],
+  "geometry": {"coordinates":[10.50562,5.11524],"type":"Point"}
+}

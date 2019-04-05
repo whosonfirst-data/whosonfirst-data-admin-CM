@@ -1,0 +1,67 @@
+{
+  "id": 1260159063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.26667,4.26667,11.26667,4.26667",
+    "geom:latitude":4.26667,
+    "geom:longitude":11.26667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Monatele II",
+    "gn:country_code":"CM",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2226105,
+    "gn:latitude":4.26667,
+    "gn:longitude":11.26667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Monat\u00e9l\u00e9 II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092012079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2226105
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5828ac72f59b6677844b0397fc941024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012079,
+            "locality_id":1260159063,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1260159063,
+    "wof:lastmodified":1536880806,
+    "wof:name":"Monatele II",
+    "wof:parent_id":1092012079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.26667,
+    4.26667,
+    11.26667,
+    4.26667
+],
+  "geometry": {"coordinates":[11.26667,4.26667],"type":"Point"}
+}

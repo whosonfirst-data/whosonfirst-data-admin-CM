@@ -1,0 +1,115 @@
+{
+  "id": 421176857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43626,10.39757,14.43626,10.39757",
+    "geom:latitude":10.39757,
+    "geom:longitude":14.43626,
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u043d\u0434\u0438\u0444"
+    ],
+    "name:ceb_x_preferred":[
+        "Mindif"
+    ],
+    "name:dut_x_preferred":[
+        "Mindif"
+    ],
+    "name:eng_x_preferred":[
+        "Mindif"
+    ],
+    "name:fra_x_preferred":[
+        "Mindif"
+    ],
+    "name:fre_x_preferred":[
+        "Mindif"
+    ],
+    "name:may_x_preferred":[
+        "Mindif"
+    ],
+    "name:msa_x_preferred":[
+        "Mindif"
+    ],
+    "name:pol_x_preferred":[
+        "Mindif"
+    ],
+    "name:swe_x_preferred":[
+        "Mindif"
+    ],
+    "name:unk_x_variant":[
+        "Mendif"
+    ],
+    "qs:gn_country":"CM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2226641,
+    "qs:gn_pop":10538,
+    "qs:name":"Mindif",
+    "qs:name_adm0":"Cameroun",
+    "qs:name_adm1":"Extreme-Nord",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1089008,
+    "qs:woe_adm0":23424785,
+    "qs:woe_id":1303522,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":83,
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2226641,
+        "gp:id":1303522,
+        "qs:id":1089008,
+        "wd:id":"Q3314784",
+        "wk:page":"Mindif"
+    },
+    "wof:country":"CM",
+    "wof:created":1459009121,
+    "wof:geomhash":"75b4b8887f1932369655850730f14c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011963,
+            "locality_id":421176857,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":421176857,
+    "wof:lastmodified":1527726470,
+    "wof:name":"Mindif",
+    "wof:parent_id":1092011963,
+    "wof:placetype":"locality",
+    "wof:population":10538,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43626,
+    10.39757,
+    14.43626,
+    10.39757
+],
+  "geometry": {"coordinates":[14.43626,10.39757],"type":"Point"}
+}

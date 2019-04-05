@@ -1,0 +1,70 @@
+{
+  "id": 1310296899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.53314,5.8868,10.53314,5.8868",
+    "geom:latitude":5.8868,
+    "geom:longitude":10.53314,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bambalang",
+    "gn:country_code":"CM",
+    "gn:dem":1176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2234997,
+    "gn:latitude":5.8868,
+    "gn:longitude":10.53314,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Bambalang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bambalang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2234997
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"73071858c2c3e11964a155642af54eeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010693,
+            "locality_id":1310296899,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1310296899,
+    "wof:lastmodified":1537591332,
+    "wof:name":"Bambalang",
+    "wof:parent_id":1092010693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.53314,
+    5.8868,
+    10.53314,
+    5.8868
+],
+  "geometry": {"coordinates":[10.53314,5.8868],"type":"Point"}
+}

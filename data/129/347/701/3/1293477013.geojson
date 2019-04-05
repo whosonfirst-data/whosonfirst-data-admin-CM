@@ -1,0 +1,67 @@
+{
+  "id": 1293477013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45782,10.66408,14.45782,10.66408",
+    "geom:latitude":10.66408,
+    "geom:longitude":14.45782,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bjriwo",
+    "gn:country_code":"CM",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6732200,
+    "gn:latitude":10.66408,
+    "gn:longitude":14.45782,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Bjriwo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6732200
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5b651c6ea4952a854593c0a9f734e143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011977,
+            "locality_id":1293477013,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1293477013,
+    "wof:lastmodified":1536802218,
+    "wof:name":"Bjriwo",
+    "wof:parent_id":1092011977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45782,
+    10.66408,
+    14.45782,
+    10.66408
+],
+  "geometry": {"coordinates":[14.45782,10.66408],"type":"Point"}
+}

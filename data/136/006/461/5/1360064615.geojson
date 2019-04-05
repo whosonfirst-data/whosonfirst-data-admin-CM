@@ -1,0 +1,67 @@
+{
+  "id": 1360064615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.93865,10.1615,13.93865,10.1615",
+    "geom:latitude":10.1615,
+    "geom:longitude":13.93865,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Roumde",
+    "gn:country_code":"CM",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6759937,
+    "gn:latitude":10.1615,
+    "gn:longitude":13.93865,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Roumd\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6759937
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"bf5d2dc62d2eaac33195144ec40eef5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1360064615,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1360064615,
+    "wof:lastmodified":1536974780,
+    "wof:name":"Roumde",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.93865,
+    10.1615,
+    13.93865,
+    10.1615
+],
+  "geometry": {"coordinates":[13.93865,10.1615],"type":"Point"}
+}

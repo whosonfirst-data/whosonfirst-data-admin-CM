@@ -1,0 +1,72 @@
+{
+  "id": 1192998305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.72028,12.01474,14.72028,12.01474",
+    "geom:latitude":12.01474,
+    "geom:longitude":14.72028,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ndjamena",
+    "gn:country_code":"CM",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2232933,
+    "gn:latitude":12.01474,
+    "gn:longitude":14.72028,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ndjamena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djamina I",
+        "Djamina",
+        "Ndjamena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2232933
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d656f4ea9ae7f5837e8acdda55f3528c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1192998305,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1192998305,
+    "wof:lastmodified":1537591311,
+    "wof:name":"Ndjamena",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.72028,
+    12.01474,
+    14.72028,
+    12.01474
+],
+  "geometry": {"coordinates":[14.72028,12.01474],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209077071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.53333,2.35,11.53333,2.35",
+    "geom:latitude":2.35,
+    "geom:longitude":11.53333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ongane",
+    "gn:country_code":"CM",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223133,
+    "gn:latitude":2.35,
+    "gn:longitude":11.53333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ongan\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223133
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ec03f2a48bca78e335ab19236b3e59fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209077071
+        }
+    ],
+    "wof:id":1209077071,
+    "wof:lastmodified":1536298460,
+    "wof:name":"Ongane",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.53333,
+    2.35,
+    11.53333,
+    2.35
+],
+  "geometry": {"coordinates":[11.53333,2.35],"type":"Point"}
+}

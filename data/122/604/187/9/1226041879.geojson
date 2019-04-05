@@ -1,0 +1,67 @@
+{
+  "id": 1226041879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.16667,3.96667,10.16667,3.96667",
+    "geom:latitude":3.96667,
+    "geom:longitude":10.16667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Binkou",
+    "gn:country_code":"CM",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2234028,
+    "gn:latitude":3.96667,
+    "gn:longitude":10.16667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Binkou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2234028
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"04498741e6c538f5407202a797a88009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011153,
+            "locality_id":1226041879,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1226041879,
+    "wof:lastmodified":1536731072,
+    "wof:name":"Binkou",
+    "wof:parent_id":1092011153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.16667,
+    3.96667,
+    10.16667,
+    3.96667
+],
+  "geometry": {"coordinates":[10.16667,3.96667],"type":"Point"}
+}

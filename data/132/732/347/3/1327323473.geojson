@@ -1,0 +1,67 @@
+{
+  "id": 1327323473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.1061,4.4982,9.1061,4.4982",
+    "geom:latitude":4.4982,
+    "geom:longitude":9.1061,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ekumbe Liongo",
+    "gn:country_code":"CM",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594825,
+    "gn:latitude":4.4982,
+    "gn:longitude":9.1061,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Ekumbe Liongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092010791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594825
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"89e90c5e258e92c5c3242d44e3ea5a74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010791,
+            "locality_id":1327323473,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1327323473,
+    "wof:lastmodified":1536837120,
+    "wof:name":"Ekumbe Liongo",
+    "wof:parent_id":1092010791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.1061,
+    4.4982,
+    9.1061,
+    4.4982
+],
+  "geometry": {"coordinates":[9.1061,4.4982],"type":"Point"}
+}

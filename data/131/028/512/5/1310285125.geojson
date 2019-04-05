@@ -1,0 +1,67 @@
+{
+  "id": 1310285125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.87101,10.77438,13.87101,10.77438",
+    "geom:latitude":10.77438,
+    "geom:longitude":13.87101,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bokoules",
+    "gn:country_code":"CM",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074299,
+    "gn:latitude":10.77438,
+    "gn:longitude":13.87101,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Bokoul\u00e8s",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074299
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"4737f218b26a31bb6dd8275d6e710818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1310285125,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1310285125,
+    "wof:lastmodified":1536737319,
+    "wof:name":"Bokoules",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.87101,
+    10.77438,
+    13.87101,
+    10.77438
+],
+  "geometry": {"coordinates":[13.87101,10.77438],"type":"Point"}
+}

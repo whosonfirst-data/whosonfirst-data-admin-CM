@@ -1,0 +1,61 @@
+{
+  "id": 1209219337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.25,3.68333,10.25,3.68333",
+    "geom:latitude":3.68333,
+    "geom:longitude":10.25,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"So Lopa",
+    "gn:country_code":"CM",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221947,
+    "gn:latitude":3.68333,
+    "gn:longitude":10.25,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"So Lopa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221947
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5a6afdc4c093807b1054d94571049875",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209219337
+        }
+    ],
+    "wof:id":1209219337,
+    "wof:lastmodified":1536294018,
+    "wof:name":"So Lopa",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.25,
+    3.68333,
+    10.25,
+    3.68333
+],
+  "geometry": {"coordinates":[10.25,3.68333],"type":"Point"}
+}

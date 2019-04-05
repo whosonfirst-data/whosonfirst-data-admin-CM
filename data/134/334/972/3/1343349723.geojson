@@ -1,0 +1,67 @@
+{
+  "id": 1343349723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.31667,3.36667,11.31667,3.36667",
+    "geom:latitude":3.36667,
+    "geom:longitude":11.31667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ndika",
+    "gn:country_code":"CM",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2225264,
+    "gn:latitude":3.36667,
+    "gn:longitude":11.31667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ndika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225264
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f69ee20b7482ac5328672cdadb42005d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011209,
+            "locality_id":1343349723,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1343349723,
+    "wof:lastmodified":1536906301,
+    "wof:name":"Ndika",
+    "wof:parent_id":1092011209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.31667,
+    3.36667,
+    11.31667,
+    3.36667
+],
+  "geometry": {"coordinates":[11.31667,3.36667],"type":"Point"}
+}

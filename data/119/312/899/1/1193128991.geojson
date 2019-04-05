@@ -1,0 +1,67 @@
+{
+  "id": 1193128991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.61534,7.01424,10.61534,7.01424",
+    "geom:latitude":7.01424,
+    "geom:longitude":10.61534,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gajeri-Bagu",
+    "gn:country_code":"CM",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9533267,
+    "gn:latitude":7.01424,
+    "gn:longitude":10.61534,
+    "gn:modification_date":"2014-09-08",
+    "gn:name":"Gajeri-Bagu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9533267
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"775e4ca7b0c72b63fc5e118cf2f9d00d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010727,
+            "locality_id":1193128991,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1193128991,
+    "wof:lastmodified":1536377848,
+    "wof:name":"Gajeri-Bagu",
+    "wof:parent_id":1092010727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.61534,
+    7.01424,
+    10.61534,
+    7.01424
+],
+  "geometry": {"coordinates":[10.61534,7.01424],"type":"Point"}
+}

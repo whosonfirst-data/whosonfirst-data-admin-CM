@@ -1,0 +1,67 @@
+{
+  "id": 1225930069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.53761,9.37187,13.53761,9.37187",
+    "geom:latitude":9.37187,
+    "geom:longitude":13.53761,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Soare",
+    "gn:country_code":"CM",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8665515,
+    "gn:latitude":9.37187,
+    "gn:longitude":13.53761,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Soar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8665515
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"fd2dbee1969d85f3f1453e5332a451ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1225930069,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1225930069,
+    "wof:lastmodified":1536891764,
+    "wof:name":"Soare",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.53761,
+    9.37187,
+    13.53761,
+    9.37187
+],
+  "geometry": {"coordinates":[13.53761,9.37187],"type":"Point"}
+}

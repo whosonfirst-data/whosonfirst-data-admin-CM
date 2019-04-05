@@ -1,0 +1,61 @@
+{
+  "id": 1209601631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.73699,9.51282,13.73699,9.51282",
+    "geom:latitude":9.51282,
+    "geom:longitude":13.73699,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mayo Lepbri",
+    "gn:country_code":"CM",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8669052,
+    "gn:latitude":9.51282,
+    "gn:longitude":13.73699,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Mayo Lepbri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8669052
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"a45073df37251a4fbb1fe6a6df5f4b3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209601631
+        }
+    ],
+    "wof:id":1209601631,
+    "wof:lastmodified":1536282148,
+    "wof:name":"Mayo Lepbri",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.73699,
+    9.51282,
+    13.73699,
+    9.51282
+],
+  "geometry": {"coordinates":[13.73699,9.51282],"type":"Point"}
+}

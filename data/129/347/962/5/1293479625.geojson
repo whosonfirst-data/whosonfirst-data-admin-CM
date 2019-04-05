@@ -1,0 +1,73 @@
+{
+  "id": 1293479625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.6774,4.7753,8.6774,4.7753",
+    "geom:latitude":4.7753,
+    "geom:longitude":8.6774,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Amoto",
+    "gn:country_code":"CM",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2235621,
+    "gn:latitude":4.7753,
+    "gn:longitude":8.6774,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Amoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amutu",
+        "Amuto",
+        "Amuta",
+        "Amoto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092010791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2235621
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"07a81c90c58cac266bb8e68377723c81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010791,
+            "locality_id":1293479625,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1293479625,
+    "wof:lastmodified":1537591339,
+    "wof:name":"Amoto",
+    "wof:parent_id":1092010791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.6774,
+    4.7753,
+    8.6774,
+    4.7753
+],
+  "geometry": {"coordinates":[8.6774,4.7753],"type":"Point"}
+}

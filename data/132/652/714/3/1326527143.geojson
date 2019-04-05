@@ -1,0 +1,67 @@
+{
+  "id": 1326527143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.54199,5.18095,10.54199,5.18095",
+    "geom:latitude":5.18095,
+    "geom:longitude":10.54199,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Farmetcha",
+    "gn:country_code":"CM",
+    "gn:dem":1213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8561030,
+    "gn:latitude":5.18095,
+    "gn:longitude":10.54199,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Farmetcha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8561030
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d314e66c2a1ef584a52dd8360571db5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010493,
+            "locality_id":1326527143,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1326527143,
+    "wof:lastmodified":1536990635,
+    "wof:name":"Farmetcha",
+    "wof:parent_id":1092010493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.54199,
+    5.18095,
+    10.54199,
+    5.18095
+],
+  "geometry": {"coordinates":[10.54199,5.18095],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 421183463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.38333,3.78333,11.38333,3.78333",
+    "geom:latitude":3.78333,
+    "geom:longitude":11.38333,
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041c\u0431\u0430\u043d\u043a\u043e\u043c\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Mbankomo"
+    ],
+    "name:dut_x_preferred":[
+        "Mbankomo"
+    ],
+    "name:eng_x_preferred":[
+        "Mbankomo"
+    ],
+    "name:fra_x_preferred":[
+        "Mbankomo"
+    ],
+    "name:fre_x_preferred":[
+        "Mbankomo"
+    ],
+    "name:ita_x_preferred":[
+        "Mbankomo"
+    ],
+    "name:may_x_preferred":[
+        "Mbankomo"
+    ],
+    "name:msa_x_preferred":[
+        "Mbankomo"
+    ],
+    "name:spa_x_preferred":[
+        "Mbankomo"
+    ],
+    "name:swe_x_preferred":[
+        "Mbankomo"
+    ],
+    "qs:gn_country":"CM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2227980,
+    "qs:gn_pop":2387,
+    "qs:name":"Mbankomo",
+    "qs:name_adm0":"Cameroun",
+    "qs:name_adm1":"Centre",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1297142,
+    "qs:woe_adm0":23424785,
+    "qs:woe_id":1303039,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":93,
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092010889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2227980,
+        "gp:id":1303039,
+        "qs:id":1297142,
+        "wd:id":"Q11325258",
+        "wk:page":"Mbankomo"
+    },
+    "wof:country":"CM",
+    "wof:created":1459009370,
+    "wof:geomhash":"1bba1828152034a1b2682da95ee39341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010889,
+            "locality_id":421183463,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":421183463,
+    "wof:lastmodified":1527716490,
+    "wof:name":"Mbankomo",
+    "wof:parent_id":1092010889,
+    "wof:placetype":"locality",
+    "wof:population":2387,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.38333,
+    3.78333,
+    11.38333,
+    3.78333
+],
+  "geometry": {"coordinates":[11.38333,3.78333],"type":"Point"}
+}

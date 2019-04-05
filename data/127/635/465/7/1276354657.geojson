@@ -1,0 +1,67 @@
+{
+  "id": 1276354657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.94512,12.57998,14.94512,12.57998",
+    "geom:latitude":12.57998,
+    "geom:longitude":14.94512,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Balaraye",
+    "gn:country_code":"CM",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11252334,
+    "gn:latitude":12.57998,
+    "gn:longitude":14.94512,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Balaraye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11252334
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"025348811a5108c0a11e885e704eb24f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1276354657,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1276354657,
+    "wof:lastmodified":1536749864,
+    "wof:name":"Balaraye",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.94512,
+    12.57998,
+    14.94512,
+    12.57998
+],
+  "geometry": {"coordinates":[14.94512,12.57998],"type":"Point"}
+}

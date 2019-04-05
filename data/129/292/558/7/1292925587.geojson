@@ -1,0 +1,70 @@
+{
+  "id": 1292925587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.7576,5.86339,10.7576,5.86339",
+    "geom:latitude":5.86339,
+    "geom:longitude":10.7576,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Njitam",
+    "gn:country_code":"CM",
+    "gn:dem":1189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7108694,
+    "gn:latitude":5.86339,
+    "gn:longitude":10.7576,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Njitam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Njitam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7108694
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"99419b27c68e823b0574b067bd6616b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010521,
+            "locality_id":1292925587,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1292925587,
+    "wof:lastmodified":1537591352,
+    "wof:name":"Njitam",
+    "wof:parent_id":1092010521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.7576,
+    5.86339,
+    10.7576,
+    5.86339
+],
+  "geometry": {"coordinates":[10.7576,5.86339],"type":"Point"}
+}

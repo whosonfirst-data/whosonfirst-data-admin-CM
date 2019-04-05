@@ -1,0 +1,67 @@
+{
+  "id": 1293411111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.03695,5.90603,10.03695,5.90603",
+    "geom:latitude":5.90603,
+    "geom:longitude":10.03695,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gengap",
+    "gn:country_code":"CM",
+    "gn:dem":1333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9093409,
+    "gn:latitude":5.90603,
+    "gn:longitude":10.03695,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Gengap",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9093409
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"07314bf1511d3f84de8c862464a74f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010661,
+            "locality_id":1293411111,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1293411111,
+    "wof:lastmodified":1536897098,
+    "wof:name":"Gengap",
+    "wof:parent_id":1092010661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.03695,
+    5.90603,
+    10.03695,
+    5.90603
+],
+  "geometry": {"coordinates":[10.03695,5.90603],"type":"Point"}
+}

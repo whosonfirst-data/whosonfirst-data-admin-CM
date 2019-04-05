@@ -1,0 +1,71 @@
+{
+  "id": 1259664027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.55403,10.04865,14.55403,10.04865",
+    "geom:latitude":10.04865,
+    "geom:longitude":14.55403,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Torok",
+    "gn:country_code":"CM",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221373,
+    "gn:latitude":10.04865,
+    "gn:longitude":14.55403,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Torok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Torrok",
+        "Torok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221373
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ae51ccd68f25db531cb766615ee8bdc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011963,
+            "locality_id":1259664027,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1259664027,
+    "wof:lastmodified":1537591198,
+    "wof:name":"Torok",
+    "wof:parent_id":1092011963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55403,
+    10.04865,
+    14.55403,
+    10.04865
+],
+  "geometry": {"coordinates":[14.55403,10.04865],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225923451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2456,9.0979,14.2456,9.0979",
+    "geom:latitude":9.0979,
+    "geom:longitude":14.2456,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Fali",
+    "gn:country_code":"CM",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231705,
+    "gn:latitude":9.0979,
+    "gn:longitude":14.2456,
+    "gn:modification_date":"2008-10-27",
+    "gn:name":"Fali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231705
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"cb843b2aa494333e4c45cf6d76d167f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011703,
+            "locality_id":1225923451,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1225923451,
+    "wof:lastmodified":1536901756,
+    "wof:name":"Fali",
+    "wof:parent_id":1092011703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2456,
+    9.0979,
+    14.2456,
+    9.0979
+],
+  "geometry": {"coordinates":[14.2456,9.0979],"type":"Point"}
+}

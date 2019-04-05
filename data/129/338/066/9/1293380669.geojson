@@ -1,0 +1,67 @@
+{
+  "id": 1293380669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.33981,5.39783,10.33981,5.39783",
+    "geom:latitude":5.39783,
+    "geom:longitude":10.33981,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ghi",
+    "gn:country_code":"CM",
+    "gn:dem":1591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8607624,
+    "gn:latitude":5.39783,
+    "gn:longitude":10.33981,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Ghi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092012197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8607624
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"a2f1374628a36b28aad8766adf066824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012197,
+            "locality_id":1293380669,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1293380669,
+    "wof:lastmodified":1536941624,
+    "wof:name":"Ghi",
+    "wof:parent_id":1092012197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.33981,
+    5.39783,
+    10.33981,
+    5.39783
+],
+  "geometry": {"coordinates":[10.33981,5.39783],"type":"Point"}
+}

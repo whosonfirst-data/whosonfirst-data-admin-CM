@@ -1,0 +1,109 @@
+{
+  "id": 421168447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43333,7.05,14.43333,7.05",
+    "geom:latitude":7.05,
+    "geom:longitude":14.43333,
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "B\u00e9lel"
+    ],
+    "name:dut_x_preferred":[
+        "Belel"
+    ],
+    "name:eng_x_preferred":[
+        "Belel"
+    ],
+    "name:fra_x_preferred":[
+        "Belel"
+    ],
+    "name:fre_x_preferred":[
+        "Belel"
+    ],
+    "name:ita_x_preferred":[
+        "Belel"
+    ],
+    "name:may_x_preferred":[
+        "Belel"
+    ],
+    "name:msa_x_preferred":[
+        "Belel"
+    ],
+    "name:swe_x_preferred":[
+        "B\u00e9lel"
+    ],
+    "qs:gn_country":"CM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2234520,
+    "qs:gn_pop":6831,
+    "qs:name":"B\u00e9lel",
+    "qs:name_adm0":"Cameroun",
+    "qs:name_adm1":"Adamaoua",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1297079,
+    "qs:woe_adm0":23424785,
+    "qs:woe_id":1299931,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":81,
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2234520,
+        "gp:id":1299931,
+        "qs:id":1297079,
+        "wd:id":"Q4882158",
+        "wk:page":"Belel"
+    },
+    "wof:country":"CM",
+    "wof:created":1459008765,
+    "wof:geomhash":"67bb295491adbd83383b60df4f8e5ad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011581,
+            "locality_id":421168447,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":421168447,
+    "wof:lastmodified":1527716091,
+    "wof:name":"B\u00e9lel",
+    "wof:parent_id":1092011581,
+    "wof:placetype":"locality",
+    "wof:population":6831,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43333,
+    7.05,
+    14.43333,
+    7.05
+],
+  "geometry": {"coordinates":[14.43333,7.05],"type":"Point"}
+}

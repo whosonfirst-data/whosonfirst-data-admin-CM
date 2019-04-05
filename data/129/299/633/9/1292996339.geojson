@@ -1,0 +1,67 @@
+{
+  "id": 1292996339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.03561,5.5179,10.03561,5.5179",
+    "geom:latitude":5.5179,
+    "geom:longitude":10.03561,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"La'atchuet",
+    "gn:country_code":"CM",
+    "gn:dem":1528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074945,
+    "gn:latitude":5.5179,
+    "gn:longitude":10.03561,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"La\u2019atchu\u00e8t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074945
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f71bfbc828fe4a294b1fa030f68016c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1292996339,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1292996339,
+    "wof:lastmodified":1536997375,
+    "wof:name":"La'atchuet",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.03561,
+    5.5179,
+    10.03561,
+    5.5179
+],
+  "geometry": {"coordinates":[10.03561,5.5179],"type":"Point"}
+}

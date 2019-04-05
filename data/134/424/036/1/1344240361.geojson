@@ -1,0 +1,72 @@
+{
+  "id": 1344240361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.3,3.21667,12.3,3.21667",
+    "geom:latitude":3.21667,
+    "geom:longitude":12.3,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mebam",
+    "gn:country_code":"CM",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2227539,
+    "gn:latitude":3.21667,
+    "gn:longitude":12.3,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"M\u00e9bam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mboule",
+        "Mb\u016ble",
+        "M\u00e9bam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669971,
+        1092011365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2227539
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"151902dd151effa6e07e0d4d0bc67438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011365,
+            "locality_id":1344240361,
+            "region_id":85669971
+        }
+    ],
+    "wof:id":1344240361,
+    "wof:lastmodified":1537591253,
+    "wof:name":"Mebam",
+    "wof:parent_id":1092011365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3,
+    3.21667,
+    12.3,
+    3.21667
+],
+  "geometry": {"coordinates":[12.3,3.21667],"type":"Point"}
+}

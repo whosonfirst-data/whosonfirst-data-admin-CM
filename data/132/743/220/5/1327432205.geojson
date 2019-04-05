@@ -1,0 +1,73 @@
+{
+  "id": 1327432205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5,3.38333,14.5,3.38333",
+    "geom:latitude":3.38333,
+    "geom:longitude":14.5,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Medoum",
+    "gn:country_code":"CM",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2227445,
+    "gn:latitude":3.38333,
+    "gn:longitude":14.5,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"M\u00e9doum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maloum\u00e9",
+        "M\u00e9doum\u00e9",
+        "Madoum\u00e9",
+        "M\u00e9doum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2227445
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"660dba0e33437c9b26c00341fac30ba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011347,
+            "locality_id":1327432205,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1327432205,
+    "wof:lastmodified":1537591252,
+    "wof:name":"Medoum",
+    "wof:parent_id":1092011347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5,
+    3.38333,
+    14.5,
+    3.38333
+],
+  "geometry": {"coordinates":[14.5,3.38333],"type":"Point"}
+}

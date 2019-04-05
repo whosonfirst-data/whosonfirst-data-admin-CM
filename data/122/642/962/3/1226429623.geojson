@@ -1,0 +1,71 @@
+{
+  "id": 1226429623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1141,9.9982,15.1141,9.9982",
+    "geom:latitude":9.9982,
+    "geom:longitude":15.1141,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bouguey",
+    "gn:country_code":"CM",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861035,
+    "gn:latitude":9.9982,
+    "gn:longitude":15.1141,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Bouguey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bougey",
+        "Bouguey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1108390249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861035
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"a791dbcdad7e32df0efa8d615e005343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1108390249,
+            "locality_id":1226429623,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1226429623,
+    "wof:lastmodified":1537591350,
+    "wof:name":"Bouguey",
+    "wof:parent_id":1108390249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1141,
+    9.9982,
+    15.1141,
+    9.9982
+],
+  "geometry": {"coordinates":[15.1141,9.9982],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1344061605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.48333,3.9,9.48333,3.9",
+    "geom:latitude":3.9,
+    "geom:longitude":9.48333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Moudolo",
+    "gn:country_code":"CM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2225929,
+    "gn:latitude":3.9,
+    "gn:longitude":9.48333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Moudolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225929
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"e1f17fc3883d0fe76be8cfb2831ae382",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344061605,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344061605,
+    "wof:lastmodified":1536872873,
+    "wof:name":"Moudolo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.48333,
+    3.9,
+    9.48333,
+    3.9
+],
+  "geometry": {"coordinates":[9.48333,3.9],"type":"Point"}
+}

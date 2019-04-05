@@ -1,0 +1,67 @@
+{
+  "id": 1193266437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.53333,4.75,10.53333,4.75",
+    "geom:latitude":4.75,
+    "geom:longitude":10.53333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ndokmel",
+    "gn:country_code":"CM",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2225121,
+    "gn:latitude":4.75,
+    "gn:longitude":10.53333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ndokmel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225121
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"936776e0750795709ba25cdfc292718d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011309,
+            "locality_id":1193266437,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1193266437,
+    "wof:lastmodified":1536375360,
+    "wof:name":"Ndokmel",
+    "wof:parent_id":1092011309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.53333,
+    4.75,
+    10.53333,
+    4.75
+],
+  "geometry": {"coordinates":[10.53333,4.75],"type":"Point"}
+}

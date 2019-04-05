@@ -1,0 +1,71 @@
+{
+  "id": 1260169329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.6,3.7,10.6,3.7",
+    "geom:latitude":3.7,
+    "geom:longitude":10.6,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bidjoka",
+    "gn:country_code":"CM",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2234234,
+    "gn:latitude":3.7,
+    "gn:longitude":10.6,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bidjoka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bidjouka",
+        "Bidjoka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2234234
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ce8a81f8638efdd9e833281c95376ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011187,
+            "locality_id":1260169329,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1260169329,
+    "wof:lastmodified":1537591324,
+    "wof:name":"Bidjoka",
+    "wof:parent_id":1092011187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.6,
+    3.7,
+    10.6,
+    3.7
+],
+  "geometry": {"coordinates":[10.6,3.7],"type":"Point"}
+}

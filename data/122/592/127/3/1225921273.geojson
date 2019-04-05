@@ -1,0 +1,67 @@
+{
+  "id": 1225921273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.02669,10.2879,14.02669,10.2879",
+    "geom:latitude":10.2879,
+    "geom:longitude":14.02669,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Dalewao",
+    "gn:country_code":"CM",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6730155,
+    "gn:latitude":10.2879,
+    "gn:longitude":14.02669,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Dal\u00e9wao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6730155
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5216c364334e5b533d513c4d3249ba41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011977,
+            "locality_id":1225921273,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1225921273,
+    "wof:lastmodified":1536905022,
+    "wof:name":"Dalewao",
+    "wof:parent_id":1092011977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.02669,
+    10.2879,
+    14.02669,
+    10.2879
+],
+  "geometry": {"coordinates":[14.02669,10.2879],"type":"Point"}
+}

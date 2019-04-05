@@ -1,0 +1,67 @@
+{
+  "id": 1226065213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.28888,5.49226,10.28888,5.49226",
+    "geom:latitude":5.49226,
+    "geom:longitude":10.28888,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nok",
+    "gn:country_code":"CM",
+    "gn:dem":1468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8607396,
+    "gn:latitude":5.49226,
+    "gn:longitude":10.28888,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Nok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8607396
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"6acf09ecf07b4f5b9e2e3a58a494083c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1226065213,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1226065213,
+    "wof:lastmodified":1536697375,
+    "wof:name":"Nok",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.28888,
+    5.49226,
+    10.28888,
+    5.49226
+],
+  "geometry": {"coordinates":[10.28888,5.49226],"type":"Point"}
+}

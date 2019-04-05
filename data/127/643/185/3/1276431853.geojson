@@ -1,0 +1,67 @@
+{
+  "id": 1276431853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.23134,5.59525,10.23134,5.59525",
+    "geom:latitude":5.59525,
+    "geom:longitude":10.23134,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tsingla'",
+    "gn:country_code":"CM",
+    "gn:dem":1508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074817,
+    "gn:latitude":5.59525,
+    "gn:longitude":10.23134,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Tsingla\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074817
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d3bc9cba6b7c20899ca914dc93161906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010559,
+            "locality_id":1276431853,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1276431853,
+    "wof:lastmodified":1536646186,
+    "wof:name":"Tsingla'",
+    "wof:parent_id":1092010559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.23134,
+    5.59525,
+    10.23134,
+    5.59525
+],
+  "geometry": {"coordinates":[10.23134,5.59525],"type":"Point"}
+}

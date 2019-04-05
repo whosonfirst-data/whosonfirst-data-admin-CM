@@ -1,0 +1,72 @@
+{
+  "id": 1226650857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.77652,5.255,9.77652,5.255",
+    "geom:latitude":5.255,
+    "geom:longitude":9.77652,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Nlolag",
+    "gn:country_code":"CM",
+    "gn:dem":1219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223649,
+    "gn:latitude":5.255,
+    "gn:longitude":9.77652,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Nlolag",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndou",
+        "Nlolak",
+        "Nlolag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223649
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"62f74bbcbc187f99c737aecbeb25bd52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011087,
+            "locality_id":1226650857,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1226650857,
+    "wof:lastmodified":1537591221,
+    "wof:name":"Nlolag",
+    "wof:parent_id":1092011087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.77652,
+    5.255,
+    9.77652,
+    5.255
+],
+  "geometry": {"coordinates":[9.77652,5.255],"type":"Point"}
+}

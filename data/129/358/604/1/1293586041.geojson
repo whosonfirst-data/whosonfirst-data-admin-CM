@@ -1,0 +1,73 @@
+{
+  "id": 1293586041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.08333,6.56667,10.08333,6.56667",
+    "geom:latitude":6.56667,
+    "geom:longitude":10.08333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Essu",
+    "gn:country_code":"CM",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231837,
+    "gn:latitude":6.56667,
+    "gn:longitude":10.08333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Essu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lsu",
+        "Esu",
+        "Isu",
+        "Essu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231837
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f45b3735bcb91e9b1ae4b88071726d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010619,
+            "locality_id":1293586041,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1293586041,
+    "wof:lastmodified":1537591301,
+    "wof:name":"Essu",
+    "wof:parent_id":1092010619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.08333,
+    6.56667,
+    10.08333,
+    6.56667
+],
+  "geometry": {"coordinates":[10.08333,6.56667],"type":"Point"}
+}

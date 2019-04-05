@@ -1,0 +1,67 @@
+{
+  "id": 1225935489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.36233,5.97297,10.36233,5.97297",
+    "geom:latitude":5.97297,
+    "geom:longitude":10.36233,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mbesso",
+    "gn:country_code":"CM",
+    "gn:dem":1190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9096484,
+    "gn:latitude":5.97297,
+    "gn:longitude":10.36233,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Mbess\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9096484
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"58e9225a746646abd46d8ea3ac1cf945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010661,
+            "locality_id":1225935489,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1225935489,
+    "wof:lastmodified":1536883661,
+    "wof:name":"Mbesso",
+    "wof:parent_id":1092010661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.36233,
+    5.97297,
+    10.36233,
+    5.97297
+],
+  "geometry": {"coordinates":[10.36233,5.97297],"type":"Point"}
+}

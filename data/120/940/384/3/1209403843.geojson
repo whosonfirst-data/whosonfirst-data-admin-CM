@@ -1,0 +1,65 @@
+{
+  "id": 1209403843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.88333,7.25,12.88333,7.25",
+    "geom:latitude":7.25,
+    "geom:longitude":12.88333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Fom",
+    "gn:country_code":"CM",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231600,
+    "gn:latitude":7.25,
+    "gn:longitude":12.88333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Fom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boum-de-Fom",
+        "Fom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231600
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"b4a7bfe7861caf3b8f2032043c32672c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209403843
+        }
+    ],
+    "wof:id":1209403843,
+    "wof:lastmodified":1537591298,
+    "wof:name":"Fom",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.88333,
+    7.25,
+    12.88333,
+    7.25
+],
+  "geometry": {"coordinates":[12.88333,7.25],"type":"Point"}
+}

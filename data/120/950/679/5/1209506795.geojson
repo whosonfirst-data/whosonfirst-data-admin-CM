@@ -1,0 +1,67 @@
+{
+  "id": 1209506795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.36667,6.45,10.36667,6.45",
+    "geom:latitude":6.45,
+    "geom:longitude":10.36667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sowe",
+    "gn:country_code":"CM",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221801,
+    "gn:latitude":6.45,
+    "gn:longitude":10.36667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sowe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sawe",
+        "Kaw",
+        "Sa",
+        "Sowe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221801
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"a3eb7482860a4ee7853be9e22ab4f19a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209506795
+        }
+    ],
+    "wof:id":1209506795,
+    "wof:lastmodified":1537591202,
+    "wof:name":"Sowe",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.36667,
+    6.45,
+    10.36667,
+    6.45
+],
+  "geometry": {"coordinates":[10.36667,6.45],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209995349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.35,2.73333,13.35,2.73333",
+    "geom:latitude":2.73333,
+    "geom:longitude":13.35,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zoebefam",
+    "gn:country_code":"CM",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220695,
+    "gn:latitude":2.73333,
+    "gn:longitude":13.35,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Zo\u00e9b\u00e9fam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669971,
+        1092011365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220695
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"cbef4c446999231985855b3595016f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011365,
+            "locality_id":1209995349,
+            "region_id":85669971
+        }
+    ],
+    "wof:id":1209995349,
+    "wof:lastmodified":1536384398,
+    "wof:name":"Zoebefam",
+    "wof:parent_id":1092011365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.35,
+    2.73333,
+    13.35,
+    2.73333
+],
+  "geometry": {"coordinates":[13.35,2.73333],"type":"Point"}
+}

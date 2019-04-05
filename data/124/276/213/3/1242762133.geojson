@@ -1,0 +1,72 @@
+{
+  "id": 1242762133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.13333,5.75,9.13333,5.75",
+    "geom:latitude":5.75,
+    "geom:longitude":9.13333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Aiyewawa",
+    "gn:country_code":"CM",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2235901,
+    "gn:latitude":5.75,
+    "gn:longitude":9.13333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"A\u012byewawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ayuwawa",
+        "Ayiwawa",
+        "A\u012byewawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2235901
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"88cc229b9af6382187eb519060a2a4de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011003,
+            "locality_id":1242762133,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1242762133,
+    "wof:lastmodified":1537591342,
+    "wof:name":"Aiyewawa",
+    "wof:parent_id":1092011003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.13333,
+    5.75,
+    9.13333,
+    5.75
+],
+  "geometry": {"coordinates":[9.13333,5.75],"type":"Point"}
+}

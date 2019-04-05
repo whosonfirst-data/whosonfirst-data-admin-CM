@@ -1,0 +1,73 @@
+{
+  "id": 1310691139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.3992,6.0958,9.3992,6.0958",
+    "geom:latitude":6.0958,
+    "geom:longitude":9.3992,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kekpane",
+    "gn:country_code":"CM",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2230375,
+    "gn:latitude":6.0958,
+    "gn:longitude":9.3992,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kekpane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kekpam",
+        "Kepani",
+        "Kekpani",
+        "Kekpane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2230375
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"844088259f60f27469943c1988f6ecda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011003,
+            "locality_id":1310691139,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1310691139,
+    "wof:lastmodified":1537591281,
+    "wof:name":"Kekpane",
+    "wof:parent_id":1092011003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.3992,
+    6.0958,
+    9.3992,
+    6.0958
+],
+  "geometry": {"coordinates":[9.3992,6.0958],"type":"Point"}
+}

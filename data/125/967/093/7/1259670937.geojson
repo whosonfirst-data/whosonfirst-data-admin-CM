@@ -1,0 +1,67 @@
+{
+  "id": 1259670937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.94211,10.84747,13.94211,10.84747",
+    "geom:latitude":10.84747,
+    "geom:longitude":13.94211,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Danowa",
+    "gn:country_code":"CM",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074102,
+    "gn:latitude":10.84747,
+    "gn:longitude":13.94211,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Danowa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074102
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"327dfb4fbe37c416363c1a6e7704273f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1259670937,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1259670937,
+    "wof:lastmodified":1537081951,
+    "wof:name":"Danowa",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.94211,
+    10.84747,
+    13.94211,
+    10.84747
+],
+  "geometry": {"coordinates":[13.94211,10.84747],"type":"Point"}
+}

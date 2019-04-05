@@ -1,0 +1,67 @@
+{
+  "id": 1310092545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98622,10.28414,13.98622,10.28414",
+    "geom:latitude":10.28414,
+    "geom:longitude":13.98622,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Dagay",
+    "gn:country_code":"CM",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6759932,
+    "gn:latitude":10.28414,
+    "gn:longitude":13.98622,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Dagay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6759932
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"cb7e7545e0427a8bc86ac7e21314d1d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011977,
+            "locality_id":1310092545,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1310092545,
+    "wof:lastmodified":1537014502,
+    "wof:name":"Dagay",
+    "wof:parent_id":1092011977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98622,
+    10.28414,
+    13.98622,
+    10.28414
+],
+  "geometry": {"coordinates":[13.98622,10.28414],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360064705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.64205,9.94471,13.64205,9.94471",
+    "geom:latitude":9.94471,
+    "geom:longitude":13.64205,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bounioum",
+    "gn:country_code":"CM",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8668943,
+    "gn:latitude":9.94471,
+    "gn:longitude":13.64205,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Bounioum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8668943
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ff6667cec19ba2e635c1dd511b1b09d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1360064705,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1360064705,
+    "wof:lastmodified":1536974649,
+    "wof:name":"Bounioum",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.64205,
+    9.94471,
+    13.64205,
+    9.94471
+],
+  "geometry": {"coordinates":[13.64205,9.94471],"type":"Point"}
+}

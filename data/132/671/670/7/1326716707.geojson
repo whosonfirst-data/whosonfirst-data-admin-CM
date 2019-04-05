@@ -1,0 +1,67 @@
+{
+  "id": 1326716707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0933,8.8795,14.0933,8.8795",
+    "geom:latitude":8.8795,
+    "geom:longitude":14.0933,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yokode",
+    "gn:country_code":"CM",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220845,
+    "gn:latitude":8.8795,
+    "gn:longitude":14.0933,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"Yokod\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220845
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"499d27525c62c23b416fa6fcf5c7cd66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011703,
+            "locality_id":1326716707,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1326716707,
+    "wof:lastmodified":1536718528,
+    "wof:name":"Yokode",
+    "wof:parent_id":1092011703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0933,
+    8.8795,
+    14.0933,
+    8.8795
+],
+  "geometry": {"coordinates":[14.0933,8.8795],"type":"Point"}
+}

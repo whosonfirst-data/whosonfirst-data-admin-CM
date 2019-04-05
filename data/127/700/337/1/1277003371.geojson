@@ -1,0 +1,76 @@
+{
+  "id": 1277003371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.40649,5.83532,10.40649,5.83532",
+    "geom:latitude":5.83532,
+    "geom:longitude":10.40649,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bafanji",
+    "gn:country_code":"CM",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2235195,
+    "gn:latitude":5.83532,
+    "gn:longitude":10.40649,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Bafanji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bafanji"
+    ],
+    "name:fra_x_variant":[
+        "Bafani"
+    ],
+    "name:und_x_variant":[
+        "Bafani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2235195
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"bf38eafadd063254d9a5b7318e8fb3f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010693,
+            "locality_id":1277003371,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1277003371,
+    "wof:lastmodified":1537591335,
+    "wof:name":"Bafanji",
+    "wof:parent_id":1092010693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.40649,
+    5.83532,
+    10.40649,
+    5.83532
+],
+  "geometry": {"coordinates":[10.40649,5.83532],"type":"Point"}
+}

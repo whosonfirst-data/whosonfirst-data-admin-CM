@@ -1,0 +1,65 @@
+{
+  "id": 1209495397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.80533,12.41055,14.80533,12.41055",
+    "geom:latitude":12.41055,
+    "geom:longitude":14.80533,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Amdan",
+    "gn:country_code":"CM",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2235646,
+    "gn:latitude":12.41055,
+    "gn:longitude":14.80533,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Amdan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amdane",
+        "Amdan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2235646
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"23107dc760d9ca2a5ff6cf4938980113",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209495397
+        }
+    ],
+    "wof:id":1209495397,
+    "wof:lastmodified":1537591340,
+    "wof:name":"Amdan",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80533,
+    12.41055,
+    14.80533,
+    12.41055
+],
+  "geometry": {"coordinates":[14.80533,12.41055],"type":"Point"}
+}

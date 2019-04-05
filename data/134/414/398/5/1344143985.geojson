@@ -1,0 +1,72 @@
+{
+  "id": 1344143985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.8375,10.91189,13.8375,10.91189",
+    "geom:latitude":10.91189,
+    "geom:longitude":13.8375,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mandoussa",
+    "gn:country_code":"CM",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2226084,
+    "gn:latitude":10.91189,
+    "gn:longitude":13.8375,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Mandoussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mondousa",
+        "Mandoussa",
+        "Mondouza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2226084
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f299691d5a7c4eb78466b20fbbb83df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1344143985,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1344143985,
+    "wof:lastmodified":1537591245,
+    "wof:name":"Mandoussa",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.8375,
+    10.91189,
+    13.8375,
+    10.91189
+],
+  "geometry": {"coordinates":[13.8375,10.91189],"type":"Point"}
+}

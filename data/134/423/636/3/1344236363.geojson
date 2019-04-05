@@ -1,0 +1,71 @@
+{
+  "id": 1344236363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.90787,10.1555,13.90787,10.1555",
+    "geom:latitude":10.1555,
+    "geom:longitude":13.90787,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Marma",
+    "gn:country_code":"CM",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228381,
+    "gn:latitude":10.1555,
+    "gn:longitude":13.90787,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Marma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Harma",
+        "Marma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228381
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d161e9b369cb7f331c9014c0d5791648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1344236363,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1344236363,
+    "wof:lastmodified":1537591262,
+    "wof:name":"Marma",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.90787,
+    10.1555,
+    13.90787,
+    10.1555
+],
+  "geometry": {"coordinates":[13.90787,10.1555],"type":"Point"}
+}

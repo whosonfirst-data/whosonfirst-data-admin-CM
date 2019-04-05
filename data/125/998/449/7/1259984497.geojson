@@ -1,0 +1,67 @@
+{
+  "id": 1259984497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.655,4.0669,9.655,4.0669",
+    "geom:latitude":4.0669,
+    "geom:longitude":9.655,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mambanda",
+    "gn:country_code":"CM",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594913,
+    "gn:latitude":4.0669,
+    "gn:longitude":9.655,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Mambanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092012257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594913
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5a707e5ceac5bac4ccfad4ca50f2627a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012257,
+            "locality_id":1259984497,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1259984497,
+    "wof:lastmodified":1536632176,
+    "wof:name":"Mambanda",
+    "wof:parent_id":1092012257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.655,
+    4.0669,
+    9.655,
+    4.0669
+],
+  "geometry": {"coordinates":[9.655,4.0669],"type":"Point"}
+}

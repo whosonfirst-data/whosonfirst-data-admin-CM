@@ -1,0 +1,67 @@
+{
+  "id": 1193157029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.19588,5.45867,10.19588,5.45867",
+    "geom:latitude":5.45867,
+    "geom:longitude":10.19588,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mendou",
+    "gn:country_code":"CM",
+    "gn:dem":1488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8605203,
+    "gn:latitude":5.45867,
+    "gn:longitude":10.19588,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Mendou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8605203
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"1bfa533d7a34b0a2af5780b5cc4c521c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1193157029,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1193157029,
+    "wof:lastmodified":1536372149,
+    "wof:name":"Mendou",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.19588,
+    5.45867,
+    10.19588,
+    5.45867
+],
+  "geometry": {"coordinates":[10.19588,5.45867],"type":"Point"}
+}

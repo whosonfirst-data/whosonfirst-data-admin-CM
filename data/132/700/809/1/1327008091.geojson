@@ -1,0 +1,67 @@
+{
+  "id": 1327008091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.38333,4.56667,11.38333,4.56667",
+    "geom:latitude":4.56667,
+    "geom:longitude":11.38333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mbangasina",
+    "gn:country_code":"CM",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2227999,
+    "gn:latitude":4.56667,
+    "gn:longitude":11.38333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mbangasina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092012311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2227999
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"006ea5b6e30132892efb87f0f536e4c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012311,
+            "locality_id":1327008091,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1327008091,
+    "wof:lastmodified":1536795847,
+    "wof:name":"Mbangasina",
+    "wof:parent_id":1092012311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.38333,
+    4.56667,
+    11.38333,
+    4.56667
+],
+  "geometry": {"coordinates":[11.38333,4.56667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242852575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.95,4.15,11.95,4.15",
+    "geom:latitude":4.15,
+    "geom:longitude":11.95,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mengala",
+    "gn:country_code":"CM",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2227136,
+    "gn:latitude":4.15,
+    "gn:longitude":11.95,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mengala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092010921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2227136
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"80c6a4a299e899c1a2e36f906afb87ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010921,
+            "locality_id":1242852575,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1242852575,
+    "wof:lastmodified":1536667649,
+    "wof:name":"Mengala",
+    "wof:parent_id":1092010921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.95,
+    4.15,
+    11.95,
+    4.15
+],
+  "geometry": {"coordinates":[11.95,4.15],"type":"Point"}
+}

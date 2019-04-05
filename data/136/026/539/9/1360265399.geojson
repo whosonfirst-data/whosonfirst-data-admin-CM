@@ -1,0 +1,70 @@
+{
+  "id": 1360265399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.69072,12.35936,14.69072,12.35936",
+    "geom:latitude":12.35936,
+    "geom:longitude":14.69072,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tilam",
+    "gn:country_code":"CM",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221492,
+    "gn:latitude":12.35936,
+    "gn:longitude":14.69072,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Tilam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tillam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221492
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ba2c729aec328123adbb0e923d41f7c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1360265399,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1360265399,
+    "wof:lastmodified":1537591199,
+    "wof:name":"Tilam",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.69072,
+    12.35936,
+    14.69072,
+    12.35936
+],
+  "geometry": {"coordinates":[14.69072,12.35936],"type":"Point"}
+}

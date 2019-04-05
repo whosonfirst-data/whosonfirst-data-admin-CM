@@ -1,0 +1,67 @@
+{
+  "id": 1327111787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86235,10.26015,14.86235,10.26015",
+    "geom:latitude":10.26015,
+    "geom:longitude":14.86235,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Gazouel",
+    "gn:country_code":"CM",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6731527,
+    "gn:latitude":10.26015,
+    "gn:longitude":14.86235,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Gazouel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6731527
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"0a0ee6a3966549b8383665a7241bebde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011963,
+            "locality_id":1327111787,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1327111787,
+    "wof:lastmodified":1536645420,
+    "wof:name":"Gazouel",
+    "wof:parent_id":1092011963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86235,
+    10.26015,
+    14.86235,
+    10.26015
+],
+  "geometry": {"coordinates":[14.86235,10.26015],"type":"Point"}
+}

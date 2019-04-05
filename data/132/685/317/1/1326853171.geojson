@@ -1,0 +1,67 @@
+{
+  "id": 1326853171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.7391,4.1042,9.7391,4.1042",
+    "geom:latitude":4.1042,
+    "geom:longitude":9.7391,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bonangang",
+    "gn:country_code":"CM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594926,
+    "gn:latitude":4.1042,
+    "gn:longitude":9.7391,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Bonangang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092012257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594926
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"06b3b264a7d78a9359e135c5e6d852e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012257,
+            "locality_id":1326853171,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1326853171,
+    "wof:lastmodified":1537017867,
+    "wof:name":"Bonangang",
+    "wof:parent_id":1092012257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.7391,
+    4.1042,
+    9.7391,
+    4.1042
+],
+  "geometry": {"coordinates":[9.7391,4.1042],"type":"Point"}
+}

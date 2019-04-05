@@ -1,0 +1,67 @@
+{
+  "id": 1209908083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.8644,5.8558,9.8644,5.8558",
+    "geom:latitude":5.8558,
+    "geom:longitude":9.8644,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kunok",
+    "gn:country_code":"CM",
+    "gn:dem":1095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858398,
+    "gn:latitude":5.8558,
+    "gn:longitude":9.8644,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Kunok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858398
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"9ac8e823e98e936e45c4f0ffe43a51c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010649,
+            "locality_id":1209908083,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1209908083,
+    "wof:lastmodified":1536381769,
+    "wof:name":"Kunok",
+    "wof:parent_id":1092010649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8644,
+    5.8558,
+    9.8644,
+    5.8558
+],
+  "geometry": {"coordinates":[9.8644,5.8558],"type":"Point"}
+}

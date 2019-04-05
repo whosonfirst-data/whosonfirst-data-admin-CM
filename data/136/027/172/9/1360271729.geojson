@@ -1,0 +1,67 @@
+{
+  "id": 1360271729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.31667,8.35,12.31667,8.35",
+    "geom:latitude":8.35,
+    "geom:longitude":12.31667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Aoudi",
+    "gn:country_code":"CM",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2235519,
+    "gn:latitude":8.35,
+    "gn:longitude":12.31667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Aoudi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2235519
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"7c59cb0bdb86cd12f9301245df3a2ecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011667,
+            "locality_id":1360271729,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1360271729,
+    "wof:lastmodified":1536676427,
+    "wof:name":"Aoudi",
+    "wof:parent_id":1092011667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.31667,
+    8.35,
+    12.31667,
+    8.35
+],
+  "geometry": {"coordinates":[12.31667,8.35],"type":"Point"}
+}

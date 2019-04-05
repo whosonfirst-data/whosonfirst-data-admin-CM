@@ -1,0 +1,67 @@
+{
+  "id": 1209803431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.31667,4.06667,11.31667,4.06667",
+    "geom:latitude":4.06667,
+    "geom:longitude":11.31667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Song Onana",
+    "gn:country_code":"CM",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221910,
+    "gn:latitude":4.06667,
+    "gn:longitude":11.31667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Song Onana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092012079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221910
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c060e5a5398e342863c79051c8de3474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012079,
+            "locality_id":1209803431,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1209803431,
+    "wof:lastmodified":1536389682,
+    "wof:name":"Song Onana",
+    "wof:parent_id":1092012079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.31667,
+    4.06667,
+    11.31667,
+    4.06667
+],
+  "geometry": {"coordinates":[11.31667,4.06667],"type":"Point"}
+}

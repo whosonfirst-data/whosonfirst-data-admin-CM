@@ -1,0 +1,72 @@
+{
+  "id": 1209701153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.26667,5.71667,10.26667,5.71667",
+    "geom:latitude":5.71667,
+    "geom:longitude":10.26667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bali-Bagam",
+    "gn:country_code":"CM",
+    "gn:dem":1223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2235021,
+    "gn:latitude":5.71667,
+    "gn:longitude":10.26667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bali-Bagam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balighansin",
+        "Baligham",
+        "Bali-Bagam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2235021
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c13c7cfb97d2853da5eb5c93eb759e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010559,
+            "locality_id":1209701153,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1209701153,
+    "wof:lastmodified":1537591333,
+    "wof:name":"Bali-Bagam",
+    "wof:parent_id":1092010559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.26667,
+    5.71667,
+    10.26667,
+    5.71667
+],
+  "geometry": {"coordinates":[10.26667,5.71667],"type":"Point"}
+}

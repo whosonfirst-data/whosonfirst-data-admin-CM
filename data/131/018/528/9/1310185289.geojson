@@ -1,0 +1,76 @@
+{
+  "id": 1310185289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.58626,10.51398,13.58626,10.51398",
+    "geom:latitude":10.51398,
+    "geom:longitude":13.58626,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Roumsiki",
+    "gn:country_code":"CM",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222378,
+    "gn:latitude":10.51398,
+    "gn:longitude":13.58626,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Roumsiki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Houmsiki",
+        "Roums\u00e9ki",
+        "Humseki",
+        "Roumsi",
+        "Houms\u00e9ki",
+        "Humsiki",
+        "Roumsiki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222378
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"e480731c6e4c7cea6152769553331993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1310185289,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1310185289,
+    "wof:lastmodified":1537591208,
+    "wof:name":"Roumsiki",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.58626,
+    10.51398,
+    13.58626,
+    10.51398
+],
+  "geometry": {"coordinates":[13.58626,10.51398],"type":"Point"}
+}

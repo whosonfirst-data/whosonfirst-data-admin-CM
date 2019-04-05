@@ -1,0 +1,61 @@
+{
+  "id": 1209693149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.00549,10.85785,14.00549,10.85785",
+    "geom:latitude":10.85785,
+    "geom:longitude":14.00549,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zawada",
+    "gn:country_code":"CM",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6729416,
+    "gn:latitude":10.85785,
+    "gn:longitude":14.00549,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Zawada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6729416
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"a9c9f4e2fad8edfb160ba3a94573466d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209693149
+        }
+    ],
+    "wof:id":1209693149,
+    "wof:lastmodified":1536279169,
+    "wof:name":"Zawada",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.00549,
+    10.85785,
+    14.00549,
+    10.85785
+],
+  "geometry": {"coordinates":[14.00549,10.85785],"type":"Point"}
+}

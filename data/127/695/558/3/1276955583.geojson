@@ -1,0 +1,67 @@
+{
+  "id": 1276955583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.95512,10.55929,13.95512,10.55929",
+    "geom:latitude":10.55929,
+    "geom:longitude":13.95512,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sikia",
+    "gn:country_code":"CM",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074893,
+    "gn:latitude":10.55929,
+    "gn:longitude":13.95512,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Sikia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074893
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c960c723635951cd654f55523ae5bb74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1276955583,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1276955583,
+    "wof:lastmodified":1536940582,
+    "wof:name":"Sikia",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95512,
+    10.55929,
+    13.95512,
+    10.55929
+],
+  "geometry": {"coordinates":[13.95512,10.55929],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343267749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.05,3.43333,13.05,3.43333",
+    "geom:latitude":3.43333,
+    "geom:longitude":13.05,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mimpala",
+    "gn:country_code":"CM",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2226651,
+    "gn:latitude":3.43333,
+    "gn:longitude":13.05,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mimpala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dob\u012be\u2019s",
+        "Mengbala",
+        "Mingbala",
+        "Mimpala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2226651
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"152cce26aa39d203dbd647f289d6eeac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011347,
+            "locality_id":1343267749,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1343267749,
+    "wof:lastmodified":1537591248,
+    "wof:name":"Mimpala",
+    "wof:parent_id":1092011347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.05,
+    3.43333,
+    13.05,
+    3.43333
+],
+  "geometry": {"coordinates":[13.05,3.43333],"type":"Point"}
+}

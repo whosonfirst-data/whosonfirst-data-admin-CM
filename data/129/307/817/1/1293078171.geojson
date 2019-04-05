@@ -1,0 +1,67 @@
+{
+  "id": 1293078171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23959,10.29689,15.23959,10.29689",
+    "geom:latitude":10.29689,
+    "geom:longitude":15.23959,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Gamdama",
+    "gn:country_code":"CM",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231396,
+    "gn:latitude":10.29689,
+    "gn:longitude":15.23959,
+    "gn:modification_date":"2008-05-16",
+    "gn:name":"Gamdama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1108390249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231396
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"bf5a799b602d53a070e48a29148843af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1108390249,
+            "locality_id":1293078171,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1293078171,
+    "wof:lastmodified":1536879482,
+    "wof:name":"Gamdama",
+    "wof:parent_id":1108390249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23959,
+    10.29689,
+    15.23959,
+    10.29689
+],
+  "geometry": {"coordinates":[15.23959,10.29689],"type":"Point"}
+}

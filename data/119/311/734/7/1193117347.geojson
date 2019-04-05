@@ -1,0 +1,67 @@
+{
+  "id": 1193117347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.88476,10.83428,13.88476,10.83428",
+    "geom:latitude":10.83428,
+    "geom:longitude":13.88476,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Vodoltoum",
+    "gn:country_code":"CM",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074160,
+    "gn:latitude":10.83428,
+    "gn:longitude":13.88476,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Vodoltoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074160
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d726e4cd4d8ec46abaf9ce46272bda05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1193117347,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1193117347,
+    "wof:lastmodified":1536366823,
+    "wof:name":"Vodoltoum",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.88476,
+    10.83428,
+    13.88476,
+    10.83428
+],
+  "geometry": {"coordinates":[13.88476,10.83428],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326517181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.67627,10.55841,13.67627,10.55841",
+    "geom:latitude":10.55841,
+    "geom:longitude":13.67627,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sir",
+    "gn:country_code":"CM",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222009,
+    "gn:latitude":10.55841,
+    "gn:longitude":13.67627,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Sir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222009
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d01920796426c80602a5c3e6e04dd9be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1326517181,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1326517181,
+    "wof:lastmodified":1537005041,
+    "wof:name":"Sir",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.67627,
+    10.55841,
+    13.67627,
+    10.55841
+],
+  "geometry": {"coordinates":[13.67627,10.55841],"type":"Point"}
+}

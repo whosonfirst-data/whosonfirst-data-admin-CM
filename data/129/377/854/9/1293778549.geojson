@@ -1,0 +1,67 @@
+{
+  "id": 1293778549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.24032,5.94692,9.24032,5.94692",
+    "geom:latitude":5.94692,
+    "geom:longitude":9.24032,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mbakem",
+    "gn:country_code":"CM",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6857851,
+    "gn:latitude":5.94692,
+    "gn:longitude":9.24032,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Mbakem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6857851
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"1363a46ad51b529adab63a3d6e8c5faa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011003,
+            "locality_id":1293778549,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1293778549,
+    "wof:lastmodified":1536863183,
+    "wof:name":"Mbakem",
+    "wof:parent_id":1092011003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.24032,
+    5.94692,
+    9.24032,
+    5.94692
+],
+  "geometry": {"coordinates":[9.24032,5.94692],"type":"Point"}
+}

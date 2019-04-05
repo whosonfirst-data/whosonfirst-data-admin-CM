@@ -1,0 +1,67 @@
+{
+  "id": 1327322805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.53333,7.15,13.53333,7.15",
+    "geom:latitude":7.15,
+    "geom:longitude":13.53333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Marboui",
+    "gn:country_code":"CM",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228410,
+    "gn:latitude":7.15,
+    "gn:longitude":13.53333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Marboui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228410
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"575f7d6f0ad5dbe693d0a294ec9ed1bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011581,
+            "locality_id":1327322805,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1327322805,
+    "wof:lastmodified":1536838112,
+    "wof:name":"Marboui",
+    "wof:parent_id":1092011581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.53333,
+    7.15,
+    13.53333,
+    7.15
+],
+  "geometry": {"coordinates":[13.53333,7.15],"type":"Point"}
+}

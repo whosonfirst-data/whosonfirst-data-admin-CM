@@ -1,0 +1,71 @@
+{
+  "id": 1343547561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.79186,10.13999,13.79186,10.13999",
+    "geom:latitude":10.13999,
+    "geom:longitude":13.79186,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Galao",
+    "gn:country_code":"CM",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231429,
+    "gn:latitude":10.13999,
+    "gn:longitude":13.79186,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Galao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Galaou",
+        "Galao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231429
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d00aec5eef011a20bdc8b95f5dff1954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1343547561,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1343547561,
+    "wof:lastmodified":1537591296,
+    "wof:name":"Galao",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.79186,
+    10.13999,
+    13.79186,
+    10.13999
+],
+  "geometry": {"coordinates":[13.79186,10.13999],"type":"Point"}
+}

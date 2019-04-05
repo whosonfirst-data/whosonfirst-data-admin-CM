@@ -1,0 +1,90 @@
+{
+  "id": 1292985433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.6223,4.8112,8.6223,4.8112",
+    "geom:latitude":4.8112,
+    "geom:longitude":8.6223,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Archibong",
+    "gn:country_code":"CM",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2235507,
+    "gn:latitude":4.8112,
+    "gn:longitude":8.6223,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Archibong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arsibon",
+        "Archibong\u2019s",
+        "Arsibon\u2019s Town",
+        "Archibong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1108563073,
+        85632735,
+        85675331,
+        1092010791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2235507
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"eed8acbd428e4369bed1591725305653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1108563073,
+            "locality_id":1292985433,
+            "region_id":85669967
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563073,
+            "locality_id":1292985433,
+            "region_id":85675331
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010791,
+            "locality_id":1292985433,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1292985433,
+    "wof:lastmodified":1537591338,
+    "wof:name":"Archibong",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.6223,
+    4.8112,
+    8.6223,
+    4.8112
+],
+  "geometry": {"coordinates":[8.6223,4.8112],"type":"Point"}
+}

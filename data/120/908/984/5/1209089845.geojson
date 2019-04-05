@@ -1,0 +1,61 @@
+{
+  "id": 1209089845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.73333,2.65,12.73333,2.65",
+    "geom:latitude":2.65,
+    "geom:longitude":12.73333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Eleng",
+    "gn:country_code":"CM",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2232035,
+    "gn:latitude":2.65,
+    "gn:longitude":12.73333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"\u00c9leng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2232035
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"3846d0a6f67554c8b91da7b562534aab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209089845
+        }
+    ],
+    "wof:id":1209089845,
+    "wof:lastmodified":1536298069,
+    "wof:name":"Eleng",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.73333,
+    2.65,
+    12.73333,
+    2.65
+],
+  "geometry": {"coordinates":[12.73333,2.65],"type":"Point"}
+}

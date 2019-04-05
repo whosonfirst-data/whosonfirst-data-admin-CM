@@ -1,0 +1,67 @@
+{
+  "id": 1293408339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.01667,4.3,11.01667,4.3",
+    "geom:latitude":4.3,
+    "geom:longitude":11.01667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nyambat",
+    "gn:country_code":"CM",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223396,
+    "gn:latitude":4.3,
+    "gn:longitude":11.01667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Nyambat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223396
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"4127f896e9189d3af9c502196ce94eb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011309,
+            "locality_id":1293408339,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1293408339,
+    "wof:lastmodified":1536901222,
+    "wof:name":"Nyambat",
+    "wof:parent_id":1092011309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.01667,
+    4.3,
+    11.01667,
+    4.3
+],
+  "geometry": {"coordinates":[11.01667,4.3],"type":"Point"}
+}

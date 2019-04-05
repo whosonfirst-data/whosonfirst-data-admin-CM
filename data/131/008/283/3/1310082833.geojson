@@ -1,0 +1,67 @@
+{
+  "id": 1310082833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.78936,10.76125,13.78936,10.76125",
+    "geom:latitude":10.76125,
+    "geom:longitude":13.78936,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ndoufgay",
+    "gn:country_code":"CM",
+    "gn:dem":869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9075072,
+    "gn:latitude":10.76125,
+    "gn:longitude":13.78936,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Ndoufgay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9075072
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"916fe01b0df1607b4f68178cafa3bfad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1310082833,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1310082833,
+    "wof:lastmodified":1537028080,
+    "wof:name":"Ndoufgay",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.78936,
+    10.76125,
+    13.78936,
+    10.76125
+],
+  "geometry": {"coordinates":[13.78936,10.76125],"type":"Point"}
+}

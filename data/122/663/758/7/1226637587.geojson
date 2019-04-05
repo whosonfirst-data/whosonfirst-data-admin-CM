@@ -1,0 +1,71 @@
+{
+  "id": 1226637587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.81488,5.94217,9.81488,5.94217",
+    "geom:latitude":5.94217,
+    "geom:longitude":9.81488,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tezie",
+    "gn:country_code":"CM",
+    "gn:dem":852,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221592,
+    "gn:latitude":5.94217,
+    "gn:longitude":9.81488,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tezie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tedji",
+        "Tezie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221592
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"030b6d32f67ee976740783b27eb97793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010649,
+            "locality_id":1226637587,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1226637587,
+    "wof:lastmodified":1537591199,
+    "wof:name":"Tezie",
+    "wof:parent_id":1092010649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.81488,
+    5.94217,
+    9.81488,
+    5.94217
+],
+  "geometry": {"coordinates":[9.81488,5.94217],"type":"Point"}
+}

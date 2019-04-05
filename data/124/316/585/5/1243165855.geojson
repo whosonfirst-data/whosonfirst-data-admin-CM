@@ -1,0 +1,72 @@
+{
+  "id": 1243165855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.40518,6.43489,11.40518,6.43489",
+    "geom:latitude":6.43489,
+    "geom:longitude":11.40518,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sarki Mbaka",
+    "gn:country_code":"CM",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222189,
+    "gn:latitude":6.43489,
+    "gn:longitude":11.40518,
+    "gn:modification_date":"2014-12-29",
+    "gn:name":"Sarki Mbaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maharba",
+        "Serki Baka",
+        "Ser\u00edki-B\u00e1rka's"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222189
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"23555efe51d4e8d454ff98124edaae43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011501,
+            "locality_id":1243165855,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1243165855,
+    "wof:lastmodified":1537591206,
+    "wof:name":"Sarki Mbaka",
+    "wof:parent_id":1092011501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.40518,
+    6.43489,
+    11.40518,
+    6.43489
+],
+  "geometry": {"coordinates":[11.40518,6.43489],"type":"Point"}
+}

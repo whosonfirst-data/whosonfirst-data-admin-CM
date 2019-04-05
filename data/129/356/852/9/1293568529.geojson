@@ -1,0 +1,71 @@
+{
+  "id": 1293568529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.50881,9.53884,13.50881,9.53884",
+    "geom:latitude":9.53884,
+    "geom:longitude":13.50881,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kefero",
+    "gn:country_code":"CM",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2230486,
+    "gn:latitude":9.53884,
+    "gn:longitude":13.50881,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"K\u00e9f\u00e9ro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e9f\u00e9ro",
+        "Kango K\u00e9f\u00e9ro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2230486
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"60e55d4324b62aa5e93c4965adfac36f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1293568529,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1293568529,
+    "wof:lastmodified":1537591282,
+    "wof:name":"Kefero",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.50881,
+    9.53884,
+    13.50881,
+    9.53884
+],
+  "geometry": {"coordinates":[13.50881,9.53884],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260266657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.53333,6.33333,13.53333,6.33333",
+    "geom:latitude":6.33333,
+    "geom:longitude":13.53333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dir",
+    "gn:country_code":"CM",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233010,
+    "gn:latitude":6.33333,
+    "gn:longitude":13.53333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Dir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233010
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"dc52360bd0ce83e7b1183c19905a5479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011633,
+            "locality_id":1260266657,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1260266657,
+    "wof:lastmodified":1536734655,
+    "wof:name":"Dir",
+    "wof:parent_id":1092011633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.53333,
+    6.33333,
+    13.53333,
+    6.33333
+],
+  "geometry": {"coordinates":[13.53333,6.33333],"type":"Point"}
+}

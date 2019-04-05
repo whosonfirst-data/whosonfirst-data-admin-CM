@@ -1,0 +1,67 @@
+{
+  "id": 1193004577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.45016,9.38159,13.45016,9.38159",
+    "geom:latitude":9.38159,
+    "geom:longitude":13.45016,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Niakira",
+    "gn:country_code":"CM",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2224388,
+    "gn:latitude":9.38159,
+    "gn:longitude":13.45016,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Niakira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2224388
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d43cc39c65ad431923631457654636a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1193004577,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1193004577,
+    "wof:lastmodified":1536366937,
+    "wof:name":"Niakira",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.45016,
+    9.38159,
+    13.45016,
+    9.38159
+],
+  "geometry": {"coordinates":[13.45016,9.38159],"type":"Point"}
+}

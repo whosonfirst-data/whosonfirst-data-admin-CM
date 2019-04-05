@@ -1,0 +1,67 @@
+{
+  "id": 1260366391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.39681,9.97627,13.39681,9.97627",
+    "geom:latitude":9.97627,
+    "geom:longitude":13.39681,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bombol",
+    "gn:country_code":"CM",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8673584,
+    "gn:latitude":9.97627,
+    "gn:longitude":13.39681,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Bombol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8673584
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"73c6212a14b0ee857662f7fcd0f2b3c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1260366391,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1260366391,
+    "wof:lastmodified":1537094597,
+    "wof:name":"Bombol",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.39681,
+    9.97627,
+    13.39681,
+    9.97627
+],
+  "geometry": {"coordinates":[13.39681,9.97627],"type":"Point"}
+}

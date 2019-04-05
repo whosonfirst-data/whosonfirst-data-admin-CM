@@ -1,0 +1,104 @@
+{
+  "id": 421167557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.87855,10.87079,13.87855,10.87079",
+    "geom:latitude":10.87079,
+    "geom:longitude":13.87855,
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Koza"
+    ],
+    "name:dut_x_preferred":[
+        "Koza"
+    ],
+    "name:eng_x_preferred":[
+        "Koza"
+    ],
+    "name:fre_x_preferred":[
+        "Koza"
+    ],
+    "name:ger_x_preferred":[
+        "Koza"
+    ],
+    "name:ita_x_preferred":[
+        "Koza"
+    ],
+    "name:pol_x_preferred":[
+        "Koza"
+    ],
+    "name:spa_x_preferred":[
+        "Koza"
+    ],
+    "qs:gn_country":"CM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2229780,
+    "qs:gn_pop":3665,
+    "qs:name":"Koza",
+    "qs:name_adm0":"Cameroun",
+    "qs:name_adm1":"Extreme-Nord",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":139036,
+    "qs:woe_adm0":23424785,
+    "qs:woe_id":1302296,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2229780,
+        "gp:id":1302296,
+        "qs:id":139036,
+        "wd:id":"Q11744500"
+    },
+    "wof:country":"CM",
+    "wof:created":1459008735,
+    "wof:geomhash":"c1d14c3ec9cf67d64fa26df7468bbcd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":421167557,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":421167557,
+    "wof:lastmodified":1553816355,
+    "wof:name":"Koza",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:population":3665,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.87855,
+    10.87079,
+    13.87855,
+    10.87079
+],
+  "geometry": {"coordinates":[13.87855,10.87079],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209025313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.54527,5.59273,9.54527,5.59273",
+    "geom:latitude":5.59273,
+    "geom:longitude":9.54527,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Nchemba I",
+    "gn:country_code":"CM",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858385,
+    "gn:latitude":5.59273,
+    "gn:longitude":9.54527,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Nchemba I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858385
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"50f0aa0488531d8171127b9cce49e33f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209025313
+        }
+    ],
+    "wof:id":1209025313,
+    "wof:lastmodified":1536300018,
+    "wof:name":"Nchemba I",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.54527,
+    5.59273,
+    9.54527,
+    5.59273
+],
+  "geometry": {"coordinates":[9.54527,5.59273],"type":"Point"}
+}

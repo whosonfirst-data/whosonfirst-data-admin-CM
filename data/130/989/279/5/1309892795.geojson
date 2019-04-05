@@ -1,0 +1,67 @@
+{
+  "id": 1309892795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.035,10.30534,14.035,10.30534",
+    "geom:latitude":10.30534,
+    "geom:longitude":14.035,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mouloum",
+    "gn:country_code":"CM",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2225887,
+    "gn:latitude":10.30534,
+    "gn:longitude":14.035,
+    "gn:modification_date":"2008-03-11",
+    "gn:name":"Mouloum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225887
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5f121c37de8ebfdee1d53d7a4d813292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011977,
+            "locality_id":1309892795,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1309892795,
+    "wof:lastmodified":1536805573,
+    "wof:name":"Mouloum",
+    "wof:parent_id":1092011977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.035,
+    10.30534,
+    14.035,
+    10.30534
+],
+  "geometry": {"coordinates":[14.035,10.30534],"type":"Point"}
+}

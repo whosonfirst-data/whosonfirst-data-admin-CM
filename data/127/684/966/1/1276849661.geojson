@@ -1,0 +1,67 @@
+{
+  "id": 1276849661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.06667,2.61667,10.06667,2.61667",
+    "geom:latitude":2.61667,
+    "geom:longitude":10.06667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Akom",
+    "gn:country_code":"CM",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2235820,
+    "gn:latitude":2.61667,
+    "gn:longitude":10.06667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Akom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669971,
+        1092012139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2235820
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"460491c7fac5daede346659e5cacd5b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012139,
+            "locality_id":1276849661,
+            "region_id":85669971
+        }
+    ],
+    "wof:id":1276849661,
+    "wof:lastmodified":1537078472,
+    "wof:name":"Akom",
+    "wof:parent_id":1092012139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.06667,
+    2.61667,
+    10.06667,
+    2.61667
+],
+  "geometry": {"coordinates":[10.06667,2.61667],"type":"Point"}
+}

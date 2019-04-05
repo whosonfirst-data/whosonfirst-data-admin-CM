@@ -1,0 +1,67 @@
+{
+  "id": 1326517149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.56667,11.06667,14.56667,11.06667",
+    "geom:latitude":11.06667,
+    "geom:longitude":14.56667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Karalguie",
+    "gn:country_code":"CM",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2230454,
+    "gn:latitude":11.06667,
+    "gn:longitude":14.56667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Karalgui\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2230454
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"92cbd9909e547355166a52ded97db2c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011977,
+            "locality_id":1326517149,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1326517149,
+    "wof:lastmodified":1537005089,
+    "wof:name":"Karalguie",
+    "wof:parent_id":1092011977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.56667,
+    11.06667,
+    14.56667,
+    11.06667
+],
+  "geometry": {"coordinates":[14.56667,11.06667],"type":"Point"}
+}

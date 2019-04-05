@@ -1,0 +1,67 @@
+{
+  "id": 1226729867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.84957,11.14,14.84957,11.14",
+    "geom:latitude":11.14,
+    "geom:longitude":14.84957,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sifna",
+    "gn:country_code":"CM",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222053,
+    "gn:latitude":11.14,
+    "gn:longitude":14.84957,
+    "gn:modification_date":"2008-05-30",
+    "gn:name":"Sifna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222053
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"0f91c4d969fc65b83740b672aa76534e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1226729867,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1226729867,
+    "wof:lastmodified":1536738353,
+    "wof:name":"Sifna",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.84957,
+    11.14,
+    14.84957,
+    11.14
+],
+  "geometry": {"coordinates":[14.84957,11.14],"type":"Point"}
+}

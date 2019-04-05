@@ -1,0 +1,121 @@
+{
+  "id": 421178173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.5671,4.5016,9.5671,4.5016",
+    "geom:latitude":4.5016,
+    "geom:longitude":9.5671,
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Mbanga"
+    ],
+    "name:dan_x_preferred":[
+        "Mbanga"
+    ],
+    "name:dut_x_preferred":[
+        "Mbanga"
+    ],
+    "name:eng_x_preferred":[
+        "Mbanga"
+    ],
+    "name:fra_x_preferred":[
+        "Mbanga"
+    ],
+    "name:fre_x_preferred":[
+        "Mbanga"
+    ],
+    "name:ita_x_preferred":[
+        "Mbanga"
+    ],
+    "name:may_x_preferred":[
+        "Mbanga"
+    ],
+    "name:msa_x_preferred":[
+        "Mbanga"
+    ],
+    "name:pol_x_preferred":[
+        "Mbanga"
+    ],
+    "name:por_x_preferred":[
+        "Mbanga"
+    ],
+    "name:swe_x_preferred":[
+        "Mbanga"
+    ],
+    "name:unk_x_variant":[
+        "M\u2019Bang\u00e9"
+    ],
+    "qs:gn_country":"CM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2228005,
+    "qs:gn_pop":42590,
+    "qs:name":"Mbanga",
+    "qs:name_adm0":"Cameroun",
+    "qs:name_adm1":"Littoral",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":278274,
+    "qs:woe_adm0":23424785,
+    "qs:woe_id":1478608,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228005,
+        "gp:id":1478608,
+        "qs:id":278274,
+        "wd:id":"Q3303483",
+        "wk:page":"Mbanga, Cameroon"
+    },
+    "wof:country":"CM",
+    "wof:created":1459009173,
+    "wof:geomhash":"66d966770a3b6941e4b43563eae31026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011087,
+            "locality_id":421178173,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":421178173,
+    "wof:lastmodified":1527717721,
+    "wof:name":"Mbanga",
+    "wof:parent_id":1092011087,
+    "wof:placetype":"locality",
+    "wof:population":42590,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.5671,
+    4.5016,
+    9.5671,
+    4.5016
+],
+  "geometry": {"coordinates":[9.5671,4.5016],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193255563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97293,10.74178,13.97293,10.74178",
+    "geom:latitude":10.74178,
+    "geom:longitude":13.97293,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zogom",
+    "gn:country_code":"CM",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760017,
+    "gn:latitude":10.74178,
+    "gn:longitude":13.97293,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Zogom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zogoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760017
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"386cd30e7dc191cba44dec8b85bc5cc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1193255563,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1193255563,
+    "wof:lastmodified":1537591348,
+    "wof:name":"Zogom",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97293,
+    10.74178,
+    13.97293,
+    10.74178
+],
+  "geometry": {"coordinates":[13.97293,10.74178],"type":"Point"}
+}

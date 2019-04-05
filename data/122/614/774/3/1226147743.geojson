@@ -1,0 +1,67 @@
+{
+  "id": 1226147743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.79472,3.62139,9.79472,3.62139",
+    "geom:latitude":3.62139,
+    "geom:longitude":9.79472,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yavi",
+    "gn:country_code":"CM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220938,
+    "gn:latitude":3.62139,
+    "gn:longitude":9.79472,
+    "gn:modification_date":"2001-08-15",
+    "gn:name":"Yavi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220938
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"811e7991f153d32c6ee8d6b33b547038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011153,
+            "locality_id":1226147743,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1226147743,
+    "wof:lastmodified":1537071713,
+    "wof:name":"Yavi",
+    "wof:parent_id":1092011153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.79472,
+    3.62139,
+    9.79472,
+    3.62139
+],
+  "geometry": {"coordinates":[9.79472,3.62139],"type":"Point"}
+}

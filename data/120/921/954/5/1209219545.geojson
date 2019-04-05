@@ -1,0 +1,61 @@
+{
+  "id": 1209219545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.8296,4.8633,9.8296,4.8633",
+    "geom:latitude":4.8633,
+    "geom:longitude":9.8296,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Namba",
+    "gn:country_code":"CM",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595118,
+    "gn:latitude":4.8633,
+    "gn:longitude":9.8296,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Namba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595118
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"bd816de575064e806c18a23da8289d66",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209219545
+        }
+    ],
+    "wof:id":1209219545,
+    "wof:lastmodified":1536294011,
+    "wof:name":"Namba",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8296,
+    4.8633,
+    9.8296,
+    4.8633
+],
+  "geometry": {"coordinates":[9.8296,4.8633],"type":"Point"}
+}

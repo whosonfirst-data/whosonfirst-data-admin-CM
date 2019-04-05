@@ -1,0 +1,67 @@
+{
+  "id": 1343640823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1179,8.3455,14.1179,8.3455",
+    "geom:latitude":8.3455,
+    "geom:longitude":14.1179,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Home Garal",
+    "gn:country_code":"CM",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2230776,
+    "gn:latitude":8.3455,
+    "gn:longitude":14.1179,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"Hom\u00e9 Garal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2230776
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ba84653d996e8b278946a4052b3047b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011703,
+            "locality_id":1343640823,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1343640823,
+    "wof:lastmodified":1536982701,
+    "wof:name":"Home Garal",
+    "wof:parent_id":1092011703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1179,
+    8.3455,
+    14.1179,
+    8.3455
+],
+  "geometry": {"coordinates":[14.1179,8.3455],"type":"Point"}
+}

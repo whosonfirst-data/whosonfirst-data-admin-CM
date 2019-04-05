@@ -1,0 +1,67 @@
+{
+  "id": 1243535605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.68333,4.81667,12.68333,4.81667",
+    "geom:latitude":4.81667,
+    "geom:longitude":12.68333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Abam",
+    "gn:country_code":"CM",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2236150,
+    "gn:latitude":4.81667,
+    "gn:longitude":12.68333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Abam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2236150
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"1dcae4db7657b86518a61546d4b6035c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011277,
+            "locality_id":1243535605,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1243535605,
+    "wof:lastmodified":1536677056,
+    "wof:name":"Abam",
+    "wof:parent_id":1092011277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.68333,
+    4.81667,
+    12.68333,
+    4.81667
+],
+  "geometry": {"coordinates":[12.68333,4.81667],"type":"Point"}
+}

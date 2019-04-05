@@ -1,0 +1,67 @@
+{
+  "id": 1260280553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.8868,6.1383,9.8868,6.1383",
+    "geom:latitude":6.1383,
+    "geom:longitude":9.8868,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Niko",
+    "gn:country_code":"CM",
+    "gn:dem":1521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6855258,
+    "gn:latitude":6.1383,
+    "gn:longitude":9.8868,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Niko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6855258
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"89ae0963b985db91d2f611f855d67bc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010649,
+            "locality_id":1260280553,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1260280553,
+    "wof:lastmodified":1536716224,
+    "wof:name":"Niko",
+    "wof:parent_id":1092010649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8868,
+    6.1383,
+    9.8868,
+    6.1383
+],
+  "geometry": {"coordinates":[9.8868,6.1383],"type":"Point"}
+}

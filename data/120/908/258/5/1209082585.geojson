@@ -1,0 +1,61 @@
+{
+  "id": 1209082585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.50634,9.31147,13.50634,9.31147",
+    "geom:latitude":9.31147,
+    "geom:longitude":13.50634,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Soumpa",
+    "gn:country_code":"CM",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8665294,
+    "gn:latitude":9.31147,
+    "gn:longitude":13.50634,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Soumpa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8665294
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"4b65fc4a479eeeef3ece08574da4cdf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209082585
+        }
+    ],
+    "wof:id":1209082585,
+    "wof:lastmodified":1536298289,
+    "wof:name":"Soumpa",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.50634,
+    9.31147,
+    13.50634,
+    9.31147
+],
+  "geometry": {"coordinates":[13.50634,9.31147],"type":"Point"}
+}

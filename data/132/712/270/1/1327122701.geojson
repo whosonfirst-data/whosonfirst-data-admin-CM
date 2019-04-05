@@ -1,0 +1,67 @@
+{
+  "id": 1327122701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.56667,3.71667,11.56667,3.71667",
+    "geom:latitude":3.71667,
+    "geom:longitude":11.56667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Benebalot",
+    "gn:country_code":"CM",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2234418,
+    "gn:latitude":3.71667,
+    "gn:longitude":11.56667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"B\u00e9n\u00e9balot",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092010921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2234418
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"9a60e0a98eaa6155848548355dedca62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010921,
+            "locality_id":1327122701,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1327122701,
+    "wof:lastmodified":1536628386,
+    "wof:name":"Benebalot",
+    "wof:parent_id":1092010921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.56667,
+    3.71667,
+    11.56667,
+    3.71667
+],
+  "geometry": {"coordinates":[11.56667,3.71667],"type":"Point"}
+}

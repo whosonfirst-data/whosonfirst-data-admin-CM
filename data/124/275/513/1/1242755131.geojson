@@ -1,0 +1,67 @@
+{
+  "id": 1242755131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13333,10.08333,15.13333,10.08333",
+    "geom:latitude":10.08333,
+    "geom:longitude":15.13333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Golongari",
+    "gn:country_code":"CM",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231110,
+    "gn:latitude":10.08333,
+    "gn:longitude":15.13333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Golongari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1108390249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231110
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"0e2cc2f1ed8ecb34f8c12ee83e6a9809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1108390249,
+            "locality_id":1242755131,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1242755131,
+    "wof:lastmodified":1536807732,
+    "wof:name":"Golongari",
+    "wof:parent_id":1108390249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13333,
+    10.08333,
+    15.13333,
+    10.08333
+],
+  "geometry": {"coordinates":[15.13333,10.08333],"type":"Point"}
+}

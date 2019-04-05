@@ -1,0 +1,67 @@
+{
+  "id": 1360079633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.715,5.8906,9.715,5.8906",
+    "geom:latitude":5.8906,
+    "geom:longitude":9.715,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oche",
+    "gn:country_code":"CM",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6857889,
+    "gn:latitude":5.8906,
+    "gn:longitude":9.715,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Oche",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6857889
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"1fc1b5f97226cafec97b5c2cdaf59a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010649,
+            "locality_id":1360079633,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1360079633,
+    "wof:lastmodified":1536953673,
+    "wof:name":"Oche",
+    "wof:parent_id":1092010649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.715,
+    5.8906,
+    9.715,
+    5.8906
+],
+  "geometry": {"coordinates":[9.715,5.8906],"type":"Point"}
+}

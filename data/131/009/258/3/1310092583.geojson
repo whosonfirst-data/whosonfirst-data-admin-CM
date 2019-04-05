@@ -1,0 +1,71 @@
+{
+  "id": 1310092583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.94642,12.02402,14.94642,12.02402",
+    "geom:latitude":12.02402,
+    "geom:longitude":14.94642,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Magourde I",
+    "gn:country_code":"CM",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228956,
+    "gn:latitude":12.02402,
+    "gn:longitude":14.94642,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Magourd\u00e9 I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magourd\u00e9",
+        "Magourd\u00e9 I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228956
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d93f1818c0b801d6a227a9fc81f96c5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1310092583,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1310092583,
+    "wof:lastmodified":1537591267,
+    "wof:name":"Magourde I",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.94642,
+    12.02402,
+    14.94642,
+    12.02402
+],
+  "geometry": {"coordinates":[14.94642,12.02402],"type":"Point"}
+}

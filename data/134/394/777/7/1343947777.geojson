@@ -1,0 +1,67 @@
+{
+  "id": 1343947777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.72,5.8212,9.72,5.8212",
+    "geom:latitude":5.8212,
+    "geom:longitude":9.72,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Afu",
+    "gn:country_code":"CM",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6857983,
+    "gn:latitude":5.8212,
+    "gn:longitude":9.72,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Afu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6857983
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"bfe8220b2300c0cc38f69d178509a278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011003,
+            "locality_id":1343947777,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1343947777,
+    "wof:lastmodified":1537036767,
+    "wof:name":"Afu",
+    "wof:parent_id":1092011003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.72,
+    5.8212,
+    9.72,
+    5.8212
+],
+  "geometry": {"coordinates":[9.72,5.8212],"type":"Point"}
+}

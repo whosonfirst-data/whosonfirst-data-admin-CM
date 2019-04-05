@@ -1,0 +1,67 @@
+{
+  "id": 1209795735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.96321,11.04299,13.96321,11.04299",
+    "geom:latitude":11.04299,
+    "geom:longitude":13.96321,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Danga Danga",
+    "gn:country_code":"CM",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8710862,
+    "gn:latitude":11.04299,
+    "gn:longitude":13.96321,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Danga Danga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8710862
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f1a1bf1384ae2602cebbcd58405b454a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011759,
+            "locality_id":1209795735,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1209795735,
+    "wof:lastmodified":1536392975,
+    "wof:name":"Danga Danga",
+    "wof:parent_id":1092011759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.96321,
+    11.04299,
+    13.96321,
+    11.04299
+],
+  "geometry": {"coordinates":[13.96321,11.04299],"type":"Point"}
+}

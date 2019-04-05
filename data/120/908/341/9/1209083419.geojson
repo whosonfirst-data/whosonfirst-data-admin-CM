@@ -1,0 +1,66 @@
+{
+  "id": 1209083419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.84483,12.41499,14.84483,12.41499",
+    "geom:latitude":12.41499,
+    "geom:longitude":14.84483,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Brinay",
+    "gn:country_code":"CM",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2234072,
+    "gn:latitude":12.41499,
+    "gn:longitude":14.84483,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Brinay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Birnaoui",
+        "Binarwi",
+        "Brinay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2234072
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"bf914069e130a2a577421c801d060952",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209083419
+        }
+    ],
+    "wof:id":1209083419,
+    "wof:lastmodified":1537591323,
+    "wof:name":"Brinay",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.84483,
+    12.41499,
+    14.84483,
+    12.41499
+],
+  "geometry": {"coordinates":[14.84483,12.41499],"type":"Point"}
+}

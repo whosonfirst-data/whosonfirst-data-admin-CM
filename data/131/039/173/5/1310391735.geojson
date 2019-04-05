@@ -1,0 +1,71 @@
+{
+  "id": 1310391735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0138,9.1791,14.0138,9.1791",
+    "geom:latitude":9.1791,
+    "geom:longitude":14.0138,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Laende Bani",
+    "gn:country_code":"CM",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2229667,
+    "gn:latitude":9.1791,
+    "gn:longitude":14.0138,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"La\u00e8nd\u00e9 Bani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La\u00efnd\u00e9 Bani",
+        "La\u00e8nd\u00e9 Bani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2229667
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"2672521c6de89f21775ff4b6c35ff7f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011703,
+            "locality_id":1310391735,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1310391735,
+    "wof:lastmodified":1537591273,
+    "wof:name":"Laende Bani",
+    "wof:parent_id":1092011703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0138,
+    9.1791,
+    14.0138,
+    9.1791
+],
+  "geometry": {"coordinates":[14.0138,9.1791],"type":"Point"}
+}

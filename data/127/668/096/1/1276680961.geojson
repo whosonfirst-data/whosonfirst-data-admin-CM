@@ -1,0 +1,67 @@
+{
+  "id": 1276680961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.35424,5.10594,10.35424,5.10594",
+    "geom:latitude":5.10594,
+    "geom:longitude":10.35424,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Balangoe",
+    "gn:country_code":"CM",
+    "gn:dem":1391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560650,
+    "gn:latitude":5.10594,
+    "gn:longitude":10.35424,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Balango\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560650
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"fa665bd3ee9f25fb61eb15fd1a34d8af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010971,
+            "locality_id":1276680961,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1276680961,
+    "wof:lastmodified":1536809548,
+    "wof:name":"Balangoe",
+    "wof:parent_id":1092010971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.35424,
+    5.10594,
+    10.35424,
+    5.10594
+],
+  "geometry": {"coordinates":[10.35424,5.10594],"type":"Point"}
+}

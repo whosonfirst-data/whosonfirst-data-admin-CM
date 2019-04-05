@@ -1,0 +1,67 @@
+{
+  "id": 1309699499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.8869,10.78174,13.8869,10.78174",
+    "geom:latitude":10.78174,
+    "geom:longitude":13.8869,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ditsnat",
+    "gn:country_code":"CM",
+    "gn:dem":779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074305,
+    "gn:latitude":10.78174,
+    "gn:longitude":13.8869,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Ditsnat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074305
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"af1a139ef8e857d35135df8a524dc976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1309699499,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1309699499,
+    "wof:lastmodified":1537081268,
+    "wof:name":"Ditsnat",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.8869,
+    10.78174,
+    13.8869,
+    10.78174
+],
+  "geometry": {"coordinates":[13.8869,10.78174],"type":"Point"}
+}

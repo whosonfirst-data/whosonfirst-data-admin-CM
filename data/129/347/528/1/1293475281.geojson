@@ -1,0 +1,67 @@
+{
+  "id": 1293475281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.53795,5.11551,10.53795,5.11551",
+    "geom:latitude":5.11551,
+    "geom:longitude":10.53795,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Madoum II",
+    "gn:country_code":"CM",
+    "gn:dem":1284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8561062,
+    "gn:latitude":5.11551,
+    "gn:longitude":10.53795,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Madoum II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8561062
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ab7bd17de45e1d4f65d130c32b6baedd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010493,
+            "locality_id":1293475281,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1293475281,
+    "wof:lastmodified":1536804585,
+    "wof:name":"Madoum II",
+    "wof:parent_id":1092010493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.53795,
+    5.11551,
+    10.53795,
+    5.11551
+],
+  "geometry": {"coordinates":[10.53795,5.11551],"type":"Point"}
+}

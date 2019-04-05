@@ -1,0 +1,61 @@
+{
+  "id": 1209246583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.865,3.84667,9.865,3.84667",
+    "geom:latitude":3.84667,
+    "geom:longitude":9.865,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ndonga",
+    "gn:country_code":"CM",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2225075,
+    "gn:latitude":3.84667,
+    "gn:longitude":9.865,
+    "gn:modification_date":"2001-08-15",
+    "gn:name":"Ndonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225075
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5ef921c03eb1053fdffd9d82411c6e7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209246583
+        }
+    ],
+    "wof:id":1209246583,
+    "wof:lastmodified":1536293144,
+    "wof:name":"Ndonga",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.865,
+    3.84667,
+    9.865,
+    3.84667
+],
+  "geometry": {"coordinates":[9.865,3.84667],"type":"Point"}
+}

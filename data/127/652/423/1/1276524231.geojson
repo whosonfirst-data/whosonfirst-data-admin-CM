@@ -1,0 +1,67 @@
+{
+  "id": 1276524231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26667,8.75,14.26667,8.75",
+    "geom:latitude":8.75,
+    "geom:longitude":14.26667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ouromaire",
+    "gn:country_code":"CM",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222840,
+    "gn:latitude":8.75,
+    "gn:longitude":14.26667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ouroma\u00efr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222840
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"a7e3540ef8b91ee530c0fc6313da4769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011703,
+            "locality_id":1276524231,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1276524231,
+    "wof:lastmodified":1537019421,
+    "wof:name":"Ouromaire",
+    "wof:parent_id":1092011703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26667,
+    8.75,
+    14.26667,
+    8.75
+],
+  "geometry": {"coordinates":[14.26667,8.75],"type":"Point"}
+}

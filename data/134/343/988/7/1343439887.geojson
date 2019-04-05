@@ -1,0 +1,67 @@
+{
+  "id": 1343439887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.93333,2.38333,11.93333,2.38333",
+    "geom:latitude":2.38333,
+    "geom:longitude":11.93333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Minkoumou",
+    "gn:country_code":"CM",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2226552,
+    "gn:latitude":2.38333,
+    "gn:longitude":11.93333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Minkoumou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669971,
+        1092012173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2226552
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f1bec7c07e6a4975c9a88a1cbee4d42f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012173,
+            "locality_id":1343439887,
+            "region_id":85669971
+        }
+    ],
+    "wof:id":1343439887,
+    "wof:lastmodified":1536776572,
+    "wof:name":"Minkoumou",
+    "wof:parent_id":1092012173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.93333,
+    2.38333,
+    11.93333,
+    2.38333
+],
+  "geometry": {"coordinates":[11.93333,2.38333],"type":"Point"}
+}

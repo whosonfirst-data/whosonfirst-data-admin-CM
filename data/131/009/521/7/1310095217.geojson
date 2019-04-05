@@ -1,0 +1,67 @@
+{
+  "id": 1310095217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.4643,6.3936,9.4643,6.3936",
+    "geom:latitude":6.3936,
+    "geom:longitude":9.4643,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tessa",
+    "gn:country_code":"CM",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6855351,
+    "gn:latitude":6.3936,
+    "gn:longitude":9.4643,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Tessa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6855351
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f0ad833080d51df755af338d381ba611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011003,
+            "locality_id":1310095217,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1310095217,
+    "wof:lastmodified":1537010654,
+    "wof:name":"Tessa",
+    "wof:parent_id":1092011003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.4643,
+    6.3936,
+    9.4643,
+    6.3936
+],
+  "geometry": {"coordinates":[9.4643,6.3936],"type":"Point"}
+}

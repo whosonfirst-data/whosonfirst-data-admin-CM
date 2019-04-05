@@ -1,0 +1,67 @@
+{
+  "id": 1243359437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.0511,4.6547,9.0511,4.6547",
+    "geom:latitude":4.6547,
+    "geom:longitude":9.0511,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ngolo Metoko",
+    "gn:country_code":"CM",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2224662,
+    "gn:latitude":4.6547,
+    "gn:longitude":9.0511,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Ngolo Metoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092010791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2224662
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"fce50d07fa80c375a2dafec14dcfc1b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010791,
+            "locality_id":1243359437,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1243359437,
+    "wof:lastmodified":1536931790,
+    "wof:name":"Ngolo Metoko",
+    "wof:parent_id":1092010791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.0511,
+    4.6547,
+    9.0511,
+    4.6547
+],
+  "geometry": {"coordinates":[9.0511,4.6547],"type":"Point"}
+}

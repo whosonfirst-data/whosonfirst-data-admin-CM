@@ -1,0 +1,67 @@
+{
+  "id": 1242756143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.61667,3.75,11.61667,3.75",
+    "geom:latitude":3.75,
+    "geom:longitude":11.61667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nkolmeyos",
+    "gn:country_code":"CM",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223932,
+    "gn:latitude":3.75,
+    "gn:longitude":11.61667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Nkolm\u00e9yos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092010921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223932
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"2a70312c2804f4f7cd5df0d072a20ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010921,
+            "locality_id":1242756143,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1242756143,
+    "wof:lastmodified":1536806336,
+    "wof:name":"Nkolmeyos",
+    "wof:parent_id":1092010921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.61667,
+    3.75,
+    11.61667,
+    3.75
+],
+  "geometry": {"coordinates":[11.61667,3.75],"type":"Point"}
+}

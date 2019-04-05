@@ -1,0 +1,67 @@
+{
+  "id": 1209702785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43565,10.24436,14.43565,10.24436",
+    "geom:latitude":10.24436,
+    "geom:longitude":14.43565,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kazarao",
+    "gn:country_code":"CM",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6730332,
+    "gn:latitude":10.24436,
+    "gn:longitude":14.43565,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Kazarao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6730332
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ff64b0679fe4d5192d660616dcee71e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011963,
+            "locality_id":1209702785,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1209702785,
+    "wof:lastmodified":1536394209,
+    "wof:name":"Kazarao",
+    "wof:parent_id":1092011963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43565,
+    10.24436,
+    14.43565,
+    10.24436
+],
+  "geometry": {"coordinates":[14.43565,10.24436],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360164929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96944,11.76973,14.96944,11.76973",
+    "geom:latitude":11.76973,
+    "geom:longitude":14.96944,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bague",
+    "gn:country_code":"CM",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2235117,
+    "gn:latitude":11.76973,
+    "gn:longitude":14.96944,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bagu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bak\u00e9",
+        "Bagu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2235117
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d50a5f3c7485980e3b679abb294636f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1360164929,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1360164929,
+    "wof:lastmodified":1537591334,
+    "wof:name":"Bague",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96944,
+    11.76973,
+    14.96944,
+    11.76973
+],
+  "geometry": {"coordinates":[14.96944,11.76973],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293595451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.91667,3.93333,13.91667,3.93333",
+    "geom:latitude":3.93333,
+    "geom:longitude":13.91667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pepo",
+    "gn:country_code":"CM",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222620,
+    "gn:latitude":3.93333,
+    "gn:longitude":13.91667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"P\u00e9po",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222620
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"005affed33e1593a0ee11a30f308ad5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011431,
+            "locality_id":1293595451,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1293595451,
+    "wof:lastmodified":1536629743,
+    "wof:name":"Pepo",
+    "wof:parent_id":1092011431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.91667,
+    3.93333,
+    13.91667,
+    3.93333
+],
+  "geometry": {"coordinates":[13.91667,3.93333],"type":"Point"}
+}

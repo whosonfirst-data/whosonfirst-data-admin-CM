@@ -1,0 +1,71 @@
+{
+  "id": 1260068323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.68333,3.68333,10.68333,3.68333",
+    "geom:latitude":3.68333,
+    "geom:longitude":10.68333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Badjob",
+    "gn:country_code":"CM",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2235216,
+    "gn:latitude":3.68333,
+    "gn:longitude":10.68333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Badjob",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Badyob",
+        "Badjob"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2235216
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"e31122b2120af2bb4a0bb6e096c755e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011187,
+            "locality_id":1260068323,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1260068323,
+    "wof:lastmodified":1537591335,
+    "wof:name":"Badjob",
+    "wof:parent_id":1092011187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.68333,
+    3.68333,
+    10.68333,
+    3.68333
+],
+  "geometry": {"coordinates":[10.68333,3.68333],"type":"Point"}
+}

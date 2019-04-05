@@ -1,0 +1,67 @@
+{
+  "id": 1327452653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.2091,5.6679,9.2091,5.6679",
+    "geom:latitude":5.6679,
+    "geom:longitude":9.2091,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Baro",
+    "gn:country_code":"CM",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858134,
+    "gn:latitude":5.6679,
+    "gn:longitude":9.2091,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Baro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858134
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"62c3c3069fd842cd6a65d76d077cd801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011003,
+            "locality_id":1327452653,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1327452653,
+    "wof:lastmodified":1536651398,
+    "wof:name":"Baro",
+    "wof:parent_id":1092011003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.2091,
+    5.6679,
+    9.2091,
+    5.6679
+],
+  "geometry": {"coordinates":[9.2091,5.6679],"type":"Point"}
+}

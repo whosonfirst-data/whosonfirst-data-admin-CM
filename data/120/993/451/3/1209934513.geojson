@@ -1,0 +1,67 @@
+{
+  "id": 1209934513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35,6.33333,14.35,6.33333",
+    "geom:latitude":6.33333,
+    "geom:longitude":14.35,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Laka",
+    "gn:country_code":"CM",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2229661,
+    "gn:latitude":6.33333,
+    "gn:longitude":14.35,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Laka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2229661
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"786a6f1ea7a443edec16ff3f4b4fb010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011633,
+            "locality_id":1209934513,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1209934513,
+    "wof:lastmodified":1536391260,
+    "wof:name":"Laka",
+    "wof:parent_id":1092011633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35,
+    6.33333,
+    14.35,
+    6.33333
+],
+  "geometry": {"coordinates":[14.35,6.33333],"type":"Point"}
+}

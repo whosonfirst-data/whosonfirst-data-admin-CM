@@ -1,0 +1,61 @@
+{
+  "id": 1209086437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85004,12.09932,14.85004,12.09932",
+    "geom:latitude":12.09932,
+    "geom:longitude":14.85004,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mahana",
+    "gn:country_code":"CM",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6698878,
+    "gn:latitude":12.09932,
+    "gn:longitude":14.85004,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Mahana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6698878
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"e4388f0a8f44b634070f00ba8ad2a718",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209086437
+        }
+    ],
+    "wof:id":1209086437,
+    "wof:lastmodified":1536298171,
+    "wof:name":"Mahana",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85004,
+    12.09932,
+    14.85004,
+    12.09932
+],
+  "geometry": {"coordinates":[14.85004,12.09932],"type":"Point"}
+}

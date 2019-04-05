@@ -1,0 +1,67 @@
+{
+  "id": 1326619187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.58333,7.38333,13.58333,7.38333",
+    "geom:latitude":7.38333,
+    "geom:longitude":13.58333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Malat",
+    "gn:country_code":"CM",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228786,
+    "gn:latitude":7.38333,
+    "gn:longitude":13.58333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Malat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228786
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"fee5f11a2fad71613966b7c05156c56a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011581,
+            "locality_id":1326619187,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1326619187,
+    "wof:lastmodified":1536857420,
+    "wof:name":"Malat",
+    "wof:parent_id":1092011581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.58333,
+    7.38333,
+    13.58333,
+    7.38333
+],
+  "geometry": {"coordinates":[13.58333,7.38333],"type":"Point"}
+}

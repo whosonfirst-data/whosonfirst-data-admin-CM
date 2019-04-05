@@ -1,0 +1,70 @@
+{
+  "id": 1310478737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33153,12.5313,14.33153,12.5313",
+    "geom:latitude":12.5313,
+    "geom:longitude":14.33153,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Danabaltoumssa",
+    "gn:country_code":"CM",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233267,
+    "gn:latitude":12.5313,
+    "gn:longitude":14.33153,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Danabaltoumssa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Danaba Toumsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233267
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"cdb5a842ed23ba3faaa06aac2ac23740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1310478737,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1310478737,
+    "wof:lastmodified":1537591314,
+    "wof:name":"Danabaltoumssa",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33153,
+    12.5313,
+    14.33153,
+    12.5313
+],
+  "geometry": {"coordinates":[14.33153,12.5313],"type":"Point"}
+}

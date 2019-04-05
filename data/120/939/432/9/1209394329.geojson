@@ -1,0 +1,61 @@
+{
+  "id": 1209394329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.93333,7.75,13.93333,7.75",
+    "geom:latitude":7.75,
+    "geom:longitude":13.93333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Post",
+    "gn:country_code":"CM",
+    "gn:dem":1391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222500,
+    "gn:latitude":7.75,
+    "gn:longitude":13.93333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Post",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222500
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"806e56b3d46ff724f027f7944ea1222a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209394329
+        }
+    ],
+    "wof:id":1209394329,
+    "wof:lastmodified":1536288354,
+    "wof:name":"Post",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.933329999999998,
+    7.75,
+    13.933329999999998,
+    7.75
+],
+  "geometry": {"coordinates":[13.93333,7.75],"type":"Point"}
+}

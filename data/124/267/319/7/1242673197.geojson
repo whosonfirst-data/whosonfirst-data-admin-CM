@@ -1,0 +1,67 @@
+{
+  "id": 1242673197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.50243,5.09351,10.50243,5.09351",
+    "geom:latitude":5.09351,
+    "geom:longitude":10.50243,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kopking",
+    "gn:country_code":"CM",
+    "gn:dem":1426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8561126,
+    "gn:latitude":5.09351,
+    "gn:longitude":10.50243,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Kopking",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8561126
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"2e840935e311f75c6df7307d7d4254ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010493,
+            "locality_id":1242673197,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1242673197,
+    "wof:lastmodified":1536926807,
+    "wof:name":"Kopking",
+    "wof:parent_id":1092010493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.50243,
+    5.09351,
+    10.50243,
+    5.09351
+],
+  "geometry": {"coordinates":[10.50243,5.09351],"type":"Point"}
+}

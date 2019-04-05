@@ -1,0 +1,67 @@
+{
+  "id": 1310582503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.3,4.8,11.3,4.8",
+    "geom:latitude":4.8,
+    "geom:longitude":11.3,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nyamongo",
+    "gn:country_code":"CM",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223389,
+    "gn:latitude":4.8,
+    "gn:longitude":11.3,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Nyamongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092012311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223389
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"53d21d78f7e9b3735cd745c6f6bcc3e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012311,
+            "locality_id":1310582503,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1310582503,
+    "wof:lastmodified":1536805747,
+    "wof:name":"Nyamongo",
+    "wof:parent_id":1092012311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.3,
+    4.8,
+    11.3,
+    4.8
+],
+  "geometry": {"coordinates":[11.3,4.8],"type":"Point"}
+}

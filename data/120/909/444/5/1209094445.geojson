@@ -1,0 +1,61 @@
+{
+  "id": 1209094445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.33333,4.26667,11.33333,4.26667",
+    "geom:latitude":4.26667,
+    "geom:longitude":11.33333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Emana",
+    "gn:country_code":"CM",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231985,
+    "gn:latitude":4.26667,
+    "gn:longitude":11.33333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"\u00c9mana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231985
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"0ca53d697936a5a4d1b3e3c45ed6636d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209094445
+        }
+    ],
+    "wof:id":1209094445,
+    "wof:lastmodified":1536297933,
+    "wof:name":"Emana",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.33333,
+    4.26667,
+    11.33333,
+    4.26667
+],
+  "geometry": {"coordinates":[11.33333,4.26667],"type":"Point"}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 421167565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.2,4.08333,11.2,4.08333",
+    "geom:latitude":4.08333,
+    "geom:longitude":11.2,
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "\u00c9vodoula"
+    ],
+    "name:dut_x_preferred":[
+        "Evodoula"
+    ],
+    "name:eng_x_preferred":[
+        "Evodoula"
+    ],
+    "name:fra_x_preferred":[
+        "Evodoula"
+    ],
+    "name:fre_x_preferred":[
+        "Evodoula"
+    ],
+    "name:ita_x_preferred":[
+        "Evodoula"
+    ],
+    "name:may_x_preferred":[
+        "Evodoula"
+    ],
+    "name:msa_x_preferred":[
+        "Evodoula"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c9vodoula"
+    ],
+    "qs:gn_country":"CM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2231775,
+    "qs:gn_pop":1521,
+    "qs:name":"\u00c9vodoula",
+    "qs:name_adm0":"Cameroun",
+    "qs:name_adm1":"Centre",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":139050,
+    "qs:woe_adm0":23424785,
+    "qs:woe_id":1301266,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":83,
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092012079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231775,
+        "gp:id":1301266,
+        "qs:id":139050,
+        "wd:id":"Q5418557",
+        "wk:page":"Evodoula"
+    },
+    "wof:country":"CM",
+    "wof:created":1459008736,
+    "wof:geomhash":"2c91079d4d99a775d45b1d3c6009126e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012079,
+            "locality_id":421167565,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":421167565,
+    "wof:lastmodified":1527716158,
+    "wof:name":"\u00c9vodoula",
+    "wof:parent_id":1092012079,
+    "wof:placetype":"locality",
+    "wof:population":1521,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.2,
+    4.08333,
+    11.2,
+    4.08333
+],
+  "geometry": {"coordinates":[11.2,4.08333],"type":"Point"}
+}

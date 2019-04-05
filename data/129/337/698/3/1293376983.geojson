@@ -1,0 +1,67 @@
+{
+  "id": 1293376983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.67696,10.46491,13.67696,10.46491",
+    "geom:latitude":10.46491,
+    "geom:longitude":13.67696,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Jinga",
+    "gn:country_code":"CM",
+    "gn:dem":856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9009163,
+    "gn:latitude":10.46491,
+    "gn:longitude":13.67696,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Jinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9009163
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"4ffabcdc48600def0f3d317a17993cf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1293376983,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1293376983,
+    "wof:lastmodified":1536946744,
+    "wof:name":"Jinga",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.67696,
+    10.46491,
+    13.67696,
+    10.46491
+],
+  "geometry": {"coordinates":[13.67696,10.46491],"type":"Point"}
+}

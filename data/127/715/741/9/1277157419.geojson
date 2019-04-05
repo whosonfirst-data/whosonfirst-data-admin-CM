@@ -1,0 +1,67 @@
+{
+  "id": 1277157419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0169,12.08017,15.0169,12.08017",
+    "geom:latitude":12.08017,
+    "geom:longitude":15.0169,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Herazaya",
+    "gn:country_code":"CM",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783154,
+    "gn:latitude":12.08017,
+    "gn:longitude":15.0169,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"H\u00e9razaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783154
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"e91234211540e7b14c36130ce448da6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1277157419,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1277157419,
+    "wof:lastmodified":1536660123,
+    "wof:name":"Herazaya",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0169,
+    12.08017,
+    15.0169,
+    12.08017
+],
+  "geometry": {"coordinates":[15.0169,12.08017],"type":"Point"}
+}

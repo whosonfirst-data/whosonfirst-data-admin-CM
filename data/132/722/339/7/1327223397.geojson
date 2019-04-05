@@ -1,0 +1,67 @@
+{
+  "id": 1327223397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.1736,4.7555,9.1736,4.7555",
+    "geom:latitude":4.7555,
+    "geom:longitude":9.1736,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bissoro",
+    "gn:country_code":"CM",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233975,
+    "gn:latitude":4.7555,
+    "gn:longitude":9.1736,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Bissoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092010791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233975
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"2ebef467d2af728dcd1589b82632a712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010791,
+            "locality_id":1327223397,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1327223397,
+    "wof:lastmodified":1536981925,
+    "wof:name":"Bissoro",
+    "wof:parent_id":1092010791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.1736,
+    4.7555,
+    9.1736,
+    4.7555
+],
+  "geometry": {"coordinates":[9.1736,4.7555],"type":"Point"}
+}

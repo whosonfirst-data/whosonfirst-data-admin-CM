@@ -1,0 +1,71 @@
+{
+  "id": 1277006125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.73333,4.21667,13.73333,4.21667",
+    "geom:latitude":4.21667,
+    "geom:longitude":13.73333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gonga",
+    "gn:country_code":"CM",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231089,
+    "gn:latitude":4.21667,
+    "gn:longitude":13.73333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngonga",
+        "Gonga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231089
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"89c22202487b7e93f416991aa97e60c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011431,
+            "locality_id":1277006125,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1277006125,
+    "wof:lastmodified":1537591291,
+    "wof:name":"Gonga",
+    "wof:parent_id":1092011431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.73333,
+    4.21667,
+    13.73333,
+    4.21667
+],
+  "geometry": {"coordinates":[13.73333,4.21667],"type":"Point"}
+}

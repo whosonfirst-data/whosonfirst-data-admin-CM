@@ -1,0 +1,61 @@
+{
+  "id": 1209535811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.23797,5.34352,10.23797,5.34352",
+    "geom:latitude":5.34352,
+    "geom:longitude":10.23797,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mekwo'ngu",
+    "gn:country_code":"CM",
+    "gn:dem":1576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8561417,
+    "gn:latitude":5.34352,
+    "gn:longitude":10.23797,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Mekwo\u2019ngu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8561417
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"3dd35ee33c99d97b797a7f145f986e3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209535811
+        }
+    ],
+    "wof:id":1209535811,
+    "wof:lastmodified":1536284146,
+    "wof:name":"Mekwo'ngu",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.23797,
+    5.34352,
+    10.23797,
+    5.34352
+],
+  "geometry": {"coordinates":[10.23797,5.34352],"type":"Point"}
+}

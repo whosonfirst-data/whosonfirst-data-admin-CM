@@ -1,0 +1,61 @@
+{
+  "id": 1209200199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.11077,5.47593,10.11077,5.47593",
+    "geom:latitude":5.47593,
+    "geom:longitude":10.11077,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mbeng",
+    "gn:country_code":"CM",
+    "gn:dem":1524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8605172,
+    "gn:latitude":5.47593,
+    "gn:longitude":10.11077,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Mbeng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8605172
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"a287f0cf9ec241023525f406556962bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209200199
+        }
+    ],
+    "wof:id":1209200199,
+    "wof:lastmodified":1536294638,
+    "wof:name":"Mbeng",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.11077,
+    5.47593,
+    10.11077,
+    5.47593
+],
+  "geometry": {"coordinates":[10.11077,5.47593],"type":"Point"}
+}

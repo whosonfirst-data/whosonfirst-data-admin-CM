@@ -1,0 +1,67 @@
+{
+  "id": 1360061805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.40455,9.37187,13.40455,9.37187",
+    "geom:latitude":9.37187,
+    "geom:longitude":13.40455,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tinguelin",
+    "gn:country_code":"CM",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8665366,
+    "gn:latitude":9.37187,
+    "gn:longitude":13.40455,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Tinguelin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8665366
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"fff26969d513899a5df6a81c4a834c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1360061805,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1360061805,
+    "wof:lastmodified":1536978736,
+    "wof:name":"Tinguelin",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.40455,
+    9.37187,
+    13.40455,
+    9.37187
+],
+  "geometry": {"coordinates":[13.40455,9.37187],"type":"Point"}
+}

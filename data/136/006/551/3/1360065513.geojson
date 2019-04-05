@@ -1,0 +1,71 @@
+{
+  "id": 1360065513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.94449,12.03602,14.94449,12.03602",
+    "geom:latitude":12.03602,
+    "geom:longitude":14.94449,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Oulouf",
+    "gn:country_code":"CM",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222913,
+    "gn:latitude":12.03602,
+    "gn:longitude":14.94449,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Oulouf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Houlouf",
+        "Oulouf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222913
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"6894584d03b3c1ea835f1aad9a7a56ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1360065513,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1360065513,
+    "wof:lastmodified":1537591214,
+    "wof:name":"Oulouf",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.94449,
+    12.03602,
+    14.94449,
+    12.03602
+],
+  "geometry": {"coordinates":[14.94449,12.03602],"type":"Point"}
+}

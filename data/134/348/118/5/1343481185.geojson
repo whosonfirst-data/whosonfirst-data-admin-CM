@@ -1,0 +1,73 @@
+{
+  "id": 1343481185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.27269,5.4405,10.27269,5.4405",
+    "geom:latitude":5.4405,
+    "geom:longitude":10.27269,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"So'nkeng",
+    "gn:country_code":"CM",
+    "gn:dem":1453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109608,
+    "gn:latitude":5.4405,
+    "gn:longitude":10.27269,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"So\u2019nkeng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ba\u2019so\u2019nkeng"
+    ],
+    "name:und_x_variant":[
+        "So\u2019nkeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109608
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"6b42fb22b09a921d06b7b9380b547c60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1343481185,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1343481185,
+    "wof:lastmodified":1537591358,
+    "wof:name":"So'nkeng",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.27269,
+    5.4405,
+    10.27269,
+    5.4405
+],
+  "geometry": {"coordinates":[10.27269,5.4405],"type":"Point"}
+}

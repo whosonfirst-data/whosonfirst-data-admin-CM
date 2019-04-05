@@ -1,0 +1,67 @@
+{
+  "id": 1343441289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.85052,11.02721,13.85052,11.02721",
+    "geom:latitude":11.02721,
+    "geom:longitude":13.85052,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Horogoua",
+    "gn:country_code":"CM",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8711162,
+    "gn:latitude":11.02721,
+    "gn:longitude":13.85052,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Horogoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8711162
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"2ca089f7d74ff442fc7f6cbb44b0c27f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1343441289,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1343441289,
+    "wof:lastmodified":1536774602,
+    "wof:name":"Horogoua",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.85052,
+    11.02721,
+    13.85052,
+    11.02721
+],
+  "geometry": {"coordinates":[13.85052,11.02721],"type":"Point"}
+}

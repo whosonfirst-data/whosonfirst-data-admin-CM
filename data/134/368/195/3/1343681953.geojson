@@ -1,0 +1,73 @@
+{
+  "id": 1343681953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.09414,5.01525,10.09414,5.01525",
+    "geom:latitude":5.01525,
+    "geom:longitude":10.09414,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Boutcha Fongam",
+    "gn:country_code":"CM",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2235259,
+    "gn:latitude":5.01525,
+    "gn:longitude":10.09414,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Boutcha Fongam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Baboutcha Fongam"
+    ],
+    "name:fra_x_variant":[
+        "Boutcha Fongam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2235259
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"9b936719eaacb0d68e157fb1e001e0a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010971,
+            "locality_id":1343681953,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1343681953,
+    "wof:lastmodified":1537591336,
+    "wof:name":"Boutcha Fongam",
+    "wof:parent_id":1092010971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.09414,
+    5.01525,
+    10.09414,
+    5.01525
+],
+  "geometry": {"coordinates":[10.09414,5.01525],"type":"Point"}
+}

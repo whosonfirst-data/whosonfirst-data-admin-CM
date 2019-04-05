@@ -1,0 +1,71 @@
+{
+  "id": 1343638733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85389,12.24828,14.85389,12.24828",
+    "geom:latitude":12.24828,
+    "geom:longitude":14.85389,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Cheloba",
+    "gn:country_code":"CM",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233361,
+    "gn:latitude":12.24828,
+    "gn:longitude":14.85389,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ch\u00e9loba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cheloba I",
+        "Ch\u00e9loba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233361
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"bf3583fc4d7c366e0a69f78970158c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1343638733,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1343638733,
+    "wof:lastmodified":1537591315,
+    "wof:name":"Cheloba",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85389,
+    12.24828,
+    14.85389,
+    12.24828
+],
+  "geometry": {"coordinates":[14.85389,12.24828],"type":"Point"}
+}

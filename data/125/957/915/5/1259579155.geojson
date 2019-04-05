@@ -1,0 +1,67 @@
+{
+  "id": 1259579155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.63484,6.52362,12.63484,6.52362",
+    "geom:latitude":6.52362,
+    "geom:longitude":12.63484,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ngati",
+    "gn:country_code":"CM",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8696069,
+    "gn:latitude":6.52362,
+    "gn:longitude":12.63484,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Ngati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8696069
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"6f9db3288c668f326bd9423a1c1e9e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011605,
+            "locality_id":1259579155,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1259579155,
+    "wof:lastmodified":1536721456,
+    "wof:name":"Ngati",
+    "wof:parent_id":1092011605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.63484,
+    6.52362,
+    12.63484,
+    6.52362
+],
+  "geometry": {"coordinates":[12.63484,6.52362],"type":"Point"}
+}

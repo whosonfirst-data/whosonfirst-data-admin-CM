@@ -1,0 +1,67 @@
+{
+  "id": 1260376287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.04712,5.31058,10.04712,5.31058",
+    "geom:latitude":5.31058,
+    "geom:longitude":10.04712,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Fombap",
+    "gn:country_code":"CM",
+    "gn:dem":1268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8561288,
+    "gn:latitude":5.31058,
+    "gn:longitude":10.04712,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Fombap",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8561288
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"face24feedc2d0ee897e423397aa7e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1260376287,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1260376287,
+    "wof:lastmodified":1537081462,
+    "wof:name":"Fombap",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.04712,
+    5.31058,
+    10.04712,
+    5.31058
+],
+  "geometry": {"coordinates":[10.04712,5.31058],"type":"Point"}
+}

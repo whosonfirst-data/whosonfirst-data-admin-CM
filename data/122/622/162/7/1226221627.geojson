@@ -1,0 +1,67 @@
+{
+  "id": 1226221627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.6548,9.93461,13.6548,9.93461",
+    "geom:latitude":9.93461,
+    "geom:longitude":13.6548,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ra'an",
+    "gn:country_code":"CM",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8668946,
+    "gn:latitude":9.93461,
+    "gn:longitude":13.6548,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ra\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8668946
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c4dedb5fb0ffea9a501bc3b4e01a1435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1226221627,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1226221627,
+    "wof:lastmodified":1536968165,
+    "wof:name":"Ra'an",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.6548,
+    9.93461,
+    13.6548,
+    9.93461
+],
+  "geometry": {"coordinates":[13.6548,9.93461],"type":"Point"}
+}

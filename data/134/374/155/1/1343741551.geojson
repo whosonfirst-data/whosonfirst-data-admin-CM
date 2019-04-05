@@ -1,0 +1,67 @@
+{
+  "id": 1343741551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.43852,8.491,13.43852,8.491",
+    "geom:latitude":8.491,
+    "geom:longitude":13.43852,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Siti",
+    "gn:country_code":"CM",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221999,
+    "gn:latitude":8.491,
+    "gn:longitude":13.43852,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Siti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221999
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"4933fe659d9e5f3e04b80f7fd3195658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011667,
+            "locality_id":1343741551,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1343741551,
+    "wof:lastmodified":1536837145,
+    "wof:name":"Siti",
+    "wof:parent_id":1092011667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.43852,
+    8.491,
+    13.43852,
+    8.491
+],
+  "geometry": {"coordinates":[13.43852,8.491],"type":"Point"}
+}

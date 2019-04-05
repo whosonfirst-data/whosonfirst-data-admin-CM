@@ -1,0 +1,67 @@
+{
+  "id": 1310687561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2142,7.9575,15.2142,7.9575",
+    "geom:latitude":7.9575,
+    "geom:longitude":15.2142,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mbitakala",
+    "gn:country_code":"CM",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6870294,
+    "gn:latitude":7.9575,
+    "gn:longitude":15.2142,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Mbitakala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6870294
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"7d3ded34447aa50fff89f4cededfe8e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011703,
+            "locality_id":1310687561,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1310687561,
+    "wof:lastmodified":1536654288,
+    "wof:name":"Mbitakala",
+    "wof:parent_id":1092011703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2142,
+    7.9575,
+    15.2142,
+    7.9575
+],
+  "geometry": {"coordinates":[15.2142,7.9575],"type":"Point"}
+}

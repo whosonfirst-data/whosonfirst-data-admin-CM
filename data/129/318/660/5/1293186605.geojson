@@ -1,0 +1,70 @@
+{
+  "id": 1293186605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.21857,5.57924,10.21857,5.57924",
+    "geom:latitude":5.57924,
+    "geom:longitude":10.21857,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mougong",
+    "gn:country_code":"CM",
+    "gn:dem":1571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109637,
+    "gn:latitude":5.57924,
+    "gn:longitude":10.21857,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Mougong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mougong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109637
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d6f2daf054b47ba79da7b57127730e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010559,
+            "locality_id":1293186605,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1293186605,
+    "wof:lastmodified":1537591359,
+    "wof:name":"Mougong",
+    "wof:parent_id":1092010559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.21857,
+    5.57924,
+    10.21857,
+    5.57924
+],
+  "geometry": {"coordinates":[10.21857,5.57924],"type":"Point"}
+}

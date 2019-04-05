@@ -1,0 +1,67 @@
+{
+  "id": 1343341075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9,7.85,13.9,7.85",
+    "geom:latitude":7.85,
+    "geom:longitude":13.9,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Baran",
+    "gn:country_code":"CM",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2234764,
+    "gn:latitude":7.85,
+    "gn:longitude":13.9,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Baran",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2234764
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"61d3c24d1121022a457d2e3734036a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011703,
+            "locality_id":1343341075,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1343341075,
+    "wof:lastmodified":1536919226,
+    "wof:name":"Baran",
+    "wof:parent_id":1092011703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9,
+    7.85,
+    13.9,
+    7.85
+],
+  "geometry": {"coordinates":[13.9,7.85],"type":"Point"}
+}

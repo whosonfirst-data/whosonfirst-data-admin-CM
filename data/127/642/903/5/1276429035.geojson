@@ -1,0 +1,67 @@
+{
+  "id": 1276429035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.6,3.96667,12.6,3.96667",
+    "geom:latitude":3.96667,
+    "geom:longitude":12.6,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nsan",
+    "gn:country_code":"CM",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223562,
+    "gn:latitude":3.96667,
+    "gn:longitude":12.6,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Nsan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223562
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ac98d815239af8bfa2f42cdc141df28d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011243,
+            "locality_id":1276429035,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1276429035,
+    "wof:lastmodified":1536650198,
+    "wof:name":"Nsan",
+    "wof:parent_id":1092011243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6,
+    3.96667,
+    12.6,
+    3.96667
+],
+  "geometry": {"coordinates":[12.6,3.96667],"type":"Point"}
+}

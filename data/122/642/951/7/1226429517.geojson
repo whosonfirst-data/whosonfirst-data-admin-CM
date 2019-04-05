@@ -1,0 +1,70 @@
+{
+  "id": 1226429517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.93795,10.46036,13.93795,10.46036",
+    "geom:latitude":10.46036,
+    "geom:longitude":13.93795,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Djeleng",
+    "gn:country_code":"CM",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2232862,
+    "gn:latitude":10.46036,
+    "gn:longitude":13.93795,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Djeleng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dj\u00e9ling"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2232862
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"28a3e9a8d2c9f326d63e566da517a689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1226429517,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1226429517,
+    "wof:lastmodified":1537591310,
+    "wof:name":"Djeleng",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.93795,
+    10.46036,
+    13.93795,
+    10.46036
+],
+  "geometry": {"coordinates":[13.93795,10.46036],"type":"Point"}
+}

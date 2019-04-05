@@ -1,0 +1,67 @@
+{
+  "id": 1226833651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.9868,4.4544,8.9868,4.4544",
+    "geom:latitude":4.4544,
+    "geom:longitude":8.9868,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bonjare",
+    "gn:country_code":"CM",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6915382,
+    "gn:latitude":4.4544,
+    "gn:longitude":8.9868,
+    "gn:modification_date":"2009-01-07",
+    "gn:name":"Bonjare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092010791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6915382
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"3ec415482ad5aee49b3e402adc765959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010791,
+            "locality_id":1226833651,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1226833651,
+    "wof:lastmodified":1537082558,
+    "wof:name":"Bonjare",
+    "wof:parent_id":1092010791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9868,
+    4.4544,
+    8.9868,
+    4.4544
+],
+  "geometry": {"coordinates":[8.9868,4.4544],"type":"Point"}
+}

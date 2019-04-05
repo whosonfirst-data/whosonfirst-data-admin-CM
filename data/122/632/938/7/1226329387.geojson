@@ -1,0 +1,70 @@
+{
+  "id": 1226329387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81377,12.29436,14.81377,12.29436",
+    "geom:latitude":12.29436,
+    "geom:longitude":14.81377,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mingming",
+    "gn:country_code":"CM",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2226452,
+    "gn:latitude":12.29436,
+    "gn:longitude":14.81377,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Mingming",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mitmikch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2226452
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"92a962af5a2686bcc5f9e3ec26de2983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1226329387,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1226329387,
+    "wof:lastmodified":1537591246,
+    "wof:name":"Mingming",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81377,
+    12.29436,
+    14.81377,
+    12.29436
+],
+  "geometry": {"coordinates":[14.81377,12.29436],"type":"Point"}
+}

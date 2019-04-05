@@ -1,0 +1,67 @@
+{
+  "id": 1343249189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.85127,10.78118,13.85127,10.78118",
+    "geom:latitude":10.78118,
+    "geom:longitude":13.85127,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Pradbay",
+    "gn:country_code":"CM",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074254,
+    "gn:latitude":10.78118,
+    "gn:longitude":13.85127,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Pradbay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074254
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"123a0d8602293180869d1e10342af1c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1343249189,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1343249189,
+    "wof:lastmodified":1537049152,
+    "wof:name":"Pradbay",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.85127,
+    10.78118,
+    13.85127,
+    10.78118
+],
+  "geometry": {"coordinates":[13.85127,10.78118],"type":"Point"}
+}

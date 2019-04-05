@@ -1,0 +1,67 @@
+{
+  "id": 1343761087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.7973,4.2681,9.7973,4.2681",
+    "geom:latitude":4.2681,
+    "geom:longitude":9.7973,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bondjo",
+    "gn:country_code":"CM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594974,
+    "gn:latitude":4.2681,
+    "gn:longitude":9.7973,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Bondjo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594974
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"1176b5ddcfd2aedfe60c1bf48e664974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011119,
+            "locality_id":1343761087,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1343761087,
+    "wof:lastmodified":1536809635,
+    "wof:name":"Bondjo",
+    "wof:parent_id":1092011119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.7973,
+    4.2681,
+    9.7973,
+    4.2681
+],
+  "geometry": {"coordinates":[9.7973,4.2681],"type":"Point"}
+}

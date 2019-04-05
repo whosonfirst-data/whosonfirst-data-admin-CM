@@ -1,0 +1,70 @@
+{
+  "id": 1327015373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.13659,5.60202,10.13659,5.60202",
+    "geom:latitude":5.60202,
+    "geom:longitude":10.13659,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nzindong",
+    "gn:country_code":"CM",
+    "gn:dem":1968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109031,
+    "gn:latitude":5.60202,
+    "gn:longitude":10.13659,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Nzindong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nzindong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109031
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"1189488a32f2b2ca487fde49ebd83300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010559,
+            "locality_id":1327015373,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1327015373,
+    "wof:lastmodified":1537591356,
+    "wof:name":"Nzindong",
+    "wof:parent_id":1092010559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.13659,
+    5.60202,
+    10.13659,
+    5.60202
+],
+  "geometry": {"coordinates":[10.13659,5.60202],"type":"Point"}
+}

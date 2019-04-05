@@ -1,0 +1,61 @@
+{
+  "id": 1209398623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03333,7.25,14.03333,7.25",
+    "geom:latitude":7.25,
+    "geom:longitude":14.03333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mbalan",
+    "gn:country_code":"CM",
+    "gn:dem":1375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228092,
+    "gn:latitude":7.25,
+    "gn:longitude":14.03333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mbalan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228092
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"7bb292d74220f7feb5562f1f92e4526a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209398623
+        }
+    ],
+    "wof:id":1209398623,
+    "wof:lastmodified":1536288219,
+    "wof:name":"Mbalan",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03333,
+    7.25,
+    14.03333,
+    7.25
+],
+  "geometry": {"coordinates":[14.03333,7.25],"type":"Point"}
+}

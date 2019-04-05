@@ -1,0 +1,77 @@
+{
+  "id": 1343640423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.51667,2.3,11.51667,2.3",
+    "geom:latitude":2.3,
+    "geom:longitude":11.51667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Messi Messi",
+    "gn:country_code":"CM",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2226967,
+    "gn:latitude":2.3,
+    "gn:longitude":11.51667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Messi Messi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910639,
+        85632245,
+        85669971,
+        1092012107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2226967
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"98d1aae7d1fa25c8104d7d844c2d0414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910639,
+            "locality_id":1343640423,
+            "region_id":85671241
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012107,
+            "locality_id":1343640423,
+            "region_id":85669971
+        }
+    ],
+    "wof:id":1343640423,
+    "wof:lastmodified":1536983250,
+    "wof:name":"Messi Messi",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.51667,
+    2.3,
+    11.51667,
+    2.3
+],
+  "geometry": {"coordinates":[11.51667,2.3],"type":"Point"}
+}

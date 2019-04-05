@@ -1,0 +1,67 @@
+{
+  "id": 1292988967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.55,4.35,12.55,4.35",
+    "geom:latitude":4.35,
+    "geom:longitude":12.55,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tanga",
+    "gn:country_code":"CM",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221718,
+    "gn:latitude":4.35,
+    "gn:longitude":12.55,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Tanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221718
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"90bf81a57a7d3b6a97caad076f990b70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011243,
+            "locality_id":1292988967,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1292988967,
+    "wof:lastmodified":1537007991,
+    "wof:name":"Tanga",
+    "wof:parent_id":1092011243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.55,
+    4.35,
+    12.55,
+    4.35
+],
+  "geometry": {"coordinates":[12.55,4.35],"type":"Point"}
+}

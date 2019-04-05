@@ -1,0 +1,70 @@
+{
+  "id": 1293409787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.2352,5.29835,10.2352,5.29835",
+    "geom:latitude":5.29835,
+    "geom:longitude":10.2352,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Famghang",
+    "gn:country_code":"CM",
+    "gn:dem":1364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109012,
+    "gn:latitude":5.29835,
+    "gn:longitude":10.2352,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Famghang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Famghang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109012
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c98abd3e8b8288e7fc8e90f2b55618c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010971,
+            "locality_id":1293409787,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1293409787,
+    "wof:lastmodified":1537591355,
+    "wof:name":"Famghang",
+    "wof:parent_id":1092010971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2352,
+    5.29835,
+    10.2352,
+    5.29835
+],
+  "geometry": {"coordinates":[10.2352,5.29835],"type":"Point"}
+}

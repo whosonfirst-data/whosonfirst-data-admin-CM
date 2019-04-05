@@ -1,0 +1,73 @@
+{
+  "id": 1277096521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.89795,5.7105,10.89795,5.7105",
+    "geom:latitude":5.7105,
+    "geom:longitude":10.89795,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mamben",
+    "gn:country_code":"CM",
+    "gn:dem":1173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228703,
+    "gn:latitude":5.7105,
+    "gn:longitude":10.89795,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Mamben",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mambain"
+    ],
+    "name:fra_x_variant":[
+        "Mamben"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228703
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"b8d7392c00d746cb9adfa564f63ec05e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010521,
+            "locality_id":1277096521,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1277096521,
+    "wof:lastmodified":1537591265,
+    "wof:name":"Mamben",
+    "wof:parent_id":1092010521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.89795,
+    5.7105,
+    10.89795,
+    5.7105
+],
+  "geometry": {"coordinates":[10.89795,5.7105],"type":"Point"}
+}

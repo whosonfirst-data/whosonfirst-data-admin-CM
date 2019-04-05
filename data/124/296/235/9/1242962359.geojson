@@ -1,0 +1,67 @@
+{
+  "id": 1242962359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.6419,6.4388,12.6419,6.4388",
+    "geom:latitude":6.4388,
+    "geom:longitude":12.6419,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Makondo",
+    "gn:country_code":"CM",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8696648,
+    "gn:latitude":6.4388,
+    "gn:longitude":12.6419,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Makondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8696648
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"35b79d1124041a8a59209db1fa25260e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011605,
+            "locality_id":1242962359,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1242962359,
+    "wof:lastmodified":1537005774,
+    "wof:name":"Makondo",
+    "wof:parent_id":1092011605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6419,
+    6.4388,
+    12.6419,
+    6.4388
+],
+  "geometry": {"coordinates":[12.6419,6.4388],"type":"Point"}
+}

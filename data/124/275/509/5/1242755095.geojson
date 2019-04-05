@@ -1,0 +1,67 @@
+{
+  "id": 1242755095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9125,10.73954,13.9125,10.73954",
+    "geom:latitude":10.73954,
+    "geom:longitude":13.9125,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Wodbao",
+    "gn:country_code":"CM",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760014,
+    "gn:latitude":10.73954,
+    "gn:longitude":13.9125,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Wodbao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760014
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"1261389ca6cdd06051c7294b9aca9de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1242755095,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1242755095,
+    "wof:lastmodified":1536807781,
+    "wof:name":"Wodbao",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9125,
+    10.73954,
+    13.9125,
+    10.73954
+],
+  "geometry": {"coordinates":[13.9125,10.73954],"type":"Point"}
+}

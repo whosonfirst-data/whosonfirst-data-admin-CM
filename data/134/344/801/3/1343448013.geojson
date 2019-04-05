@@ -1,0 +1,67 @@
+{
+  "id": 1343448013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.39249,11.37959,14.39249,11.37959",
+    "geom:latitude":11.37959,
+    "geom:longitude":14.39249,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Oundjoumba",
+    "gn:country_code":"CM",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6685634,
+    "gn:latitude":11.37959,
+    "gn:longitude":14.39249,
+    "gn:modification_date":"2008-05-30",
+    "gn:name":"Oundjoumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6685634
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"1c937f885d7ad800c9c60ab6d8fbeb8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011759,
+            "locality_id":1343448013,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1343448013,
+    "wof:lastmodified":1536764597,
+    "wof:name":"Oundjoumba",
+    "wof:parent_id":1092011759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.39249,
+    11.37959,
+    14.39249,
+    11.37959
+],
+  "geometry": {"coordinates":[14.39249,11.37959],"type":"Point"}
+}

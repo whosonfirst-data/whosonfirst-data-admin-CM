@@ -1,0 +1,67 @@
+{
+  "id": 1225921323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.81728,10.81227,13.81728,10.81227",
+    "geom:latitude":10.81227,
+    "geom:longitude":13.81728,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Guidprat",
+    "gn:country_code":"CM",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074235,
+    "gn:latitude":10.81227,
+    "gn:longitude":13.81728,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Guidprat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074235
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"6c01a1fc615fbe2e0e8346d6efa60921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1225921323,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1225921323,
+    "wof:lastmodified":1536904951,
+    "wof:name":"Guidprat",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81728,
+    10.81227,
+    13.81728,
+    10.81227
+],
+  "geometry": {"coordinates":[13.81728,10.81227],"type":"Point"}
+}

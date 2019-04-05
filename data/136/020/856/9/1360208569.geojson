@@ -1,0 +1,71 @@
+{
+  "id": 1360208569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.76667,5.68333,13.76667,5.68333",
+    "geom:latitude":5.68333,
+    "geom:longitude":13.76667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tamtana",
+    "gn:country_code":"CM",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221722,
+    "gn:latitude":5.68333,
+    "gn:longitude":13.76667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tamtana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamtang",
+        "Tamtana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221722
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d5e478d8e6438c967e7a2c21e567a602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011395,
+            "locality_id":1360208569,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1360208569,
+    "wof:lastmodified":1537591201,
+    "wof:name":"Tamtana",
+    "wof:parent_id":1092011395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.76667,
+    5.68333,
+    13.76667,
+    5.68333
+],
+  "geometry": {"coordinates":[13.76667,5.68333],"type":"Point"}
+}

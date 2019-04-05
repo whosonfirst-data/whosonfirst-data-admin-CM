@@ -1,0 +1,71 @@
+{
+  "id": 1259563425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86934,11.33985,14.86934,11.33985",
+    "geom:latitude":11.33985,
+    "geom:longitude":14.86934,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zayla",
+    "gn:country_code":"CM",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2220749,
+    "gn:latitude":11.33985,
+    "gn:longitude":14.86934,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Zayla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ze\u00efla",
+        "Zayla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2220749
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"0477a9b202911e3ae8d8c1439a7b4a4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1259563425,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1259563425,
+    "wof:lastmodified":1537591190,
+    "wof:name":"Zayla",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86934,
+    11.33985,
+    14.86934,
+    11.33985
+],
+  "geometry": {"coordinates":[14.86934,11.33985],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276206503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15341,10.7205,14.15341,10.7205",
+    "geom:latitude":10.7205,
+    "geom:longitude":14.15341,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Marvay",
+    "gn:country_code":"CM",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6730380,
+    "gn:latitude":10.7205,
+    "gn:longitude":14.15341,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Marvay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6730380
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"49228a16af563bfb54c30d06bd413d6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011977,
+            "locality_id":1276206503,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1276206503,
+    "wof:lastmodified":1536949321,
+    "wof:name":"Marvay",
+    "wof:parent_id":1092011977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15341,
+    10.7205,
+    14.15341,
+    10.7205
+],
+  "geometry": {"coordinates":[14.15341,10.7205],"type":"Point"}
+}

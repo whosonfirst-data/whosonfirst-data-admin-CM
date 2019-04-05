@@ -1,0 +1,67 @@
+{
+  "id": 1276769159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.78333,3.88333,13.78333,3.88333",
+    "geom:latitude":3.88333,
+    "geom:longitude":13.78333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dyelelong",
+    "gn:country_code":"CM",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2232431,
+    "gn:latitude":3.88333,
+    "gn:longitude":13.78333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Dy\u00e9l\u00e9long",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2232431
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"116e9051740ff5f6eefa5afe6ce78354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011431,
+            "locality_id":1276769159,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1276769159,
+    "wof:lastmodified":1536692005,
+    "wof:name":"Dyelelong",
+    "wof:parent_id":1092011431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.78333,
+    3.88333,
+    13.78333,
+    3.88333
+],
+  "geometry": {"coordinates":[13.78333,3.88333],"type":"Point"}
+}

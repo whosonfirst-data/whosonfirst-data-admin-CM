@@ -1,0 +1,67 @@
+{
+  "id": 1226422677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.7,10.81667,13.7,10.81667",
+    "geom:latitude":10.81667,
+    "geom:longitude":13.7,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kwache Wanday",
+    "gn:country_code":"CM",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2229741,
+    "gn:latitude":10.81667,
+    "gn:longitude":13.7,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kwach\u00e9 Wanday",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2229741
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"2fa9e6457048636265160167c59c14e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1226422677,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1226422677,
+    "wof:lastmodified":1536678754,
+    "wof:name":"Kwache Wanday",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.7,
+    10.81667,
+    13.7,
+    10.81667
+],
+  "geometry": {"coordinates":[13.7,10.81667],"type":"Point"}
+}

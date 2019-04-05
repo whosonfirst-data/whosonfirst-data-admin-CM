@@ -1,0 +1,67 @@
+{
+  "id": 1226519473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.6799,12.34163,14.6799,12.34163",
+    "geom:latitude":12.34163,
+    "geom:longitude":14.6799,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Teyo",
+    "gn:country_code":"CM",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6698848,
+    "gn:latitude":12.34163,
+    "gn:longitude":14.6799,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Teyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6698848
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"549722f6640e836277ceb7b7866ca75b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1226519473,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1226519473,
+    "wof:lastmodified":1537034482,
+    "wof:name":"Teyo",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.6799,
+    12.34163,
+    14.6799,
+    12.34163
+],
+  "geometry": {"coordinates":[14.6799,12.34163],"type":"Point"}
+}

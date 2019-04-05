@@ -1,0 +1,61 @@
+{
+  "id": 1209589305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.01667,2.25,11.01667,2.25",
+    "geom:latitude":2.25,
+    "geom:longitude":11.01667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mbang",
+    "gn:country_code":"CM",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228026,
+    "gn:latitude":2.25,
+    "gn:longitude":11.01667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mbang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228026
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"2b9e2c1c9fddde5cb1d59f8446e2a0a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209589305
+        }
+    ],
+    "wof:id":1209589305,
+    "wof:lastmodified":1536282531,
+    "wof:name":"Mbang",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.01667,
+    2.25,
+    11.01667,
+    2.25
+],
+  "geometry": {"coordinates":[11.01667,2.25],"type":"Point"}
+}

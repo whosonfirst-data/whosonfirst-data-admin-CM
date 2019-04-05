@@ -1,0 +1,67 @@
+{
+  "id": 1259462357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.9,9.11667,12.9,9.11667",
+    "geom:latitude":9.11667,
+    "geom:longitude":12.9,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bounedenenegana",
+    "gn:country_code":"CM",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233475,
+    "gn:latitude":9.11667,
+    "gn:longitude":12.9,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Bounedenenegana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233475
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"1efa7d2a904f0862951eba4e733fdbd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011667,
+            "locality_id":1259462357,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1259462357,
+    "wof:lastmodified":1536888782,
+    "wof:name":"Bounedenenegana",
+    "wof:parent_id":1092011667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.9,
+    9.11667,
+    12.9,
+    9.11667
+],
+  "geometry": {"coordinates":[12.9,9.11667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209604323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.06667,6.91667,14.06667,6.91667",
+    "geom:latitude":6.91667,
+    "geom:longitude":14.06667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mayo-Nague",
+    "gn:country_code":"CM",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228198,
+    "gn:latitude":6.91667,
+    "gn:longitude":14.06667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mayo-Nagu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228198
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"86dab4a7579c39afde9bfb33d54747b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209604323
+        }
+    ],
+    "wof:id":1209604323,
+    "wof:lastmodified":1536282063,
+    "wof:name":"Mayo-Nague",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.066670000000002,
+    6.91667,
+    14.066670000000002,
+    6.91667
+],
+  "geometry": {"coordinates":[14.06667,6.91667],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209083487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98352,11.06506,13.98352,11.06506",
+    "geom:latitude":11.06506,
+    "geom:longitude":13.98352,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Gangawa",
+    "gn:country_code":"CM",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231372,
+    "gn:latitude":11.06506,
+    "gn:longitude":13.98352,
+    "gn:modification_date":"2014-02-06",
+    "gn:name":"Gangawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gangaoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231372
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"51b5f9823eba5486e80d62c0cb510f82",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209083487
+        }
+    ],
+    "wof:id":1209083487,
+    "wof:lastmodified":1537591295,
+    "wof:name":"Gangawa",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98352,
+    11.06506,
+    13.98352,
+    11.06506
+],
+  "geometry": {"coordinates":[13.98352,11.06506],"type":"Point"}
+}

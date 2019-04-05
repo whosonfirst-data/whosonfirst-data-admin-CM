@@ -1,0 +1,67 @@
+{
+  "id": 1326707651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.93483,10.65581,13.93483,10.65581",
+    "geom:latitude":10.65581,
+    "geom:longitude":13.93483,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Baliak",
+    "gn:country_code":"CM",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760032,
+    "gn:latitude":10.65581,
+    "gn:longitude":13.93483,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Baliak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760032
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"498c4b2a8041aaa4a829f53e67b5a3b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1326707651,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1326707651,
+    "wof:lastmodified":1536731512,
+    "wof:name":"Baliak",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.93483,
+    10.65581,
+    13.93483,
+    10.65581
+],
+  "geometry": {"coordinates":[13.93483,10.65581],"type":"Point"}
+}

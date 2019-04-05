@@ -1,0 +1,67 @@
+{
+  "id": 1310192309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.9781,10.33066,14.9781,10.33066",
+    "geom:latitude":10.33066,
+    "geom:longitude":14.9781,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zadao",
+    "gn:country_code":"CM",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6730845,
+    "gn:latitude":10.33066,
+    "gn:longitude":14.9781,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Zadao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1108390249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6730845
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"b57cc4576468578b1fbccfda02ac2c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1108390249,
+            "locality_id":1310192309,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1310192309,
+    "wof:lastmodified":1536870216,
+    "wof:name":"Zadao",
+    "wof:parent_id":1108390249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.9781,
+    10.33066,
+    14.9781,
+    10.33066
+],
+  "geometry": {"coordinates":[14.9781,10.33066],"type":"Point"}
+}

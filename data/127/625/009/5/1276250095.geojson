@@ -1,0 +1,67 @@
+{
+  "id": 1276250095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.13333,6.13333,10.13333,6.13333",
+    "geom:latitude":6.13333,
+    "geom:longitude":10.13333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Baka",
+    "gn:country_code":"CM",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2235139,
+    "gn:latitude":6.13333,
+    "gn:longitude":10.13333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Baka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2235139
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"9c90bc2750e509098209fbdff27bbd01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010661,
+            "locality_id":1276250095,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1276250095,
+    "wof:lastmodified":1536889873,
+    "wof:name":"Baka",
+    "wof:parent_id":1092010661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.13333,
+    6.13333,
+    10.13333,
+    6.13333
+],
+  "geometry": {"coordinates":[10.13333,6.13333],"type":"Point"}
+}

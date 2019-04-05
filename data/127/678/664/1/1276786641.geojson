@@ -1,0 +1,70 @@
+{
+  "id": 1276786641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.36214,5.3425,10.36214,5.3425",
+    "geom:latitude":5.3425,
+    "geom:longitude":10.36214,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tchie",
+    "gn:country_code":"CM",
+    "gn:dem":1582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109590,
+    "gn:latitude":5.3425,
+    "gn:longitude":10.36214,
+    "gn:modification_date":"2013-09-10",
+    "gn:name":"Tchie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tchie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092012197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109590
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"38667d44f8eda69f2753ef6834aa9949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012197,
+            "locality_id":1276786641,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1276786641,
+    "wof:lastmodified":1537591358,
+    "wof:name":"Tchie",
+    "wof:parent_id":1092012197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.36214,
+    5.3425,
+    10.36214,
+    5.3425
+],
+  "geometry": {"coordinates":[10.36214,5.3425],"type":"Point"}
+}

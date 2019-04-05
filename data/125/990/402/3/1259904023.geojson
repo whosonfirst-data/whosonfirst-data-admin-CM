@@ -1,0 +1,67 @@
+{
+  "id": 1259904023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.11667,3.7,15.11667,3.7",
+    "geom:latitude":3.7,
+    "geom:longitude":15.11667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mesadjiso",
+    "gn:country_code":"CM",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2227022,
+    "gn:latitude":3.7,
+    "gn:longitude":15.11667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"M\u00e9sadjiso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2227022
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"88c4777f6c88a2b4d6598ebf8d99056f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011465,
+            "locality_id":1259904023,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1259904023,
+    "wof:lastmodified":1536749415,
+    "wof:name":"Mesadjiso",
+    "wof:parent_id":1092011465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.11667,
+    3.7,
+    15.11667,
+    3.7
+],
+  "geometry": {"coordinates":[15.11667,3.7],"type":"Point"}
+}

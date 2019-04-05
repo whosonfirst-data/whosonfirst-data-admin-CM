@@ -1,0 +1,67 @@
+{
+  "id": 1310507327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.2,4.05,13.2,4.05",
+    "geom:latitude":4.05,
+    "geom:longitude":13.2,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bago",
+    "gn:country_code":"CM",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2235171,
+    "gn:latitude":4.05,
+    "gn:longitude":13.2,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Bago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2235171
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"6edc0b1840c114f53eab73f780246c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011347,
+            "locality_id":1310507327,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1310507327,
+    "wof:lastmodified":1536914699,
+    "wof:name":"Bago",
+    "wof:parent_id":1092011347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.2,
+    4.05,
+    13.2,
+    4.05
+],
+  "geometry": {"coordinates":[13.2,4.05],"type":"Point"}
+}

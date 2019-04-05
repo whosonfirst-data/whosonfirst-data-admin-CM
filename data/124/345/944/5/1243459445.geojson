@@ -1,0 +1,72 @@
+{
+  "id": 1243459445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.78861,3.98639,9.78861,3.98639",
+    "geom:latitude":3.98639,
+    "geom:longitude":9.78861,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ngori",
+    "gn:cc2":"CM",
+    "gn:country_code":"CM",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2224585,
+    "gn:latitude":3.98639,
+    "gn:longitude":9.78861,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ngori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngodi",
+        "Ngori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092012257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2224585
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"8c5fba4147a868015fa36e2b3ee5f50f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012257,
+            "locality_id":1243459445,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1243459445,
+    "wof:lastmodified":1537591229,
+    "wof:name":"Ngori",
+    "wof:parent_id":1092012257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.78861,
+    3.98639,
+    9.78861,
+    3.98639
+],
+  "geometry": {"coordinates":[9.78861,3.98639],"type":"Point"}
+}

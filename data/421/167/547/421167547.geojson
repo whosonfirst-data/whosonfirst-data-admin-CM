@@ -1,0 +1,105 @@
+{
+  "id": 421167547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.4103,4.2898,9.4103,4.2898",
+    "geom:latitude":4.2898,
+    "geom:longitude":9.4103,
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Muyuka"
+    ],
+    "name:fra_x_preferred":[
+        "Muyuka"
+    ],
+    "name:msa_x_preferred":[
+        "Muyuka"
+    ],
+    "name:pol_x_preferred":[
+        "Muyuka"
+    ],
+    "name:por_x_preferred":[
+        "Muyuka"
+    ],
+    "name:spa_x_preferred":[
+        "Muyuka"
+    ],
+    "name:swe_x_preferred":[
+        "Muyuka"
+    ],
+    "name:unk_x_variant":[
+        "Mouyouka"
+    ],
+    "qs:gn_country":"CM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2225726,
+    "qs:gn_pop":31384,
+    "qs:name":"Muyuka",
+    "qs:name_adm0":"Cameroun",
+    "qs:name_adm1":"Sud-Ouest",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":139001,
+    "qs:woe_adm0":23424785,
+    "qs:woe_id":1303778,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":374,
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092010823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225726,
+        "gp:id":1303778,
+        "qs:id":139001,
+        "wd:id":"Q742871"
+    },
+    "wof:country":"CM",
+    "wof:created":1459008735,
+    "wof:geomhash":"d620028071c6e6306e1c2f1701b3039c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010823,
+            "locality_id":421167547,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":421167547,
+    "wof:lastmodified":1527716162,
+    "wof:name":"Muyuka",
+    "wof:parent_id":1092010823,
+    "wof:placetype":"locality",
+    "wof:population":31384,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.4103,
+    4.2898,
+    9.4103,
+    4.2898
+],
+  "geometry": {"coordinates":[9.4103,4.2898],"type":"Point"}
+}

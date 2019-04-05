@@ -1,0 +1,61 @@
+{
+  "id": 1209391221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.72684,10.20348,13.72684,10.20348",
+    "geom:latitude":10.20348,
+    "geom:longitude":13.72684,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Damassay",
+    "gn:country_code":"CM",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760169,
+    "gn:latitude":10.20348,
+    "gn:longitude":13.72684,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Damassay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760169
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"fbe7b187965bac57ef31a4765fd9fb8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209391221
+        }
+    ],
+    "wof:id":1209391221,
+    "wof:lastmodified":1536288454,
+    "wof:name":"Damassay",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.72684,
+    10.20348,
+    13.72684,
+    10.20348
+],
+  "geometry": {"coordinates":[13.72684,10.20348],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209295651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.51667,3.93333,11.51667,3.93333",
+    "geom:latitude":3.93333,
+    "geom:longitude":11.51667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nyom I",
+    "gn:country_code":"CM",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223336,
+    "gn:latitude":3.93333,
+    "gn:longitude":11.51667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Nyom I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223336
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c63d7267eba71cb6f3b84137e60b4ad0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209295651
+        }
+    ],
+    "wof:id":1209295651,
+    "wof:lastmodified":1536291537,
+    "wof:name":"Nyom I",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.51667,
+    3.93333,
+    11.51667,
+    3.93333
+],
+  "geometry": {"coordinates":[11.51667,3.93333],"type":"Point"}
+}

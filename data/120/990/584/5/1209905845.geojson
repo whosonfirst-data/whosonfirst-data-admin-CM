@@ -1,0 +1,67 @@
+{
+  "id": 1209905845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.5977,6.4141,9.5977,6.4141",
+    "geom:latitude":6.4141,
+    "geom:longitude":9.5977,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Oliti",
+    "gn:country_code":"CM",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6855361,
+    "gn:latitude":6.4141,
+    "gn:longitude":9.5977,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Oliti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6855361
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"8e61e16bba9145df8a4b2837a197a5c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011003,
+            "locality_id":1209905845,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1209905845,
+    "wof:lastmodified":1536383995,
+    "wof:name":"Oliti",
+    "wof:parent_id":1092011003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.5977,
+    6.4141,
+    9.5977,
+    6.4141
+],
+  "geometry": {"coordinates":[9.5977,6.4141],"type":"Point"}
+}

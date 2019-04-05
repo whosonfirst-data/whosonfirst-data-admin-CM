@@ -1,0 +1,61 @@
+{
+  "id": 1209394331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.994,9.13763,13.994,9.13763",
+    "geom:latitude":9.13763,
+    "geom:longitude":13.994,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mayel Pouldebbo",
+    "gn:country_code":"CM",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8667695,
+    "gn:latitude":9.13763,
+    "gn:longitude":13.994,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Mayel Pould\u00e9bbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8667695
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5505417c0601ab82f5f574a44cf42f76",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209394331
+        }
+    ],
+    "wof:id":1209394331,
+    "wof:lastmodified":1536288354,
+    "wof:name":"Mayel Pouldebbo",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.994000000000002,
+    9.13763,
+    13.994000000000002,
+    9.13763
+],
+  "geometry": {"coordinates":[13.994,9.13763],"type":"Point"}
+}

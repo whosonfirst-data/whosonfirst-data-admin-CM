@@ -1,0 +1,67 @@
+{
+  "id": 1260057179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9423,11.2087,13.9423,11.2087",
+    "geom:latitude":11.2087,
+    "geom:longitude":13.9423,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kantchouloum",
+    "gn:country_code":"CM",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6759178,
+    "gn:latitude":11.2087,
+    "gn:longitude":13.9423,
+    "gn:modification_date":"2014-02-11",
+    "gn:name":"Kantchouloum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6759178
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"b4805b08fcdc44755c0b5751259edf41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011759,
+            "locality_id":1260057179,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1260057179,
+    "wof:lastmodified":1537024897,
+    "wof:name":"Kantchouloum",
+    "wof:parent_id":1092011759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9423,
+    11.2087,
+    13.9423,
+    11.2087
+],
+  "geometry": {"coordinates":[13.9423,11.2087],"type":"Point"}
+}

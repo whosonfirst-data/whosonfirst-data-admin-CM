@@ -1,0 +1,67 @@
+{
+  "id": 1326720351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.6036,6.4524,9.6036,6.4524",
+    "geom:latitude":6.4524,
+    "geom:longitude":9.6036,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Njobo",
+    "gn:country_code":"CM",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6855377,
+    "gn:latitude":6.4524,
+    "gn:longitude":9.6036,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Njobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6855377
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"144ab6b875d708a12c96d2a5de7cf7d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011003,
+            "locality_id":1326720351,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1326720351,
+    "wof:lastmodified":1536713228,
+    "wof:name":"Njobo",
+    "wof:parent_id":1092011003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.6036,
+    6.4524,
+    9.6036,
+    6.4524
+],
+  "geometry": {"coordinates":[9.6036,6.4524],"type":"Point"}
+}

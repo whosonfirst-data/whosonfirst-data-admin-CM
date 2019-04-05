@@ -1,0 +1,67 @@
+{
+  "id": 1277001915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.78761,5.38161,10.78761,5.38161",
+    "geom:latitude":5.38161,
+    "geom:longitude":10.78761,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ndouyap",
+    "gn:country_code":"CM",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8594932,
+    "gn:latitude":5.38161,
+    "gn:longitude":10.78761,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Ndouyap",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8594932
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"7a26b2fa9a351e2f6dfb3e8f2af0fe85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010521,
+            "locality_id":1277001915,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1277001915,
+    "wof:lastmodified":1536876788,
+    "wof:name":"Ndouyap",
+    "wof:parent_id":1092010521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.78761,
+    5.38161,
+    10.78761,
+    5.38161
+],
+  "geometry": {"coordinates":[10.78761,5.38161],"type":"Point"}
+}

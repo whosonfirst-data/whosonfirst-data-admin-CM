@@ -1,0 +1,67 @@
+{
+  "id": 1310678125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.04656,10.50272,14.04656,10.50272",
+    "geom:latitude":10.50272,
+    "geom:longitude":14.04656,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Boula",
+    "gn:country_code":"CM",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233527,
+    "gn:latitude":10.50272,
+    "gn:longitude":14.04656,
+    "gn:modification_date":"2008-03-11",
+    "gn:name":"Boula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233527
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"928ff9a55f8efe36cd9db099f98c9cd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1310678125,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1310678125,
+    "wof:lastmodified":1536667953,
+    "wof:name":"Boula",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.04656,
+    10.50272,
+    14.04656,
+    10.50272
+],
+  "geometry": {"coordinates":[14.04656,10.50272],"type":"Point"}
+}

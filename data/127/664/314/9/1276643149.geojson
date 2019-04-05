@@ -1,0 +1,67 @@
+{
+  "id": 1276643149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3536,10.9862,14.3536,10.9862",
+    "geom:latitude":10.9862,
+    "geom:longitude":14.3536,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mangafe Aba Fadi",
+    "gn:country_code":"CM",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6732009,
+    "gn:latitude":10.9862,
+    "gn:longitude":14.3536,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Mangaf\u00e9 Aba Fadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6732009
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"9492021af424337058530748cfaa2f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011759,
+            "locality_id":1276643149,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1276643149,
+    "wof:lastmodified":1536859351,
+    "wof:name":"Mangafe Aba Fadi",
+    "wof:parent_id":1092011759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3536,
+    10.9862,
+    14.3536,
+    10.9862
+],
+  "geometry": {"coordinates":[14.3536,10.9862],"type":"Point"}
+}

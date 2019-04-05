@@ -1,0 +1,67 @@
+{
+  "id": 1276631737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.08862,8.23304,13.08862,8.23304",
+    "geom:latitude":8.23304,
+    "geom:longitude":13.08862,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ngoutiri",
+    "gn:country_code":"CM",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2224450,
+    "gn:latitude":8.23304,
+    "gn:longitude":13.08862,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Ngoutiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2224450
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"b428d333e45cc9668eba7b0e78192e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011667,
+            "locality_id":1276631737,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1276631737,
+    "wof:lastmodified":1536875318,
+    "wof:name":"Ngoutiri",
+    "wof:parent_id":1092011667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.08862,
+    8.23304,
+    13.08862,
+    8.23304
+],
+  "geometry": {"coordinates":[13.08862,8.23304],"type":"Point"}
+}

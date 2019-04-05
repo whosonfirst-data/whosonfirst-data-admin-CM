@@ -1,0 +1,70 @@
+{
+  "id": 1327228273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.15601,5.78716,10.15601,5.78716",
+    "geom:latitude":5.78716,
+    "geom:longitude":10.15601,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Santa Mbu",
+    "gn:country_code":"CM",
+    "gn:dem":1731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109048,
+    "gn:latitude":5.78716,
+    "gn:longitude":10.15601,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Santa Mbu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Santa Mbu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109048
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"7ba8e5bd2d0a3c7cdf10074c82e5568c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010661,
+            "locality_id":1327228273,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1327228273,
+    "wof:lastmodified":1537591356,
+    "wof:name":"Santa Mbu",
+    "wof:parent_id":1092010661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.15601,
+    5.78716,
+    10.15601,
+    5.78716
+],
+  "geometry": {"coordinates":[10.15601,5.78716],"type":"Point"}
+}

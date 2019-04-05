@@ -1,0 +1,67 @@
+{
+  "id": 1276420775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33986,12.48639,14.33986,12.48639",
+    "geom:latitude":12.48639,
+    "geom:longitude":14.33986,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Blabago",
+    "gn:country_code":"CM",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233869,
+    "gn:latitude":12.48639,
+    "gn:longitude":14.33986,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Blabago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233869
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"114833017c339fcaacb0f9fc0803297c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1276420775,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1276420775,
+    "wof:lastmodified":1536661546,
+    "wof:name":"Blabago",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33986,
+    12.48639,
+    14.33986,
+    12.48639
+],
+  "geometry": {"coordinates":[14.33986,12.48639],"type":"Point"}
+}

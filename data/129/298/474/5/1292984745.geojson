@@ -1,0 +1,67 @@
+{
+  "id": 1292984745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.5,7.53333,12.5,7.53333",
+    "geom:latitude":7.53333,
+    "geom:longitude":12.5,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ouadjiri",
+    "gn:country_code":"CM",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222999,
+    "gn:latitude":7.53333,
+    "gn:longitude":12.5,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ouadjiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222999
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"83661b6becc6101466dbcdb668e92af9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011545,
+            "locality_id":1292984745,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1292984745,
+    "wof:lastmodified":1537014080,
+    "wof:name":"Ouadjiri",
+    "wof:parent_id":1092011545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5,
+    7.53333,
+    12.5,
+    7.53333
+],
+  "geometry": {"coordinates":[12.5,7.53333],"type":"Point"}
+}

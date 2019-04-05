@@ -1,0 +1,71 @@
+{
+  "id": 1360074781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.9475,5.4299,8.9475,5.4299",
+    "geom:latitude":5.4299,
+    "geom:longitude":8.9475,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mbiofong",
+    "gn:country_code":"CM",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2227763,
+    "gn:latitude":5.4299,
+    "gn:longitude":8.9475,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mbiofong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbiofiong",
+        "Mbiofong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2227763
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"e9eb7241b6c29a437168681fd28a90a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011003,
+            "locality_id":1360074781,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1360074781,
+    "wof:lastmodified":1537591255,
+    "wof:name":"Mbiofong",
+    "wof:parent_id":1092011003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9475,
+    5.4299,
+    8.9475,
+    5.4299
+],
+  "geometry": {"coordinates":[8.9475,5.4299],"type":"Point"}
+}

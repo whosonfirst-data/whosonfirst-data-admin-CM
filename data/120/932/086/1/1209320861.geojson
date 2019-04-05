@@ -1,0 +1,65 @@
+{
+  "id": 1209320861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98333,6.03333,13.98333,6.03333",
+    "geom:latitude":6.03333,
+    "geom:longitude":13.98333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mbove",
+    "gn:country_code":"CM",
+    "gn:dem":947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2227568,
+    "gn:latitude":6.03333,
+    "gn:longitude":13.98333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mbov\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boye",
+        "Mbov\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2227568
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"10b482cc427bfc6b99c2d2752863173f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209320861
+        }
+    ],
+    "wof:id":1209320861,
+    "wof:lastmodified":1537591254,
+    "wof:name":"Mbove",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98333,
+    6.03333,
+    13.98333,
+    6.03333
+],
+  "geometry": {"coordinates":[13.98333,6.03333],"type":"Point"}
+}

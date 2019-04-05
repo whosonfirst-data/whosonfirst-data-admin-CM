@@ -1,0 +1,84 @@
+{
+  "id": 1259869291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.6815,4.5263,8.6815,4.5263",
+    "geom:latitude":4.5263,
+    "geom:longitude":8.6815,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Forisane I",
+    "gn:country_code":"CM",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6915357,
+    "gn:latitude":4.5263,
+    "gn:longitude":8.6815,
+    "gn:modification_date":"2009-01-07",
+    "gn:name":"Forisane I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092010791,
+        1108563073,
+        85632735,
+        85675331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6915357
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"aaa52f2bbc98eafc4510fe6071dce6cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010791,
+            "locality_id":1259869291,
+            "region_id":85669967
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1108563073,
+            "locality_id":1259869291,
+            "region_id":85669967
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563073,
+            "locality_id":1259869291,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1259869291,
+    "wof:lastmodified":1536799717,
+    "wof:name":"Forisane I",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.6815,
+    4.5263,
+    8.6815,
+    4.5263
+],
+  "geometry": {"coordinates":[8.6815,4.5263],"type":"Point"}
+}

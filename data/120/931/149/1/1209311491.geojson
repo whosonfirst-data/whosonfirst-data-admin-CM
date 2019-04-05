@@ -1,0 +1,61 @@
+{
+  "id": 1209311491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.48712,5.26933,10.48712,5.26933",
+    "geom:latitude":5.26933,
+    "geom:longitude":10.48712,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ngwingang",
+    "gn:country_code":"CM",
+    "gn:dem":1450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8607794,
+    "gn:latitude":5.26933,
+    "gn:longitude":10.48712,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Ngwingang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8607794
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c2c16b5148b80738e13b59547c40d43d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209311491
+        }
+    ],
+    "wof:id":1209311491,
+    "wof:lastmodified":1536291013,
+    "wof:name":"Ngwingang",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.48712,
+    5.26933,
+    10.48712,
+    5.26933
+],
+  "geometry": {"coordinates":[10.48712,5.26933],"type":"Point"}
+}

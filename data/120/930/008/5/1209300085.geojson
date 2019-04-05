@@ -1,0 +1,61 @@
+{
+  "id": 1209300085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.42279,5.3978,10.42279,5.3978",
+    "geom:latitude":5.3978,
+    "geom:longitude":10.42279,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Yom",
+    "gn:country_code":"CM",
+    "gn:dem":1534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8607585,
+    "gn:latitude":5.3978,
+    "gn:longitude":10.42279,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Yom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8607585
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"3907223a93d04e02ae6a796180182457",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209300085
+        }
+    ],
+    "wof:id":1209300085,
+    "wof:lastmodified":1536291388,
+    "wof:name":"Yom",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.42279,
+    5.3978,
+    10.42279,
+    5.3978
+],
+  "geometry": {"coordinates":[10.42279,5.3978],"type":"Point"}
+}

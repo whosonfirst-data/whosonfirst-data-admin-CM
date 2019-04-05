@@ -1,0 +1,73 @@
+{
+  "id": 1360204723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.8787,5.68061,10.8787,5.68061",
+    "geom:latitude":5.68061,
+    "geom:longitude":10.8787,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nkouchou'nsen",
+    "gn:country_code":"CM",
+    "gn:dem":1142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7108754,
+    "gn:latitude":5.68061,
+    "gn:longitude":10.8787,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Nkouchou\u2019ns\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nkouchounsen"
+    ],
+    "name:und_x_variant":[
+        "Nkouchou\u2019ns\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7108754
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"6b1a3090c542711ab6d01abcb3549dde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010521,
+            "locality_id":1360204723,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1360204723,
+    "wof:lastmodified":1537591353,
+    "wof:name":"Nkouchou'nsen",
+    "wof:parent_id":1092010521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.8787,
+    5.68061,
+    10.8787,
+    5.68061
+],
+  "geometry": {"coordinates":[10.8787,5.68061],"type":"Point"}
+}

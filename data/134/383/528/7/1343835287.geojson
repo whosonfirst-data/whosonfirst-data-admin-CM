@@ -1,0 +1,67 @@
+{
+  "id": 1343835287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81524,10.73692,14.81524,10.73692",
+    "geom:latitude":10.73692,
+    "geom:longitude":14.81524,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Boko",
+    "gn:country_code":"CM",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233763,
+    "gn:latitude":10.73692,
+    "gn:longitude":14.81524,
+    "gn:modification_date":"2008-03-13",
+    "gn:name":"Boko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1108390249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233763
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5fa7ae2abda3ad46ba0abb3562637d16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1108390249,
+            "locality_id":1343835287,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1343835287,
+    "wof:lastmodified":1536703256,
+    "wof:name":"Boko",
+    "wof:parent_id":1108390249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81524,
+    10.73692,
+    14.81524,
+    10.73692
+],
+  "geometry": {"coordinates":[14.81524,10.73692],"type":"Point"}
+}

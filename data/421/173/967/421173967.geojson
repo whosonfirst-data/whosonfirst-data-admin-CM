@@ -1,0 +1,98 @@
+{
+  "id": 421173967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.7,4.96667,10.7,4.96667",
+    "geom:latitude":4.96667,
+    "geom:longitude":10.7,
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Tonga"
+    ],
+    "name:eng_x_preferred":[
+        "Tonga"
+    ],
+    "name:fre_x_preferred":[
+        "Tonga"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e0\u05d2\u05d4"
+    ],
+    "name:may_x_preferred":[
+        "Tonga"
+    ],
+    "name:unk_x_variant":[
+        "Lagosdorf"
+    ],
+    "qs:gn_country":"CM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2221394,
+    "qs:gn_pop":16036,
+    "qs:name":"Tonga",
+    "qs:name_adm0":"Cameroun",
+    "qs:name_adm1":"Ouest",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":638839,
+    "qs:woe_adm0":23424785,
+    "qs:woe_id":1305691,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221394,
+        "gp:id":1305691,
+        "qs:id":638839,
+        "wd:id":"Q7820954"
+    },
+    "wof:country":"CM",
+    "wof:created":1459009012,
+    "wof:geomhash":"32f8f75fec9da7fdec81d3ed4cc230fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010493,
+            "locality_id":421173967,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":421173967,
+    "wof:lastmodified":1553816364,
+    "wof:name":"Tonga",
+    "wof:parent_id":1092010493,
+    "wof:placetype":"locality",
+    "wof:population":16036,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.7,
+    4.96667,
+    10.7,
+    4.96667
+],
+  "geometry": {"coordinates":[10.7,4.96667],"type":"Point"}
+}

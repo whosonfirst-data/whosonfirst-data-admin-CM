@@ -1,0 +1,71 @@
+{
+  "id": 1309711403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.2,3.8,10.2,3.8",
+    "geom:latitude":3.8,
+    "geom:longitude":10.2,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mitounga",
+    "gn:country_code":"CM",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2226449,
+    "gn:latitude":3.8,
+    "gn:longitude":10.2,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mitounga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matounga",
+        "Mitounga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2226449
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"1b451f599159d3197a8c2a1a15865153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011153,
+            "locality_id":1309711403,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1309711403,
+    "wof:lastmodified":1537591246,
+    "wof:name":"Mitounga",
+    "wof:parent_id":1092011153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2,
+    3.8,
+    10.2,
+    3.8
+],
+  "geometry": {"coordinates":[10.2,3.8],"type":"Point"}
+}

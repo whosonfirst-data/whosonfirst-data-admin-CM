@@ -1,0 +1,67 @@
+{
+  "id": 1209077575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.96667,9.08333,12.96667,9.08333",
+    "geom:latitude":9.08333,
+    "geom:longitude":12.96667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Touroua",
+    "gn:cc2":"CM",
+    "gn:country_code":"CM",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221314,
+    "gn:latitude":9.08333,
+    "gn:longitude":12.96667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Touroua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Turua",
+        "Touroua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221314,
+        "wk:page":"Touroua"
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"bf12d9266d74d3e956d4030983527902",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209077575
+        }
+    ],
+    "wof:id":1209077575,
+    "wof:lastmodified":1537591197,
+    "wof:name":"Touroua",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.96667,
+    9.08333,
+    12.96667,
+    9.08333
+],
+  "geometry": {"coordinates":[12.96667,9.08333],"type":"Point"}
+}

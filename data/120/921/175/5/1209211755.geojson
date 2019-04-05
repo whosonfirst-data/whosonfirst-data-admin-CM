@@ -1,0 +1,61 @@
+{
+  "id": 1209211755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.2,6.56667,10.2,6.56667",
+    "geom:latitude":6.56667,
+    "geom:longitude":10.2,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Munken",
+    "gn:country_code":"CM",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2225739,
+    "gn:latitude":6.56667,
+    "gn:longitude":10.2,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Munken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225739
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"673dc992373fba9ae7413c8b9d342fa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209211755
+        }
+    ],
+    "wof:id":1209211755,
+    "wof:lastmodified":1536294268,
+    "wof:name":"Munken",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2,
+    6.5666699999999985,
+    10.2,
+    6.5666699999999985
+],
+  "geometry": {"coordinates":[10.2,6.56667],"type":"Point"}
+}

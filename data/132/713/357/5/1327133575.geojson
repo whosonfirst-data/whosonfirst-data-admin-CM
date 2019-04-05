@@ -1,0 +1,67 @@
+{
+  "id": 1327133575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.01667,4.36667,10.01667,4.36667",
+    "geom:latitude":4.36667,
+    "geom:longitude":10.01667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ndokomondo",
+    "gn:country_code":"CM",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2225107,
+    "gn:latitude":4.36667,
+    "gn:longitude":10.01667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ndokomondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092011119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225107
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"3a946b8ef2b779d1aee0a95af1c78af9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011119,
+            "locality_id":1327133575,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1327133575,
+    "wof:lastmodified":1536611916,
+    "wof:name":"Ndokomondo",
+    "wof:parent_id":1092011119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.01667,
+    4.36667,
+    10.01667,
+    4.36667
+],
+  "geometry": {"coordinates":[10.01667,4.36667],"type":"Point"}
+}

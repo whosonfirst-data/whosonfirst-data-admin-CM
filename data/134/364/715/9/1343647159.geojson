@@ -1,0 +1,67 @@
+{
+  "id": 1343647159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.00478,5.5584,10.00478,5.5584",
+    "geom:latitude":5.5584,
+    "geom:longitude":10.00478,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mena",
+    "gn:country_code":"CM",
+    "gn:dem":1671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074939,
+    "gn:latitude":5.5584,
+    "gn:longitude":10.00478,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Mena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074939
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"e7efc7bb3f0c0f41ae370448f4807832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1343647159,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1343647159,
+    "wof:lastmodified":1536973812,
+    "wof:name":"Mena",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.00478,
+    5.5584,
+    10.00478,
+    5.5584
+],
+  "geometry": {"coordinates":[10.00478,5.5584],"type":"Point"}
+}

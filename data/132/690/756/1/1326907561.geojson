@@ -1,0 +1,71 @@
+{
+  "id": 1326907561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.65423,10.22814,13.65423,10.22814",
+    "geom:latitude":10.22814,
+    "geom:longitude":13.65423,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bokwa",
+    "gn:country_code":"CM",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233764,
+    "gn:latitude":10.22814,
+    "gn:longitude":13.65423,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Bokwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boko",
+        "Bokwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233764
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"09c6a2a0a7ff57b0ee0b09e693828acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1326907561,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1326907561,
+    "wof:lastmodified":1537591320,
+    "wof:name":"Bokwa",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.65423,
+    10.22814,
+    13.65423,
+    10.22814
+],
+  "geometry": {"coordinates":[13.65423,10.22814],"type":"Point"}
+}

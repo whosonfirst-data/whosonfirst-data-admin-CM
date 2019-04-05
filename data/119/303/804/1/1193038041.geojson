@@ -1,0 +1,70 @@
+{
+  "id": 1193038041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.44138,5.71815,10.44138,5.71815",
+    "geom:latitude":5.71815,
+    "geom:longitude":10.44138,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Modong",
+    "gn:country_code":"CM",
+    "gn:dem":1215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7110457,
+    "gn:latitude":5.71815,
+    "gn:longitude":10.44138,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Modong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Modong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7110457
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ad5ba2b3f98082c6ca9269c546b70d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010559,
+            "locality_id":1193038041,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1193038041,
+    "wof:lastmodified":1537591365,
+    "wof:name":"Modong",
+    "wof:parent_id":1092010559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.44138,
+    5.71815,
+    10.44138,
+    5.71815
+],
+  "geometry": {"coordinates":[10.44138,5.71815],"type":"Point"}
+}

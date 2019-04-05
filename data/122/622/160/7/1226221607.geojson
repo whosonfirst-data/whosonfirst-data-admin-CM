@@ -1,0 +1,67 @@
+{
+  "id": 1226221607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.72819,8.76914,13.72819,8.76914",
+    "geom:latitude":8.76914,
+    "geom:longitude":13.72819,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Louga",
+    "gn:country_code":"CM",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2229197,
+    "gn:latitude":8.76914,
+    "gn:longitude":13.72819,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Louga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2229197
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"7fcd4ca973295321a3f45eecb5dac81d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011703,
+            "locality_id":1226221607,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1226221607,
+    "wof:lastmodified":1536968194,
+    "wof:name":"Louga",
+    "wof:parent_id":1092011703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.72819,
+    8.76914,
+    13.72819,
+    8.76914
+],
+  "geometry": {"coordinates":[13.72819,8.76914],"type":"Point"}
+}

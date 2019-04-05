@@ -1,0 +1,61 @@
+{
+  "id": 1209294547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.86439,10.84962,13.86439,10.84962",
+    "geom:latitude":10.84962,
+    "geom:longitude":13.86439,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Varkla",
+    "gn:country_code":"CM",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074203,
+    "gn:latitude":10.84962,
+    "gn:longitude":13.86439,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Varkla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074203
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c81c00adf3679e00d5acc97ef865ae74",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209294547
+        }
+    ],
+    "wof:id":1209294547,
+    "wof:lastmodified":1536291576,
+    "wof:name":"Varkla",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.86439,
+    10.84962,
+    13.86439,
+    10.84962
+],
+  "geometry": {"coordinates":[13.86439,10.84962],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292981213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.86955,10.80113,13.86955,10.80113",
+    "geom:latitude":10.80113,
+    "geom:longitude":13.86955,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Djobtoro",
+    "gn:country_code":"CM",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074315,
+    "gn:latitude":10.80113,
+    "gn:longitude":13.86955,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Djobtoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074315
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"6605a1e6abe50d3eaaeb12c53f9a189f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1292981213,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1292981213,
+    "wof:lastmodified":1537019057,
+    "wof:name":"Djobtoro",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.86955,
+    10.80113,
+    13.86955,
+    10.80113
+],
+  "geometry": {"coordinates":[13.86955,10.80113],"type":"Point"}
+}

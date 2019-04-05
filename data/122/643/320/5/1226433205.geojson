@@ -1,0 +1,67 @@
+{
+  "id": 1226433205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.33988,5.43074,10.33988,5.43074",
+    "geom:latitude":5.43074,
+    "geom:longitude":10.33988,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tchoutchou",
+    "gn:country_code":"CM",
+    "gn:dem":1547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8607489,
+    "gn:latitude":5.43074,
+    "gn:longitude":10.33988,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Tchoutchou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092012197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8607489
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ba2d13281c54859144d1325f2fc3a57f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012197,
+            "locality_id":1226433205,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1226433205,
+    "wof:lastmodified":1536663593,
+    "wof:name":"Tchoutchou",
+    "wof:parent_id":1092012197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.33988,
+    5.43074,
+    10.33988,
+    5.43074
+],
+  "geometry": {"coordinates":[10.33988,5.43074],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310580499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.12048,8.73741,13.12048,8.73741",
+    "geom:latitude":8.73741,
+    "geom:longitude":13.12048,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bakonwa",
+    "gn:country_code":"CM",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2235091,
+    "gn:latitude":8.73741,
+    "gn:longitude":13.12048,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Bakonwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2235091
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"9657b2c99f1f9ce38c7e640b56db65ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1310580499,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1310580499,
+    "wof:lastmodified":1536808454,
+    "wof:name":"Bakonwa",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.12048,
+    8.73741,
+    13.12048,
+    8.73741
+],
+  "geometry": {"coordinates":[13.12048,8.73741],"type":"Point"}
+}

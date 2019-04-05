@@ -1,0 +1,67 @@
+{
+  "id": 1243439875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.19837,5.53293,10.19837,5.53293",
+    "geom:latitude":5.53293,
+    "geom:longitude":10.19837,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mbi",
+    "gn:country_code":"CM",
+    "gn:dem":1524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074982,
+    "gn:latitude":5.53293,
+    "gn:longitude":10.19837,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Mbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074982
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"faf0008eeb6c2c0e3bddedce415398db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010559,
+            "locality_id":1243439875,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1243439875,
+    "wof:lastmodified":1536814305,
+    "wof:name":"Mbi",
+    "wof:parent_id":1092010559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.19837,
+    5.53293,
+    10.19837,
+    5.53293
+],
+  "geometry": {"coordinates":[10.19837,5.53293],"type":"Point"}
+}

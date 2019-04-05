@@ -1,0 +1,71 @@
+{
+  "id": 1226321639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.13333,3.45,10.13333,3.45",
+    "geom:latitude":3.45,
+    "geom:longitude":10.13333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Elokbatindi",
+    "gn:country_code":"CM",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2232019,
+    "gn:latitude":3.45,
+    "gn:longitude":10.13333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Elokbatindi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ekokbatindi",
+        "Elokbatindi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669971,
+        1092012139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2232019
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"3b58e9ccd61384bdab68c248a5c9d5df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012139,
+            "locality_id":1226321639,
+            "region_id":85669971
+        }
+    ],
+    "wof:id":1226321639,
+    "wof:lastmodified":1537591302,
+    "wof:name":"Elokbatindi",
+    "wof:parent_id":1092012139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.13333,
+    3.45,
+    10.13333,
+    3.45
+],
+  "geometry": {"coordinates":[10.13333,3.45],"type":"Point"}
+}

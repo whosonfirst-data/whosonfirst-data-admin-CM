@@ -1,0 +1,73 @@
+{
+  "id": 1326614615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.0404,4.603,9.0404,4.603",
+    "geom:latitude":4.603,
+    "geom:longitude":9.0404,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ekondo Titi",
+    "gn:country_code":"CM",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2232102,
+    "gn:latitude":4.603,
+    "gn:longitude":9.0404,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ekondo Titi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ekoundon Titi",
+        "Ekundu-Titi",
+        "Ekondo Titi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092010791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2232102,
+        "wk:page":"Ekondo-Titi"
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f56bc8b976f6cbb81b663ef3772600d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010791,
+            "locality_id":1326614615,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1326614615,
+    "wof:lastmodified":1537591303,
+    "wof:name":"Ekondo Titi",
+    "wof:parent_id":1092010791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.0404,
+    4.603,
+    9.0404,
+    4.603
+],
+  "geometry": {"coordinates":[9.0404,4.603],"type":"Point"}
+}

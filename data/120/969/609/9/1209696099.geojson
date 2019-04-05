@@ -1,0 +1,61 @@
+{
+  "id": 1209696099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.91686,10.78089,13.91686,10.78089",
+    "geom:latitude":10.78089,
+    "geom:longitude":13.91686,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Vara",
+    "gn:country_code":"CM",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760015,
+    "gn:latitude":10.78089,
+    "gn:longitude":13.91686,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Vara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760015
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"cfa20e40350c4c6b29d9583e1cf8962a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209696099
+        }
+    ],
+    "wof:id":1209696099,
+    "wof:lastmodified":1536279069,
+    "wof:name":"Vara",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.91686,
+    10.78089,
+    13.91686,
+    10.78089
+],
+  "geometry": {"coordinates":[13.91686,10.78089],"type":"Point"}
+}

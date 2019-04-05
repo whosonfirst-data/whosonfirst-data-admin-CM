@@ -1,0 +1,67 @@
+{
+  "id": 1242991007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.91667,7.55,13.91667,7.55",
+    "geom:latitude":7.55,
+    "geom:longitude":13.91667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Berem",
+    "gn:country_code":"CM",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2234370,
+    "gn:latitude":7.55,
+    "gn:longitude":13.91667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"B\u00e9rem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2234370
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"1434485ffcad51dcfac2ad76ca699f19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011581,
+            "locality_id":1242991007,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1242991007,
+    "wof:lastmodified":1536965024,
+    "wof:name":"Berem",
+    "wof:parent_id":1092011581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.91667,
+    7.55,
+    13.91667,
+    7.55
+],
+  "geometry": {"coordinates":[13.91667,7.55],"type":"Point"}
+}

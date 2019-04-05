@@ -1,0 +1,71 @@
+{
+  "id": 1344237097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.55965,10.18984,14.55965,10.18984",
+    "geom:latitude":10.18984,
+    "geom:longitude":14.55965,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bipain",
+    "gn:country_code":"CM",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2234005,
+    "gn:latitude":10.18984,
+    "gn:longitude":14.55965,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bipain",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bipay",
+        "Bipain"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2234005
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c7d4a6da885ac8ede3ac48997db2060a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011963,
+            "locality_id":1344237097,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1344237097,
+    "wof:lastmodified":1537591322,
+    "wof:name":"Bipain",
+    "wof:parent_id":1092011963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55965,
+    10.18984,
+    14.55965,
+    10.18984
+],
+  "geometry": {"coordinates":[14.55965,10.18984],"type":"Point"}
+}

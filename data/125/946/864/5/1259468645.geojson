@@ -1,0 +1,70 @@
+{
+  "id": 1259468645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.83113,5.20426,10.83113,5.20426",
+    "geom:latitude":5.20426,
+    "geom:longitude":10.83113,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mankoya",
+    "gn:country_code":"CM",
+    "gn:dem":877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109794,
+    "gn:latitude":5.20426,
+    "gn:longitude":10.83113,
+    "gn:modification_date":"2013-08-09",
+    "gn:name":"Mankoya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mankouya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109794
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"fddcec924be3f860788a3fa74478da05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010521,
+            "locality_id":1259468645,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1259468645,
+    "wof:lastmodified":1537591363,
+    "wof:name":"Mankoya",
+    "wof:parent_id":1092010521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.83113,
+    5.20426,
+    10.83113,
+    5.20426
+],
+  "geometry": {"coordinates":[10.83113,5.20426],"type":"Point"}
+}

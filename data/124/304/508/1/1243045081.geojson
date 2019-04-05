@@ -1,0 +1,67 @@
+{
+  "id": 1243045081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.24322,10.52962,14.24322,10.52962",
+    "geom:latitude":10.52962,
+    "geom:longitude":14.24322,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ngoyang",
+    "gn:country_code":"CM",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6730258,
+    "gn:latitude":10.52962,
+    "gn:longitude":14.24322,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Ngoyang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6730258
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"8ce12dfb86354f052168fa8e807f1d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011977,
+            "locality_id":1243045081,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1243045081,
+    "wof:lastmodified":1536886723,
+    "wof:name":"Ngoyang",
+    "wof:parent_id":1092011977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.24322,
+    10.52962,
+    14.24322,
+    10.52962
+],
+  "geometry": {"coordinates":[14.24322,10.52962],"type":"Point"}
+}

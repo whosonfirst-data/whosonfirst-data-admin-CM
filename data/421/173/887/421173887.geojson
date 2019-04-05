@@ -1,0 +1,111 @@
+{
+  "id": 421173887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.38333,4.95,11.38333,4.95",
+    "geom:latitude":4.95,
+    "geom:longitude":11.38333,
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Ngoro"
+    ],
+    "name:dut_x_preferred":[
+        "Ngoro"
+    ],
+    "name:eng_x_preferred":[
+        "Ngoro"
+    ],
+    "name:fra_x_preferred":[
+        "Ngoro"
+    ],
+    "name:fre_x_preferred":[
+        "Ngoro"
+    ],
+    "name:ger_x_preferred":[
+        "Ngoro"
+    ],
+    "name:ita_x_preferred":[
+        "Ngoro"
+    ],
+    "name:may_x_preferred":[
+        "Ngoro"
+    ],
+    "name:msa_x_preferred":[
+        "Ngoro"
+    ],
+    "name:unk_x_variant":[
+        "Janj\u014d"
+    ],
+    "qs:gn_country":"CM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2224584,
+    "qs:gn_pop":2305,
+    "qs:name":"Ngoro",
+    "qs:name_adm0":"Cameroun",
+    "qs:name_adm1":"Centre",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":558979,
+    "qs:woe_adm0":23424785,
+    "qs:woe_id":1304244,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092012311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2224584,
+        "gp:id":1304244,
+        "qs:id":558979,
+        "wd:id":"Q7022577"
+    },
+    "wof:country":"CM",
+    "wof:created":1459009009,
+    "wof:geomhash":"243d83a559f992293a6318acd8b9b6dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012311,
+            "locality_id":421173887,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":421173887,
+    "wof:lastmodified":1527716255,
+    "wof:name":"Ngoro",
+    "wof:parent_id":1092012311,
+    "wof:placetype":"locality",
+    "wof:population":2305,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.38333,
+    4.95,
+    11.38333,
+    4.95
+],
+  "geometry": {"coordinates":[11.38333,4.95],"type":"Point"}
+}

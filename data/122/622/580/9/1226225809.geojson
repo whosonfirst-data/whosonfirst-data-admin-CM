@@ -1,0 +1,67 @@
+{
+  "id": 1226225809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.31667,7.3,12.31667,7.3",
+    "geom:latitude":7.3,
+    "geom:longitude":12.31667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ngouri",
+    "gn:country_code":"CM",
+    "gn:dem":1672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2224457,
+    "gn:latitude":7.3,
+    "gn:longitude":12.31667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ngouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2224457
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c7d888fb20ee1ddb32a927c2821cb7df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011545,
+            "locality_id":1226225809,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1226225809,
+    "wof:lastmodified":1536962272,
+    "wof:name":"Ngouri",
+    "wof:parent_id":1092011545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.31667,
+    7.3,
+    12.31667,
+    7.3
+],
+  "geometry": {"coordinates":[12.31667,7.3],"type":"Point"}
+}

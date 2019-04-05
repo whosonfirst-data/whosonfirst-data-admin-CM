@@ -1,0 +1,72 @@
+{
+  "id": 1243343591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.71073,12.35361,14.71073,12.35361",
+    "geom:latitude":12.35361,
+    "geom:longitude":14.71073,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Marafin",
+    "gn:country_code":"CM",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228403,
+    "gn:latitude":12.35361,
+    "gn:longitude":14.71073,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Marafin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marfain",
+        "Marafin",
+        "Marfa\u00efn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228403
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"d8ad425eb5ad5b39fef8e031c3d87c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1243343591,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1243343591,
+    "wof:lastmodified":1537591262,
+    "wof:name":"Marafin",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.71073,
+    12.35361,
+    14.71073,
+    12.35361
+],
+  "geometry": {"coordinates":[14.71073,12.35361],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360161929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.58561,10.02861,15.58561,10.02861",
+    "geom:latitude":10.02861,
+    "geom:longitude":15.58561,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Naykissia",
+    "gn:country_code":"CM",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2225418,
+    "gn:latitude":10.02861,
+    "gn:longitude":15.58561,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Naykissia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nayeguissia",
+        "Naykissia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1108390249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225418
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"e58c6d179b837cd16d04395b89b26c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1108390249,
+            "locality_id":1360161929,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1360161929,
+    "wof:lastmodified":1537591238,
+    "wof:name":"Naykissia",
+    "wof:parent_id":1108390249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.58561,
+    10.02861,
+    15.58561,
+    10.02861
+],
+  "geometry": {"coordinates":[15.58561,10.02861],"type":"Point"}
+}

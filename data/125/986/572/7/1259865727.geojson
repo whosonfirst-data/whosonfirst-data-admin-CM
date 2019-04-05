@@ -1,0 +1,67 @@
+{
+  "id": 1259865727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.26667,9.83333,13.26667,9.83333",
+    "geom:latitude":9.83333,
+    "geom:longitude":13.26667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ouro Djimeta",
+    "gn:country_code":"CM",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222865,
+    "gn:latitude":9.83333,
+    "gn:longitude":13.26667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ouro Djim\u00e9ta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222865
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"bbd8b102285708f674f383a3d298a8b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563927,
+            "locality_id":1259865727,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1259865727,
+    "wof:lastmodified":1536804666,
+    "wof:name":"Ouro Djimeta",
+    "wof:parent_id":1108563927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.26667,
+    9.83333,
+    13.26667,
+    9.83333
+],
+  "geometry": {"coordinates":[13.26667,9.83333],"type":"Point"}
+}

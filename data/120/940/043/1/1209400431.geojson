@@ -1,0 +1,67 @@
+{
+  "id": 1209400431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.45973,5.40733,10.45973,5.40733",
+    "geom:latitude":5.40733,
+    "geom:longitude":10.45973,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tsego",
+    "gn:country_code":"CM",
+    "gn:dem":1534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109733,
+    "gn:latitude":5.40733,
+    "gn:longitude":10.45973,
+    "gn:modification_date":"2013-09-10",
+    "gn:name":"Ts\u00e9go",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tse Ngo"
+    ],
+    "name:und_x_variant":[
+        "Ts\u00e9go"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109733
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"2da47444712c345c603953ff1c03e170",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209400431
+        }
+    ],
+    "wof:id":1209400431,
+    "wof:lastmodified":1537591362,
+    "wof:name":"Tsego",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.45973,
+    5.40733,
+    10.45973,
+    5.40733
+],
+  "geometry": {"coordinates":[10.45973,5.40733],"type":"Point"}
+}

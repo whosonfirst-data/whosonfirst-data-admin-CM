@@ -1,0 +1,70 @@
+{
+  "id": 1293574737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.02297,5.53061,10.02297,5.53061",
+    "geom:latitude":5.53061,
+    "geom:longitude":10.02297,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Menga",
+    "gn:country_code":"CM",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7108922,
+    "gn:latitude":5.53061,
+    "gn:longitude":10.02297,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Menga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Menga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7108922
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"07a6b0b160274131a633d2a48454daf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1293574737,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1293574737,
+    "wof:lastmodified":1537591354,
+    "wof:name":"Menga",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.02297,
+    5.53061,
+    10.02297,
+    5.53061
+],
+  "geometry": {"coordinates":[10.02297,5.53061],"type":"Point"}
+}

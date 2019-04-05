@@ -1,0 +1,67 @@
+{
+  "id": 1343747449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.97932,5.82244,10.97932,5.82244",
+    "geom:latitude":5.82244,
+    "geom:longitude":10.97932,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Meyama",
+    "gn:country_code":"CM",
+    "gn:dem":1146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9112602,
+    "gn:latitude":5.82244,
+    "gn:longitude":10.97932,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"M\u00e9yama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9112602
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"3250edd9cacfd31bea37f7051f774434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010521,
+            "locality_id":1343747449,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1343747449,
+    "wof:lastmodified":1536828740,
+    "wof:name":"Meyama",
+    "wof:parent_id":1092010521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.97932,
+    5.82244,
+    10.97932,
+    5.82244
+],
+  "geometry": {"coordinates":[10.97932,5.82244],"type":"Point"}
+}

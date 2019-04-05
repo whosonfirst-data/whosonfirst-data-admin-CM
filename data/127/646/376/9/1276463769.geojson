@@ -1,0 +1,67 @@
+{
+  "id": 1276463769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.46315,5.33782,10.46315,5.33782",
+    "geom:latitude":5.33782,
+    "geom:longitude":10.46315,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nding",
+    "gn:country_code":"CM",
+    "gn:dem":1513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8607722,
+    "gn:latitude":5.33782,
+    "gn:longitude":10.46315,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Nding",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092012225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8607722
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"aa4cdeaebeea43b23689aea2c2b980f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012225,
+            "locality_id":1276463769,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1276463769,
+    "wof:lastmodified":1536600827,
+    "wof:name":"Nding",
+    "wof:parent_id":1092012225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.46315,
+    5.33782,
+    10.46315,
+    5.33782
+],
+  "geometry": {"coordinates":[10.46315,5.33782],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326550081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.16791,5.55205,10.16791,5.55205",
+    "geom:latitude":5.55205,
+    "geom:longitude":10.16791,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Femelhi",
+    "gn:country_code":"CM",
+    "gn:dem":1647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074848,
+    "gn:latitude":5.55205,
+    "gn:longitude":10.16791,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Femelhi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074848
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"624753863aab7a42601c459a81494d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010559,
+            "locality_id":1326550081,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1326550081,
+    "wof:lastmodified":1536958304,
+    "wof:name":"Femelhi",
+    "wof:parent_id":1092010559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.16791,
+    5.55205,
+    10.16791,
+    5.55205
+],
+  "geometry": {"coordinates":[10.16791,5.55205],"type":"Point"}
+}

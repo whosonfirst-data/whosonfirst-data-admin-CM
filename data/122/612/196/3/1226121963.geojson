@@ -1,0 +1,67 @@
+{
+  "id": 1226121963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.94284,9.91743,13.94284,9.91743",
+    "geom:latitude":9.91743,
+    "geom:longitude":13.94284,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sanguere",
+    "gn:country_code":"CM",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8669790,
+    "gn:latitude":9.91743,
+    "gn:longitude":13.94284,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Sangu\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8669790
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"b26ebce770b5b1c87cdf59bbec787e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1226121963,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1226121963,
+    "wof:lastmodified":1536612713,
+    "wof:name":"Sanguere",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.94284,
+    9.91743,
+    13.94284,
+    9.91743
+],
+  "geometry": {"coordinates":[13.94284,9.91743],"type":"Point"}
+}

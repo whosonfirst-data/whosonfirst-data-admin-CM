@@ -1,0 +1,77 @@
+{
+  "id": 1276416857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.48264,8.62879,12.48264,8.62879",
+    "geom:latitude":8.62879,
+    "geom:longitude":12.48264,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tebou",
+    "gn:country_code":"CM",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10426215,
+    "gn:latitude":8.62879,
+    "gn:longitude":12.48264,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Tebou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011667,
+        85632735,
+        85675451,
+        1108563713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10426215
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ba48843be2f5db5caf2f1ba67a490241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011667,
+            "locality_id":1276416857,
+            "region_id":85669957
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563713,
+            "locality_id":1276416857,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1276416857,
+    "wof:lastmodified":1536666827,
+    "wof:name":"Tebou",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.48264,
+    8.62879,
+    12.48264,
+    8.62879
+],
+  "geometry": {"coordinates":[12.48264,8.62879],"type":"Point"}
+}

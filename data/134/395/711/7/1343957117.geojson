@@ -1,0 +1,67 @@
+{
+  "id": 1343957117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.5147,4.0159,9.5147,4.0159",
+    "geom:latitude":4.0159,
+    "geom:longitude":9.5147,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Wongue",
+    "gn:country_code":"CM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594887,
+    "gn:latitude":4.0159,
+    "gn:longitude":9.5147,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Wongu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092012257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594887
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"3bfe33645335b308416e804bc9105d4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012257,
+            "locality_id":1343957117,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1343957117,
+    "wof:lastmodified":1537023805,
+    "wof:name":"Wongue",
+    "wof:parent_id":1092012257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.5147,
+    4.0159,
+    9.5147,
+    4.0159
+],
+  "geometry": {"coordinates":[9.5147,4.0159],"type":"Point"}
+}

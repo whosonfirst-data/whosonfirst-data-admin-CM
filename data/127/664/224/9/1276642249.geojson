@@ -1,0 +1,67 @@
+{
+  "id": 1276642249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.05901,10.05585,14.05901,10.05585",
+    "geom:latitude":10.05585,
+    "geom:longitude":14.05901,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Galbanki",
+    "gn:country_code":"CM",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6730087,
+    "gn:latitude":10.05585,
+    "gn:longitude":14.05901,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Galbanki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6730087
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"0d865053df52439244bd97775e56b8b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1276642249,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1276642249,
+    "wof:lastmodified":1536860567,
+    "wof:name":"Galbanki",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.05901,
+    10.05585,
+    14.05901,
+    10.05585
+],
+  "geometry": {"coordinates":[14.05901,10.05585],"type":"Point"}
+}

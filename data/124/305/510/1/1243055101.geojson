@@ -1,0 +1,67 @@
+{
+  "id": 1243055101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15,10.45,15.15,10.45",
+    "geom:latitude":10.45,
+    "geom:longitude":15.15,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mogorfo",
+    "gn:country_code":"CM",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2226308,
+    "gn:latitude":10.45,
+    "gn:longitude":15.15,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mogorfo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1108390249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2226308
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5944707303d098fc5aa5f3b8790a0c36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1108390249,
+            "locality_id":1243055101,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1243055101,
+    "wof:lastmodified":1536871656,
+    "wof:name":"Mogorfo",
+    "wof:parent_id":1108390249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15,
+    10.45,
+    15.15,
+    10.45
+],
+  "geometry": {"coordinates":[15.15,10.45],"type":"Point"}
+}

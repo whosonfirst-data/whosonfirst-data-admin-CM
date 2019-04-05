@@ -1,0 +1,67 @@
+{
+  "id": 1259663887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98481,10.40302,14.98481,10.40302",
+    "geom:latitude":10.40302,
+    "geom:longitude":14.98481,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Gouarang",
+    "gn:country_code":"CM",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6730857,
+    "gn:latitude":10.40302,
+    "gn:longitude":14.98481,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Gouarang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1108390249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6730857
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"be52ad73f067b6ec7878a57fc5137664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1108390249,
+            "locality_id":1259663887,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1259663887,
+    "wof:lastmodified":1537092011,
+    "wof:name":"Gouarang",
+    "wof:parent_id":1108390249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98481,
+    10.40302,
+    14.98481,
+    10.40302
+],
+  "geometry": {"coordinates":[14.98481,10.40302],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209082607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.41246,9.71019,13.41246,9.71019",
+    "geom:latitude":9.71019,
+    "geom:longitude":13.41246,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dornomou",
+    "gn:country_code":"CM",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2232741,
+    "gn:latitude":9.71019,
+    "gn:longitude":13.41246,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Dornomou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djornomo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2232741
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"38f2feff94b0a2c0a2d8c006264d87e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209082607
+        }
+    ],
+    "wof:id":1209082607,
+    "wof:lastmodified":1537591308,
+    "wof:name":"Dornomou",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.41246,
+    9.71019,
+    13.41246,
+    9.71019
+],
+  "geometry": {"coordinates":[13.41246,9.71019],"type":"Point"}
+}

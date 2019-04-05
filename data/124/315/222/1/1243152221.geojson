@@ -1,0 +1,67 @@
+{
+  "id": 1243152221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01235,12.00986,15.01235,12.00986",
+    "geom:latitude":12.00986,
+    "geom:longitude":15.01235,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Koumboula",
+    "gn:country_code":"CM",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595234,
+    "gn:latitude":12.00986,
+    "gn:longitude":15.01235,
+    "gn:modification_date":"2003-02-12",
+    "gn:name":"Koumboula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595234
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"74fb0bab37aa453e4deee33dff9c6f05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1243152221,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1243152221,
+    "wof:lastmodified":1536733063,
+    "wof:name":"Koumboula",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01235,
+    12.00986,
+    15.01235,
+    12.00986
+],
+  "geometry": {"coordinates":[15.01235,12.00986],"type":"Point"}
+}

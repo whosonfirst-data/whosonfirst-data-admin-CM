@@ -1,0 +1,67 @@
+{
+  "id": 1344144017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.80126,10.74779,13.80126,10.74779",
+    "geom:latitude":10.74779,
+    "geom:longitude":13.80126,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Semboa",
+    "gn:country_code":"CM",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074638,
+    "gn:latitude":10.74779,
+    "gn:longitude":13.80126,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Semboa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074638
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"acc2c9b24e0f2613aedf0975b3a74e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1344144017,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1344144017,
+    "wof:lastmodified":1536755118,
+    "wof:name":"Semboa",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.80126,
+    10.74779,
+    13.80126,
+    10.74779
+],
+  "geometry": {"coordinates":[13.80126,10.74779],"type":"Point"}
+}

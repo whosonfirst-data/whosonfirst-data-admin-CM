@@ -1,0 +1,67 @@
+{
+  "id": 1343256361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.36995,5.92014,10.36995,5.92014",
+    "geom:latitude":5.92014,
+    "geom:longitude":10.36995,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nugu",
+    "gn:country_code":"CM",
+    "gn:dem":1190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9096538,
+    "gn:latitude":5.92014,
+    "gn:longitude":10.36995,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Nugu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9096538
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f1d147e2c5f06a8b1259119d80be40a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010693,
+            "locality_id":1343256361,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1343256361,
+    "wof:lastmodified":1537039161,
+    "wof:name":"Nugu",
+    "wof:parent_id":1092010693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.36995,
+    5.92014,
+    10.36995,
+    5.92014
+],
+  "geometry": {"coordinates":[10.36995,5.92014],"type":"Point"}
+}

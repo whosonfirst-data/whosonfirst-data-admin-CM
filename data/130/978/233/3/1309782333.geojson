@@ -1,0 +1,70 @@
+{
+  "id": 1309782333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.75995,10.07482,13.75995,10.07482",
+    "geom:latitude":10.07482,
+    "geom:longitude":13.75995,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kousmadouma",
+    "gn:country_code":"CM",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760117,
+    "gn:latitude":10.07482,
+    "gn:longitude":13.75995,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Kousmadouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koussoumadouma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760117
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"657c090ca8e793bcb5e17785b7d7492e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1309782333,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1309782333,
+    "wof:lastmodified":1537591348,
+    "wof:name":"Kousmadouma",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.75995,
+    10.07482,
+    13.75995,
+    10.07482
+],
+  "geometry": {"coordinates":[13.75995,10.07482],"type":"Point"}
+}

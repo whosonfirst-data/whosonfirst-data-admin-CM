@@ -1,0 +1,67 @@
+{
+  "id": 1226730997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.4,4.0,11.4,4.0",
+    "geom:latitude":4.0,
+    "geom:longitude":11.4,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nkolmekouma",
+    "gn:country_code":"CM",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223953,
+    "gn:latitude":4.0,
+    "gn:longitude":11.4,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Nkolm\u00e9kouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092012079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223953
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ab5478e1a1c6cf9b4565e1d3e44e46c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012079,
+            "locality_id":1226730997,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1226730997,
+    "wof:lastmodified":1536736810,
+    "wof:name":"Nkolmekouma",
+    "wof:parent_id":1092012079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.4,
+    4.0,
+    11.4,
+    4.0
+],
+  "geometry": {"coordinates":[11.4,4.0],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309691519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.109,9.3844,14.109,9.3844",
+    "geom:latitude":9.3844,
+    "geom:longitude":14.109,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Daloudji",
+    "gn:country_code":"CM",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233290,
+    "gn:latitude":9.3844,
+    "gn:longitude":14.109,
+    "gn:modification_date":"2008-10-27",
+    "gn:name":"Daloudji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233290
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"326c43c5830f33747d53ac6c26bee90b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1309691519,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1309691519,
+    "wof:lastmodified":1537092666,
+    "wof:name":"Daloudji",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.109,
+    9.3844,
+    14.109,
+    9.3844
+],
+  "geometry": {"coordinates":[14.109,9.3844],"type":"Point"}
+}

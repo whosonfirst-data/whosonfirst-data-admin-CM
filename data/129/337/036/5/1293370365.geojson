@@ -1,0 +1,71 @@
+{
+  "id": 1293370365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.71036,10.73708,14.71036,10.73708",
+    "geom:latitude":10.73708,
+    "geom:longitude":14.71036,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ouro Alao",
+    "gn:country_code":"CM",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222889,
+    "gn:latitude":10.73708,
+    "gn:longitude":14.71036,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ouro Alao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouro Allao",
+        "Ouro Alao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222889
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"9f4b05ff016f8253ed17bc6360017aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011977,
+            "locality_id":1293370365,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1293370365,
+    "wof:lastmodified":1537591214,
+    "wof:name":"Ouro Alao",
+    "wof:parent_id":1092011977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.71036,
+    10.73708,
+    14.71036,
+    10.73708
+],
+  "geometry": {"coordinates":[14.71036,10.73708],"type":"Point"}
+}

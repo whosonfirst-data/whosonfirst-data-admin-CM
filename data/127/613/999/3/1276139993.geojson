@@ -1,0 +1,67 @@
+{
+  "id": 1276139993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.76794,6.99826,12.76794,6.99826",
+    "geom:latitude":6.99826,
+    "geom:longitude":12.76794,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Maloa",
+    "gn:country_code":"CM",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8696047,
+    "gn:latitude":6.99826,
+    "gn:longitude":12.76794,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Maloa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8696047
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"253c0f8762acbf72bdbc16cc7db2d118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011545,
+            "locality_id":1276139993,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1276139993,
+    "wof:lastmodified":1537036222,
+    "wof:name":"Maloa",
+    "wof:parent_id":1092011545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.76794,
+    6.99826,
+    12.76794,
+    6.99826
+],
+  "geometry": {"coordinates":[12.76794,6.99826],"type":"Point"}
+}

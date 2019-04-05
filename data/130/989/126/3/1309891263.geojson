@@ -1,0 +1,67 @@
+{
+  "id": 1309891263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.18084,5.44512,10.18084,5.44512",
+    "geom:latitude":5.44512,
+    "geom:longitude":10.18084,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Panny",
+    "gn:country_code":"CM",
+    "gn:dem":1482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8605205,
+    "gn:latitude":5.44512,
+    "gn:longitude":10.18084,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Panny",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8605205
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5ad6146a9c46b8363c79ee1cf75b27ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1309891263,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1309891263,
+    "wof:lastmodified":1536807675,
+    "wof:name":"Panny",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.18084,
+    5.44512,
+    10.18084,
+    5.44512
+],
+  "geometry": {"coordinates":[10.18084,5.44512],"type":"Point"}
+}

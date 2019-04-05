@@ -1,0 +1,89 @@
+{
+  "id": 1209905849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.5194,4.5538,8.5194,4.5538",
+    "geom:latitude":4.5538,
+    "geom:longitude":8.5194,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jabane I",
+    "gn:country_code":"CM",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2230643,
+    "gn:latitude":4.5538,
+    "gn:longitude":8.5194,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Jabane I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abana",
+        "Jabana I",
+        "Jabane I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092010791,
+        1108563073,
+        85632735,
+        85675331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2230643
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"8bc159b362d86a5eb04503e20f062190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010791,
+            "locality_id":1209905849,
+            "region_id":85669967
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1108563073,
+            "locality_id":1209905849,
+            "region_id":85669967
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563073,
+            "locality_id":1209905849,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1209905849,
+    "wof:lastmodified":1537591284,
+    "wof:name":"Jabane I",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.5194,
+    4.5538,
+    8.5194,
+    4.5538
+],
+  "geometry": {"coordinates":[8.5194,4.5538],"type":"Point"}
+}

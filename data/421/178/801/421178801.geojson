@@ -1,0 +1,124 @@
+{
+  "id": 421178801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.36667,4.68333,12.36667,4.68333",
+    "geom:latitude":4.68333,
+    "geom:longitude":12.36667,
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Nanga Eboko"
+    ],
+    "name:chi_x_preferred":[
+        "\u7d0d\u96c5\u827e\u535a\u79d1"
+    ],
+    "name:deu_x_preferred":[
+        "Nanga-Eboko"
+    ],
+    "name:dut_x_preferred":[
+        "Nanga Eboko"
+    ],
+    "name:eng_x_preferred":[
+        "Nanga Eboko"
+    ],
+    "name:fra_x_preferred":[
+        "Nanga-Eboko"
+    ],
+    "name:fre_x_preferred":[
+        "Nanga-Eboko"
+    ],
+    "name:ger_x_preferred":[
+        "Nanga-Eboko"
+    ],
+    "name:ita_x_preferred":[
+        "Nanga-Eboko"
+    ],
+    "name:may_x_preferred":[
+        "Nanga-Eboko"
+    ],
+    "name:msa_x_preferred":[
+        "Nanga-Eboko"
+    ],
+    "name:pol_x_preferred":[
+        "Nanga Eboko"
+    ],
+    "name:por_x_preferred":[
+        "Nanga-Eboko"
+    ],
+    "name:swe_x_preferred":[
+        "Nanga Eboko"
+    ],
+    "qs:gn_country":"CM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2225457,
+    "qs:gn_pop":29909,
+    "qs:name":"Nanga Eboko",
+    "qs:name_adm0":"Cameroun",
+    "qs:name_adm1":"Centre",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":138998,
+    "qs:woe_adm0":23424785,
+    "qs:woe_id":1303855,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":112,
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2225457,
+        "gp:id":1303855,
+        "qs:id":138998,
+        "wd:id":"Q2445214",
+        "wk:page":"Nanga Eboko"
+    },
+    "wof:country":"CM",
+    "wof:created":1459009194,
+    "wof:geomhash":"d791e5611ea95c077f3e2e8fc691cf5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011277,
+            "locality_id":421178801,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":421178801,
+    "wof:lastmodified":1527717727,
+    "wof:name":"Nanga Eboko",
+    "wof:parent_id":1092011277,
+    "wof:placetype":"locality",
+    "wof:population":29909,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.36667,
+    4.68333,
+    12.36667,
+    4.68333
+],
+  "geometry": {"coordinates":[12.36667,4.68333],"type":"Point"}
+}

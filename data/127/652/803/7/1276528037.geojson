@@ -1,0 +1,71 @@
+{
+  "id": 1276528037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.55586,10.63467,14.55586,10.63467",
+    "geom:latitude":10.63467,
+    "geom:longitude":14.55586,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Hardowo",
+    "gn:country_code":"CM",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2230821,
+    "gn:latitude":10.63467,
+    "gn:longitude":14.55586,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Hardowo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haradoho",
+        "Hardowo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2230821
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"91183ee21f971930d506c6a3fba79e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011977,
+            "locality_id":1276528037,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1276528037,
+    "wof:lastmodified":1537591287,
+    "wof:name":"Hardowo",
+    "wof:parent_id":1092011977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55586,
+    10.63467,
+    14.55586,
+    10.63467
+],
+  "geometry": {"coordinates":[14.55586,10.63467],"type":"Point"}
+}

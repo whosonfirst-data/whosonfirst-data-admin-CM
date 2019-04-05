@@ -1,0 +1,67 @@
+{
+  "id": 1343742287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.76226,10.97472,13.76226,10.97472",
+    "geom:latitude":10.97472,
+    "geom:longitude":13.76226,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ridoua",
+    "gn:country_code":"CM",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222424,
+    "gn:latitude":10.97472,
+    "gn:longitude":13.76226,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ridoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222424
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"a9164e9cd54a3f8e8933fdea8ffc6828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1343742287,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1343742287,
+    "wof:lastmodified":1536836065,
+    "wof:name":"Ridoua",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.76226,
+    10.97472,
+    13.76226,
+    10.97472
+],
+  "geometry": {"coordinates":[13.76226,10.97472],"type":"Point"}
+}

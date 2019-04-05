@@ -1,0 +1,67 @@
+{
+  "id": 1293611437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.39544,5.26591,10.39544,5.26591",
+    "geom:latitude":5.26591,
+    "geom:longitude":10.39544,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mou'nye",
+    "gn:country_code":"CM",
+    "gn:dem":1811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8605699,
+    "gn:latitude":5.26591,
+    "gn:longitude":10.39544,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Mou\u2019nye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092012197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8605699
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"3a31f9320aeba4689359862591277017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012197,
+            "locality_id":1293611437,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1293611437,
+    "wof:lastmodified":1536605511,
+    "wof:name":"Mou'nye",
+    "wof:parent_id":1092012197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.39544,
+    5.26591,
+    10.39544,
+    5.26591
+],
+  "geometry": {"coordinates":[10.39544,5.26591],"type":"Point"}
+}

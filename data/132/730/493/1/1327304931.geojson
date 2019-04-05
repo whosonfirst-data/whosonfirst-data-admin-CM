@@ -1,0 +1,67 @@
+{
+  "id": 1327304931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.86667,2.48333,11.86667,2.48333",
+    "geom:latitude":2.48333,
+    "geom:longitude":11.86667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ekowong",
+    "gn:country_code":"CM",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2232060,
+    "gn:latitude":2.48333,
+    "gn:longitude":11.86667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ekowong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669971,
+        1092012173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2232060
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"4266ad2bebecec5139a9712a050e5f9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012173,
+            "locality_id":1327304931,
+            "region_id":85669971
+        }
+    ],
+    "wof:id":1327304931,
+    "wof:lastmodified":1536863639,
+    "wof:name":"Ekowong",
+    "wof:parent_id":1092012173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.86667,
+    2.48333,
+    11.86667,
+    2.48333
+],
+  "geometry": {"coordinates":[11.86667,2.48333],"type":"Point"}
+}

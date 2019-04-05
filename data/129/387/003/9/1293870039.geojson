@@ -1,0 +1,67 @@
+{
+  "id": 1293870039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.43333,10.0,13.43333,10.0",
+    "geom:latitude":10.0,
+    "geom:longitude":13.43333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ouro Kaoukana",
+    "gn:country_code":"CM",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2222851,
+    "gn:latitude":10.0,
+    "gn:longitude":13.43333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ouro Kaoukana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2222851
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ab0b7cdfa101eb3961ea4c680638ef85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1293870039,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1293870039,
+    "wof:lastmodified":1536733016,
+    "wof:name":"Ouro Kaoukana",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.43333,
+    10.0,
+    13.43333,
+    10.0
+],
+  "geometry": {"coordinates":[13.43333,10.0],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209694729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.93333,2.88333,10.93333,2.88333",
+    "geom:latitude":2.88333,
+    "geom:longitude":10.93333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mekaa",
+    "gn:country_code":"CM",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2227389,
+    "gn:latitude":2.88333,
+    "gn:longitude":10.93333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"M\u00e9kaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2227389
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"a74d6b951cf240d10d6c4659bb94708f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209694729
+        }
+    ],
+    "wof:id":1209694729,
+    "wof:lastmodified":1536279115,
+    "wof:name":"Mekaa",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.93333,
+    2.88333,
+    10.93333,
+    2.88333
+],
+  "geometry": {"coordinates":[10.93333,2.88333],"type":"Point"}
+}

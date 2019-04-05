@@ -1,0 +1,67 @@
+{
+  "id": 1276850179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1545,9.2711,14.1545,9.2711",
+    "geom:latitude":9.2711,
+    "geom:longitude":14.1545,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Koli",
+    "gn:country_code":"CM",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2230163,
+    "gn:latitude":9.2711,
+    "gn:longitude":14.1545,
+    "gn:modification_date":"2008-10-27",
+    "gn:name":"Koli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2230163
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"09bddf80f76d9490cdfc3d09cb96d752",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1276850179,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1276850179,
+    "wof:lastmodified":1537077821,
+    "wof:name":"Koli",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1545,
+    9.2711,
+    14.1545,
+    9.2711
+],
+  "geometry": {"coordinates":[14.1545,9.2711],"type":"Point"}
+}

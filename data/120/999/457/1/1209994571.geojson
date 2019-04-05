@@ -1,0 +1,67 @@
+{
+  "id": 1209994571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.36667,4.41667,11.36667,4.41667",
+    "geom:latitude":4.41667,
+    "geom:longitude":11.36667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nkom I",
+    "gn:country_code":"CM",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223822,
+    "gn:latitude":4.41667,
+    "gn:longitude":11.36667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Nkom I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092012079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223822
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"a60228de86c6edd888549c63a5e254c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012079,
+            "locality_id":1209994571,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1209994571,
+    "wof:lastmodified":1536384876,
+    "wof:name":"Nkom I",
+    "wof:parent_id":1092012079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.36667,
+    4.41667,
+    11.36667,
+    4.41667
+],
+  "geometry": {"coordinates":[11.36667,4.41667],"type":"Point"}
+}

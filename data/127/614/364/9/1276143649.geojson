@@ -1,0 +1,67 @@
+{
+  "id": 1276143649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.52711,5.88953,10.52711,5.88953",
+    "geom:latitude":5.88953,
+    "geom:longitude":10.52711,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mbasso",
+    "gn:country_code":"CM",
+    "gn:dem":1170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9112377,
+    "gn:latitude":5.88953,
+    "gn:longitude":10.52711,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Mbasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9112377
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"a96d5a7616f3ef445f13a33e399b22ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010693,
+            "locality_id":1276143649,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1276143649,
+    "wof:lastmodified":1537031539,
+    "wof:name":"Mbasso",
+    "wof:parent_id":1092010693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.52711,
+    5.88953,
+    10.52711,
+    5.88953
+],
+  "geometry": {"coordinates":[10.52711,5.88953],"type":"Point"}
+}

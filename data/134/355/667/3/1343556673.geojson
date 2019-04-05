@@ -1,0 +1,72 @@
+{
+  "id": 1343556673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.71667,6.93333,11.71667,6.93333",
+    "geom:latitude":6.93333,
+    "geom:longitude":11.71667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Gandoua",
+    "gn:country_code":"CM",
+    "gn:dem":1230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231378,
+    "gn:latitude":6.93333,
+    "gn:longitude":11.71667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gandoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gand\u00faa",
+        "Gandou",
+        "Gandoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231378
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"51853e6509dbf32bf85a2f5ce6629106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011501,
+            "locality_id":1343556673,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1343556673,
+    "wof:lastmodified":1537591295,
+    "wof:name":"Gandoua",
+    "wof:parent_id":1092011501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.71667,
+    6.93333,
+    11.71667,
+    6.93333
+],
+  "geometry": {"coordinates":[11.71667,6.93333],"type":"Point"}
+}

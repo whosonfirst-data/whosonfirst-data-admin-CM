@@ -1,0 +1,71 @@
+{
+  "id": 1293678839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.8246,5.2208,8.8246,5.2208",
+    "geom:latitude":5.2208,
+    "geom:longitude":8.8246,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ngundup",
+    "gn:country_code":"CM",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223803,
+    "gn:latitude":5.2208,
+    "gn:longitude":8.8246,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ngundup",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkondop",
+        "Ngundup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092010791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223803
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ec1b7300c7fbf1298696d22dedae4ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010791,
+            "locality_id":1293678839,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1293678839,
+    "wof:lastmodified":1537591222,
+    "wof:name":"Ngundup",
+    "wof:parent_id":1092010791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.8246,
+    5.2208,
+    8.8246,
+    5.2208
+],
+  "geometry": {"coordinates":[8.8246,5.2208],"type":"Point"}
+}

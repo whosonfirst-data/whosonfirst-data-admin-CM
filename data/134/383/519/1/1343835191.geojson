@@ -1,0 +1,67 @@
+{
+  "id": 1343835191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.74312,10.55061,14.74312,10.55061",
+    "geom:latitude":10.55061,
+    "geom:longitude":14.74312,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kalmatao",
+    "gn:country_code":"CM",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6730703,
+    "gn:latitude":10.55061,
+    "gn:longitude":14.74312,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Kalmatao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6730703
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"45516b46e0cf0f5bf75b82cdfa3ae38e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011963,
+            "locality_id":1343835191,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1343835191,
+    "wof:lastmodified":1536703400,
+    "wof:name":"Kalmatao",
+    "wof:parent_id":1092011963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.74312,
+    10.55061,
+    14.74312,
+    10.55061
+],
+  "geometry": {"coordinates":[14.74312,10.55061],"type":"Point"}
+}

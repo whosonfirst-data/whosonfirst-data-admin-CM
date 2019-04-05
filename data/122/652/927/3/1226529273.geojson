@@ -1,0 +1,72 @@
+{
+  "id": 1226529273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.87026,10.94734,13.87026,10.94734",
+    "geom:latitude":10.94734,
+    "geom:longitude":13.87026,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Medegouer",
+    "gn:country_code":"CM",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2227473,
+    "gn:latitude":10.94734,
+    "gn:longitude":13.87026,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"M\u00e9d\u00e9gouer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e9d\u00e9gwer",
+        "M\u00e9d\u00e9gouer",
+        "M\u00e9d\u00e9gou\u00e8r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2227473
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"0b80ff0d32eb7e530feaa4b8d633e991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1226529273,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1226529273,
+    "wof:lastmodified":1537591253,
+    "wof:name":"Medegouer",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.87026,
+    10.94734,
+    13.87026,
+    10.94734
+],
+  "geometry": {"coordinates":[13.87026,10.94734],"type":"Point"}
+}

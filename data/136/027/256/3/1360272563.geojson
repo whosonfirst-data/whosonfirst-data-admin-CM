@@ -1,0 +1,72 @@
+{
+  "id": 1360272563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.89474,10.54386,13.89474,10.54386",
+    "geom:latitude":10.54386,
+    "geom:longitude":13.89474,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Fernde",
+    "gn:country_code":"CM",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231656,
+    "gn:latitude":10.54386,
+    "gn:longitude":13.89474,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Fernd\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fernl\u00e9",
+        "Fernd\u00e9",
+        "F\u00e8rnd\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231656
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"3001a782529fdaeaa533fc7549a5624f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1360272563,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1360272563,
+    "wof:lastmodified":1537591299,
+    "wof:name":"Fernde",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.89474,
+    10.54386,
+    13.89474,
+    10.54386
+],
+  "geometry": {"coordinates":[13.89474,10.54386],"type":"Point"}
+}

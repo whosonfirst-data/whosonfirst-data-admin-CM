@@ -1,0 +1,70 @@
+{
+  "id": 1310688331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.55854,12.30593,14.55854,12.30593",
+    "geom:latitude":12.30593,
+    "geom:longitude":14.55854,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bedao",
+    "gn:country_code":"CM",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2234614,
+    "gn:latitude":12.30593,
+    "gn:longitude":14.55854,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Bedao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9dao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2234614
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ea8d42c460f743af411266c4d7c9c542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1310688331,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1310688331,
+    "wof:lastmodified":1537591327,
+    "wof:name":"Bedao",
+    "wof:parent_id":1092011735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55854,
+    12.30593,
+    14.55854,
+    12.30593
+],
+  "geometry": {"coordinates":[14.55854,12.30593],"type":"Point"}
+}

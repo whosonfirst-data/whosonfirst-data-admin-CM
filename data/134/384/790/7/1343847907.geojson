@@ -1,0 +1,67 @@
+{
+  "id": 1343847907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.8715,5.374,9.8715,5.374",
+    "geom:latitude":5.374,
+    "geom:longitude":9.8715,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Njungo",
+    "gn:country_code":"CM",
+    "gn:dem":994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858280,
+    "gn:latitude":5.374,
+    "gn:longitude":9.8715,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Njungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858280
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"263057c2a0516cdbc1e70e2c10f58f2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011063,
+            "locality_id":1343847907,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1343847907,
+    "wof:lastmodified":1536684700,
+    "wof:name":"Njungo",
+    "wof:parent_id":1092011063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8715,
+    5.374,
+    9.8715,
+    5.374
+],
+  "geometry": {"coordinates":[9.8715,5.374],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259579973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.9247,4.3302,8.9247,4.3302",
+    "geom:latitude":4.3302,
+    "geom:longitude":8.9247,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Njangassa I",
+    "gn:country_code":"CM",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6915247,
+    "gn:latitude":4.3302,
+    "gn:longitude":8.9247,
+    "gn:modification_date":"2009-01-07",
+    "gn:name":"Njangassa I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092010791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6915247
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f33221e01e0017f38b5697909efbf4db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010791,
+            "locality_id":1259579973,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1259579973,
+    "wof:lastmodified":1536720279,
+    "wof:name":"Njangassa I",
+    "wof:parent_id":1092010791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9247,
+    4.3302,
+    8.9247,
+    4.3302
+],
+  "geometry": {"coordinates":[8.9247,4.3302],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343284241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.22501,5.60023,10.22501,5.60023",
+    "geom:latitude":5.60023,
+    "geom:longitude":10.22501,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Koum",
+    "gn:country_code":"CM",
+    "gn:dem":1532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074818,
+    "gn:latitude":5.60023,
+    "gn:longitude":10.22501,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Koum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074818
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"835a3e3117aa068aeaec3b0f1f838826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010559,
+            "locality_id":1343284241,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1343284241,
+    "wof:lastmodified":1536999895,
+    "wof:name":"Koum",
+    "wof:parent_id":1092010559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.22501,
+    5.60023,
+    10.22501,
+    5.60023
+],
+  "geometry": {"coordinates":[10.22501,5.60023],"type":"Point"}
+}

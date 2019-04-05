@@ -1,0 +1,65 @@
+{
+  "id": 1209639373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.25,4.01667,13.25,4.01667",
+    "geom:latitude":4.01667,
+    "geom:longitude":13.25,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bindanang",
+    "gn:country_code":"CM",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2234065,
+    "gn:latitude":4.01667,
+    "gn:longitude":13.25,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bindanang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bindananga",
+        "Bindanang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2234065
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"7f1038df7c22db178da80160cd0458c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209639373
+        }
+    ],
+    "wof:id":1209639373,
+    "wof:lastmodified":1537591323,
+    "wof:name":"Bindanang",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.25,
+    4.01667,
+    13.25,
+    4.01667
+],
+  "geometry": {"coordinates":[13.25,4.01667],"type":"Point"}
+}

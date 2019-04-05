@@ -1,0 +1,67 @@
+{
+  "id": 1309702983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.79856,5.64015,10.79856,5.64015",
+    "geom:latitude":5.64015,
+    "geom:longitude":10.79856,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Njinkoup",
+    "gn:country_code":"CM",
+    "gn:dem":1185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9111427,
+    "gn:latitude":5.64015,
+    "gn:longitude":10.79856,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Njinkoup",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9111427
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"86c2c2771f49228185ae26238bffd677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010521,
+            "locality_id":1309702983,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1309702983,
+    "wof:lastmodified":1537076296,
+    "wof:name":"Njinkoup",
+    "wof:parent_id":1092010521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.79856,
+    5.64015,
+    10.79856,
+    5.64015
+],
+  "geometry": {"coordinates":[10.79856,5.64015],"type":"Point"}
+}

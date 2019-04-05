@@ -1,0 +1,67 @@
+{
+  "id": 1276800321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41667,3.46667,15.41667,3.46667",
+    "geom:latitude":3.46667,
+    "geom:longitude":15.41667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Masiembo",
+    "gn:country_code":"CM",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2228351,
+    "gn:latitude":3.46667,
+    "gn:longitude":15.41667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Masiembo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2228351
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"11d2e712b2b08208276c5a7620375ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011465,
+            "locality_id":1276800321,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1276800321,
+    "wof:lastmodified":1536649993,
+    "wof:name":"Masiembo",
+    "wof:parent_id":1092011465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41667,
+    3.46667,
+    15.41667,
+    3.46667
+],
+  "geometry": {"coordinates":[15.41667,3.46667],"type":"Point"}
+}

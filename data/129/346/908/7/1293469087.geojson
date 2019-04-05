@@ -1,0 +1,67 @@
+{
+  "id": 1293469087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.06667,9.08333,13.06667,9.08333",
+    "geom:latitude":9.08333,
+    "geom:longitude":13.06667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gabako",
+    "gn:country_code":"CM",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231470,
+    "gn:latitude":9.08333,
+    "gn:longitude":13.06667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Gabako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231470
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"be1d60f29e714dff0dfe11cda75ce58b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1293469087,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1293469087,
+    "wof:lastmodified":1536813074,
+    "wof:name":"Gabako",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.06667,
+    9.08333,
+    13.06667,
+    9.08333
+],
+  "geometry": {"coordinates":[13.06667,9.08333],"type":"Point"}
+}

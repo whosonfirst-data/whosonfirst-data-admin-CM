@@ -1,0 +1,67 @@
+{
+  "id": 1343380979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.75241,5.73299,10.75241,5.73299",
+    "geom:latitude":5.73299,
+    "geom:longitude":10.75241,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Njipouo'che",
+    "gn:country_code":"CM",
+    "gn:dem":1210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9104800,
+    "gn:latitude":5.73299,
+    "gn:longitude":10.75241,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Njipouo\u2019che",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9104800
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c1e14943069fa066ff5900e21e991119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010521,
+            "locality_id":1343380979,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1343380979,
+    "wof:lastmodified":1536859580,
+    "wof:name":"Njipouo'che",
+    "wof:parent_id":1092010521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.75241,
+    5.73299,
+    10.75241,
+    5.73299
+],
+  "geometry": {"coordinates":[10.75241,5.73299],"type":"Point"}
+}

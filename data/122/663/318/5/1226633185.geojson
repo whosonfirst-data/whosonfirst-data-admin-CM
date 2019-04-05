@@ -1,0 +1,67 @@
+{
+  "id": 1226633185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.05359,10.14226,14.05359,10.14226",
+    "geom:latitude":10.14226,
+    "geom:longitude":14.05359,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Gang Gang",
+    "gn:country_code":"CM",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6730127,
+    "gn:latitude":10.14226,
+    "gn:longitude":14.05359,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Gang Gang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6730127
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ee6fe9a01028f6068d8ff37d11769bb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1226633185,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1226633185,
+    "wof:lastmodified":1536876721,
+    "wof:name":"Gang Gang",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.05359,
+    10.14226,
+    14.05359,
+    10.14226
+],
+  "geometry": {"coordinates":[14.05359,10.14226],"type":"Point"}
+}

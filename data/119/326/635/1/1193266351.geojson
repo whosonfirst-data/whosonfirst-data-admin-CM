@@ -1,0 +1,67 @@
+{
+  "id": 1193266351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.76667,4.91667,12.76667,4.91667",
+    "geom:latitude":4.91667,
+    "geom:longitude":12.76667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mengue",
+    "gn:country_code":"CM",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2227080,
+    "gn:latitude":4.91667,
+    "gn:longitude":12.76667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mengu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2227080
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"4dcb529add3478e401d354805e24a5d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011277,
+            "locality_id":1193266351,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1193266351,
+    "wof:lastmodified":1536375449,
+    "wof:name":"Mengue",
+    "wof:parent_id":1092011277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.76667,
+    4.91667,
+    12.76667,
+    4.91667
+],
+  "geometry": {"coordinates":[12.76667,4.91667],"type":"Point"}
+}

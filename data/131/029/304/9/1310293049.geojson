@@ -1,0 +1,67 @@
+{
+  "id": 1310293049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.05,4.13333,11.05,4.13333",
+    "geom:latitude":4.13333,
+    "geom:longitude":11.05,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Lihong",
+    "gn:country_code":"CM",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2229434,
+    "gn:latitude":4.13333,
+    "gn:longitude":11.05,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Lihong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092011187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2229434
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"fbfd6d157112ac01abcaee6b15adb679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011187,
+            "locality_id":1310293049,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1310293049,
+    "wof:lastmodified":1536726301,
+    "wof:name":"Lihong",
+    "wof:parent_id":1092011187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.05,
+    4.13333,
+    11.05,
+    4.13333
+],
+  "geometry": {"coordinates":[11.05,4.13333],"type":"Point"}
+}

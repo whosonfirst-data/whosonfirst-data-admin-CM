@@ -1,0 +1,71 @@
+{
+  "id": 1293413919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.88333,2.2,13.88333,2.2",
+    "geom:latitude":2.2,
+    "geom:longitude":13.88333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Metzimevin",
+    "gn:country_code":"CM",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2226915,
+    "gn:latitude":2.2,
+    "gn:longitude":13.88333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Metzim\u00e9vin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Metzinavine",
+        "Metzim\u00e9vin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669949,
+        1092011347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2226915
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"4946f5a1110aa291941b81549216e613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011347,
+            "locality_id":1293413919,
+            "region_id":85669949
+        }
+    ],
+    "wof:id":1293413919,
+    "wof:lastmodified":1537591250,
+    "wof:name":"Metzimevin",
+    "wof:parent_id":1092011347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.88333,
+    2.2,
+    13.88333,
+    2.2
+],
+  "geometry": {"coordinates":[13.88333,2.2],"type":"Point"}
+}

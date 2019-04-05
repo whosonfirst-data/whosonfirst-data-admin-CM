@@ -1,0 +1,67 @@
+{
+  "id": 1360162919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.83333,4.05,11.83333,4.05",
+    "geom:latitude":4.05,
+    "geom:longitude":11.83333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nkolavolo II",
+    "gn:country_code":"CM",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2224052,
+    "gn:latitude":4.05,
+    "gn:longitude":11.83333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Nkolavolo II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092010921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2224052
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"dc280f88fddb16da49c1cb58fd071498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010921,
+            "locality_id":1360162919,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1360162919,
+    "wof:lastmodified":1536832432,
+    "wof:name":"Nkolavolo II",
+    "wof:parent_id":1092010921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.83333,
+    4.05,
+    11.83333,
+    4.05
+],
+  "geometry": {"coordinates":[11.83333,4.05],"type":"Point"}
+}

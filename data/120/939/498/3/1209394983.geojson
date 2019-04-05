@@ -1,0 +1,61 @@
+{
+  "id": 1209394983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03352,10.35728,14.03352,10.35728",
+    "geom:latitude":10.35728,
+    "geom:longitude":14.03352,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kamas",
+    "gn:country_code":"CM",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6730171,
+    "gn:latitude":10.35728,
+    "gn:longitude":14.03352,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Kamas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6730171
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c0c02d7dc99b757456d25f91e3571bf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209394983
+        }
+    ],
+    "wof:id":1209394983,
+    "wof:lastmodified":1536288333,
+    "wof:name":"Kamas",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03352,
+    10.35728,
+    14.03352,
+    10.35728
+],
+  "geometry": {"coordinates":[14.03352,10.35728],"type":"Point"}
+}

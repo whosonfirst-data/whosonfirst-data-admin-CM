@@ -1,0 +1,67 @@
+{
+  "id": 1309995617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.6264,5.5615,9.6264,5.5615",
+    "geom:latitude":5.5615,
+    "geom:longitude":9.6264,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ngasang",
+    "gn:country_code":"CM",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858071,
+    "gn:latitude":5.5615,
+    "gn:longitude":9.6264,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Ngasang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858071
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"a6f2def975f27ddbed17077b50c7b45d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011003,
+            "locality_id":1309995617,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1309995617,
+    "wof:lastmodified":1536657687,
+    "wof:name":"Ngasang",
+    "wof:parent_id":1092011003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.6264,
+    5.5615,
+    9.6264,
+    5.5615
+],
+  "geometry": {"coordinates":[9.6264,5.5615],"type":"Point"}
+}

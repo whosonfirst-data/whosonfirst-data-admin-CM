@@ -1,0 +1,70 @@
+{
+  "id": 1293584887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.38179,5.18753,10.38179,5.18753",
+    "geom:latitude":5.18753,
+    "geom:longitude":10.38179,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ndiknip",
+    "gn:country_code":"CM",
+    "gn:dem":1454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109100,
+    "gn:latitude":5.18753,
+    "gn:longitude":10.38179,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Ndiknip",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ndiknip"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092012197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109100
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"b9e389f1e4c7d6ac4ba4d717835abb54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012197,
+            "locality_id":1293584887,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1293584887,
+    "wof:lastmodified":1537591357,
+    "wof:name":"Ndiknip",
+    "wof:parent_id":1092012197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.38179,
+    5.18753,
+    10.38179,
+    5.18753
+],
+  "geometry": {"coordinates":[10.38179,5.18753],"type":"Point"}
+}

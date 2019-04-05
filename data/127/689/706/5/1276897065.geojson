@@ -1,0 +1,71 @@
+{
+  "id": 1276897065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.4891,4.0502,9.4891,4.0502",
+    "geom:latitude":4.0502,
+    "geom:longitude":9.4891,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kombo Pongo",
+    "gn:country_code":"CM",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594899,
+    "gn:latitude":4.0502,
+    "gn:longitude":9.4891,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kombo Pongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kombo Porigo",
+        "Kombo Pongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092012257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594899
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"e5b46a14f4e8a11a0bbe6361ed634256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012257,
+            "locality_id":1276897065,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1276897065,
+    "wof:lastmodified":1537591345,
+    "wof:name":"Kombo Pongo",
+    "wof:parent_id":1092012257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.4891,
+    4.0502,
+    9.4891,
+    4.0502
+],
+  "geometry": {"coordinates":[9.4891,4.0502],"type":"Point"}
+}

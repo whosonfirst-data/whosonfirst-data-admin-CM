@@ -1,0 +1,67 @@
+{
+  "id": 1360059151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.68333,2.65,11.68333,2.65",
+    "geom:latitude":2.65,
+    "geom:longitude":11.68333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Alotome",
+    "gn:country_code":"CM",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2235694,
+    "gn:latitude":2.65,
+    "gn:longitude":11.68333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Alotom\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669971,
+        1092012173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2235694
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"e4fe9c91384faf8aa447bdcc3968941a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012173,
+            "locality_id":1360059151,
+            "region_id":85669971
+        }
+    ],
+    "wof:id":1360059151,
+    "wof:lastmodified":1536982483,
+    "wof:name":"Alotome",
+    "wof:parent_id":1092012173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.68333,
+    2.65,
+    11.68333,
+    2.65
+],
+  "geometry": {"coordinates":[11.68333,2.65],"type":"Point"}
+}

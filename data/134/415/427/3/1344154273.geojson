@@ -1,0 +1,73 @@
+{
+  "id": 1344154273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.19322,5.75954,10.19322,5.75954",
+    "geom:latitude":5.75954,
+    "geom:longitude":10.19322,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Fochu",
+    "gn:country_code":"CM",
+    "gn:dem":1420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109659,
+    "gn:latitude":5.75954,
+    "gn:longitude":10.19322,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Fochu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fochu"
+    ],
+    "name:und_x_variant":[
+        "Bafochu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109659
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"feba5c0710e5391d52a3e26c17f8711e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010661,
+            "locality_id":1344154273,
+            "region_id":85669941
+        }
+    ],
+    "wof:id":1344154273,
+    "wof:lastmodified":1537591360,
+    "wof:name":"Fochu",
+    "wof:parent_id":1092010661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.19322,
+    5.75954,
+    10.19322,
+    5.75954
+],
+  "geometry": {"coordinates":[10.19322,5.75954],"type":"Point"}
+}

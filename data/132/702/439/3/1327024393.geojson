@@ -1,0 +1,67 @@
+{
+  "id": 1327024393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.2818,4.9402,9.2818,4.9402",
+    "geom:latitude":4.9402,
+    "geom:longitude":9.2818,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Old Ifanga",
+    "gn:country_code":"CM",
+    "gn:dem":1038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594878,
+    "gn:latitude":4.9402,
+    "gn:longitude":9.2818,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Old Ifanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092010859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594878
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"172d97e9da846cfffa01a75c27da15c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010859,
+            "locality_id":1327024393,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1327024393,
+    "wof:lastmodified":1536772639,
+    "wof:name":"Old Ifanga",
+    "wof:parent_id":1092010859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.2818,
+    4.9402,
+    9.2818,
+    4.9402
+],
+  "geometry": {"coordinates":[9.2818,4.9402],"type":"Point"}
+}

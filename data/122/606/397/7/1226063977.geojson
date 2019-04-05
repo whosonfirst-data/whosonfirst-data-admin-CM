@@ -1,0 +1,71 @@
+{
+  "id": 1226063977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.73456,5.03757,9.73456,5.03757",
+    "geom:latitude":5.03757,
+    "geom:longitude":9.73456,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Eloum",
+    "gn:country_code":"CM",
+    "gn:dem":1347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231991,
+    "gn:latitude":5.03757,
+    "gn:longitude":9.73456,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Eloum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Elum",
+        "Eloum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231991
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f888bcb77db8b828f2565b867707bd9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011063,
+            "locality_id":1226063977,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1226063977,
+    "wof:lastmodified":1537591302,
+    "wof:name":"Eloum",
+    "wof:parent_id":1092011063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.73456,
+    5.03757,
+    9.73456,
+    5.03757
+],
+  "geometry": {"coordinates":[9.73456,5.03757],"type":"Point"}
+}

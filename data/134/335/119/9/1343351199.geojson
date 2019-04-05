@@ -1,0 +1,67 @@
+{
+  "id": 1343351199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.65665,6.46851,9.65665,6.46851",
+    "geom:latitude":6.46851,
+    "geom:longitude":9.65665,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Messaga",
+    "gn:country_code":"CM",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6855385,
+    "gn:latitude":6.46851,
+    "gn:longitude":9.65665,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Messaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092011003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6855385
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"b693408f0a971401a33c253d17a189c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011003,
+            "locality_id":1343351199,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1343351199,
+    "wof:lastmodified":1536904096,
+    "wof:name":"Messaga",
+    "wof:parent_id":1092011003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.65665,
+    6.46851,
+    9.65665,
+    6.46851
+],
+  "geometry": {"coordinates":[9.65665,6.46851],"type":"Point"}
+}

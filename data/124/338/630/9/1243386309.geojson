@@ -1,0 +1,67 @@
+{
+  "id": 1243386309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.5008,4.0208,9.5008,4.0208",
+    "geom:latitude":4.0208,
+    "geom:longitude":9.5008,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dou-la-Poka",
+    "gn:country_code":"CM",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594888,
+    "gn:latitude":4.0208,
+    "gn:longitude":9.5008,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Dou-la-Poka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669937,
+        1092012257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594888
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"1b670b144c45f487e8c707e6139ea7b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012257,
+            "locality_id":1243386309,
+            "region_id":85669937
+        }
+    ],
+    "wof:id":1243386309,
+    "wof:lastmodified":1536892006,
+    "wof:name":"Dou-la-Poka",
+    "wof:parent_id":1092012257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.5008,
+    4.0208,
+    9.5008,
+    4.0208
+],
+  "geometry": {"coordinates":[9.5008,4.0208],"type":"Point"}
+}

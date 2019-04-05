@@ -1,0 +1,77 @@
+{
+  "id": 1209992853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.2419,9.9156,13.2419,9.9156",
+    "geom:latitude":9.9156,
+    "geom:longitude":13.2419,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ouro Hamayel",
+    "gn:country_code":"CM",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8672910,
+    "gn:latitude":9.9156,
+    "gn:longitude":13.2419,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Ouro Hamayel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287,
+        85632735,
+        85675451,
+        1108563927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8672910
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"e783e2df9f5c77a6d3d264fb23fb966f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1209992853,
+            "region_id":85669957
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563927,
+            "locality_id":1209992853,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1209992853,
+    "wof:lastmodified":1536385617,
+    "wof:name":"Ouro Hamayel",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.2419,
+    9.9156,
+    13.2419,
+    9.9156
+],
+  "geometry": {"coordinates":[13.2419,9.9156],"type":"Point"}
+}

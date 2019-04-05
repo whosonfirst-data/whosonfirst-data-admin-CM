@@ -1,0 +1,67 @@
+{
+  "id": 1360063541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.8,5.93333,12.8,5.93333",
+    "geom:latitude":5.93333,
+    "geom:longitude":12.8,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Epeda I",
+    "gn:country_code":"CM",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2231918,
+    "gn:latitude":5.93333,
+    "gn:longitude":12.8,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ep\u00e9da I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092012311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2231918
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"4b9c1a4c5e1b848120d0179cae077e99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012311,
+            "locality_id":1360063541,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1360063541,
+    "wof:lastmodified":1536976282,
+    "wof:name":"Epeda I",
+    "wof:parent_id":1092012311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.8,
+    5.93333,
+    12.8,
+    5.93333
+],
+  "geometry": {"coordinates":[12.8,5.93333],"type":"Point"}
+}

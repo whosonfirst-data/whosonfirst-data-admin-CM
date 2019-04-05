@@ -1,0 +1,67 @@
+{
+  "id": 1226122657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.01171,10.39759,14.01171,10.39759",
+    "geom:latitude":10.39759,
+    "geom:longitude":14.01171,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Marbay",
+    "gn:country_code":"CM",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6730220,
+    "gn:latitude":10.39759,
+    "gn:longitude":14.01171,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Marbay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6730220
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"f217765dd314c9f10ec8259674701f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011977,
+            "locality_id":1226122657,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1226122657,
+    "wof:lastmodified":1536611660,
+    "wof:name":"Marbay",
+    "wof:parent_id":1092011977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.01171,
+    10.39759,
+    14.01171,
+    10.39759
+],
+  "geometry": {"coordinates":[14.01171,10.39759],"type":"Point"}
+}

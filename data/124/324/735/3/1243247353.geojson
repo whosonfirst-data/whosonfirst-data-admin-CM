@@ -1,0 +1,67 @@
+{
+  "id": 1243247353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.9,6.95,14.9,6.95",
+    "geom:latitude":6.95,
+    "geom:longitude":14.9,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Batoua",
+    "gn:country_code":"CM",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2234672,
+    "gn:latitude":6.95,
+    "gn:longitude":14.9,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Batoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2234672
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"347a1bae421a6db482ac55cad388b654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011633,
+            "locality_id":1243247353,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1243247353,
+    "wof:lastmodified":1537089318,
+    "wof:name":"Batoua",
+    "wof:parent_id":1092011633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.9,
+    6.95,
+    14.9,
+    6.95
+],
+  "geometry": {"coordinates":[14.9,6.95],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293879057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.32742,5.60087,10.32742,5.60087",
+    "geom:latitude":5.60087,
+    "geom:longitude":10.32742,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tchuesso II",
+    "gn:country_code":"CM",
+    "gn:dem":1266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9085754,
+    "gn:latitude":5.60087,
+    "gn:longitude":10.32742,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Tchuesso II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9085754
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"eaadf0a959d55e26c5266b5cd8e5adab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010559,
+            "locality_id":1293879057,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1293879057,
+    "wof:lastmodified":1536720133,
+    "wof:name":"Tchuesso II",
+    "wof:parent_id":1092010559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.32742,
+    5.60087,
+    10.32742,
+    5.60087
+],
+  "geometry": {"coordinates":[10.32742,5.60087],"type":"Point"}
+}

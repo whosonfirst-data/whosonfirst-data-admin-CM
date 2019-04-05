@@ -1,0 +1,61 @@
+{
+  "id": 1209298249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.31129,6.88461,12.31129,6.88461",
+    "geom:latitude":6.88461,
+    "geom:longitude":12.31129,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Yakoubou",
+    "gn:country_code":"CM",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8696039,
+    "gn:latitude":6.88461,
+    "gn:longitude":12.31129,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Yakoubou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8696039
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"e45c97f34604c1bb4cd7646e836ad942",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209298249
+        }
+    ],
+    "wof:id":1209298249,
+    "wof:lastmodified":1536291448,
+    "wof:name":"Yakoubou",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.31129,
+    6.88461,
+    12.31129,
+    6.88461
+],
+  "geometry": {"coordinates":[12.31129,6.88461],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259961113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.55,4.08333,11.55,4.08333",
+    "geom:latitude":4.08333,
+    "geom:longitude":11.55,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nkometou II",
+    "gn:country_code":"CM",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223826,
+    "gn:latitude":4.08333,
+    "gn:longitude":11.55,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Nkom\u00e9tou II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092012079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223826
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"90fdf76d43b61cdfba857b8f9104cbc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012079,
+            "locality_id":1259961113,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1259961113,
+    "wof:lastmodified":1536667434,
+    "wof:name":"Nkometou II",
+    "wof:parent_id":1092012079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.55,
+    4.08333,
+    11.55,
+    4.08333
+],
+  "geometry": {"coordinates":[11.55,4.08333],"type":"Point"}
+}

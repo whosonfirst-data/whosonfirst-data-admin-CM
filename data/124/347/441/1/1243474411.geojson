@@ -1,0 +1,70 @@
+{
+  "id": 1243474411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.31319,5.38073,10.31319,5.38073",
+    "geom:latitude":5.38073,
+    "geom:longitude":10.31319,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nkang",
+    "gn:country_code":"CM",
+    "gn:dem":1587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8607646,
+    "gn:latitude":5.38073,
+    "gn:longitude":10.31319,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Nkang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkang I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092012197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8607646
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"71d4334b47eb373804e928f295917223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012197,
+            "locality_id":1243474411,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1243474411,
+    "wof:lastmodified":1537591367,
+    "wof:name":"Nkang",
+    "wof:parent_id":1092012197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.31319,
+    5.38073,
+    10.31319,
+    5.38073
+],
+  "geometry": {"coordinates":[10.31319,5.38073],"type":"Point"}
+}

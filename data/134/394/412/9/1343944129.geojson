@@ -1,0 +1,73 @@
+{
+  "id": 1343944129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.1848,9.02871,13.1848,9.02871",
+    "geom:latitude":9.02871,
+    "geom:longitude":13.1848,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tcheboa",
+    "gn:country_code":"CM",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221631,
+    "gn:latitude":9.02871,
+    "gn:longitude":13.1848,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Tch\u00e9boa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cheboa",
+        "Tscheboa",
+        "Tch\u00e8boa",
+        "Tch\u00e9boa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092012287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221631
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"e5f7b27ad7858543bac34d5917630fff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012287,
+            "locality_id":1343944129,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1343944129,
+    "wof:lastmodified":1537591200,
+    "wof:name":"Tcheboa",
+    "wof:parent_id":1092012287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.1848,
+    9.02871,
+    13.1848,
+    9.02871
+],
+  "geometry": {"coordinates":[13.1848,9.02871],"type":"Point"}
+}

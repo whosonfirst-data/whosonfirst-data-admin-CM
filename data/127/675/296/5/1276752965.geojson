@@ -1,0 +1,71 @@
+{
+  "id": 1276752965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.55,7.7,13.55,7.7",
+    "geom:latitude":7.7,
+    "geom:longitude":13.55,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Wak",
+    "gn:country_code":"CM",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2221175,
+    "gn:latitude":7.7,
+    "gn:longitude":13.55,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Wak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouak",
+        "Wak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2221175
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"ba99d885792ca91de9f58ebf60e70f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011581,
+            "locality_id":1276752965,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1276752965,
+    "wof:lastmodified":1537591195,
+    "wof:name":"Wak",
+    "wof:parent_id":1092011581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.55,
+    7.7,
+    13.55,
+    7.7
+],
+  "geometry": {"coordinates":[13.55,7.7],"type":"Point"}
+}

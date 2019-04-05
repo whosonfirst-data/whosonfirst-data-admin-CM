@@ -1,0 +1,61 @@
+{
+  "id": 1209693119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.41547,10.99573,14.41547,10.99573",
+    "geom:latitude":10.99573,
+    "geom:longitude":14.41547,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bedem",
+    "gn:country_code":"CM",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6732015,
+    "gn:latitude":10.99573,
+    "gn:longitude":14.41547,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"B\u00e9dem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6732015
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"88d0ff0a0ac7b58fe92dc24fd42dbe1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209693119
+        }
+    ],
+    "wof:id":1209693119,
+    "wof:lastmodified":1536279169,
+    "wof:name":"Bedem",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.41547,
+    10.99573,
+    14.41547,
+    10.99573
+],
+  "geometry": {"coordinates":[14.41547,10.99573],"type":"Point"}
+}

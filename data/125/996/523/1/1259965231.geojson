@@ -1,0 +1,67 @@
+{
+  "id": 1259965231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.18119,5.73799,10.18119,5.73799",
+    "geom:latitude":5.73799,
+    "geom:longitude":10.18119,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Menya",
+    "gn:country_code":"CM",
+    "gn:dem":1669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074769,
+    "gn:latitude":5.73799,
+    "gn:longitude":10.18119,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Menya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074769
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"c78b9b441d408cef73e697d58cf6c86c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010559,
+            "locality_id":1259965231,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1259965231,
+    "wof:lastmodified":1536661501,
+    "wof:name":"Menya",
+    "wof:parent_id":1092010559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.18119,
+    5.73799,
+    10.18119,
+    5.73799
+],
+  "geometry": {"coordinates":[10.18119,5.73799],"type":"Point"}
+}

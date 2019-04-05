@@ -1,0 +1,71 @@
+{
+  "id": 1259869375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.8593,5.2646,8.8593,5.2646",
+    "geom:latitude":5.2646,
+    "geom:longitude":8.8593,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Nguru",
+    "gn:country_code":"CM",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2224415,
+    "gn:latitude":5.2646,
+    "gn:longitude":8.8593,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Nguru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkuru",
+        "Nguru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669967,
+        1092010791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2224415
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"81e11cb3509f9a25ed9bb0deb8d392a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010791,
+            "locality_id":1259869375,
+            "region_id":85669967
+        }
+    ],
+    "wof:id":1259869375,
+    "wof:lastmodified":1537591227,
+    "wof:name":"Nguru",
+    "wof:parent_id":1092010791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.8593,
+    5.2646,
+    8.8593,
+    5.2646
+],
+  "geometry": {"coordinates":[8.8593,5.2646],"type":"Point"}
+}

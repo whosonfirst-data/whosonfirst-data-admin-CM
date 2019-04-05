@@ -1,0 +1,67 @@
+{
+  "id": 1209102955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.34159,5.72581,10.34159,5.72581",
+    "geom:latitude":5.72581,
+    "geom:longitude":10.34159,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mevobo",
+    "gn:country_code":"CM",
+    "gn:dem":1166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7110453,
+    "gn:latitude":5.72581,
+    "gn:longitude":10.34159,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"M\u00e9vobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mevobo"
+    ],
+    "name:und_x_variant":[
+        "M\u00e9vobo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7110453
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"deaa1c12770ae5e0e1abdfd2566c516a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632245,
+            "locality_id":1209102955
+        }
+    ],
+    "wof:id":1209102955,
+    "wof:lastmodified":1537591365,
+    "wof:name":"Mevobo",
+    "wof:parent_id":85632245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.34159,
+    5.72581,
+    10.34159,
+    5.72581
+],
+  "geometry": {"coordinates":[10.34159,5.72581],"type":"Point"}
+}

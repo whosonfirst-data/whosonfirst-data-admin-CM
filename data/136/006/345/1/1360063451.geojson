@@ -1,0 +1,73 @@
+{
+  "id": 1360063451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.25,3.58333,11.25,3.58333",
+    "geom:latitude":3.58333,
+    "geom:longitude":11.25,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Otele",
+    "gn:country_code":"CM",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2223060,
+    "gn:latitude":3.58333,
+    "gn:longitude":11.25,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ot\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Otell\u00e9",
+        "Ott\u00e9l\u00e9",
+        "Ot\u00e9l\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669945,
+        1092010889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2223060,
+        "wk:page":"Ot%C3%A9l%C3%A9"
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"5baac02f0a9b2e40cdc9af3d59594b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010889,
+            "locality_id":1360063451,
+            "region_id":85669945
+        }
+    ],
+    "wof:id":1360063451,
+    "wof:lastmodified":1537591217,
+    "wof:name":"Otele",
+    "wof:parent_id":1092010889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.25,
+    3.58333,
+    11.25,
+    3.58333
+],
+  "geometry": {"coordinates":[11.25,3.58333],"type":"Point"}
+}

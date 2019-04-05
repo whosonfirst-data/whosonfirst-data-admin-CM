@@ -1,0 +1,70 @@
+{
+  "id": 1225941913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.07919,5.44781,10.07919,5.44781",
+    "geom:latitude":5.44781,
+    "geom:longitude":10.07919,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Keleng",
+    "gn:country_code":"CM",
+    "gn:dem":1435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8563386,
+    "gn:latitude":5.44781,
+    "gn:longitude":10.07919,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Keleng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keleng I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669961,
+        1092010943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8563386
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"4a504b767c7a23e22fe55cb921810092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010943,
+            "locality_id":1225941913,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":1225941913,
+    "wof:lastmodified":1537591365,
+    "wof:name":"Keleng",
+    "wof:parent_id":1092010943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.07919,
+    5.44781,
+    10.07919,
+    5.44781
+],
+  "geometry": {"coordinates":[10.07919,5.44781],"type":"Point"}
+}

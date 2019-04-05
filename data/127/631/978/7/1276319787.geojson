@@ -1,0 +1,67 @@
+{
+  "id": 1276319787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.71103,10.15606,13.71103,10.15606",
+    "geom:latitude":10.15606,
+    "geom:longitude":13.71103,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Doubouvoum",
+    "gn:country_code":"CM",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2232565,
+    "gn:latitude":10.15606,
+    "gn:longitude":13.71103,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Doubouvoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2232565
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"e1ddf7c24764124909c4a8289ba7996a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011479,
+            "locality_id":1276319787,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1276319787,
+    "wof:lastmodified":1536797100,
+    "wof:name":"Doubouvoum",
+    "wof:parent_id":1092011479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.71103,
+    10.15606,
+    13.71103,
+    10.15606
+],
+  "geometry": {"coordinates":[13.71103,10.15606],"type":"Point"}
+}

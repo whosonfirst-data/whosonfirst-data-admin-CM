@@ -1,0 +1,67 @@
+{
+  "id": 1226641345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.96757,6.77538,12.96757,6.77538",
+    "geom:latitude":6.77538,
+    "geom:longitude":12.96757,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Nabiskadje",
+    "gn:country_code":"CM",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8696084,
+    "gn:latitude":6.77538,
+    "gn:longitude":12.96757,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Nabiskadj\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669953,
+        1092011605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8696084
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"cee246cf830330582738480ca0a160c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011605,
+            "locality_id":1226641345,
+            "region_id":85669953
+        }
+    ],
+    "wof:id":1226641345,
+    "wof:lastmodified":1536864448,
+    "wof:name":"Nabiskadje",
+    "wof:parent_id":1092011605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.96757,
+    6.77538,
+    12.96757,
+    6.77538
+],
+  "geometry": {"coordinates":[12.96757,6.77538],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327320757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.28947,10.48178,14.28947,10.48178",
+    "geom:latitude":10.48178,
+    "geom:longitude":14.28947,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Njogbore",
+    "gn:country_code":"CM",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6730350,
+    "gn:latitude":10.48178,
+    "gn:longitude":14.28947,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Njogbor\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6730350
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"3f6cae1f77eb52fac5d3cd0165e5995d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011963,
+            "locality_id":1327320757,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1327320757,
+    "wof:lastmodified":1536841058,
+    "wof:name":"Njogbore",
+    "wof:parent_id":1092011963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.28947,
+    10.48178,
+    14.28947,
+    10.48178
+],
+  "geometry": {"coordinates":[14.28947,10.48178],"type":"Point"}
+}

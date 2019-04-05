@@ -1,0 +1,67 @@
+{
+  "id": 1226328731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.11364,8.56781,13.11364,8.56781",
+    "geom:latitude":8.56781,
+    "geom:longitude":13.11364,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Koumdongo",
+    "gn:country_code":"CM",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2229876,
+    "gn:latitude":8.56781,
+    "gn:longitude":13.11364,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Koumdongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"CM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669957,
+        1092011667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2229876
+    },
+    "wof:country":"CM",
+    "wof:geomhash":"91331856f4e1c066eb65b0faa4d761e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011667,
+            "locality_id":1226328731,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1226328731,
+    "wof:lastmodified":1536813404,
+    "wof:name":"Koumdongo",
+    "wof:parent_id":1092011667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.11364,
+    8.56781,
+    13.11364,
+    8.56781
+],
+  "geometry": {"coordinates":[13.11364,8.56781],"type":"Point"}
+}
