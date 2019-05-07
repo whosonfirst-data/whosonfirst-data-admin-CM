@@ -10,6 +10,12 @@
     "geom:latitude":10.258781,
     "geom:longitude":14.537147,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Mayo Kani Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":10.230809,
     "lbl:longitude":14.537045,
     "meso:admin1":"Extreme Nord",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1092011963,
-    "wof:lastmodified":1536615076,
+    "wof:lastmodified":1553718021,
     "wof:name":"Mayo Kani",
     "wof:parent_id":85669933,
     "wof:placetype":"county",

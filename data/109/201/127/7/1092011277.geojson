@@ -10,6 +10,12 @@
     "geom:latitude":4.686882,
     "geom:longitude":12.504576,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Haute Sanaga Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":4.73384,
     "lbl:longitude":12.579812,
     "meso:admin1":"Centre",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1092011277,
-    "wof:lastmodified":1536615074,
+    "wof:lastmodified":1553718036,
     "wof:name":"Haute Sanaga",
     "wof:parent_id":85669945,
     "wof:placetype":"county",

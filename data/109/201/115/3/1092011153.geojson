@@ -10,6 +10,12 @@
     "geom:latitude":3.934313,
     "geom:longitude":10.283808,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Sanaga Maritime Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":3.848773,
     "lbl:longitude":10.145554,
     "meso:admin1":"Littoral",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1092011153,
-    "wof:lastmodified":1536615073,
+    "wof:lastmodified":1553718030,
     "wof:name":"Sanaga Maritime",
     "wof:parent_id":85669937,
     "wof:placetype":"county",

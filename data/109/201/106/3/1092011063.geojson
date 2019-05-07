@@ -10,6 +10,12 @@
     "geom:latitude":5.110077,
     "geom:longitude":9.586202,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Koupe et Manengouba Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":5.120929,
     "lbl:longitude":9.591907,
     "meso:admin1":"Sud Ouest",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1092011063,
-    "wof:lastmodified":1536615073,
+    "wof:lastmodified":1553718026,
     "wof:name":"Koupe et Manengouba",
     "wof:parent_id":85669967,
     "wof:placetype":"county",

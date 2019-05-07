@@ -10,6 +10,12 @@
     "geom:latitude":5.340637,
     "geom:longitude":10.471364,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Koung Khi Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":5.322496,
     "lbl:longitude":10.492055,
     "meso:admin1":"Ouest",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1092012225,
-    "wof:lastmodified":1536615077,
+    "wof:lastmodified":1553718029,
     "wof:name":"Koung Khi",
     "wof:parent_id":85669961,
     "wof:placetype":"county",

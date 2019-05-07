@@ -10,6 +10,12 @@
     "geom:latitude":6.624192,
     "geom:longitude":10.800043,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Donga Mantung Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":6.640028,
     "lbl:longitude":10.727587,
     "meso:admin1":"Nord Ouest",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1092010727,
-    "wof:lastmodified":1536615072,
+    "wof:lastmodified":1553718023,
     "wof:name":"Donga Mantung",
     "wof:parent_id":85669941,
     "wof:placetype":"county",

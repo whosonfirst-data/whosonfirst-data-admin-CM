@@ -10,6 +10,12 @@
     "geom:latitude":4.167563,
     "geom:longitude":9.272435,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Fako Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":4.142124,
     "lbl:longitude":9.293461,
     "meso:admin1":"Sud Ouest",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1092010823,
-    "wof:lastmodified":1536615072,
+    "wof:lastmodified":1553718024,
     "wof:name":"Fako",
     "wof:parent_id":85669967,
     "wof:placetype":"county",

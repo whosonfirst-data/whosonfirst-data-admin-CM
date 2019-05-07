@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.500652,
-    "geom:area_square_m":6171362089.920458,
+    "geom:area_square_m":6171362089.920597,
     "geom:bbox":"9.75650895149,4.06692798376,10.6527400224,5.10717660439",
     "geom:latitude":4.518505,
     "geom:longitude":10.149878,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Nkam Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":4.423147,
     "lbl:longitude":10.106104,
     "meso:admin1":"Littoral",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092011119,
-    "wof:lastmodified":1553816442,
+    "wof:lastmodified":1555037676,
     "wof:name":"Nkam",
     "wof:parent_id":85669937,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":5.143561,
     "geom:longitude":10.171277,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Haut Nkam Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":5.156085,
     "lbl:longitude":10.152311,
     "meso:admin1":"Ouest",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1092010971,
-    "wof:lastmodified":1536615073,
+    "wof:lastmodified":1553718026,
     "wof:name":"Haut Nkam",
     "wof:parent_id":85669961,
     "wof:placetype":"county",

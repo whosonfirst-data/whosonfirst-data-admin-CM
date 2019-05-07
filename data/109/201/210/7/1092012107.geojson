@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.587471,
-    "geom:area_square_m":7257667888.856154,
+    "geom:area_square_m":7257667888.856167,
     "geom:bbox":"10.1884650695,2.17104264059,11.6804360432,2.79164553539",
     "geom:latitude":2.423729,
     "geom:longitude":10.92015,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Vallee du Ntem Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":2.460758,
     "lbl:longitude":10.905907,
     "meso:admin1":"Sud",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1092012107,
-    "wof:lastmodified":1553816442,
+    "wof:lastmodified":1555037673,
     "wof:name":"Vallee du Ntem",
     "wof:parent_id":85669971,
     "wof:placetype":"county",

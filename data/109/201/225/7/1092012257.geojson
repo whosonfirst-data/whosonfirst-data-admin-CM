@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070374,
-    "geom:area_square_m":868025974.276873,
+    "geom:area_square_m":868025974.276882,
     "geom:bbox":"9.33580148644,3.88257243458,9.86422761608,4.22532326026",
     "geom:latitude":4.03739,
     "geom:longitude":9.666242,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Wouri Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":4.042499,
     "lbl:longitude":9.72827,
     "meso:admin1":"Littoral",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1092012257,
-    "wof:lastmodified":1553816442,
+    "wof:lastmodified":1555037673,
     "wof:name":"Wouri",
     "wof:parent_id":85669937,
     "wof:placetype":"county",

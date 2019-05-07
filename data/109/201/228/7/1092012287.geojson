@@ -10,6 +10,12 @@
     "geom:latitude":9.222253,
     "geom:longitude":13.473848,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Benoue Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":9.237528,
     "lbl:longitude":13.463055,
     "meso:admin1":"Nord",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1092012287,
-    "wof:lastmodified":1536615077,
+    "wof:lastmodified":1553718028,
     "wof:name":"Benoue",
     "wof:parent_id":85669957,
     "wof:placetype":"county",

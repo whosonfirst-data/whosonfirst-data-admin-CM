@@ -10,6 +10,12 @@
     "geom:latitude":5.072841,
     "geom:longitude":10.588167,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Nde Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":5.058731,
     "lbl:longitude":10.583056,
     "meso:admin1":"Ouest",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1092010493,
-    "wof:lastmodified":1536615071,
+    "wof:lastmodified":1553718023,
     "wof:name":"Nde",
     "wof:parent_id":85669961,
     "wof:placetype":"county",

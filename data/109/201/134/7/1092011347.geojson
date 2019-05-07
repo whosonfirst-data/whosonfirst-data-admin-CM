@@ -10,6 +10,12 @@
     "geom:latitude":3.339936,
     "geom:longitude":13.578485,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Haut Nyong Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":3.382915,
     "lbl:longitude":13.38706,
     "meso:admin1":"Est",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1092011347,
-    "wof:lastmodified":1536615074,
+    "wof:lastmodified":1553718032,
     "wof:name":"Haut Nyong",
     "wof:parent_id":85669949,
     "wof:placetype":"county",

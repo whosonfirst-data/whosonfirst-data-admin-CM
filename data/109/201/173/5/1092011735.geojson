@@ -10,6 +10,12 @@
     "geom:latitude":12.033755,
     "geom:longitude":14.669049,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Logone et Chari Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":11.779243,
     "lbl:longitude":14.837197,
     "meso:admin1":"Extreme Nord",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1092011735,
-    "wof:lastmodified":1536615076,
+    "wof:lastmodified":1553718023,
     "wof:name":"Logone et Chari",
     "wof:parent_id":85669933,
     "wof:placetype":"county",

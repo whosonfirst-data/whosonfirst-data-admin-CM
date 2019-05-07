@@ -10,6 +10,12 @@
     "geom:latitude":2.771568,
     "geom:longitude":12.611847,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Dja et Lobo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":2.599857,
     "lbl:longitude":12.608211,
     "meso:admin1":"Sud",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1092011365,
-    "wof:lastmodified":1536615074,
+    "wof:lastmodified":1553718032,
     "wof:name":"Dja et Lobo",
     "wof:parent_id":85669971,
     "wof:placetype":"county",

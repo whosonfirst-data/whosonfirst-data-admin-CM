@@ -10,6 +10,12 @@
     "geom:latitude":3.875654,
     "geom:longitude":11.509417,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Mfoundi Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":3.874968,
     "lbl:longitude":11.510629,
     "meso:admin1":"Centre",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1092012045,
-    "wof:lastmodified":1536615076,
+    "wof:lastmodified":1553718027,
     "wof:name":"Mfoundi",
     "wof:parent_id":85669945,
     "wof:placetype":"county",

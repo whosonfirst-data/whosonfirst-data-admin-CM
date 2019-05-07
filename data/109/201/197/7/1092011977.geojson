@@ -10,6 +10,12 @@
     "geom:latitude":10.714415,
     "geom:longitude":14.417199,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Diamare Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":10.768326,
     "lbl:longitude":14.4594,
     "meso:admin1":"Extreme Nord",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1092011977,
-    "wof:lastmodified":1536615076,
+    "wof:lastmodified":1553718023,
     "wof:name":"Diamare",
     "wof:parent_id":85669933,
     "wof:placetype":"county",

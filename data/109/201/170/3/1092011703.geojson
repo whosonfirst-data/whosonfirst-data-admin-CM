@@ -10,6 +10,12 @@
     "geom:latitude":8.118121,
     "geom:longitude":14.470442,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Mayo Rey Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":8.171136,
     "lbl:longitude":14.490423,
     "meso:admin1":"Nord",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1092011703,
-    "wof:lastmodified":1536615076,
+    "wof:lastmodified":1553718026,
     "wof:name":"Mayo Rey",
     "wof:parent_id":85669957,
     "wof:placetype":"county",

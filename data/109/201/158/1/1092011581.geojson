@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.408976,
-    "geom:area_square_m":17285138581.29932,
+    "geom:area_square_m":17285138581.300339,
     "geom:bbox":"12.8222051404,6.51448616098,14.6773075924,7.97378469024",
     "geom:latitude":7.186495,
     "geom:longitude":13.660422,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Vina Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":7.20988,
     "lbl:longitude":13.597198,
     "meso:admin1":"Adamaoua",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1092011581,
-    "wof:lastmodified":1553816442,
+    "wof:lastmodified":1555037675,
     "wof:name":"Vina",
     "wof:parent_id":85669953,
     "wof:placetype":"county",

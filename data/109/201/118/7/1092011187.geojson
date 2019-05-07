@@ -10,6 +10,12 @@
     "geom:latitude":3.707506,
     "geom:longitude":10.813747,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Nyong et kelle Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":3.70571,
     "lbl:longitude":10.906481,
     "meso:admin1":"Centre",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1092011187,
-    "wof:lastmodified":1536615073,
+    "wof:lastmodified":1553718033,
     "wof:name":"Nyong et kelle",
     "wof:parent_id":85669945,
     "wof:placetype":"county",

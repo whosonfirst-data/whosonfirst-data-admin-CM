@@ -10,6 +10,12 @@
     "geom:latitude":7.458665,
     "geom:longitude":12.477744,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Faro et Deo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":7.417667,
     "lbl:longitude":12.48865,
     "meso:admin1":"Adamaoua",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1092011545,
-    "wof:lastmodified":1536615075,
+    "wof:lastmodified":1553718021,
     "wof:name":"Faro et Deo",
     "wof:parent_id":85669953,
     "wof:placetype":"county",

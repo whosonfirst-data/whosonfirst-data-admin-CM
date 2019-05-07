@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.623372,
-    "geom:area_square_m":7670679481.302962,
+    "geom:area_square_m":7670679481.303064,
     "geom:bbox":"10.4587935695,4.92429914863,11.3168642028,6.26397443076",
     "geom:latitude":5.64158,
     "geom:longitude":10.918515,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Noun Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":5.626191,
     "lbl:longitude":10.876262,
     "meso:admin1":"Ouest",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092010521,
-    "wof:lastmodified":1553816442,
+    "wof:lastmodified":1555037677,
     "wof:name":"Noun",
     "wof:parent_id":85669961,
     "wof:placetype":"county",

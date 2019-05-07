@@ -10,6 +10,12 @@
     "geom:latitude":10.39759,
     "geom:longitude":15.098642,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Mayo Danay Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":10.22789,
     "lbl:longitude":15.129282,
     "meso:admin1":"Extreme Nord",
@@ -122,7 +128,7 @@
         }
     ],
     "wof:id":1108390249,
-    "wof:lastmodified":1536615162,
+    "wof:lastmodified":1553718113,
     "wof:name":"Mayo Danay",
     "wof:parent_id":85669933,
     "wof:placetype":"county",

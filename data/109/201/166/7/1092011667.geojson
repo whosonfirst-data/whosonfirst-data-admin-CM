@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.968081,
-    "geom:area_square_m":11846518170.476822,
+    "geom:area_square_m":11846518170.476505,
     "geom:bbox":"12.2387517609,7.59379767213,13.485287961,9.25167553776",
     "geom:latitude":8.24789,
     "geom:longitude":12.875582,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Faro Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":8.310415,
     "lbl:longitude":12.71065,
     "meso:admin1":"Nord",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1092011667,
-    "wof:lastmodified":1553816442,
+    "wof:lastmodified":1555037674,
     "wof:name":"Faro",
     "wof:parent_id":85669957,
     "wof:placetype":"county",

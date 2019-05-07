@@ -10,6 +10,12 @@
     "geom:latitude":2.902049,
     "geom:longitude":10.311158,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Ocean Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":2.867957,
     "lbl:longitude":10.264784,
     "meso:admin1":"Sud",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092012139,
-    "wof:lastmodified":1536615076,
+    "wof:lastmodified":1553718027,
     "wof:name":"Ocean",
     "wof:parent_id":85669971,
     "wof:placetype":"county",

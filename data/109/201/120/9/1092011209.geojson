@@ -10,6 +10,12 @@
     "geom:latitude":3.411383,
     "geom:longitude":11.553924,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Nyong et Soo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":3.358762,
     "lbl:longitude":11.600762,
     "meso:admin1":"Centre",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1092011209,
-    "wof:lastmodified":1536615073,
+    "wof:lastmodified":1553718031,
     "wof:name":"Nyong et Soo",
     "wof:parent_id":85669945,
     "wof:placetype":"county",

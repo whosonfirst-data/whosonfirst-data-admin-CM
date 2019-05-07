@@ -10,6 +10,12 @@
     "geom:latitude":5.293987,
     "geom:longitude":10.343171,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Hauts Plateaux Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":5.292712,
     "lbl:longitude":10.333196,
     "meso:admin1":"Ouest",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1092012197,
-    "wof:lastmodified":1536615077,
+    "wof:lastmodified":1553718031,
     "wof:name":"Hauts Plateaux",
     "wof:parent_id":85669961,
     "wof:placetype":"county",

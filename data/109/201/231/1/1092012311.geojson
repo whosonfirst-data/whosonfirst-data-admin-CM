@@ -10,6 +10,12 @@
     "geom:latitude":5.426964,
     "geom:longitude":11.980835,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Mbam et Kim Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":5.46332,
     "lbl:longitude":11.882316,
     "meso:admin1":"Centre",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1092012311,
-    "wof:lastmodified":1536615077,
+    "wof:lastmodified":1553718029,
     "wof:name":"Mbam et Kim",
     "wof:parent_id":85669945,
     "wof:placetype":"county",

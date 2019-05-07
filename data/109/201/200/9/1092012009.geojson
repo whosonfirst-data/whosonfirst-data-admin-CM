@@ -10,6 +10,12 @@
     "geom:latitude":6.202552,
     "geom:longitude":10.722395,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Bui Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":6.20778,
     "lbl:longitude":10.701073,
     "meso:admin1":"Nord Ouest",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1092012009,
-    "wof:lastmodified":1536615076,
+    "wof:lastmodified":1553718023,
     "wof:name":"Bui",
     "wof:parent_id":85669941,
     "wof:placetype":"county",

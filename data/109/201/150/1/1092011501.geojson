@@ -10,6 +10,12 @@
     "geom:latitude":6.582586,
     "geom:longitude":11.736318,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Mayo Banyo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":6.499675,
     "lbl:longitude":11.786918,
     "meso:admin1":"Adamaoua",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1092011501,
-    "wof:lastmodified":1536615075,
+    "wof:lastmodified":1553718029,
     "wof:name":"Mayo Banyo",
     "wof:parent_id":85669953,
     "wof:placetype":"county",

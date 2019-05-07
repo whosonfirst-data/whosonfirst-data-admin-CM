@@ -10,6 +10,12 @@
     "geom:latitude":4.167717,
     "geom:longitude":11.385911,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Lekie Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":4.164128,
     "lbl:longitude":11.380934,
     "meso:admin1":"Centre",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1092012079,
-    "wof:lastmodified":1536615076,
+    "wof:lastmodified":1553718025,
     "wof:name":"Lekie",
     "wof:parent_id":85669945,
     "wof:placetype":"county",

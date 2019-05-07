@@ -10,6 +10,12 @@
     "geom:latitude":4.629044,
     "geom:longitude":9.31238,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Meme Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":4.60013,
     "lbl:longitude":9.367591,
     "meso:admin1":"Sud Ouest",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1092010859,
-    "wof:lastmodified":1536615072,
+    "wof:lastmodified":1553718029,
     "wof:name":"Meme",
     "wof:parent_id":85669967,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":5.408111,
     "geom:longitude":10.075741,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Menoua Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":5.412912,
     "lbl:longitude":10.079604,
     "meso:admin1":"Ouest",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1092010943,
-    "wof:lastmodified":1536615073,
+    "wof:lastmodified":1553718026,
     "wof:name":"Menoua",
     "wof:parent_id":85669961,
     "wof:placetype":"county",

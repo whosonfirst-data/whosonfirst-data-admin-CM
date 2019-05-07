@@ -10,6 +10,12 @@
     "geom:latitude":5.982685,
     "geom:longitude":9.846329,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Momo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":5.987214,
     "lbl:longitude":9.850072,
     "meso:admin1":"Nord Ouest",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092010649,
-    "wof:lastmodified":1536615072,
+    "wof:lastmodified":1553718023,
     "wof:name":"Momo",
     "wof:parent_id":85669941,
     "wof:placetype":"county",

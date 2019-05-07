@@ -10,6 +10,12 @@
     "geom:latitude":2.796258,
     "geom:longitude":11.394946,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Mvila Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":2.853125,
     "lbl:longitude":11.407513,
     "meso:admin1":"Sud",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1092012173,
-    "wof:lastmodified":1536615077,
+    "wof:lastmodified":1553718028,
     "wof:name":"Mvila",
     "wof:parent_id":85669971,
     "wof:placetype":"county",

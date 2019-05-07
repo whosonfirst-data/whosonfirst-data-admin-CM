@@ -10,6 +10,12 @@
     "geom:latitude":4.866199,
     "geom:longitude":8.938717,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Ndian Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":4.859519,
     "lbl:longitude":8.944941,
     "meso:admin1":"Sud Ouest",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092010791,
-    "wof:lastmodified":1536615072,
+    "wof:lastmodified":1553718024,
     "wof:name":"Ndian",
     "wof:parent_id":85669967,
     "wof:placetype":"county",

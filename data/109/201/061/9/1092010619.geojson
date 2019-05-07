@@ -10,6 +10,12 @@
     "geom:latitude":6.606596,
     "geom:longitude":10.068433,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Menchum Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":6.621685,
     "lbl:longitude":10.075607,
     "meso:admin1":"Nord Ouest",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092010619,
-    "wof:lastmodified":1536615072,
+    "wof:lastmodified":1553718031,
     "wof:name":"Menchum",
     "wof:parent_id":85669941,
     "wof:placetype":"county",

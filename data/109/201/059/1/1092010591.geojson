@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032863,
-    "geom:area_square_m":404477044.591446,
+    "geom:area_square_m":404477044.591454,
     "geom:bbox":"10.3240828124,5.4268029508,10.582458085,5.60572803779",
     "geom:latitude":5.515416,
     "geom:longitude":10.448055,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Mifi Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":5.508688,
     "lbl:longitude":10.44561,
     "meso:admin1":"Ouest",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1092010591,
-    "wof:lastmodified":1553816442,
+    "wof:lastmodified":1555037677,
     "wof:name":"Mifi",
     "wof:parent_id":85669961,
     "wof:placetype":"county",

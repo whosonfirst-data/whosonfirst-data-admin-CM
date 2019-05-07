@@ -10,6 +10,12 @@
     "geom:latitude":3.976546,
     "geom:longitude":11.795321,
     "iso:country":"CM",
+    "label:eng_x_preferred_longname":[
+        "Mefou et Afamba Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":4.030983,
     "lbl:longitude":11.800359,
     "meso:admin1":"Centre",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1092010921,
-    "wof:lastmodified":1536615072,
+    "wof:lastmodified":1553718025,
     "wof:name":"Mefou et Afamba",
     "wof:parent_id":85669945,
     "wof:placetype":"county",
