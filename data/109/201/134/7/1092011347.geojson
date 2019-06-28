@@ -32,7 +32,7 @@
     "mps:longitude":13.38706,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Haut-Nyong"
     ],
     "name:eng_x_preferred":[
@@ -42,14 +42,14 @@
         "Haut - Nyong",
         "Haut Nyong"
     ],
-    "name:fre_x_preferred":[
-        "Haut-Nyong"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Haut-Nyong"
     ],
     "name:ita_x_preferred":[
         "Dipartimento di Haut-Nyong"
+    ],
+    "name:nld_x_preferred":[
+        "Haut-Nyong"
     ],
     "name:nob_x_preferred":[
         "Haut-Nyong"
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":1092011347,
-    "wof:lastmodified":1553718032,
+    "wof:lastmodified":1561751460,
     "wof:name":"Haut Nyong",
     "wof:parent_id":85669949,
     "wof:placetype":"county",

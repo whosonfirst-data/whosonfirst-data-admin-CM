@@ -19,10 +19,7 @@
     "name:ceb_x_preferred":[
         "Akonolinga"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u79d1\u8afe\u6797\u52a0"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Akonolinga"
     ],
     "name:eng_x_preferred":[
@@ -34,16 +31,7 @@
     "name:fra_x_preferred":[
         "Akonolinga"
     ],
-    "name:fre_x_preferred":[
-        "Akonolinga"
-    ],
-    "name:ger_x_preferred":[
-        "Akonolinga"
-    ],
     "name:ita_x_preferred":[
-        "Akonolinga"
-    ],
-    "name:may_x_preferred":[
         "Akonolinga"
     ],
     "name:msa_x_preferred":[
@@ -52,8 +40,8 @@
     "name:nan_x_preferred":[
         "Akonolinga"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06a9\u0648\u0646\u0648\u0644\u06cc\u0646\u06af\u0627"
+    "name:nld_x_preferred":[
+        "Akonolinga"
     ],
     "name:pol_x_preferred":[
         "Akonolinga"
@@ -62,9 +50,6 @@
         "Akonolinga"
     ],
     "name:ron_x_preferred":[
-        "Akonolinga"
-    ],
-    "name:rum_x_preferred":[
         "Akonolinga"
     ],
     "name:swe_x_preferred":[
@@ -126,7 +111,7 @@
         }
     ],
     "wof:id":421178331,
-    "wof:lastmodified":1527717717,
+    "wof:lastmodified":1561751473,
     "wof:name":"Akonolinga",
     "wof:parent_id":1092011243,
     "wof:placetype":"locality",

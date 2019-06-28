@@ -20,13 +20,7 @@
     "name:ceb_x_preferred":[
         "Wum"
     ],
-    "name:chi_x_preferred":[
-        "\u6b66\u59c6"
-    ],
     "name:deu_x_preferred":[
-        "Wum"
-    ],
-    "name:dut_x_preferred":[
         "Wum"
     ],
     "name:eng_x_preferred":[
@@ -35,25 +29,19 @@
     "name:fra_x_preferred":[
         "Wum"
     ],
-    "name:fre_x_preferred":[
-        "Wum"
-    ],
-    "name:ger_x_preferred":[
-        "Wum"
-    ],
     "name:heb_x_preferred":[
         "\u05d5\u05d5\u05dd"
     ],
     "name:ita_x_preferred":[
         "Wum"
     ],
-    "name:may_x_preferred":[
-        "Wum"
-    ],
     "name:msa_x_preferred":[
         "Wum"
     ],
     "name:nan_x_preferred":[
+        "Wum"
+    ],
+    "name:nld_x_preferred":[
         "Wum"
     ],
     "name:pol_x_preferred":[
@@ -63,9 +51,6 @@
         "Wum"
     ],
     "name:ron_x_preferred":[
-        "Wum"
-    ],
-    "name:rum_x_preferred":[
         "Wum"
     ],
     "name:swe_x_preferred":[
@@ -219,7 +204,7 @@
         }
     ],
     "wof:id":421167543,
-    "wof:lastmodified":1553816355,
+    "wof:lastmodified":1561751471,
     "wof:name":"Wum",
     "wof:parent_id":1092010619,
     "wof:placetype":"locality",

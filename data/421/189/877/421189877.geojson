@@ -17,20 +17,11 @@
     "name:afr_x_preferred":[
         "Douala"
     ],
-    "name:alb_x_preferred":[
-        "Duala"
-    ],
     "name:ara_x_preferred":[
         "\u062f\u0648\u0627\u0644\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0534\u0578\u0582\u0561\u056c\u0561"
-    ],
     "name:aze_x_preferred":[
         "Duala"
-    ],
-    "name:baq_x_preferred":[
-        "Douala"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0443\u0430\u043b\u0430"
@@ -50,16 +41,13 @@
     "name:cat_x_preferred":[
         "Douala"
     ],
+    "name:ces_x_preferred":[
+        "Douala"
+    ],
     "name:che_x_preferred":[
         "\u0414\u0443\u0430\u043b\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u675c\u963f\u62c9"
-    ],
     "name:cym_x_preferred":[
-        "Douala"
-    ],
-    "name:cze_x_preferred":[
         "Douala"
     ],
     "name:dan_x_preferred":[
@@ -68,8 +56,8 @@
     "name:deu_x_preferred":[
         "Douala"
     ],
-    "name:dut_x_preferred":[
-        "Douala"
+    "name:deu_x_variant":[
+        "Duala"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03bf\u03c5\u03ac\u03bb\u03b1"
@@ -81,6 +69,9 @@
         "Dualao"
     ],
     "name:est_x_preferred":[
+        "Douala"
+    ],
+    "name:eus_x_preferred":[
         "Douala"
     ],
     "name:ewe_x_preferred":[
@@ -95,23 +86,11 @@
     "name:fra_x_preferred":[
         "Douala"
     ],
-    "name:fre_x_preferred":[
-        "Douala"
-    ],
     "name:frp_x_preferred":[
         "Douala"
     ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10e3\u10d0\u10da\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Duala"
-    ],
     "name:gle_x_preferred":[
         "Douala"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03bf\u03c5\u03ac\u03bb\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0acb\u0a86\u0ab2\u0abe"
@@ -134,8 +113,8 @@
     "name:hun_x_preferred":[
         "Douala"
     ],
-    "name:ice_x_preferred":[
-        "D\u00f3\u00faala"
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0582\u0561\u056c\u0561"
     ],
     "name:ind_x_preferred":[
         "Douala"
@@ -151,6 +130,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0ca6\u0ccc\u0cb2\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10e3\u10d0\u10da\u10d0"
     ],
     "name:kbp_x_preferred":[
         "Duwala"
@@ -176,23 +158,20 @@
     "name:lmo_x_preferred":[
         "Douala"
     ],
-    "name:mac_x_preferred":[
-        "\u0414\u0443\u0430\u043b\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d26\u0d57\u0d35\u0d4d\u0d35\u0d3e\u0d32"
     ],
     "name:mar_x_preferred":[
         "\u0926\u094c\u0906\u0932\u093e"
     ],
-    "name:may_x_preferred":[
-        "Douala"
-    ],
     "name:mkd_x_preferred":[
         "\u0414\u0443\u0430\u043b\u0430"
     ],
     "name:mon_x_preferred":[
         "\u0414\u0443\u0430\u043b\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Douala"
     ],
     "name:nan_x_preferred":[
         "Douala"
@@ -206,9 +185,6 @@
     "name:pan_x_preferred":[
         "\u0a26\u0a4c\u0a06\u0a32\u0a3e"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u0627\u0644\u0627"
-    ],
     "name:pms_x_preferred":[
         "Douala"
     ],
@@ -218,7 +194,7 @@
     "name:por_x_preferred":[
         "Douala"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Douala"
     ],
     "name:rus_x_preferred":[
@@ -230,13 +206,16 @@
     "name:sin_x_preferred":[
         "\u0da9\u0dd4\u0dc0\u0dcf\u0dbd\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Douala"
     ],
     "name:slv_x_preferred":[
         "Douala"
     ],
     "name:spa_x_preferred":[
+        "Duala"
+    ],
+    "name:sqi_x_preferred":[
         "Duala"
     ],
     "name:srp_x_preferred":[
@@ -288,9 +267,6 @@
         "Douala"
     ],
     "name:war_x_preferred":[
-        "Douala"
-    ],
-    "name:wel_x_preferred":[
         "Douala"
     ],
     "name:yor_x_preferred":[
@@ -442,7 +418,7 @@
         }
     ],
     "wof:id":421189877,
-    "wof:lastmodified":1527716269,
+    "wof:lastmodified":1561751472,
     "wof:name":"Douala",
     "wof:parent_id":1092012257,
     "wof:placetype":"locality",

@@ -25,19 +25,13 @@
     "name:fra_x_preferred":[
         "Poli"
     ],
-    "name:fre_x_preferred":[
-        "Poli"
-    ],
-    "name:ger_x_preferred":[
-        "Poli"
-    ],
     "name:hbs_x_preferred":[
         "Poli"
     ],
     "name:ita_x_preferred":[
         "Poli"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Poli"
     ],
     "name:nan_x_preferred":[
@@ -111,7 +105,7 @@
         }
     ],
     "wof:id":421197445,
-    "wof:lastmodified":1553816385,
+    "wof:lastmodified":1561751473,
     "wof:name":"Poli",
     "wof:parent_id":1092011667,
     "wof:placetype":"locality",

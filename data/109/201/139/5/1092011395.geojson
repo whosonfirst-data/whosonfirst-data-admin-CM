@@ -32,8 +32,8 @@
     "mps:longitude":13.733386,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Lom-et-Djerem"
+    "name:deu_x_preferred":[
+        "Lom-et-Dj\u00e9rem"
     ],
     "name:eng_x_preferred":[
         "Lom-et-Djerem"
@@ -42,14 +42,14 @@
         "Lom - Et - Djerem",
         "Lom et Djerem"
     ],
-    "name:fre_x_preferred":[
-        "Lom-et-Dj\u00e9rem"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Lom-et-Dj\u00e9rem"
     ],
     "name:ita_x_preferred":[
         "Dipartimento di Lom e Dj\u00e9rem"
+    ],
+    "name:nld_x_preferred":[
+        "Lom-et-Djerem"
     ],
     "name:nob_x_preferred":[
         "Lom-et-Dj\u00e9rem"
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1092011395,
-    "wof:lastmodified":1553718034,
+    "wof:lastmodified":1561751464,
     "wof:name":"Lom et Djerem",
     "wof:parent_id":85669949,
     "wof:placetype":"county",

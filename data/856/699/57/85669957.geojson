@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.449272,
-    "geom:area_square_m":66638341754.431908,
+    "geom:area_square_m":66638341754.435051,
     "geom:bbox":"12.2387517609,7.01518987569,15.5936466378,10.2606088388",
     "geom:latitude":8.485929,
     "geom:longitude":13.93901,
@@ -39,14 +39,14 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 del Nord"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u90e8\u5340"
-    ],
     "name:dan_x_preferred":[
         "North"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nord"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03c4\u03bf\u03c5 \u0392\u03bf\u03c1\u03c1\u03ac"
     ],
     "name:eng_x_preferred":[
         "North Province"
@@ -71,15 +71,6 @@
     "name:fra_x_variant":[
         "Province du Nord",
         "R\u00e9gion du Nord"
-    ],
-    "name:fre_x_preferred":[
-        "R\u00e9gion du Nord"
-    ],
-    "name:ger_x_preferred":[
-        "Nord"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03c4\u03bf\u03c5 \u0392\u03bf\u03c1\u03c1\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acb\u0ab0\u0acd\u0aa5"
@@ -111,8 +102,11 @@
     "name:mar_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "North"
+    ],
+    "name:nld_x_preferred":[
+        "Nord"
     ],
     "name:nob_x_preferred":[
         "Nord"
@@ -123,7 +117,7 @@
     "name:por_x_preferred":[
         "Regi\u00e3o Norte"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia de Nord"
     ],
     "name:rus_x_preferred":[
@@ -164,6 +158,9 @@
     ],
     "name:yor_x_preferred":[
         "\u00c0r\u00edw\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u90e8\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CMR",
@@ -288,7 +285,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1553814713,
+    "wof:lastmodified":1561751428,
     "wof:name":"Nord",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

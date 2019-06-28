@@ -19,28 +19,19 @@
     "name:deu_x_preferred":[
         "Manjo"
     ],
-    "name:dut_x_preferred":[
-        "Manjo"
-    ],
     "name:eng_x_preferred":[
         "Manjo"
     ],
     "name:fra_x_preferred":[
         "Manjo"
     ],
-    "name:fre_x_preferred":[
-        "Manjo"
-    ],
-    "name:ger_x_preferred":[
-        "Manjo"
-    ],
     "name:ita_x_preferred":[
         "Manjo"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Manjo"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Manjo"
     ],
     "name:pol_x_preferred":[
@@ -100,7 +91,7 @@
         }
     ],
     "wof:id":421198499,
-    "wof:lastmodified":1527716351,
+    "wof:lastmodified":1561751472,
     "wof:name":"Manjo",
     "wof:parent_id":1092011087,
     "wof:placetype":"locality",

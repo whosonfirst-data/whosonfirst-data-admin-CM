@@ -19,28 +19,16 @@
     "name:ceb_x_preferred":[
         "Tiko"
     ],
-    "name:chi_x_preferred":[
-        "\u8482\u79d1"
-    ],
     "name:dan_x_preferred":[
         "Tiko"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tiko"
     ],
     "name:eng_x_preferred":[
         "Tiko"
     ],
     "name:fra_x_preferred":[
-        "Tiko"
-    ],
-    "name:fre_x_preferred":[
-        "Tiko"
-    ],
-    "name:geo_x_preferred":[
-        "tiko sadunishvili"
-    ],
-    "name:ger_x_preferred":[
         "Tiko"
     ],
     "name:ind_x_preferred":[
@@ -52,8 +40,8 @@
     "name:jpn_x_preferred":[
         "\u30c1\u30b3"
     ],
-    "name:may_x_preferred":[
-        "Tiko"
+    "name:kat_x_preferred":[
+        "tiko sadunishvili"
     ],
     "name:msa_x_preferred":[
         "Tiko"
@@ -71,9 +59,6 @@
         "Tiko"
     ],
     "name:ron_x_preferred":[
-        "Tiko"
-    ],
-    "name:rum_x_preferred":[
         "Tiko"
     ],
     "name:slv_x_preferred":[
@@ -138,7 +123,7 @@
         }
     ],
     "wof:id":421168105,
-    "wof:lastmodified":1553816355,
+    "wof:lastmodified":1561751469,
     "wof:name":"Tiko",
     "wof:parent_id":1092010823,
     "wof:placetype":"locality",

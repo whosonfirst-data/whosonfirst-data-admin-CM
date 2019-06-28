@@ -16,14 +16,8 @@
     "name:ceb_x_preferred":[
         "Nanga Eboko"
     ],
-    "name:chi_x_preferred":[
-        "\u7d0d\u96c5\u827e\u535a\u79d1"
-    ],
     "name:deu_x_preferred":[
         "Nanga-Eboko"
-    ],
-    "name:dut_x_preferred":[
-        "Nanga Eboko"
     ],
     "name:eng_x_preferred":[
         "Nanga Eboko"
@@ -31,20 +25,14 @@
     "name:fra_x_preferred":[
         "Nanga-Eboko"
     ],
-    "name:fre_x_preferred":[
-        "Nanga-Eboko"
-    ],
-    "name:ger_x_preferred":[
-        "Nanga-Eboko"
-    ],
     "name:ita_x_preferred":[
-        "Nanga-Eboko"
-    ],
-    "name:may_x_preferred":[
         "Nanga-Eboko"
     ],
     "name:msa_x_preferred":[
         "Nanga-Eboko"
+    ],
+    "name:nld_x_preferred":[
+        "Nanga Eboko"
     ],
     "name:pol_x_preferred":[
         "Nanga Eboko"
@@ -54,6 +42,9 @@
     ],
     "name:swe_x_preferred":[
         "Nanga Eboko"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u96c5\u827e\u535a\u79d1"
     ],
     "qs:gn_country":"CM",
     "qs:gn_fcode":"PPL",
@@ -103,7 +94,7 @@
         }
     ],
     "wof:id":421178801,
-    "wof:lastmodified":1527717727,
+    "wof:lastmodified":1561751473,
     "wof:name":"Nanga Eboko",
     "wof:parent_id":1092011277,
     "wof:placetype":"locality",

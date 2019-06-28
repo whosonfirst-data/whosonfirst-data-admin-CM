@@ -22,10 +22,7 @@
     "name:ceb_x_preferred":[
         "Kouss\u00e9ri"
     ],
-    "name:chi_x_preferred":[
-        "\u5eab\u585e\u91cc"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kouss\u00e9ri"
     ],
     "name:dan_x_preferred":[
@@ -34,8 +31,8 @@
     "name:deu_x_preferred":[
         "Kouss\u00e9ri"
     ],
-    "name:dut_x_preferred":[
-        "Kouss\u00e9ri"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03c3\u03c3\u03ad\u03c1\u03b9"
     ],
     "name:eng_x_preferred":[
         "Kouss\u00e9ri"
@@ -49,17 +46,8 @@
     "name:fra_x_preferred":[
         "Kouss\u00e9ri"
     ],
-    "name:fre_x_preferred":[
-        "Kouss\u00e9ri"
-    ],
-    "name:ger_x_preferred":[
-        "Kouss\u00e9ri"
-    ],
     "name:gle_x_preferred":[
         "Kouss\u00e9ri"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c5\u03c3\u03c3\u03ad\u03c1\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0aaf\u0ac1\u0ab8\u0ac7\u0ab0\u0ac0"
@@ -91,13 +79,13 @@
     "name:mar_x_preferred":[
         "\u0915\u094c\u0938\u0940\u0930\u0940"
     ],
-    "name:may_x_preferred":[
-        "Kouss\u00e9ri"
-    ],
     "name:msa_x_preferred":[
         "Kouss\u00e9ri"
     ],
     "name:nan_x_preferred":[
+        "Kouss\u00e9ri"
+    ],
+    "name:nld_x_preferred":[
         "Kouss\u00e9ri"
     ],
     "name:nob_x_preferred":[
@@ -112,7 +100,7 @@
     "name:por_x_variant":[
         "Kousseri"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kouss\u00e9ri"
     ],
     "name:rus_x_preferred":[
@@ -153,6 +141,9 @@
     ],
     "name:war_x_preferred":[
         "Kousseri"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u585e\u91cc"
     ],
     "qs:gn_country":"CM",
     "qs:gn_fcode":"PPL",
@@ -204,7 +195,7 @@
         }
     ],
     "wof:id":421193953,
-    "wof:lastmodified":1527716139,
+    "wof:lastmodified":1561751471,
     "wof:name":"Kouss\u00e9ri",
     "wof:parent_id":1092011735,
     "wof:placetype":"locality",

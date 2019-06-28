@@ -19,7 +19,7 @@
     "name:eng_x_preferred":[
         "Mbang"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mbang"
     ],
     "name:nan_x_preferred":[
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":421178177,
-    "wof:lastmodified":1527717728,
+    "wof:lastmodified":1561751473,
     "wof:name":"Mbang",
     "wof:parent_id":1092011395,
     "wof:placetype":"locality",

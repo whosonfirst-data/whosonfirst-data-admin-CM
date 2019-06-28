@@ -19,19 +19,10 @@
     "name:deu_x_preferred":[
         "Ntui"
     ],
-    "name:dut_x_preferred":[
-        "Ntui"
-    ],
     "name:eng_x_preferred":[
         "Ntui"
     ],
     "name:fra_x_preferred":[
-        "Ntui"
-    ],
-    "name:fre_x_preferred":[
-        "Ntui"
-    ],
-    "name:ger_x_preferred":[
         "Ntui"
     ],
     "name:heb_x_preferred":[
@@ -40,10 +31,10 @@
     "name:ita_x_preferred":[
         "Ntui"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ntui"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Ntui"
     ],
     "name:pol_x_preferred":[
@@ -103,7 +94,7 @@
         }
     ],
     "wof:id":421176859,
-    "wof:lastmodified":1527726470,
+    "wof:lastmodified":1561751474,
     "wof:name":"Ntui",
     "wof:parent_id":1092012311,
     "wof:placetype":"locality",

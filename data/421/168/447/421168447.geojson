@@ -16,25 +16,19 @@
     "name:ceb_x_preferred":[
         "B\u00e9lel"
     ],
-    "name:dut_x_preferred":[
-        "Belel"
-    ],
     "name:eng_x_preferred":[
         "Belel"
     ],
     "name:fra_x_preferred":[
         "Belel"
     ],
-    "name:fre_x_preferred":[
-        "Belel"
-    ],
     "name:ita_x_preferred":[
         "Belel"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Belel"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Belel"
     ],
     "name:swe_x_preferred":[
@@ -88,7 +82,7 @@
         }
     ],
     "wof:id":421168447,
-    "wof:lastmodified":1527716091,
+    "wof:lastmodified":1561751470,
     "wof:name":"B\u00e9lel",
     "wof:parent_id":1092011581,
     "wof:placetype":"locality",

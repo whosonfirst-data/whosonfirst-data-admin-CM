@@ -28,8 +28,8 @@
     "name:deu_x_preferred":[
         "Bogo"
     ],
-    "name:dut_x_preferred":[
-        "Bogo"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03cc\u03b3\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Bogo"
@@ -39,12 +39,6 @@
     ],
     "name:fra_x_preferred":[
         "Bogo"
-    ],
-    "name:fre_x_preferred":[
-        "Bogo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03cc\u03b3\u03ba\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0a97\u0acb"
@@ -76,7 +70,7 @@
     "name:mar_x_preferred":[
         "\u092c\u094b\u0917\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bogo"
     ],
     "name:nan_x_preferred":[
@@ -174,7 +168,7 @@
         }
     ],
     "wof:id":421169941,
-    "wof:lastmodified":1527716169,
+    "wof:lastmodified":1561751471,
     "wof:name":"Bogo",
     "wof:parent_id":1092011977,
     "wof:placetype":"locality",

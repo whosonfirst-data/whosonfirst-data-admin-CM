@@ -29,16 +29,10 @@
     "name:ceb_x_preferred":[
         "\u00c9bolowa"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u535a\u6d1b\u74e6"
-    ],
     "name:dan_x_preferred":[
         "Ebolowa"
     ],
     "name:deu_x_preferred":[
-        "Ebolowa"
-    ],
-    "name:dut_x_preferred":[
         "Ebolowa"
     ],
     "name:ell_x_preferred":[
@@ -55,15 +49,6 @@
     ],
     "name:fra_x_preferred":[
         "Ebolowa"
-    ],
-    "name:fre_x_preferred":[
-        "Ebolowa"
-    ],
-    "name:ger_x_preferred":[
-        "Ebolowa"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03bc\u03c0\u03bf\u03bb\u03cc\u03bf\u03c5\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aac\u0acb\u0ab2\u0acb\u0ab5\u0abe"
@@ -101,9 +86,6 @@
     "name:mar_x_preferred":[
         "\u0907\u092c\u094b\u0932\u093e\u0935\u093e"
     ],
-    "name:may_x_preferred":[
-        "Ebolowa"
-    ],
     "name:msa_x_preferred":[
         "Ebolowa"
     ],
@@ -120,9 +102,6 @@
         "Ebolowa"
     ],
     "name:ron_x_preferred":[
-        "Ebolowa"
-    ],
-    "name:rum_x_preferred":[
         "Ebolowa"
     ],
     "name:rus_x_preferred":[
@@ -307,7 +286,7 @@
         }
     ],
     "wof:id":421168937,
-    "wof:lastmodified":1527716090,
+    "wof:lastmodified":1561751470,
     "wof:name":"Ebolowa",
     "wof:parent_id":1092012173,
     "wof:placetype":"locality",

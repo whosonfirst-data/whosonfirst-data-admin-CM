@@ -22,17 +22,14 @@
     "name:ceb_x_preferred":[
         "Sangm\u00e9lima"
     ],
-    "name:chi_x_preferred":[
-        "\u6851\u6885\u5229\u99ac"
-    ],
     "name:dan_x_preferred":[
         "Sangmelima"
     ],
     "name:deu_x_preferred":[
         "Sangm\u00e9lima"
     ],
-    "name:dut_x_preferred":[
-        "Sangm\u00e9lima"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd\u03b3\u03ba\u03bc\u03ad\u03bb\u03b9\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Sangm\u00e9lima"
@@ -42,15 +39,6 @@
     ],
     "name:fra_x_preferred":[
         "Sangm\u00e9lima"
-    ],
-    "name:fre_x_preferred":[
-        "Sangm\u00e9lima"
-    ],
-    "name:ger_x_preferred":[
-        "Sangm\u00e9lima"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd\u03b3\u03ba\u03bc\u03ad\u03bb\u03b9\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0a82\u0a97\u0aae\u0ac7\u0ab2\u0ac0\u0aae\u0abe"
@@ -85,9 +73,6 @@
     "name:mar_x_preferred":[
         "\u0938\u093e\u0902\u0917\u092e\u0947\u0932\u0940\u092e\u093e"
     ],
-    "name:may_x_preferred":[
-        "Sangm\u00e9lima"
-    ],
     "name:msa_x_preferred":[
         "Sangm\u00e9lima"
     ],
@@ -95,6 +80,9 @@
         "Sangm\u00e9lima"
     ],
     "name:nds_x_preferred":[
+        "Sangm\u00e9lima"
+    ],
+    "name:nld_x_preferred":[
         "Sangm\u00e9lima"
     ],
     "name:nob_x_preferred":[
@@ -107,9 +95,6 @@
         "Sangmelima"
     ],
     "name:ron_x_preferred":[
-        "Sangm\u00e9lima"
-    ],
-    "name:rum_x_preferred":[
         "Sangm\u00e9lima"
     ],
     "name:rus_x_preferred":[
@@ -147,6 +132,9 @@
     ],
     "name:vie_x_preferred":[
         "Sangmelima"
+    ],
+    "name:zho_x_preferred":[
+        "\u6851\u6885\u5229\u99ac"
     ],
     "qs:gn_country":"CM",
     "qs:gn_fcode":"PPL",
@@ -198,7 +186,7 @@
         }
     ],
     "wof:id":421168459,
-    "wof:lastmodified":1527716099,
+    "wof:lastmodified":1561751470,
     "wof:name":"Sangm\u00e9lima",
     "wof:parent_id":1092011365,
     "wof:placetype":"locality",

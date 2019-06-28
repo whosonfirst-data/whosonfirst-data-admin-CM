@@ -19,20 +19,17 @@
     "name:ceb_x_preferred":[
         "Fontem"
     ],
-    "name:dut_x_preferred":[
-        "Fontem"
-    ],
     "name:eng_x_preferred":[
         "Fontem"
     ],
     "name:fra_x_preferred":[
         "Fontem"
     ],
-    "name:fre_x_preferred":[
-        "Fontem"
-    ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05e0\u05d8\u05dd"
+    ],
+    "name:nld_x_preferred":[
+        "Fontem"
     ],
     "name:pol_x_preferred":[
         "Fontem"
@@ -92,7 +89,7 @@
         }
     ],
     "wof:id":421176855,
-    "wof:lastmodified":1527726477,
+    "wof:lastmodified":1561751474,
     "wof:name":"Fontem",
     "wof:parent_id":1092011035,
     "wof:placetype":"locality",

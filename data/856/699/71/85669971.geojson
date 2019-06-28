@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.844461,
-    "geom:area_square_m":47481739664.38427,
+    "geom:area_square_m":47481739664.384232,
     "geom:bbox":"9.81507876532,2.14137938059,13.6800872208,3.68167856108",
     "geom:latitude":2.754503,
     "geom:longitude":11.573369,
@@ -37,14 +37,14 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 del Sud"
     ],
-    "name:chi_x_preferred":[
-        "\u5357\u90e8\u533a"
-    ],
     "name:dan_x_preferred":[
         "Syd Region"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sud"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03c4\u03bf\u03c5 \u039d\u03cc\u03c4\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "South Province"
@@ -69,15 +69,6 @@
     "name:fra_x_variant":[
         "Province du Sud",
         "R\u00e9gion du Sud"
-    ],
-    "name:fre_x_preferred":[
-        "R\u00e9gion du Sud"
-    ],
-    "name:ger_x_preferred":[
-        "Sud"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03c4\u03bf\u03c5 \u039d\u03cc\u03c4\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3"
@@ -109,8 +100,11 @@
     "name:mar_x_preferred":[
         "\u0926\u0915\u094d\u0937\u093f\u0923"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "South Region"
+    ],
+    "name:nld_x_preferred":[
+        "Sud"
     ],
     "name:nob_x_preferred":[
         "Sud"
@@ -121,7 +115,7 @@
     "name:por_x_preferred":[
         "Regi\u00e3o Sul"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia de Sud"
     ],
     "name:rus_x_preferred":[
@@ -162,6 +156,9 @@
     ],
     "name:yor_x_preferred":[
         "G\u00fa\u00fas\u00f9"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u90e8\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CMR",
@@ -286,7 +283,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1553814715,
+    "wof:lastmodified":1561751429,
     "wof:name":"Sud",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

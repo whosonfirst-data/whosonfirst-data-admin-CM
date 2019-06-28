@@ -19,12 +19,6 @@
     "name:ceb_x_preferred":[
         "Ambam"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u5df4\u59c6"
-    ],
-    "name:dut_x_preferred":[
-        "Ambam"
-    ],
     "name:eng_x_preferred":[
         "Ambam"
     ],
@@ -34,13 +28,7 @@
     "name:fra_x_preferred":[
         "Ambam"
     ],
-    "name:fre_x_preferred":[
-        "Ambam"
-    ],
     "name:ita_x_preferred":[
-        "Ambam"
-    ],
-    "name:may_x_preferred":[
         "Ambam"
     ],
     "name:msa_x_preferred":[
@@ -49,16 +37,13 @@
     "name:nan_x_preferred":[
         "Ambam"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0645\u0628\u0627\u0645"
+    "name:nld_x_preferred":[
+        "Ambam"
     ],
     "name:pol_x_preferred":[
         "Ambam"
     ],
     "name:ron_x_preferred":[
-        "Ambam"
-    ],
-    "name:rum_x_preferred":[
         "Ambam"
     ],
     "name:swe_x_preferred":[
@@ -117,7 +102,7 @@
         }
     ],
     "wof:id":421199017,
-    "wof:lastmodified":1527716417,
+    "wof:lastmodified":1561751473,
     "wof:name":"Ambam",
     "wof:parent_id":1092012107,
     "wof:placetype":"locality",

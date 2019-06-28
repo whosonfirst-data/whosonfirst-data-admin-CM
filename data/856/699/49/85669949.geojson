@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.8699,
-    "geom:area_square_m":109417472042.554993,
+    "geom:area_square_m":109417472042.55423,
     "geom:bbox":"12.4930937978,1.65208546814,16.1910454642,6.06174792834",
     "geom:latitude":3.7969,
     "geom:longitude":14.209453,
@@ -40,14 +40,14 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 Est"
     ],
-    "name:chi_x_preferred":[
-        "\u4e1c\u90e8\u533a"
-    ],
     "name:dan_x_preferred":[
         "East"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Est"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03ae\u03c2"
     ],
     "name:eng_x_preferred":[
         "East Province"
@@ -71,16 +71,8 @@
     ],
     "name:fra_x_variant":[
         "Province de l\u2019Est",
-        "R\u00e9gion de l\u2019Est"
-    ],
-    "name:fre_x_preferred":[
+        "R\u00e9gion de l\u2019Est",
         "R\u00e9gion de l'Est"
-    ],
-    "name:ger_x_preferred":[
-        "Est"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03ae\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0ab8\u0acd\u0a9f"
@@ -112,8 +104,11 @@
     "name:mar_x_preferred":[
         "\u092a\u0942\u0930\u094d\u0935"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "East"
+    ],
+    "name:nld_x_preferred":[
+        "Est"
     ],
     "name:nob_x_preferred":[
         "Est"
@@ -124,7 +119,7 @@
     "name:por_x_preferred":[
         "Regi\u00e3o Leste"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea de Est"
     ],
     "name:rus_x_preferred":[
@@ -165,6 +160,9 @@
     ],
     "name:yor_x_preferred":[
         "il\u00e0 o\u00f2r\u00f9n"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u90e8\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CMR",
@@ -289,7 +287,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1553814713,
+    "wof:lastmodified":1561751430,
     "wof:name":"Est",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

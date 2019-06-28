@@ -43,14 +43,14 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de l'Extrem Nord"
     ],
-    "name:chi_x_preferred":[
-        "\u6975\u5317\u5340"
-    ],
     "name:dan_x_preferred":[
         "Far North Region"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Extr\u00eame-Nord"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0391\u03c0\u03ce\u03c4\u03b5\u03c1\u03bf\u03c5 \u0392\u03bf\u03c1\u03c1\u03ac"
     ],
     "name:eng_x_preferred":[
         "Far North Region"
@@ -75,16 +75,8 @@
         "Extr\u00eame Nord",
         "Province de l\u2019Extr\u00eame-Nord",
         "R\u00e9gion de l\u2019Extr\u00eame-Nord",
-        "Extr\u00eame-Nord"
-    ],
-    "name:fre_x_preferred":[
+        "Extr\u00eame-Nord",
         "R\u00e9gion de l'Extr\u00eame-Nord"
-    ],
-    "name:ger_x_preferred":[
-        "Extr\u00eame-Nord"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0391\u03c0\u03ce\u03c4\u03b5\u03c1\u03bf\u03c5 \u0392\u03bf\u03c1\u03c1\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0abe\u0ab0 \u0aa8\u0acb\u0ab0\u0acd\u0aa5"
@@ -116,8 +108,11 @@
     "name:mar_x_preferred":[
         "\u092b\u0930 \u0928\u0949\u0930\u094d\u0925"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Far North"
+    ],
+    "name:nld_x_preferred":[
+        "Extr\u00eame-Nord"
     ],
     "name:nob_x_preferred":[
         "Extr\u00eame-Nord"
@@ -128,7 +123,7 @@
     "name:por_x_preferred":[
         "Extremo Norte"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Extrem Nord"
     ],
     "name:rus_x_preferred":[
@@ -172,6 +167,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5317\u7aef"
+    ],
+    "name:zho_x_variant":[
+        "\u6975\u5317\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CMR",
@@ -296,7 +294,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1553550336,
+    "wof:lastmodified":1561751428,
     "wof:name":"Extreme Nord",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

@@ -20,19 +20,10 @@
     "name:ceb_x_preferred":[
         "Batouri"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u5716\u91cc"
-    ],
-    "name:dut_x_preferred":[
-        "Batouri"
-    ],
     "name:eng_x_preferred":[
         "Batouri"
     ],
     "name:fra_x_preferred":[
-        "Batouri"
-    ],
-    "name:fre_x_preferred":[
         "Batouri"
     ],
     "name:heb_x_preferred":[
@@ -43,9 +34,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30c8\u30a5\u30fc\u30ea"
-    ],
-    "name:may_x_preferred":[
-        "Batouri"
     ],
     "name:msa_x_preferred":[
         "Batouri"
@@ -213,7 +201,7 @@
         }
     ],
     "wof:id":421175873,
-    "wof:lastmodified":1527716337,
+    "wof:lastmodified":1561751472,
     "wof:name":"Batouri",
     "wof:parent_id":1092011431,
     "wof:placetype":"locality",

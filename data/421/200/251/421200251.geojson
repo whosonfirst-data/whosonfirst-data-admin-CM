@@ -19,13 +19,7 @@
     "name:ceb_x_preferred":[
         "Yabassi"
     ],
-    "name:chi_x_preferred":[
-        "\u4e9e\u5df4\u897f"
-    ],
     "name:deu_x_preferred":[
-        "Yabassi"
-    ],
-    "name:dut_x_preferred":[
         "Yabassi"
     ],
     "name:eng_x_preferred":[
@@ -34,22 +28,16 @@
     "name:fra_x_preferred":[
         "Yabassi"
     ],
-    "name:fre_x_preferred":[
-        "Yabassi"
-    ],
-    "name:ger_x_preferred":[
-        "Yabassi"
-    ],
     "name:ita_x_preferred":[
-        "Yabassi"
-    ],
-    "name:may_x_preferred":[
         "Yabassi"
     ],
     "name:msa_x_preferred":[
         "Yabassi"
     ],
     "name:nan_x_preferred":[
+        "Yabassi"
+    ],
+    "name:nld_x_preferred":[
         "Yabassi"
     ],
     "name:pol_x_preferred":[
@@ -117,7 +105,7 @@
         }
     ],
     "wof:id":421200251,
-    "wof:lastmodified":1527716423,
+    "wof:lastmodified":1561751473,
     "wof:name":"Yabassi",
     "wof:parent_id":1092011119,
     "wof:placetype":"locality",

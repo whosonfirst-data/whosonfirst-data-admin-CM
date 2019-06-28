@@ -16,19 +16,10 @@
     "name:ceb_x_preferred":[
         "Bandjoun"
     ],
-    "name:chi_x_preferred":[
-        "\u73ed\u7956\u6069"
-    ],
-    "name:dut_x_preferred":[
-        "Bandjoun"
-    ],
     "name:eng_x_preferred":[
         "Bandjoun"
     ],
     "name:fra_x_preferred":[
-        "Bandjoun"
-    ],
-    "name:fre_x_preferred":[
         "Bandjoun"
     ],
     "name:heb_x_preferred":[
@@ -37,22 +28,19 @@
     "name:ita_x_preferred":[
         "Bandjoun"
     ],
-    "name:may_x_preferred":[
-        "Bandjoun"
-    ],
     "name:msa_x_preferred":[
         "Bandjoun"
     ],
     "name:nan_x_preferred":[
         "Bandjoun"
     ],
+    "name:nld_x_preferred":[
+        "Bandjoun"
+    ],
     "name:pol_x_preferred":[
         "Bandjoun"
     ],
     "name:ron_x_preferred":[
-        "Bandjoun"
-    ],
-    "name:rum_x_preferred":[
         "Bandjoun"
     ],
     "name:swe_x_preferred":[
@@ -111,7 +99,7 @@
         }
     ],
     "wof:id":421166819,
-    "wof:lastmodified":1527716102,
+    "wof:lastmodified":1561751470,
     "wof:name":"Bandjoun",
     "wof:parent_id":1092012225,
     "wof:placetype":"locality",

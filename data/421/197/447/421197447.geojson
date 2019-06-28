@@ -28,8 +28,8 @@
     "name:dan_x_preferred":[
         "Lagdo"
     ],
-    "name:dut_x_preferred":[
-        "Lagdo"
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03b3\u03ba\u03bd\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Lagdo"
@@ -39,12 +39,6 @@
     ],
     "name:fra_x_preferred":[
         "Lagdo"
-    ],
-    "name:fre_x_preferred":[
-        "Lagdo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03ac\u03b3\u03ba\u03bd\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0a97\u0aa1\u0acb"
@@ -79,10 +73,10 @@
     "name:mar_x_preferred":[
         "\u0932\u0917\u0921\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lagdo"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Lagdo"
     ],
     "name:nob_x_preferred":[
@@ -175,7 +169,7 @@
         }
     ],
     "wof:id":421197447,
-    "wof:lastmodified":1527716400,
+    "wof:lastmodified":1561751473,
     "wof:name":"Lagdo",
     "wof:parent_id":1092012287,
     "wof:placetype":"locality",

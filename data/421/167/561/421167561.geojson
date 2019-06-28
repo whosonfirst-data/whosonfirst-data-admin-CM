@@ -22,28 +22,19 @@
     "name:deu_x_preferred":[
         "Fundong"
     ],
-    "name:dut_x_preferred":[
-        "Fundong"
-    ],
     "name:eng_x_preferred":[
         "Fundong"
     ],
     "name:fra_x_preferred":[
         "Fundong"
     ],
-    "name:fre_x_preferred":[
-        "Fundong"
-    ],
-    "name:ger_x_preferred":[
-        "Fundong"
-    ],
     "name:ita_x_preferred":[
         "Fundong"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Fundong"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Fundong"
     ],
     "name:pol_x_preferred":[
@@ -103,7 +94,7 @@
         }
     ],
     "wof:id":421167561,
-    "wof:lastmodified":1527716153,
+    "wof:lastmodified":1561751471,
     "wof:name":"Fundong",
     "wof:parent_id":1092010759,
     "wof:placetype":"locality",

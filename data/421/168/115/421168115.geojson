@@ -16,19 +16,10 @@
     "name:ceb_x_preferred":[
         "Banyo"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u5c3c\u5967"
-    ],
-    "name:dut_x_preferred":[
-        "Banyo"
-    ],
     "name:eng_x_preferred":[
         "Banyo"
     ],
     "name:fra_x_preferred":[
-        "Banyo"
-    ],
-    "name:fre_x_preferred":[
         "Banyo"
     ],
     "name:heb_x_preferred":[
@@ -40,13 +31,13 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30fc\u30cb\u30e7"
     ],
-    "name:may_x_preferred":[
-        "Banyo"
-    ],
     "name:msa_x_preferred":[
         "Banyo"
     ],
     "name:nan_x_preferred":[
+        "Banyo"
+    ],
+    "name:nld_x_preferred":[
         "Banyo"
     ],
     "name:pol_x_preferred":[
@@ -56,9 +47,6 @@
         "Banyo"
     ],
     "name:ron_x_preferred":[
-        "Banyo"
-    ],
-    "name:rum_x_preferred":[
         "Banyo"
     ],
     "name:swe_x_preferred":[
@@ -120,7 +108,7 @@
         }
     ],
     "wof:id":421168115,
-    "wof:lastmodified":1527716099,
+    "wof:lastmodified":1561751470,
     "wof:name":"Banyo",
     "wof:parent_id":1092011501,
     "wof:placetype":"locality",

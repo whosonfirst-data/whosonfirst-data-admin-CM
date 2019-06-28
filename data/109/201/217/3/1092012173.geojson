@@ -32,20 +32,20 @@
     "mps:longitude":11.407513,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mvila"
     ],
     "name:eng_x_preferred":[
         "Mvila"
     ],
-    "name:fre_x_preferred":[
-        "Mvila"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mvila"
     ],
     "name:ita_x_preferred":[
         "Dipartimento di Mvila"
+    ],
+    "name:nld_x_preferred":[
+        "Mvila"
     ],
     "name:nob_x_preferred":[
         "Mvila"
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1092012173,
-    "wof:lastmodified":1553718028,
+    "wof:lastmodified":1561751461,
     "wof:name":"Mvila",
     "wof:parent_id":85669971,
     "wof:placetype":"county",

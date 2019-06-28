@@ -23,17 +23,14 @@
     "name:ceb_x_preferred":[
         "Kumbo"
     ],
-    "name:chi_x_preferred":[
-        "\u6606\u535a"
-    ],
     "name:dan_x_preferred":[
         "Kumbo"
     ],
     "name:deu_x_preferred":[
         "Kumbo"
     ],
-    "name:dut_x_preferred":[
-        "Kumbo"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03cd\u03bc\u03c0\u03bf"
     ],
     "name:eng_x_preferred":[
         "Kumbo"
@@ -43,15 +40,6 @@
     ],
     "name:fra_x_preferred":[
         "Kumbo"
-    ],
-    "name:fre_x_preferred":[
-        "Kumbo"
-    ],
-    "name:ger_x_preferred":[
-        "Kumbo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03cd\u03bc\u03c0\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac1\u0aae\u0acd\u0aac\u0acb"
@@ -86,13 +74,13 @@
     "name:mar_x_preferred":[
         "\u0915\u0941\u0902\u092c\u094b"
     ],
-    "name:may_x_preferred":[
-        "Kumbo"
-    ],
     "name:msa_x_preferred":[
         "Kumbo"
     ],
     "name:nan_x_preferred":[
+        "Kumbo"
+    ],
+    "name:nld_x_preferred":[
         "Kumbo"
     ],
     "name:nob_x_preferred":[
@@ -105,9 +93,6 @@
         "Kumbo"
     ],
     "name:ron_x_preferred":[
-        "Kumbo"
-    ],
-    "name:rum_x_preferred":[
         "Kumbo"
     ],
     "name:rus_x_preferred":[
@@ -288,7 +273,7 @@
         }
     ],
     "wof:id":421195789,
-    "wof:lastmodified":1553816383,
+    "wof:lastmodified":1561751470,
     "wof:name":"Kumbo",
     "wof:parent_id":1092012009,
     "wof:placetype":"locality",

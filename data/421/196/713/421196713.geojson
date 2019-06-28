@@ -28,16 +28,13 @@
     "name:fra_x_preferred":[
         "Yoko"
     ],
-    "name:fre_x_preferred":[
-        "Yoko"
-    ],
     "name:ita_x_preferred":[
         "Yoko"
     ],
     "name:jpn_x_preferred":[
         "\u30e8\u30fc\u30b3"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Yoko"
     ],
     "name:nan_x_preferred":[
@@ -102,7 +99,7 @@
         }
     ],
     "wof:id":421196713,
-    "wof:lastmodified":1527716364,
+    "wof:lastmodified":1561751473,
     "wof:name":"Yoko",
     "wof:parent_id":1092012311,
     "wof:placetype":"locality",

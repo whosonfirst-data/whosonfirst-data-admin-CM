@@ -20,13 +20,7 @@
     "name:ceb_x_preferred":[
         "B\u00e9labo"
     ],
-    "name:chi_x_preferred":[
-        "\u8c9d\u62c9\u535a"
-    ],
     "name:deu_x_preferred":[
-        "B\u00e9labo"
-    ],
-    "name:dut_x_preferred":[
         "B\u00e9labo"
     ],
     "name:eng_x_preferred":[
@@ -35,25 +29,19 @@
     "name:fra_x_preferred":[
         "B\u00e9labo"
     ],
-    "name:fre_x_preferred":[
-        "B\u00e9labo"
-    ],
-    "name:ger_x_preferred":[
-        "B\u00e9labo"
-    ],
     "name:hrv_x_preferred":[
         "B\u00e9labo"
     ],
     "name:ita_x_preferred":[
         "B\u00e9labo"
     ],
-    "name:may_x_preferred":[
-        "B\u00e9labo"
-    ],
     "name:msa_x_preferred":[
         "B\u00e9labo"
     ],
     "name:nan_x_preferred":[
+        "B\u00e9labo"
+    ],
+    "name:nld_x_preferred":[
         "B\u00e9labo"
     ],
     "name:pol_x_preferred":[
@@ -63,9 +51,6 @@
         "B\u00e9labo"
     ],
     "name:ron_x_preferred":[
-        "B\u00e9labo"
-    ],
-    "name:rum_x_preferred":[
         "B\u00e9labo"
     ],
     "name:rus_x_preferred":[
@@ -219,7 +204,7 @@
         }
     ],
     "wof:id":421168443,
-    "wof:lastmodified":1527716097,
+    "wof:lastmodified":1561751470,
     "wof:name":"B\u00e9labo",
     "wof:parent_id":1092011395,
     "wof:placetype":"locality",
