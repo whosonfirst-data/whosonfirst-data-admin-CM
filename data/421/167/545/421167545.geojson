@@ -29,17 +29,14 @@
     "name:ceb_x_preferred":[
         "Kribi"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u91cc\u6bd4"
-    ],
     "name:dan_x_preferred":[
         "Kribi"
     ],
     "name:deu_x_preferred":[
         "Kribi"
     ],
-    "name:dut_x_preferred":[
-        "Kribi"
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03af\u03bc\u03c0\u03b9"
     ],
     "name:eng_x_preferred":[
         "Kribi"
@@ -49,15 +46,6 @@
     ],
     "name:fra_x_preferred":[
         "Kribi"
-    ],
-    "name:fre_x_preferred":[
-        "Kribi"
-    ],
-    "name:ger_x_preferred":[
-        "Kribi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c1\u03af\u03bc\u03c0\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0ab0\u0abf\u0aac\u0ac0"
@@ -95,13 +83,13 @@
     "name:mar_x_preferred":[
         "\u0915\u094d\u0930\u093f\u092c\u0940"
     ],
-    "name:may_x_preferred":[
-        "Kribi"
-    ],
     "name:msa_x_preferred":[
         "Kribi"
     ],
     "name:nan_x_preferred":[
+        "Kribi"
+    ],
+    "name:nld_x_preferred":[
         "Kribi"
     ],
     "name:nob_x_preferred":[
@@ -114,9 +102,6 @@
         "Kribi"
     ],
     "name:ron_x_preferred":[
-        "Kribi"
-    ],
-    "name:rum_x_preferred":[
         "Kribi"
     ],
     "name:rus_x_preferred":[
@@ -303,7 +288,7 @@
         }
     ],
     "wof:id":421167545,
-    "wof:lastmodified":1553816355,
+    "wof:lastmodified":1561751471,
     "wof:name":"Kribi",
     "wof:parent_id":1092012139,
     "wof:placetype":"locality",

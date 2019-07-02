@@ -26,19 +26,13 @@
     "name:ceb_x_preferred":[
         "Maroua"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u9c81\u963f"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Maroua"
     ],
     "name:dan_x_preferred":[
         "Maroua"
     ],
     "name:deu_x_preferred":[
-        "Maroua"
-    ],
-    "name:dut_x_preferred":[
         "Maroua"
     ],
     "name:ell_x_preferred":[
@@ -58,18 +52,6 @@
     ],
     "name:fra_x_preferred":[
         "Maroua"
-    ],
-    "name:fre_x_preferred":[
-        "Maroua"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10e0\u10e3\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Maroua"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03c1\u03bf\u03c5\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0ab0\u0ac1\u0a86"
@@ -98,6 +80,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0cbe\u0cb0\u0ccc"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e0\u10e3\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub9c8\ub8e8\uc544"
     ],
@@ -109,9 +94,6 @@
     ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0930\u0941\u0906"
-    ],
-    "name:may_x_preferred":[
-        "Maroua"
     ],
     "name:msa_x_preferred":[
         "Maroua"
@@ -135,9 +117,6 @@
         "Maroua"
     ],
     "name:ron_x_preferred":[
-        "Maroua"
-    ],
-    "name:rum_x_preferred":[
         "Maroua"
     ],
     "name:rus_x_preferred":[
@@ -324,7 +303,7 @@
         }
     ],
     "wof:id":421182409,
-    "wof:lastmodified":1527726434,
+    "wof:lastmodified":1561751474,
     "wof:name":"Maroua",
     "wof:parent_id":1092011977,
     "wof:placetype":"locality",

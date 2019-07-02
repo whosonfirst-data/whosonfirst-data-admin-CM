@@ -26,16 +26,10 @@
     "name:ceb_x_preferred":[
         "Bertoua"
     ],
-    "name:chi_x_preferred":[
-        "\u8d1d\u5c14\u56fe\u963f"
-    ],
     "name:dan_x_preferred":[
         "Bertoua"
     ],
     "name:deu_x_preferred":[
-        "Bertoua"
-    ],
-    "name:dut_x_preferred":[
         "Bertoua"
     ],
     "name:ell_x_preferred":[
@@ -44,20 +38,14 @@
     "name:eng_x_preferred":[
         "Bertoua"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u062a\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Bertoua"
     ],
     "name:fra_x_preferred":[
         "Bertoua"
-    ],
-    "name:fre_x_preferred":[
-        "Bertoua"
-    ],
-    "name:ger_x_preferred":[
-        "Bertoua"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b5\u03c1\u03c4\u03bf\u03c5\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ab0\u0acd\u0a9f\u0ac1\u0a86"
@@ -98,9 +86,6 @@
     "name:mar_x_preferred":[
         "\u092c\u0930\u094d\u091f\u0942\u0906"
     ],
-    "name:may_x_preferred":[
-        "Bertoua"
-    ],
     "name:msa_x_preferred":[
         "Bertoua"
     ],
@@ -113,9 +98,6 @@
     "name:nob_x_preferred":[
         "Bertoua"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u062a\u0648\u0627"
-    ],
     "name:pol_x_preferred":[
         "Bertoua"
     ],
@@ -123,9 +105,6 @@
         "Bertoua"
     ],
     "name:ron_x_preferred":[
-        "Bertoua"
-    ],
-    "name:rum_x_preferred":[
         "Bertoua"
     ],
     "name:rus_x_preferred":[
@@ -315,7 +294,7 @@
         }
     ],
     "wof:id":421175869,
-    "wof:lastmodified":1527716338,
+    "wof:lastmodified":1561751472,
     "wof:name":"Bertoua",
     "wof:parent_id":1092011395,
     "wof:placetype":"locality",

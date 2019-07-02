@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.032709,
-    "geom:area_square_m":25030098836.234066,
+    "geom:area_square_m":25030098836.233833,
     "geom:bbox":"8.49945443464,3.90676451088,10.1012444621,6.52999097007",
     "geom:latitude":5.197571,
     "geom:longitude":9.290181,
@@ -37,14 +37,14 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 del Sud-oest"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u5357\u533a"
-    ],
     "name:dan_x_preferred":[
         "Sydvest region"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sud-Ouest"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03c4\u03b9\u03bf\u03b4\u03c5\u03c4\u03b9\u03ba\u03ae \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "South-West Province"
@@ -70,15 +70,6 @@
     "name:fra_x_variant":[
         "Province du Sud-Ouest",
         "R\u00e9gion du Sud-Ouest"
-    ],
-    "name:fre_x_preferred":[
-        "R\u00e9gion du Sud-Ouest"
-    ],
-    "name:ger_x_preferred":[
-        "Sud-Ouest"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03bf\u03c4\u03b9\u03bf\u03b4\u03c5\u03c4\u03b9\u03ba\u03ae \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0a89\u0aa5\u0ab5\u0ac7\u0ab8\u0acd\u0a9f"
@@ -110,8 +101,11 @@
     "name:mar_x_preferred":[
         "\u0938\u093e\u090a\u0925\u0935\u0947\u0938\u094d\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Southwest"
+    ],
+    "name:nld_x_preferred":[
+        "Sud-Ouest"
     ],
     "name:nob_x_preferred":[
         "Sud-Ouest"
@@ -122,7 +116,7 @@
     "name:por_x_preferred":[
         "Sudoeste"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia de Sud-Vest"
     ],
     "name:rus_x_preferred":[
@@ -163,6 +157,9 @@
     ],
     "name:vie_x_preferred":[
         "V\u00f9ng T\u00e2y Nam"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u5357\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CMR",
@@ -287,7 +284,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1553814713,
+    "wof:lastmodified":1561751428,
     "wof:name":"Sud Ouest",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

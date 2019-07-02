@@ -146,9 +146,6 @@
     "name:cym_x_variant":[
         "Y Camer\u0175n"
     ],
-    "name:cze_x_preferred":[
-        "Kamerun"
-    ],
     "name:dan_x_preferred":[
         "Cameroun"
     ],
@@ -588,9 +585,6 @@
     "name:ron_x_preferred":[
         "Camerun"
     ],
-    "name:rum_x_preferred":[
-        "Camerun"
-    ],
     "name:run_x_preferred":[
         "Kameruni"
     ],
@@ -794,8 +788,7 @@
         "\u5580\u9ea6\u9686"
     ],
     "name:zho_x_variant":[
-        "\u5580\u9ea5\u9686",
-        "\u5580\u9ea6\u9686"
+        "\u5580\u9ea5\u9686"
     ],
     "name:zho_yue_x_preferred":[
         "\u5580\u9ea5\u9686"
@@ -957,7 +950,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1544059274,
+    "wof:lastmodified":1561751427,
     "wof:name":"Cameroon",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

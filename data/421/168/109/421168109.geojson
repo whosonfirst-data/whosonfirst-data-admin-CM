@@ -19,25 +19,19 @@
     "name:ceb_x_preferred":[
         "Okoa"
     ],
-    "name:dut_x_preferred":[
-        "Soa"
-    ],
     "name:eng_x_preferred":[
         "Soa"
     ],
     "name:fra_x_preferred":[
         "Soa"
     ],
-    "name:fre_x_preferred":[
-        "Soa"
-    ],
     "name:ita_x_preferred":[
         "Soa"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Soa"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Soa"
     ],
     "name:pol_x_preferred":[
@@ -97,7 +91,7 @@
         }
     ],
     "wof:id":421168109,
-    "wof:lastmodified":1527716095,
+    "wof:lastmodified":1561751470,
     "wof:name":"Soa",
     "wof:parent_id":1092010921,
     "wof:placetype":"locality",

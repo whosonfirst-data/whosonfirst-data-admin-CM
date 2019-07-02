@@ -18,7 +18,7 @@
     "name:eng_x_preferred":[
         "Somi\u00e9"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Somi\u00e9"
     ],
     "name:unk_x_variant":[
@@ -57,7 +57,7 @@
         }
     ],
     "wof:id":890445587,
-    "wof:lastmodified":1527792871,
+    "wof:lastmodified":1561751474,
     "wof:name":"Somi\u00e9",
     "wof:parent_id":1092011501,
     "wof:placetype":"locality",

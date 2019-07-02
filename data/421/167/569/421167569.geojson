@@ -16,25 +16,19 @@
     "name:ceb_x_preferred":[
         "Bana"
     ],
-    "name:dut_x_preferred":[
-        "Bana"
-    ],
     "name:eng_x_preferred":[
         "Bana"
     ],
     "name:fra_x_preferred":[
         "Bana"
     ],
-    "name:fre_x_preferred":[
-        "Bana"
-    ],
     "name:ind_x_preferred":[
         "Bana"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bana"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Bana"
     ],
     "name:spa_x_preferred":[
@@ -91,7 +85,7 @@
         }
     ],
     "wof:id":421167569,
-    "wof:lastmodified":1527716152,
+    "wof:lastmodified":1561751471,
     "wof:name":"Bana",
     "wof:parent_id":1092010971,
     "wof:placetype":"locality",

@@ -19,25 +19,13 @@
     "name:ceb_x_preferred":[
         "Yokadouma"
     ],
-    "name:chi_x_preferred":[
-        "\u7d04\u5361\u675c\u99ac"
-    ],
-    "name:dut_x_preferred":[
-        "Yokadouma"
-    ],
     "name:eng_x_preferred":[
         "Yokadouma"
     ],
     "name:fra_x_preferred":[
         "Yokadouma"
     ],
-    "name:fre_x_preferred":[
-        "Yokadouma"
-    ],
     "name:ita_x_preferred":[
-        "Yokadouma"
-    ],
-    "name:may_x_preferred":[
         "Yokadouma"
     ],
     "name:msa_x_preferred":[
@@ -46,13 +34,13 @@
     "name:nan_x_preferred":[
         "Yokadouma"
     ],
+    "name:nld_x_preferred":[
+        "Yokadouma"
+    ],
     "name:pol_x_preferred":[
         "Yokadouma"
     ],
     "name:ron_x_preferred":[
-        "Yokadouma"
-    ],
-    "name:rum_x_preferred":[
         "Yokadouma"
     ],
     "name:rus_x_preferred":[
@@ -120,7 +108,7 @@
         }
     ],
     "wof:id":421178799,
-    "wof:lastmodified":1527717717,
+    "wof:lastmodified":1561751473,
     "wof:name":"Yokadouma",
     "wof:parent_id":1092011465,
     "wof:placetype":"locality",

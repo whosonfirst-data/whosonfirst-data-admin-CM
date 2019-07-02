@@ -23,16 +23,10 @@
     "name:ceb_x_preferred":[
         "Ed\u00e9a"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u4ee3\u963f"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ed\u00e9a"
     ],
     "name:deu_x_preferred":[
-        "Ed\u00e9a"
-    ],
-    "name:dut_x_preferred":[
         "Ed\u00e9a"
     ],
     "name:eng_x_preferred":[
@@ -44,12 +38,6 @@
     "name:fra_x_preferred":[
         "\u00c9d\u00e9a"
     ],
-    "name:fre_x_preferred":[
-        "\u00c9d\u00e9a"
-    ],
-    "name:ger_x_preferred":[
-        "Ed\u00e9a"
-    ],
     "name:ita_x_preferred":[
         "\u00c9d\u00e9a"
     ],
@@ -59,14 +47,14 @@
     "name:lit_x_preferred":[
         "Ed\u0117ja"
     ],
-    "name:may_x_preferred":[
-        "\u00c9d\u00e9a"
-    ],
     "name:msa_x_preferred":[
         "\u00c9d\u00e9a"
     ],
     "name:nan_x_preferred":[
         "\u00c9d\u00e9a"
+    ],
+    "name:nld_x_preferred":[
+        "Ed\u00e9a"
     ],
     "name:pol_x_preferred":[
         "Ed\u00e9a"
@@ -74,7 +62,7 @@
     "name:por_x_preferred":[
         "Ed\u00e9a"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ed\u00e9a"
     ],
     "name:rus_x_preferred":[
@@ -231,7 +219,7 @@
         }
     ],
     "wof:id":421167559,
-    "wof:lastmodified":1527716153,
+    "wof:lastmodified":1561751471,
     "wof:name":"Ed\u00e9a",
     "wof:parent_id":1092011153,
     "wof:placetype":"locality",

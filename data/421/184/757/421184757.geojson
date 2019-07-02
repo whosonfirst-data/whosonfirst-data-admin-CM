@@ -16,25 +16,19 @@
     "name:ceb_x_preferred":[
         "Melong"
     ],
-    "name:dut_x_preferred":[
-        "Melong"
-    ],
     "name:eng_x_preferred":[
         "Melong"
     ],
     "name:fra_x_preferred":[
         "Melong"
     ],
-    "name:fre_x_preferred":[
-        "Melong"
-    ],
     "name:ita_x_preferred":[
         "Melong"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Melong"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Melong"
     ],
     "name:pol_x_preferred":[
@@ -94,7 +88,7 @@
         }
     ],
     "wof:id":421184757,
-    "wof:lastmodified":1527716451,
+    "wof:lastmodified":1561751473,
     "wof:name":"Melong",
     "wof:parent_id":1092011087,
     "wof:placetype":"locality",

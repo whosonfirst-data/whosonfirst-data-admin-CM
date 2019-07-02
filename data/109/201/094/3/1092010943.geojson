@@ -32,7 +32,7 @@
     "mps:longitude":10.079604,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Menoua"
     ],
     "name:eng_x_preferred":[
@@ -42,14 +42,14 @@
         "M\u00e9noua",
         "Menoua"
     ],
-    "name:fre_x_preferred":[
-        "Menoua"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Menoua"
     ],
     "name:ita_x_preferred":[
         "Dipartimento di Menoua"
+    ],
+    "name:nld_x_preferred":[
+        "Menoua"
     ],
     "name:nob_x_preferred":[
         "Menoua"
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1092010943,
-    "wof:lastmodified":1553718026,
+    "wof:lastmodified":1561751466,
     "wof:name":"Menoua",
     "wof:parent_id":85669961,
     "wof:placetype":"county",

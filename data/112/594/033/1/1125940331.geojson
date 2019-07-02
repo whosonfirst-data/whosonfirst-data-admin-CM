@@ -28,9 +28,6 @@
     "name:fra_x_preferred":[
         "Bansoa"
     ],
-    "name:fre_x_preferred":[
-        "Bansoa"
-    ],
     "name:swe_x_preferred":[
         "Bansoa"
     ],
@@ -73,7 +70,7 @@
         }
     ],
     "wof:id":1125940331,
-    "wof:lastmodified":1513938806,
+    "wof:lastmodified":1561751474,
     "wof:name":"Bansoa",
     "wof:parent_id":1092010943,
     "wof:placetype":"locality",

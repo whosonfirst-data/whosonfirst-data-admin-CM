@@ -16,8 +16,8 @@
     "name:ceb_x_preferred":[
         "Bamendjou"
     ],
-    "name:dut_x_preferred":[
-        "Bamendjou"
+    "name:deu_x_preferred":[
+        "Bmendjou Kamerun"
     ],
     "name:eng_x_preferred":[
         "Bamendjou"
@@ -25,16 +25,10 @@
     "name:fra_x_preferred":[
         "Bamendjou"
     ],
-    "name:fre_x_preferred":[
-        "Bamendjou"
-    ],
-    "name:ger_x_preferred":[
-        "Bmendjou Kamerun"
-    ],
-    "name:may_x_preferred":[
-        "Bamendjou"
-    ],
     "name:msa_x_preferred":[
+        "Bamendjou"
+    ],
+    "name:nld_x_preferred":[
         "Bamendjou"
     ],
     "name:swe_x_preferred":[
@@ -88,7 +82,7 @@
         }
     ],
     "wof:id":421175875,
-    "wof:lastmodified":1527716337,
+    "wof:lastmodified":1561751472,
     "wof:name":"Bamendjou",
     "wof:parent_id":1092012197,
     "wof:placetype":"locality",

@@ -35,7 +35,7 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0642\u0648\u0646 \u0648\u0634\u0627\u0631\u064a"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Logone-et-Chari"
     ],
     "name:eng_x_preferred":[
@@ -45,14 +45,14 @@
         "Logone - Et - Chari",
         "Logone et Chari"
     ],
-    "name:fre_x_preferred":[
-        "Logone-et-Chari"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Logone-et-Chari"
     ],
     "name:ita_x_preferred":[
         "Dipartimento di Logone e Chari"
+    ],
+    "name:nld_x_preferred":[
+        "Logone-et-Chari"
     ],
     "name:nob_x_preferred":[
         "Logone-et-Chari"
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":1092011735,
-    "wof:lastmodified":1553718023,
+    "wof:lastmodified":1561751462,
     "wof:name":"Logone et Chari",
     "wof:parent_id":85669933,
     "wof:placetype":"county",

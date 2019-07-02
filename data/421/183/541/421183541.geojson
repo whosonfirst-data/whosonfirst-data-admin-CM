@@ -16,16 +16,10 @@
     "name:ceb_x_preferred":[
         "Loum"
     ],
-    "name:chi_x_preferred":[
-        "\u76e7\u59c6"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Loum"
     ],
     "name:deu_x_preferred":[
-        "Loum"
-    ],
-    "name:dut_x_preferred":[
         "Loum"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,10 @@
     "name:fra_x_preferred":[
         "Loum"
     ],
-    "name:fre_x_preferred":[
-        "Loum"
-    ],
-    "name:ger_x_preferred":[
-        "Loum"
-    ],
     "name:hun_x_preferred":[
         "Loum"
     ],
     "name:ita_x_preferred":[
-        "Loum"
-    ],
-    "name:may_x_preferred":[
         "Loum"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
         "Loum"
     ],
     "name:ron_x_preferred":[
-        "Loum"
-    ],
-    "name:rum_x_preferred":[
         "Loum"
     ],
     "name:rus_x_preferred":[
@@ -141,7 +123,7 @@
         }
     ],
     "wof:id":421183541,
-    "wof:lastmodified":1553816373,
+    "wof:lastmodified":1561751473,
     "wof:name":"Loum",
     "wof:parent_id":1092011087,
     "wof:placetype":"locality",

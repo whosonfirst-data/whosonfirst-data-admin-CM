@@ -19,25 +19,19 @@
     "name:ceb_x_preferred":[
         "Mbankomo"
     ],
-    "name:dut_x_preferred":[
-        "Mbankomo"
-    ],
     "name:eng_x_preferred":[
         "Mbankomo"
     ],
     "name:fra_x_preferred":[
         "Mbankomo"
     ],
-    "name:fre_x_preferred":[
-        "Mbankomo"
-    ],
     "name:ita_x_preferred":[
         "Mbankomo"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mbankomo"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Mbankomo"
     ],
     "name:spa_x_preferred":[
@@ -94,7 +88,7 @@
         }
     ],
     "wof:id":421183463,
-    "wof:lastmodified":1527716490,
+    "wof:lastmodified":1561751473,
     "wof:name":"Mbankomo",
     "wof:parent_id":1092010889,
     "wof:placetype":"locality",

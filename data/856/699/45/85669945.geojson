@@ -40,14 +40,14 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 Central"
     ],
-    "name:chi_x_preferred":[
-        "\u4e2d\u90e8\u533a"
-    ],
     "name:dan_x_preferred":[
         "Centre"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Centre"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Centre Region"
@@ -70,15 +70,6 @@
     "name:fra_x_variant":[
         "Province du Centre",
         "R\u00e9gion du Centre"
-    ],
-    "name:fre_x_preferred":[
-        "R\u00e9gion du Centre"
-    ],
-    "name:ger_x_preferred":[
-        "Centre"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aa8\u0acd\u0aa6\u0acd\u0ab0"
@@ -113,7 +104,10 @@
     "name:mar_x_preferred":[
         "\u0938\u0947\u0902\u091f\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Centre"
+    ],
+    "name:nld_x_preferred":[
         "Centre"
     ],
     "name:nob_x_preferred":[
@@ -125,7 +119,7 @@
     "name:por_x_preferred":[
         "Centro"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Centru"
     ],
     "name:rus_x_preferred":[
@@ -169,6 +163,9 @@
     ],
     "name:yor_x_preferred":[
         "\u00e0\u00e1r\u00edn"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u90e8\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CMR",
@@ -295,7 +292,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1553550336,
+    "wof:lastmodified":1561751428,
     "wof:name":"Centre",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

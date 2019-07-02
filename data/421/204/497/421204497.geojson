@@ -20,16 +20,10 @@
     "name:ceb_x_preferred":[
         "Limbe"
     ],
-    "name:chi_x_preferred":[
-        "\u6797\u8d1d"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Limbe"
     ],
     "name:deu_x_preferred":[
-        "Limbe"
-    ],
-    "name:dut_x_preferred":[
         "Limbe"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     ],
     "name:fra_x_preferred":[
         "Limb\u00e9"
-    ],
-    "name:fre_x_preferred":[
-        "Limb\u00e9"
-    ],
-    "name:ger_x_preferred":[
-        "Limbe"
     ],
     "name:ita_x_preferred":[
         "Limbe"
@@ -58,9 +46,6 @@
     ],
     "name:lit_x_preferred":[
         "Limb\u0117"
-    ],
-    "name:may_x_preferred":[
-        "Limbe"
     ],
     "name:msa_x_preferred":[
         "Limbe"
@@ -78,9 +63,6 @@
         "Limbe"
     ],
     "name:ron_x_preferred":[
-        "Limb\u00e9"
-    ],
-    "name:rum_x_preferred":[
         "Limb\u00e9"
     ],
     "name:rus_x_preferred":[
@@ -243,7 +225,7 @@
         }
     ],
     "wof:id":421204497,
-    "wof:lastmodified":1527716180,
+    "wof:lastmodified":1561751471,
     "wof:name":"Limbe",
     "wof:parent_id":1092010823,
     "wof:placetype":"locality",

@@ -22,25 +22,16 @@
     "name:deu_x_preferred":[
         "Ngomedzap"
     ],
-    "name:dut_x_preferred":[
-        "Ngomedzap"
-    ],
     "name:eng_x_preferred":[
         "Ngomedzap"
     ],
     "name:fra_x_preferred":[
         "Ngomedzap"
     ],
-    "name:fre_x_preferred":[
-        "Ngomedzap"
-    ],
-    "name:ger_x_preferred":[
-        "Ngomedzap"
-    ],
-    "name:may_x_preferred":[
-        "Ngomedzap"
-    ],
     "name:msa_x_preferred":[
+        "Ngomedzap"
+    ],
+    "name:nld_x_preferred":[
         "Ngomedzap"
     ],
     "name:swe_x_preferred":[
@@ -94,7 +85,7 @@
         }
     ],
     "wof:id":421168371,
-    "wof:lastmodified":1527716094,
+    "wof:lastmodified":1561751470,
     "wof:name":"Ngomedzap",
     "wof:parent_id":1092011209,
     "wof:placetype":"locality",

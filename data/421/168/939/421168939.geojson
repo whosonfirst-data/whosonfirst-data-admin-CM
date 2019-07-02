@@ -26,17 +26,14 @@
     "name:ceb_x_preferred":[
         "Bafia"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u83f2\u4e9e"
-    ],
     "name:dan_x_preferred":[
         "Bafia"
     ],
     "name:deu_x_preferred":[
         "Bafia"
     ],
-    "name:dut_x_preferred":[
-        "Bafia"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ac\u03c6\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Bafia"
@@ -46,15 +43,6 @@
     ],
     "name:fra_x_preferred":[
         "Bafia"
-    ],
-    "name:fre_x_preferred":[
-        "Bafia"
-    ],
-    "name:ger_x_preferred":[
-        "Bafia"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ac\u03c6\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0aab\u0abf\u0aaf\u0abe"
@@ -89,13 +77,13 @@
     "name:mar_x_preferred":[
         "\u092c\u093e\u092b\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
-        "Bafia"
-    ],
     "name:msa_x_preferred":[
         "Bafia"
     ],
     "name:nan_x_preferred":[
+        "Bafia"
+    ],
+    "name:nld_x_preferred":[
         "Bafia"
     ],
     "name:nob_x_preferred":[
@@ -108,9 +96,6 @@
         "Bafia"
     ],
     "name:ron_x_preferred":[
-        "Bafia"
-    ],
-    "name:rum_x_preferred":[
         "Bafia"
     ],
     "name:rus_x_preferred":[
@@ -297,7 +282,7 @@
         }
     ],
     "wof:id":421168939,
-    "wof:lastmodified":1527716090,
+    "wof:lastmodified":1561751469,
     "wof:name":"Bafia",
     "wof:parent_id":1092011309,
     "wof:placetype":"locality",

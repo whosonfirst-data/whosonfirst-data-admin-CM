@@ -22,28 +22,19 @@
     "name:deu_x_preferred":[
         "Mouanko"
     ],
-    "name:dut_x_preferred":[
-        "Mouanko"
-    ],
     "name:eng_x_preferred":[
         "Mouanko"
     ],
     "name:fra_x_preferred":[
         "Mouanko"
     ],
-    "name:fre_x_preferred":[
-        "Mouanko"
-    ],
-    "name:ger_x_preferred":[
-        "Mouanko"
-    ],
     "name:ita_x_preferred":[
         "Mouanko"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mouanko"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Mouanko"
     ],
     "name:swe_x_preferred":[
@@ -100,7 +91,7 @@
         }
     ],
     "wof:id":421166911,
-    "wof:lastmodified":1527716106,
+    "wof:lastmodified":1561751470,
     "wof:name":"Mouangko",
     "wof:parent_id":1092011153,
     "wof:placetype":"locality",

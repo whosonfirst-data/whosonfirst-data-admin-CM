@@ -16,28 +16,19 @@
     "name:deu_x_preferred":[
         "Ngoro"
     ],
-    "name:dut_x_preferred":[
-        "Ngoro"
-    ],
     "name:eng_x_preferred":[
         "Ngoro"
     ],
     "name:fra_x_preferred":[
         "Ngoro"
     ],
-    "name:fre_x_preferred":[
-        "Ngoro"
-    ],
-    "name:ger_x_preferred":[
-        "Ngoro"
-    ],
     "name:ita_x_preferred":[
         "Ngoro"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ngoro"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Ngoro"
     ],
     "name:unk_x_variant":[
@@ -90,7 +81,7 @@
         }
     ],
     "wof:id":421173887,
-    "wof:lastmodified":1527716255,
+    "wof:lastmodified":1561751472,
     "wof:name":"Ngoro",
     "wof:parent_id":1092012311,
     "wof:placetype":"locality",

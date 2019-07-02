@@ -22,28 +22,19 @@
     "name:deu_x_preferred":[
         "Lolodorf"
     ],
-    "name:dut_x_preferred":[
-        "Lolodorf"
-    ],
     "name:eng_x_preferred":[
         "Lolodorf"
     ],
     "name:fra_x_preferred":[
         "Lolodorf"
     ],
-    "name:fre_x_preferred":[
-        "Lolodorf"
-    ],
-    "name:ger_x_preferred":[
-        "Lolodorf"
-    ],
     "name:ita_x_preferred":[
         "Lolodorf"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lolodorf"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Lolodorf"
     ],
     "name:pol_x_preferred":[
@@ -103,7 +94,7 @@
         }
     ],
     "wof:id":421167553,
-    "wof:lastmodified":1527716159,
+    "wof:lastmodified":1561751471,
     "wof:name":"Lolodorf",
     "wof:parent_id":1092012139,
     "wof:placetype":"locality",

@@ -16,7 +16,7 @@
     "name:eng_x_preferred":[
         "Nguti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nguti"
     ],
     "name:nan_x_preferred":[
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":421168457,
-    "wof:lastmodified":1513938889,
+    "wof:lastmodified":1561751470,
     "wof:name":"Nguti",
     "wof:parent_id":1092011063,
     "wof:placetype":"locality",

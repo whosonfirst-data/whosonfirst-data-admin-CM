@@ -26,17 +26,14 @@
     "name:ceb_x_preferred":[
         "Mbalmayo"
     ],
-    "name:chi_x_preferred":[
-        "\u59c6\u5df4\u723e\u99ac\u7d04"
-    ],
     "name:dan_x_preferred":[
         "Mbalmayo"
     ],
     "name:deu_x_preferred":[
         "Mbalmayo"
     ],
-    "name:dut_x_preferred":[
-        "Mbalmayo"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bb\u03bc\u03ac\u03b3\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "Mbalmayo"
@@ -46,15 +43,6 @@
     ],
     "name:fra_x_preferred":[
         "Mbalmayo"
-    ],
-    "name:fre_x_preferred":[
-        "Mbalmayo"
-    ],
-    "name:ger_x_preferred":[
-        "Mbalmayo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03bb\u03bc\u03ac\u03b3\u03b9\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aae\u0acd\u0aac\u0abe\u0ab2\u0aae\u0abe\u0aaf\u0acb"
@@ -86,13 +74,13 @@
     "name:mar_x_preferred":[
         "\u092e\u092c\u093e\u0932\u092e\u093e\u092f\u094b"
     ],
-    "name:may_x_preferred":[
-        "Mbalmayo"
-    ],
     "name:msa_x_preferred":[
         "Mbalmayo"
     ],
     "name:nan_x_preferred":[
+        "Mbalmayo"
+    ],
+    "name:nld_x_preferred":[
         "Mbalmayo"
     ],
     "name:nob_x_preferred":[
@@ -285,7 +273,7 @@
         }
     ],
     "wof:id":421178179,
-    "wof:lastmodified":1527717729,
+    "wof:lastmodified":1561751473,
     "wof:name":"Mbalmayo",
     "wof:parent_id":1092011209,
     "wof:placetype":"locality",

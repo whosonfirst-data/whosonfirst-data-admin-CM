@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Batibo"
     ],
-    "name:dut_x_preferred":[
-        "Batibo"
-    ],
     "name:eng_x_preferred":[
         "Batibo"
     ],
@@ -34,16 +31,10 @@
     "name:fra_x_preferred":[
         "Batibo"
     ],
-    "name:fre_x_preferred":[
-        "Batibo"
-    ],
-    "name:ger_x_preferred":[
-        "Batibo"
-    ],
-    "name:may_x_preferred":[
-        "Batibo"
-    ],
     "name:msa_x_preferred":[
+        "Batibo"
+    ],
+    "name:nld_x_preferred":[
         "Batibo"
     ],
     "name:swe_x_preferred":[
@@ -96,7 +87,7 @@
         }
     ],
     "wof:id":421168449,
-    "wof:lastmodified":1527716091,
+    "wof:lastmodified":1561751470,
     "wof:name":"Batibo",
     "wof:parent_id":1092010649,
     "wof:placetype":"locality",

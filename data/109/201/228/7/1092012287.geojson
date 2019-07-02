@@ -35,7 +35,7 @@
     "name:aze_x_preferred":[
         "Benue"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "B\u00e9nou\u00e9"
     ],
     "name:eng_x_preferred":[
@@ -45,14 +45,14 @@
         "B\u00e9noue",
         "B\u00e9nou\u00e9"
     ],
-    "name:fre_x_preferred":[
-        "B\u00e9nou\u00e9"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "B\u00e9nou\u00e9"
     ],
     "name:ita_x_preferred":[
         "Dipartimento di B\u00e9nou\u00e9"
+    ],
+    "name:nld_x_preferred":[
+        "B\u00e9nou\u00e9"
     ],
     "name:nob_x_preferred":[
         "B\u00e9nou\u00e9"
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":1092012287,
-    "wof:lastmodified":1553718028,
+    "wof:lastmodified":1561751461,
     "wof:name":"Benoue",
     "wof:parent_id":85669957,
     "wof:placetype":"county",
