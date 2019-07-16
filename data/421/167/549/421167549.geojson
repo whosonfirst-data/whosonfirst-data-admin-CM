@@ -37,10 +37,16 @@
     "name:msa_x_preferred":[
         "Mudemba"
     ],
+    "name:nan_x_preferred":[
+        "Mundemba"
+    ],
     "name:nld_x_preferred":[
         "Mundemba"
     ],
     "name:pol_x_preferred":[
+        "Mundemba"
+    ],
+    "name:spa_x_preferred":[
         "Mundemba"
     ],
     "name:swe_x_preferred":[
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421167549,
-    "wof:lastmodified":1561751471,
+    "wof:lastmodified":1563235102,
     "wof:name":"Mundemba",
     "wof:parent_id":1092010791,
     "wof:placetype":"locality",

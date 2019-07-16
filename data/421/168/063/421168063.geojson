@@ -16,6 +16,12 @@
     "name:cat_x_preferred":[
         "Rey Bouba"
     ],
+    "name:eng_x_preferred":[
+        "Palace of Rey Bouba"
+    ],
+    "name:fra_x_preferred":[
+        "Rey-Bouba"
+    ],
     "name:swe_x_preferred":[
         "Rey Bouba"
     ],
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":421168063,
-    "wof:lastmodified":1527716093,
+    "wof:lastmodified":1563235088,
     "wof:name":"Rey Bouba",
     "wof:parent_id":1092011703,
     "wof:placetype":"locality",

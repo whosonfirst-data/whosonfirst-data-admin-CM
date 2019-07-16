@@ -28,6 +28,9 @@
     "name:msa_x_preferred":[
         "Bangou"
     ],
+    "name:nan_x_preferred":[
+        "Bangou"
+    ],
     "name:nld_x_preferred":[
         "Bangou"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":890420447,
-    "wof:lastmodified":1561751474,
+    "wof:lastmodified":1563235140,
     "wof:name":"Ngou",
     "wof:parent_id":1092012197,
     "wof:placetype":"locality",

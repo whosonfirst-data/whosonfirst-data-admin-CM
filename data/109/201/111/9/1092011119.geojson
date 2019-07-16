@@ -44,6 +44,9 @@
     "name:ita_x_preferred":[
         "Dipartimento di Nkam"
     ],
+    "name:nan_x_preferred":[
+        "Nkam Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Nkam"
     ],
@@ -55,6 +58,12 @@
     ],
     "name:rus_x_preferred":[
         "\u041d\u043a\u0430\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Nkam"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u574e\u5dde"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1092011119,
-    "wof:lastmodified":1561751462,
+    "wof:lastmodified":1563234985,
     "wof:name":"Nkam",
     "wof:parent_id":85669937,
     "wof:placetype":"county",

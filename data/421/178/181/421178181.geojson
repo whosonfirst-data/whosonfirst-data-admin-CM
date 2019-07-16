@@ -25,6 +25,9 @@
     "name:fra_x_preferred":[
         "Ka\u00e9l\u00e9"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05dc\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Ka\u00e9l\u00e9"
     ],
@@ -47,6 +50,9 @@
         "Ka\u00e9l\u00e9"
     ],
     "name:ron_x_preferred":[
+        "Ka\u00e9l\u00e9"
+    ],
+    "name:spa_x_preferred":[
         "Ka\u00e9l\u00e9"
     ],
     "name:swe_x_preferred":[
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":421178181,
-    "wof:lastmodified":1561751473,
+    "wof:lastmodified":1563235130,
     "wof:name":"Ka\u00e9l\u00e9",
     "wof:parent_id":1092011963,
     "wof:placetype":"locality",

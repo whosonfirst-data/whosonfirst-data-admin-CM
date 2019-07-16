@@ -31,7 +31,13 @@
     "name:msa_x_preferred":[
         "Ndikinim\u00e9ki"
     ],
+    "name:nan_x_preferred":[
+        "Ndikinim\u00e9ki"
+    ],
     "name:nld_x_preferred":[
+        "Ndikinim\u00e9ki"
+    ],
+    "name:spa_x_preferred":[
         "Ndikinim\u00e9ki"
     ],
     "name:swe_x_preferred":[
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421196709,
-    "wof:lastmodified":1561751472,
+    "wof:lastmodified":1563235120,
     "wof:name":"Ndikinim\u00e9ki",
     "wof:parent_id":1092011309,
     "wof:placetype":"locality",

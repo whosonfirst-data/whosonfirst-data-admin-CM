@@ -18,10 +18,16 @@
     "name:bul_x_preferred":[
         "\u041c\u0443\u0442\u0435\u043d\u0433\u0435\u043d\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Mutengene"
+    ],
     "name:eng_x_preferred":[
         "Mutengene"
     ],
     "name:fra_x_preferred":[
+        "Mutengene"
+    ],
+    "name:nan_x_preferred":[
         "Mutengene"
     ],
     "name:nld_x_preferred":[
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":890437831,
-    "wof:lastmodified":1561751474,
+    "wof:lastmodified":1563235138,
     "wof:name":"Mutengene",
     "wof:parent_id":1092010823,
     "wof:placetype":"locality",

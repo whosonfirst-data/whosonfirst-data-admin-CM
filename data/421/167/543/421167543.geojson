@@ -53,6 +53,9 @@
     "name:ron_x_preferred":[
         "Wum"
     ],
+    "name:spa_x_preferred":[
+        "Wum"
+    ],
     "name:swe_x_preferred":[
         "Wum"
     ],
@@ -204,7 +207,7 @@
         }
     ],
     "wof:id":421167543,
-    "wof:lastmodified":1561751471,
+    "wof:lastmodified":1563235100,
     "wof:name":"Wum",
     "wof:parent_id":1092010619,
     "wof:placetype":"locality",

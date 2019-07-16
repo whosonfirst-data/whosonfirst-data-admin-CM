@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u063a\u0627\u0631\u0648\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0642\u0627\u0631\u0648\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u0430\u0440\u0443\u0430"
     ],
@@ -141,6 +144,9 @@
         "Garua"
     ],
     "name:swe_x_preferred":[
+        "Garoua"
+    ],
+    "name:szl_x_preferred":[
         "Garoua"
     ],
     "name:tam_x_preferred":[
@@ -315,7 +321,7 @@
         }
     ],
     "wof:id":421182669,
-    "wof:lastmodified":1561751474,
+    "wof:lastmodified":1563235134,
     "wof:name":"Garoua",
     "wof:parent_id":1092012287,
     "wof:placetype":"locality",

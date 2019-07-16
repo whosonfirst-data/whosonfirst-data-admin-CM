@@ -37,6 +37,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 del Sud"
     ],
+    "name:ceb_x_preferred":[
+        "South Region"
+    ],
     "name:dan_x_preferred":[
         "Syd Region"
     ],
@@ -54,8 +57,14 @@
         "South",
         "Sud"
     ],
+    "name:epo_x_preferred":[
+        "Suda Regiono"
+    ],
     "name:est_x_preferred":[
         "L\u00f5unapiirkond"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u062c\u0646\u0648\u0628"
     ],
     "name:fin_x_preferred":[
         "South"
@@ -70,8 +79,14 @@
         "Province du Sud",
         "R\u00e9gion du Sud"
     ],
+    "name:frr_x_preferred":[
+        "Sud"
+    ],
     "name:guj_x_preferred":[
         "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d4\u05d3\u05e8\u05d5\u05dd"
     ],
     "name:hin_x_preferred":[
         "\u0926\u0915\u094d\u0937\u093f\u0923"
@@ -88,8 +103,14 @@
     "name:kan_x_preferred":[
         "\u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10db\u10ee\u10e0\u10d4\u10d7\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub0a8\ubd80 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub0a8\ubd80\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Dienvidu re\u0123ions"
@@ -102,6 +123,9 @@
     ],
     "name:msa_x_preferred":[
         "South Region"
+    ],
+    "name:nan_x_preferred":[
+        "Sud Chiu"
     ],
     "name:nld_x_preferred":[
         "Sud"
@@ -283,7 +307,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1561751429,
+    "wof:lastmodified":1563233949,
     "wof:name":"Sud",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

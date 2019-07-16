@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0626\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0443\u044d\u0430"
     ],
@@ -42,6 +45,9 @@
         "\u039c\u03c0\u03bf\u03c5\u03ad\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Buea"
+    ],
+    "name:epo_x_preferred":[
         "Buea"
     ],
     "name:est_x_preferred":[
@@ -304,7 +310,7 @@
         }
     ],
     "wof:id":421175867,
-    "wof:lastmodified":1561751472,
+    "wof:lastmodified":1563235118,
     "wof:name":"Buea",
     "wof:parent_id":1092010823,
     "wof:placetype":"locality",

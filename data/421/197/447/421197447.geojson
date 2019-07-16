@@ -76,6 +76,9 @@
     "name:msa_x_preferred":[
         "Lagdo"
     ],
+    "name:nan_x_preferred":[
+        "Lagdo"
+    ],
     "name:nld_x_preferred":[
         "Lagdo"
     ],
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":421197447,
-    "wof:lastmodified":1561751473,
+    "wof:lastmodified":1563235122,
     "wof:name":"Lagdo",
     "wof:parent_id":1092012287,
     "wof:placetype":"locality",

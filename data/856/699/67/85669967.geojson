@@ -37,6 +37,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 del Sud-oest"
     ],
+    "name:ceb_x_preferred":[
+        "South-West Region"
+    ],
     "name:dan_x_preferred":[
         "Sydvest region"
     ],
@@ -55,8 +58,14 @@
         "Sud-Ouest",
         "Southwest"
     ],
+    "name:epo_x_preferred":[
+        "Sudokcidenta Regiono"
+    ],
     "name:est_x_preferred":[
         "Edelapiirkond"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u062c\u0646\u0648\u0628 \u063a\u0631\u0628\u06cc"
     ],
     "name:fin_x_preferred":[
         "Southwest"
@@ -71,11 +80,20 @@
         "Province du Sud-Ouest",
         "R\u00e9gion du Sud-Ouest"
     ],
+    "name:frr_x_preferred":[
+        "Sud-Ouest"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0a89\u0aa5\u0ab5\u0ac7\u0ab8\u0acd\u0a9f"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d3\u05e8\u05d5\u05dd-\u05de\u05e2\u05e8\u05d1"
+    ],
     "name:hin_x_preferred":[
         "\u0926\u0915\u094d\u0937\u093f\u0923 \u092a\u0936\u094d\u091a\u093f\u092e"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0580\u0561\u057e\u0561\u0580\u0587\u0574\u057f\u0575\u0561\u0576 \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Region Barat Daya"
@@ -88,6 +106,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0ca8\u0cc8\u0c8b\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10db\u10ee\u10e0\u10d4\u10d7-\u10d3\u10d0\u10e1\u10d0\u10d5\u10da\u10d4\u10d7\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ub0a8\uc11c\ubd80 \uc8fc"
@@ -103,6 +124,9 @@
     ],
     "name:msa_x_preferred":[
         "Southwest"
+    ],
+    "name:nan_x_preferred":[
+        "Sud-Ouest Chiu"
     ],
     "name:nld_x_preferred":[
         "Sud-Ouest"
@@ -284,7 +308,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1561751428,
+    "wof:lastmodified":1563233944,
     "wof:name":"Sud Ouest",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

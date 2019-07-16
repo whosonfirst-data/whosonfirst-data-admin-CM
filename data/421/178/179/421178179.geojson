@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Mbalmayo"
     ],
+    "name:cym_x_preferred":[
+        "Mbalmayo"
+    ],
     "name:dan_x_preferred":[
         "Mbalmayo"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aae\u0acd\u0aac\u0abe\u0ab2\u0aae\u0abe\u0aaf\u0acb"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d1\u05dc\u05de\u05d0\u05d9\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u092c\u0932\u092e\u093e\u092f\u094b"
@@ -273,7 +279,7 @@
         }
     ],
     "wof:id":421178179,
-    "wof:lastmodified":1561751473,
+    "wof:lastmodified":1563235132,
     "wof:name":"Mbalmayo",
     "wof:parent_id":1092011209,
     "wof:placetype":"locality",

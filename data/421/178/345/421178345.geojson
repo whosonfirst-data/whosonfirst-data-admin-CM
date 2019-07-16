@@ -59,6 +59,9 @@
     "name:hrv_x_preferred":[
         "Kumba"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u0574\u0562\u0561"
+    ],
     "name:ind_x_preferred":[
         "Kumba"
     ],
@@ -286,7 +289,7 @@
         }
     ],
     "wof:id":421178345,
-    "wof:lastmodified":1561751473,
+    "wof:lastmodified":1563235132,
     "wof:name":"Kumba",
     "wof:parent_id":1092010859,
     "wof:placetype":"locality",

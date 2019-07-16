@@ -59,6 +59,9 @@
     "name:ron_x_preferred":[
         "Bafang"
     ],
+    "name:spa_x_preferred":[
+        "Bafang"
+    ],
     "name:swe_x_preferred":[
         "Bafang"
     ],
@@ -207,7 +210,7 @@
         }
     ],
     "wof:id":421168943,
-    "wof:lastmodified":1561751470,
+    "wof:lastmodified":1563235092,
     "wof:name":"Bafang",
     "wof:parent_id":1092010971,
     "wof:placetype":"locality",

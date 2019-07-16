@@ -50,6 +50,9 @@
     "name:por_x_preferred":[
         "Tibati"
     ],
+    "name:spa_x_preferred":[
+        "Tibati"
+    ],
     "name:swe_x_preferred":[
         "Tibati"
     ],
@@ -198,7 +201,7 @@
         }
     ],
     "wof:id":421178169,
-    "wof:lastmodified":1561751473,
+    "wof:lastmodified":1563235129,
     "wof:name":"Tibati",
     "wof:parent_id":1092011605,
     "wof:placetype":"locality",

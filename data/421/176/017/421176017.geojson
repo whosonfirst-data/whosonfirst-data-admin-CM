@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "The New Bell"
+    ],
+    "name:spa_x_preferred":[
+        "La campana nueva"
+    ],
     "qs:gn_country":"CM",
     "qs:gn_fcode":"PPLX",
     "qs:gn_id":2224922,
@@ -34,10 +40,10 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":69,
     "wof:belongsto":[
+        85669937,
         102191573,
         85632245,
-        1092012257,
-        85669937
+        1092012257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":421176017,
-    "wof:lastmodified":1531858421,
+    "wof:lastmodified":1563235136,
     "wof:name":"New Bell",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

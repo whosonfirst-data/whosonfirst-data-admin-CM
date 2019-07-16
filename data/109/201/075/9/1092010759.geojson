@@ -44,6 +44,9 @@
     "name:ita_x_preferred":[
         "Dipartimento di Boyo"
     ],
+    "name:nan_x_preferred":[
+        "Boyo Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Boyo"
     ],
@@ -55,6 +58,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0439\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Boyo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u7d04\u5dde"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1092010759,
-    "wof:lastmodified":1561751465,
+    "wof:lastmodified":1563234993,
     "wof:name":"Boyo",
     "wof:parent_id":85669941,
     "wof:placetype":"county",

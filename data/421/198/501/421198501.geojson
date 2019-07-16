@@ -25,6 +25,12 @@
     "name:fra_x_preferred":[
         "Mamf\u00e9"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05de\u05e4\u05d4"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0574\u0586\u0565"
+    ],
     "name:ita_x_preferred":[
         "Mamf\u00e9"
     ],
@@ -51,6 +57,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043c\u0444\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Mamf\u00e9 Central"
     ],
     "name:swe_x_preferred":[
         "Mamfe"
@@ -108,7 +117,7 @@
         }
     ],
     "wof:id":421198501,
-    "wof:lastmodified":1561751472,
+    "wof:lastmodified":1563235120,
     "wof:name":"Mamfe",
     "wof:parent_id":1092011003,
     "wof:placetype":"locality",

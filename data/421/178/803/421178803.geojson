@@ -14,8 +14,47 @@
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0625\u064a\u0633\u064a\u0643\u0627"
+    ],
+    "name:bre_x_preferred":[
+        "\u00c9s\u00e9ka"
+    ],
     "name:ceb_x_preferred":[
         "Es\u00e9ka"
+    ],
+    "name:ces_x_preferred":[
+        "\u00c9s\u00e9ka"
+    ],
+    "name:deu_x_preferred":[
+        "\u00c9s\u00e9ka"
+    ],
+    "name:eng_x_preferred":[
+        "\u00c9s\u00e9ka"
+    ],
+    "name:fra_x_preferred":[
+        "\u00c9s\u00e9ka"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e1\u05e7\u05d4"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u057d\u0565\u056f\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Es\u00e9ka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30bb\u30ab"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c9s\u00e9ka"
+    ],
+    "name:nan_x_preferred":[
+        "\u00c9s\u00e9ka"
+    ],
+    "name:nld_x_preferred":[
+        "\u00c9s\u00e9ka"
     ],
     "name:pol_x_preferred":[
         "Es\u00e9ka"
@@ -23,8 +62,23 @@
     "name:por_x_preferred":[
         "Es\u00e9ka"
     ],
+    "name:por_x_variant":[
+        "\u00c9s\u00e9ka"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0441\u0435\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Es\u00e9ka"
+    ],
     "name:swe_x_preferred":[
         "Es\u00e9ka"
+    ],
+    "name:szl_x_preferred":[
+        "Es\u00e9ka"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0633\u06cc\u06a9\u0627"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Cameroon",
@@ -166,7 +220,7 @@
         }
     ],
     "wof:id":421178803,
-    "wof:lastmodified":1527717720,
+    "wof:lastmodified":1563235130,
     "wof:name":"Es\u00e9ka",
     "wof:parent_id":1092011187,
     "wof:placetype":"locality",

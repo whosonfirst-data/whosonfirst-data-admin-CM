@@ -31,7 +31,13 @@
     "name:msa_x_preferred":[
         "Ngomedzap"
     ],
+    "name:nan_x_preferred":[
+        "Ngomedzap"
+    ],
     "name:nld_x_preferred":[
+        "Ngomedzap"
+    ],
+    "name:spa_x_preferred":[
         "Ngomedzap"
     ],
     "name:swe_x_preferred":[
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":421168371,
-    "wof:lastmodified":1561751470,
+    "wof:lastmodified":1563235089,
     "wof:name":"Ngomedzap",
     "wof:parent_id":1092011209,
     "wof:placetype":"locality",

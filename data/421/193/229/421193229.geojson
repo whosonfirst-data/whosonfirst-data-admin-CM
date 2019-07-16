@@ -31,10 +31,16 @@
     "name:msa_x_preferred":[
         "Pitoa"
     ],
+    "name:nan_x_preferred":[
+        "Pitoa"
+    ],
     "name:nld_x_preferred":[
         "Pitoa"
     ],
     "name:pol_x_preferred":[
+        "Pitoa"
+    ],
+    "name:spa_x_preferred":[
         "Pitoa"
     ],
     "name:swe_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421193229,
-    "wof:lastmodified":1561751471,
+    "wof:lastmodified":1563235096,
     "wof:name":"Pitoa",
     "wof:parent_id":1092012287,
     "wof:placetype":"locality",

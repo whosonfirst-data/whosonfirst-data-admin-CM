@@ -28,13 +28,22 @@
     "name:ita_x_preferred":[
         "Soa"
     ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30a2"
+    ],
     "name:msa_x_preferred":[
+        "Soa"
+    ],
+    "name:nan_x_preferred":[
         "Soa"
     ],
     "name:nld_x_preferred":[
         "Soa"
     ],
     "name:pol_x_preferred":[
+        "Soa"
+    ],
+    "name:spa_x_preferred":[
         "Soa"
     ],
     "name:swe_x_preferred":[
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":421168109,
-    "wof:lastmodified":1561751470,
+    "wof:lastmodified":1563235089,
     "wof:name":"Soa",
     "wof:parent_id":1092010921,
     "wof:placetype":"locality",

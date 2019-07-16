@@ -34,10 +34,16 @@
     "name:msa_x_preferred":[
         "Lolodorf"
     ],
+    "name:nan_x_preferred":[
+        "Lolodorf"
+    ],
     "name:nld_x_preferred":[
         "Lolodorf"
     ],
     "name:pol_x_preferred":[
+        "Lolodorf"
+    ],
+    "name:spa_x_preferred":[
         "Lolodorf"
     ],
     "name:swe_x_preferred":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421167553,
-    "wof:lastmodified":1561751471,
+    "wof:lastmodified":1563235102,
     "wof:name":"Lolodorf",
     "wof:parent_id":1092012139,
     "wof:placetype":"locality",

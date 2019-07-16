@@ -53,6 +53,9 @@
     "name:rus_x_preferred":[
         "\u041c\u0435\u0439\u0433\u0430\u043d\u0433\u0435"
     ],
+    "name:spa_x_preferred":[
+        "Meiganga"
+    ],
     "name:swe_x_preferred":[
         "Me\u00efganga"
     ],
@@ -204,7 +207,7 @@
         }
     ],
     "wof:id":421175863,
-    "wof:lastmodified":1561751472,
+    "wof:lastmodified":1563235119,
     "wof:name":"Me\u00efganga",
     "wof:parent_id":1092011633,
     "wof:placetype":"locality",

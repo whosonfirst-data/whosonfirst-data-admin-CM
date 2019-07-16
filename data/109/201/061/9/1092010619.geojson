@@ -44,6 +44,9 @@
     "name:ita_x_preferred":[
         "Dipartimento di Menchum"
     ],
+    "name:nan_x_preferred":[
+        "Menchum Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Menchum"
     ],
@@ -55,6 +58,12 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u043d\u0447\u0443\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Menchum"
+    ],
+    "name:zho_x_preferred":[
+        "\u9580\u6625\u5dde"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1092010619,
-    "wof:lastmodified":1561751466,
+    "wof:lastmodified":1563235000,
     "wof:name":"Menchum",
     "wof:parent_id":85669941,
     "wof:placetype":"county",

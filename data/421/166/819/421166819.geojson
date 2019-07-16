@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Bandjoun"
     ],
+    "name:deu_x_preferred":[
+        "Bandjoun"
+    ],
     "name:eng_x_preferred":[
         "Bandjoun"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421166819,
-    "wof:lastmodified":1561751470,
+    "wof:lastmodified":1563235093,
     "wof:name":"Bandjoun",
     "wof:parent_id":1092012225,
     "wof:placetype":"locality",

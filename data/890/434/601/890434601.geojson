@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043c\u0443\u0441\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Bamusso"
+    ],
     "name:eng_x_preferred":[
         "Bamuso"
     ],
@@ -30,8 +33,17 @@
     "name:msa_x_preferred":[
         "Bamuso"
     ],
+    "name:nan_x_preferred":[
+        "Bamusso"
+    ],
     "name:nld_x_preferred":[
         "Bamuso"
+    ],
+    "name:pol_x_preferred":[
+        "Bamusso"
+    ],
+    "name:spa_x_preferred":[
+        "Bamusso"
     ],
     "name:swe_x_preferred":[
         "Bamusso"
@@ -70,7 +82,7 @@
         }
     ],
     "wof:id":890434601,
-    "wof:lastmodified":1561751474,
+    "wof:lastmodified":1563235141,
     "wof:name":"Bamusso",
     "wof:parent_id":1092010791,
     "wof:placetype":"locality",

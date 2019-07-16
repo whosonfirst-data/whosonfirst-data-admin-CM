@@ -19,6 +19,9 @@
     "name:dan_x_preferred":[
         "Mbanga"
     ],
+    "name:deu_x_preferred":[
+        "Mbanga"
+    ],
     "name:eng_x_preferred":[
         "Mbanga"
     ],
@@ -31,6 +34,9 @@
     "name:msa_x_preferred":[
         "Mbanga"
     ],
+    "name:nan_x_preferred":[
+        "Mbanga"
+    ],
     "name:nld_x_preferred":[
         "Mbanga"
     ],
@@ -38,6 +44,9 @@
         "Mbanga"
     ],
     "name:por_x_preferred":[
+        "Mbanga"
+    ],
+    "name:spa_x_preferred":[
         "Mbanga"
     ],
     "name:swe_x_preferred":[
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":421178173,
-    "wof:lastmodified":1561751473,
+    "wof:lastmodified":1563235130,
     "wof:name":"Mbanga",
     "wof:parent_id":1092011087,
     "wof:placetype":"locality",

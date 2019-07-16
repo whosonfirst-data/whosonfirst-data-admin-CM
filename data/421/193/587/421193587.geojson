@@ -31,7 +31,13 @@
     "name:msa_x_preferred":[
         "Jakiri"
     ],
+    "name:nan_x_preferred":[
+        "Jakiri"
+    ],
     "name:nld_x_preferred":[
+        "Jakiri"
+    ],
+    "name:spa_x_preferred":[
         "Jakiri"
     ],
     "name:swe_x_preferred":[
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421193587,
-    "wof:lastmodified":1561751471,
+    "wof:lastmodified":1563235097,
     "wof:name":"Jakiri",
     "wof:parent_id":1092012009,
     "wof:placetype":"locality",

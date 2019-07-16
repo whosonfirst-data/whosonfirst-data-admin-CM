@@ -62,6 +62,9 @@
     "name:spa_x_preferred":[
         "Faro"
     ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u7f85\u5dde"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1092011667,
-    "wof:lastmodified":1561751460,
+    "wof:lastmodified":1563234973,
     "wof:name":"Faro",
     "wof:parent_id":85669957,
     "wof:placetype":"county",

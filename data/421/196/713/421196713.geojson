@@ -46,6 +46,9 @@
     "name:rus_x_preferred":[
         "\u0419\u043e\u043a\u043e"
     ],
+    "name:spa_x_preferred":[
+        "Yoko"
+    ],
     "name:swe_x_preferred":[
         "Yoko"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421196713,
-    "wof:lastmodified":1561751473,
+    "wof:lastmodified":1563235122,
     "wof:name":"Yoko",
     "wof:parent_id":1092012311,
     "wof:placetype":"locality",

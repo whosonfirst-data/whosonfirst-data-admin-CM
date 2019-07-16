@@ -49,6 +49,9 @@
     "name:rus_x_preferred":[
         "\u041c\u043e\u0440\u0435"
     ],
+    "name:spa_x_preferred":[
+        "Mora"
+    ],
     "name:swe_x_preferred":[
         "Mora"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421200255,
-    "wof:lastmodified":1561751473,
+    "wof:lastmodified":1563235126,
     "wof:name":"Mora",
     "wof:parent_id":1092011759,
     "wof:placetype":"locality",

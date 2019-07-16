@@ -48,6 +48,9 @@
     "name:ita_x_preferred":[
         "Dipartimento di Faro-et-D\u00e9o"
     ],
+    "name:nan_x_preferred":[
+        "Faro-et-D\u00e9o Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Faro-et-D\u00e9o"
     ],
@@ -62,6 +65,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0424\u0430\u0440\u043e \u0438 \u0414\u0435\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Faro-Deo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u7f85-\u4ee3\u5967\u5dde"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":1092011545,
-    "wof:lastmodified":1561751463,
+    "wof:lastmodified":1563234988,
     "wof:name":"Faro et Deo",
     "wof:parent_id":85669953,
     "wof:placetype":"county",

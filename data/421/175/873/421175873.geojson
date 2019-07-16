@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Batouri"
     ],
+    "name:deu_x_preferred":[
+        "Batouri"
+    ],
     "name:eng_x_preferred":[
         "Batouri"
     ],
@@ -48,6 +51,9 @@
         "Batouri"
     ],
     "name:por_x_preferred":[
+        "Batouri"
+    ],
+    "name:spa_x_preferred":[
         "Batouri"
     ],
     "name:swe_x_preferred":[
@@ -201,7 +207,7 @@
         }
     ],
     "wof:id":421175873,
-    "wof:lastmodified":1561751472,
+    "wof:lastmodified":1563235116,
     "wof:name":"Batouri",
     "wof:parent_id":1092011431,
     "wof:placetype":"locality",

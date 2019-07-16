@@ -32,6 +32,9 @@
     "mps:longitude":12.698335,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Djerem"
+    ],
     "name:deu_x_preferred":[
         "Dj\u00e9rem"
     ],
@@ -39,7 +42,6 @@
         "Djerem"
     ],
     "name:eng_x_variant":[
-        "Djerem",
         "Dj\u00e9rem"
     ],
     "name:fra_x_preferred":[
@@ -47,6 +49,9 @@
     ],
     "name:ita_x_preferred":[
         "Dipartimento di Djerem"
+    ],
+    "name:nan_x_preferred":[
+        "Dj\u00e9rem Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Dj\u00e9rem"
@@ -62,6 +67,15 @@
     ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u0435\u0440\u0435\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Djerem"
+    ],
+    "name:swe_x_preferred":[
+        "Djerem"
+    ],
+    "name:zho_x_preferred":[
+        "\u5091\u96f7\u59c6\u5dde"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -99,7 +113,7 @@
         }
     ],
     "wof:id":1092011605,
-    "wof:lastmodified":1561751460,
+    "wof:lastmodified":1563234974,
     "wof:name":"Djerem",
     "wof:parent_id":85669953,
     "wof:placetype":"county",

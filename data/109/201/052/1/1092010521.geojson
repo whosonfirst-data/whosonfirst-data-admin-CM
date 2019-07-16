@@ -44,6 +44,9 @@
     "name:ita_x_preferred":[
         "Dipartimento di Noun"
     ],
+    "name:nan_x_preferred":[
+        "Noun Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Noun"
     ],
@@ -55,6 +58,12 @@
     ],
     "name:rus_x_preferred":[
         "\u041d\u0443\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Noun"
+    ],
+    "name:zho_x_preferred":[
+        "\u52aa\u6069\u5dde"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1092010521,
-    "wof:lastmodified":1561751462,
+    "wof:lastmodified":1563234982,
     "wof:name":"Noun",
     "wof:parent_id":85669961,
     "wof:placetype":"county",

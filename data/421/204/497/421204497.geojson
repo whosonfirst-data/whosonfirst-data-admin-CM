@@ -35,6 +35,12 @@
     "name:fra_x_preferred":[
         "Limb\u00e9"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05de\u05d1\u05d4"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u0574\u0562\u0565"
+    ],
     "name:ita_x_preferred":[
         "Limbe"
     ],
@@ -76,6 +82,9 @@
     ],
     "name:swe_x_preferred":[
         "Limbe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u043c\u0431\u0435"
     ],
     "name:unk_x_variant":[
         "Victoria"
@@ -225,7 +234,7 @@
         }
     ],
     "wof:id":421204497,
-    "wof:lastmodified":1561751471,
+    "wof:lastmodified":1563235105,
     "wof:name":"Limbe",
     "wof:parent_id":1092010823,
     "wof:placetype":"locality",

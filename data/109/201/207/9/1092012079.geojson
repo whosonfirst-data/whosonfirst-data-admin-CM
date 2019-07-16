@@ -39,14 +39,16 @@
         "Leki\u00e9"
     ],
     "name:eng_x_variant":[
-        "L\u00e9ki\u00e9",
-        "Leki\u00e9"
+        "L\u00e9ki\u00e9"
     ],
     "name:fra_x_preferred":[
         "Leki\u00e9"
     ],
     "name:ita_x_preferred":[
         "Dipartimento di Leki\u00e9"
+    ],
+    "name:nan_x_preferred":[
+        "Leki\u00e9 Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Leki\u00e9"
@@ -60,8 +62,14 @@
     "name:rus_x_preferred":[
         "\u041b\u0435\u043a\u044c\u0435"
     ],
+    "name:spa_x_preferred":[
+        "Leki\u00e9"
+    ],
     "name:swe_x_preferred":[
         "D\u00e9partement de la L\u00e9ki\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u57fa\u57c3\u5dde"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -99,7 +107,7 @@
         }
     ],
     "wof:id":1092012079,
-    "wof:lastmodified":1561751466,
+    "wof:lastmodified":1563234999,
     "wof:name":"Lekie",
     "wof:parent_id":85669945,
     "wof:placetype":"county",
