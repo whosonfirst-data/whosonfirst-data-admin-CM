@@ -20,11 +20,17 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u0627\u0644\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u062f\u0648\u0627\u0644\u0627"
+    ],
     "name:aze_x_preferred":[
         "Duala"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0443\u0430\u043b\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0414\u0443\u0430\u043b\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09a6\u09cb\u09af\u09bc\u09be\u09b2\u09be"
@@ -39,6 +45,9 @@
         "\u0414\u0443\u0430\u043b\u0430"
     ],
     "name:cat_x_preferred":[
+        "Douala"
+    ],
+    "name:ceb_x_preferred":[
         "Douala"
     ],
     "name:ces_x_preferred":[
@@ -92,6 +101,9 @@
     "name:gle_x_preferred":[
         "Douala"
     ],
+    "name:glg_x_preferred":[
+        "Douala"
+    ],
     "name:guj_x_preferred":[
         "\u0aa1\u0acb\u0a86\u0ab2\u0abe"
     ],
@@ -115,6 +127,12 @@
     ],
     "name:hye_x_preferred":[
         "\u0534\u0578\u0582\u0561\u056c\u0561"
+    ],
+    "name:ido_x_preferred":[
+        "Douala"
+    ],
+    "name:ile_x_preferred":[
+        "Douala"
     ],
     "name:ind_x_preferred":[
         "Douala"
@@ -185,6 +203,9 @@
     "name:pan_x_preferred":[
         "\u0a26\u0a4c\u0a06\u0a32\u0a3e"
     ],
+    "name:pan_x_variant":[
+        "\u0a26\u0a42\u0a06\u0a32\u0a3e"
+    ],
     "name:pms_x_preferred":[
         "Douala"
     ],
@@ -193,6 +214,9 @@
     ],
     "name:por_x_preferred":[
         "Douala"
+    ],
+    "name:por_x_variant":[
+        "Duala"
     ],
     "name:ron_x_preferred":[
         "Douala"
@@ -418,7 +442,7 @@
         }
     ],
     "wof:id":421189877,
-    "wof:lastmodified":1561751472,
+    "wof:lastmodified":1563235115,
     "wof:name":"Douala",
     "wof:parent_id":1092012257,
     "wof:placetype":"locality",

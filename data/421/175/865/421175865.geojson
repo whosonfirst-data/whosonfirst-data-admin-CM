@@ -31,7 +31,13 @@
     "name:msa_x_preferred":[
         "Dibombari"
     ],
+    "name:nan_x_preferred":[
+        "Dibombari"
+    ],
     "name:nld_x_preferred":[
+        "Dibombari"
+    ],
+    "name:spa_x_preferred":[
         "Dibombari"
     ],
     "name:swe_x_preferred":[
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":421175865,
-    "wof:lastmodified":1561751472,
+    "wof:lastmodified":1563235118,
     "wof:name":"Dibombari",
     "wof:parent_id":1092011087,
     "wof:placetype":"locality",

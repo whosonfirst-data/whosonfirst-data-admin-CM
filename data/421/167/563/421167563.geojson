@@ -37,6 +37,9 @@
     "name:msa_x_preferred":[
         "Foumbot"
     ],
+    "name:nan_x_preferred":[
+        "Foumbot"
+    ],
     "name:nld_x_preferred":[
         "Foumbot"
     ],
@@ -44,6 +47,9 @@
         "Foumbot"
     ],
     "name:por_x_preferred":[
+        "Foumbot"
+    ],
+    "name:spa_x_preferred":[
         "Foumbot"
     ],
     "name:swe_x_preferred":[
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421167563,
-    "wof:lastmodified":1561751471,
+    "wof:lastmodified":1563235101,
     "wof:name":"Foumbot",
     "wof:parent_id":1092010521,
     "wof:placetype":"locality",

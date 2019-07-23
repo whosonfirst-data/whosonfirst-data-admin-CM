@@ -34,6 +34,9 @@
     "name:msa_x_preferred":[
         "Nkoteng"
     ],
+    "name:nan_x_preferred":[
+        "Nkoteng"
+    ],
     "name:nld_x_preferred":[
         "Nkoteng"
     ],
@@ -41,6 +44,9 @@
         "Nkoteng"
     ],
     "name:por_x_preferred":[
+        "Nkoteng"
+    ],
+    "name:spa_x_preferred":[
         "Nkoteng"
     ],
     "name:swe_x_preferred":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421176863,
-    "wof:lastmodified":1561751474,
+    "wof:lastmodified":1563235137,
     "wof:name":"Nkoteng",
     "wof:parent_id":1092011277,
     "wof:placetype":"locality",

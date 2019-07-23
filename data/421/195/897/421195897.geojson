@@ -35,10 +35,16 @@
     "name:msa_x_preferred":[
         "Kontcha"
     ],
+    "name:nan_x_preferred":[
+        "Kontcha"
+    ],
     "name:nld_x_preferred":[
         "Kontcha"
     ],
     "name:por_x_preferred":[
+        "Kontcha"
+    ],
+    "name:spa_x_preferred":[
         "Kontcha"
     ],
     "name:swe_x_preferred":[
@@ -187,7 +193,7 @@
         }
     ],
     "wof:id":421195897,
-    "wof:lastmodified":1561751470,
+    "wof:lastmodified":1563235094,
     "wof:name":"Kontcha",
     "wof:parent_id":1092011545,
     "wof:placetype":"locality",

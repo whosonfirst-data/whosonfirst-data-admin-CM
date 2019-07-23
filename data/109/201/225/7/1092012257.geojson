@@ -42,14 +42,16 @@
         "Wouri"
     ],
     "name:eng_x_variant":[
-        "Wouril",
-        "Wouri"
+        "Wouril"
     ],
     "name:fra_x_preferred":[
         "Wouri"
     ],
     "name:ita_x_preferred":[
         "Dipartimento di Wouri"
+    ],
+    "name:nan_x_preferred":[
+        "Wouri Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Wouri"
@@ -63,8 +65,14 @@
     "name:rus_x_preferred":[
         "\u0412\u0443\u0440\u0438"
     ],
+    "name:spa_x_preferred":[
+        "Wouri"
+    ],
     "name:ukr_x_preferred":[
         "\u0412\u0443\u0440\u0456"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0d\u91cc\u5dde"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -102,7 +110,7 @@
         }
     ],
     "wof:id":1092012257,
-    "wof:lastmodified":1561751465,
+    "wof:lastmodified":1563234994,
     "wof:name":"Wouri",
     "wof:parent_id":85669937,
     "wof:placetype":"county",

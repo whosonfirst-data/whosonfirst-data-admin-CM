@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648\u0646\u063a-\u0645\u0628\u0627\u0646\u063a"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0628\u0627\u0646\u0642-\u0627\u0645\u0628\u0627\u0646\u0642"
+    ],
     "name:ceb_x_preferred":[
         "Abong Mbang"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:fra_x_preferred":[
         "Abong-Mbang"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05d5\u05e0\u05d2-\u05de\u05d1\u05d0\u05e0\u05d2"
     ],
     "name:ita_x_preferred":[
         "Abong-Mbang"
@@ -57,6 +63,9 @@
         "Abong-Mbang"
     ],
     "name:ron_x_preferred":[
+        "Abong-Mbang"
+    ],
+    "name:spa_x_preferred":[
         "Abong-Mbang"
     ],
     "name:swe_x_preferred":[
@@ -210,7 +219,7 @@
         }
     ],
     "wof:id":421182023,
-    "wof:lastmodified":1561751473,
+    "wof:lastmodified":1563235133,
     "wof:name":"Abong-Mbang",
     "wof:parent_id":1092011347,
     "wof:placetype":"locality",

@@ -56,6 +56,9 @@
     "name:ron_x_preferred":[
         "Guider"
     ],
+    "name:spa_x_preferred":[
+        "Guider"
+    ],
     "name:swe_x_preferred":[
         "Guider"
     ],
@@ -207,7 +210,7 @@
         }
     ],
     "wof:id":421195899,
-    "wof:lastmodified":1561751470,
+    "wof:lastmodified":1563235094,
     "wof:name":"Guider",
     "wof:parent_id":1092011479,
     "wof:placetype":"locality",

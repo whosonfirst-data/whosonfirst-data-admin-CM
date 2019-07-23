@@ -28,7 +28,13 @@
     "name:msa_x_preferred":[
         "Njinikom"
     ],
+    "name:nan_x_preferred":[
+        "Njinikom"
+    ],
     "name:nld_x_preferred":[
+        "Njinikom"
+    ],
+    "name:spa_x_preferred":[
         "Njinikom"
     ],
     "name:swe_x_preferred":[
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":421175861,
-    "wof:lastmodified":1561751472,
+    "wof:lastmodified":1563235116,
     "wof:name":"Njinikom",
     "wof:parent_id":1092010759,
     "wof:placetype":"locality",

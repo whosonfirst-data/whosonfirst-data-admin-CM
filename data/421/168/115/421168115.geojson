@@ -49,6 +49,9 @@
     "name:ron_x_preferred":[
         "Banyo"
     ],
+    "name:spa_x_preferred":[
+        "Banyo"
+    ],
     "name:swe_x_preferred":[
         "Banyo"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":421168115,
-    "wof:lastmodified":1561751470,
+    "wof:lastmodified":1563235092,
     "wof:name":"Banyo",
     "wof:parent_id":1092011501,
     "wof:placetype":"locality",

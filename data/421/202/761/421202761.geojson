@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Bangangt\u00e9"
     ],
+    "name:deu_x_preferred":[
+        "Bangangt\u00e9"
+    ],
     "name:eng_x_preferred":[
         "Bangangt\u00e9"
     ],
@@ -25,10 +28,19 @@
     "name:fra_x_variant":[
         "Bangant\u00e9"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05e0\u05d2\u05d0\u05e0\u05d2\u05d8\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Bangangte"
     ],
+    "name:ita_x_variant":[
+        "Bangangt\u00e9"
+    ],
     "name:msa_x_preferred":[
+        "Bangangt\u00e9"
+    ],
+    "name:nan_x_preferred":[
         "Bangangt\u00e9"
     ],
     "name:nld_x_preferred":[
@@ -38,6 +50,9 @@
         "Bangangt\u00e9"
     ],
     "name:por_x_preferred":[
+        "Bangangt\u00e9"
+    ],
+    "name:spa_x_preferred":[
         "Bangangt\u00e9"
     ],
     "name:swe_x_preferred":[
@@ -94,7 +109,7 @@
         }
     ],
     "wof:id":421202761,
-    "wof:lastmodified":1561751472,
+    "wof:lastmodified":1563235108,
     "wof:name":"Bangangt\u00e9",
     "wof:parent_id":1092010493,
     "wof:placetype":"locality",

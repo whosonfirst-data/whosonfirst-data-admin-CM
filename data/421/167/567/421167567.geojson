@@ -28,7 +28,13 @@
     "name:msa_x_preferred":[
         "Djohong"
     ],
+    "name:nan_x_preferred":[
+        "Djohong"
+    ],
     "name:nld_x_preferred":[
+        "Djohong"
+    ],
+    "name:spa_x_preferred":[
         "Djohong"
     ],
     "name:swe_x_preferred":[
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":421167567,
-    "wof:lastmodified":1561751471,
+    "wof:lastmodified":1563235098,
     "wof:name":"Djohong",
     "wof:parent_id":1092011633,
     "wof:placetype":"locality",

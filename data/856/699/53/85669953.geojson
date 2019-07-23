@@ -40,11 +40,17 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 d'Adamawa"
     ],
+    "name:ceb_x_preferred":[
+        "Adamaoua Region"
+    ],
     "name:dan_x_preferred":[
         "Adamawa"
     ],
     "name:deu_x_preferred":[
         "Adamaoua"
+    ],
+    "name:deu_x_variant":[
+        "Adamaua"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bd\u03c4\u03b1\u03bc\u03ac\u03bf\u03c5\u03b1"
@@ -57,6 +63,9 @@
         "Adamawa",
         "Adamawa Region",
         "Adamaoua"
+    ],
+    "name:epo_x_preferred":[
+        "Regiono Adama\u016da"
     ],
     "name:est_x_preferred":[
         "Adamaoua piirkond"
@@ -78,8 +87,14 @@
         "R\u00e9gion de l\u2019Adamaoua",
         "R\u00e9gion de l'Adamaoua"
     ],
+    "name:frr_x_preferred":[
+        "Adamaoua"
+    ],
     "name:guj_x_preferred":[
         "\u0a86\u0aa6\u0aae\u0abe\u0ab5\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d0\u05d3\u05de\u05d0\u05d5\u05d5\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0905\u0926\u093e\u092e\u093e\u0935\u093e"
@@ -95,6 +110,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c86\u0ca1\u0cae\u0cbe\u0cb5\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d3\u10d0\u10db\u10d0\u10d5\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc544\ub2e4\ub9c8\uc640 \uc8fc"
@@ -113,6 +131,9 @@
     ],
     "name:msa_x_preferred":[
         "Adamawa"
+    ],
+    "name:nan_x_preferred":[
+        "Adamaoua Chiu"
     ],
     "name:nld_x_preferred":[
         "Adamaoua"
@@ -296,7 +317,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1561751429,
+    "wof:lastmodified":1563233946,
     "wof:name":"Adamaoua",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

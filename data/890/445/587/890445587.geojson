@@ -21,6 +21,9 @@
     "name:fra_x_preferred":[
         "Somi\u00e9"
     ],
+    "name:nan_x_preferred":[
+        "Somi\u00e9"
+    ],
     "name:unk_x_variant":[
         "Ndeba"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":890445587,
-    "wof:lastmodified":1561751474,
+    "wof:lastmodified":1563235140,
     "wof:name":"Somi\u00e9",
     "wof:parent_id":1092011501,
     "wof:placetype":"locality",

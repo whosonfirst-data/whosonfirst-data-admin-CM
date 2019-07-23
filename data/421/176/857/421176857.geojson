@@ -28,6 +28,9 @@
     "name:msa_x_preferred":[
         "Mindif"
     ],
+    "name:nan_x_preferred":[
+        "Mindif"
+    ],
     "name:nld_x_preferred":[
         "Mindif"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421176857,
-    "wof:lastmodified":1561751474,
+    "wof:lastmodified":1563235135,
     "wof:name":"Mindif",
     "wof:parent_id":1092011963,
     "wof:placetype":"locality",

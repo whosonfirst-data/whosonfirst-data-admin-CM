@@ -56,6 +56,9 @@
     "name:rus_x_preferred":[
         "\u0411\u0435\u043b\u0430\u0431\u043e"
     ],
+    "name:spa_x_preferred":[
+        "B\u00e9labo"
+    ],
     "name:swe_x_preferred":[
         "B\u00e9labo"
     ],
@@ -204,7 +207,7 @@
         }
     ],
     "wof:id":421168443,
-    "wof:lastmodified":1561751470,
+    "wof:lastmodified":1563235090,
     "wof:name":"B\u00e9labo",
     "wof:parent_id":1092011395,
     "wof:placetype":"locality",

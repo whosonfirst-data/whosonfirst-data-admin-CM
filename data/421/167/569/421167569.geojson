@@ -28,6 +28,9 @@
     "name:msa_x_preferred":[
         "Bana"
     ],
+    "name:nan_x_preferred":[
+        "Bana"
+    ],
     "name:nld_x_preferred":[
         "Bana"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421167569,
-    "wof:lastmodified":1561751471,
+    "wof:lastmodified":1563235098,
     "wof:name":"Bana",
     "wof:parent_id":1092010971,
     "wof:placetype":"locality",

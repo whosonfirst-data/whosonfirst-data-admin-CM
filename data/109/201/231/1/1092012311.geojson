@@ -32,6 +32,9 @@
     "mps:longitude":11.882316,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mbam-et-Kim"
+    ],
     "name:deu_x_preferred":[
         "Mbam-et-Kim"
     ],
@@ -48,6 +51,9 @@
     "name:ita_x_preferred":[
         "Dipartimento di Mbam e Kim"
     ],
+    "name:nan_x_preferred":[
+        "Mbam-et-Kim Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Mbam-et-Kim"
     ],
@@ -60,8 +66,14 @@
     "name:rus_x_preferred":[
         "\u041c\u0431\u0430\u043c \u0438 \u041a\u0438\u043c"
     ],
+    "name:spa_x_preferred":[
+        "Mbam-et-Kim"
+    ],
     "name:swe_x_preferred":[
         "Mbam-et-Kim"
+    ],
+    "name:zho_x_preferred":[
+        "\u59c6\u73ed-\u91d1\u5dde"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":1092012311,
-    "wof:lastmodified":1561751465,
+    "wof:lastmodified":1563234998,
     "wof:name":"Mbam et Kim",
     "wof:parent_id":85669945,
     "wof:placetype":"county",

@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Loum"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05dd"
+    ],
     "name:hun_x_preferred":[
         "Loum"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041b\u0443\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Loum"
     ],
     "name:swe_x_preferred":[
         "Loum"
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":421183541,
-    "wof:lastmodified":1561751473,
+    "wof:lastmodified":1563235127,
     "wof:name":"Loum",
     "wof:parent_id":1092011087,
     "wof:placetype":"locality",

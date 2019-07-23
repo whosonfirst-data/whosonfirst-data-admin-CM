@@ -25,6 +25,9 @@
     "name:dan_x_preferred":[
         "Bog\u00f8"
     ],
+    "name:dan_x_variant":[
+        "Bogo"
+    ],
     "name:deu_x_preferred":[
         "Bogo"
     ],
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":421169941,
-    "wof:lastmodified":1561751471,
+    "wof:lastmodified":1563235104,
     "wof:name":"Bogo",
     "wof:parent_id":1092011977,
     "wof:placetype":"locality",

@@ -22,16 +22,25 @@
     "name:fra_x_preferred":[
         "Tchollir\u00e9"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d5\u05dc\u05d9\u05e8\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Tchollir\u00e9"
     ],
     "name:msa_x_preferred":[
         "Tchollir\u00e9"
     ],
+    "name:nan_x_preferred":[
+        "Tchollir\u00e9"
+    ],
     "name:nld_x_preferred":[
         "Tchollir\u00e9"
     ],
     "name:pol_x_preferred":[
+        "Tchollir\u00e9"
+    ],
+    "name:spa_x_preferred":[
         "Tchollir\u00e9"
     ],
     "name:swe_x_preferred":[
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":421178171,
-    "wof:lastmodified":1561751473,
+    "wof:lastmodified":1563235133,
     "wof:name":"Tchollir\u00e9",
     "wof:parent_id":1092011703,
     "wof:placetype":"locality",

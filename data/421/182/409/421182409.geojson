@@ -59,6 +59,9 @@
     "name:hau_x_preferred":[
         "Marwa"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05d5\u05d0\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0941\u0930\u093e"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:hun_x_preferred":[
         "Maroua"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0580\u0578\u0582\u0561"
     ],
     "name:ind_x_preferred":[
         "Maroua"
@@ -303,7 +309,7 @@
         }
     ],
     "wof:id":421182409,
-    "wof:lastmodified":1561751474,
+    "wof:lastmodified":1563235135,
     "wof:name":"Maroua",
     "wof:parent_id":1092011977,
     "wof:placetype":"locality",

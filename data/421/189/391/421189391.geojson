@@ -52,6 +52,9 @@
     "name:por_x_preferred":[
         "Yagoua"
     ],
+    "name:spa_x_preferred":[
+        "Yagoua"
+    ],
     "name:swe_x_preferred":[
         "Yagoua"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":421189391,
-    "wof:lastmodified":1561751472,
+    "wof:lastmodified":1563235114,
     "wof:name":"Yagoua",
     "wof:parent_id":1108390249,
     "wof:placetype":"locality",

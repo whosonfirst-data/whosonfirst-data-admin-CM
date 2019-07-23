@@ -25,6 +25,9 @@
     "name:fra_x_preferred":[
         "Mokolo"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e7\u05d5\u05dc\u05d5"
+    ],
     "name:ita_x_preferred":[
         "Mokolo"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u043a\u043e\u043b\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Mokolo"
     ],
     "name:swe_x_preferred":[
         "Mokolo"
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":421167551,
-    "wof:lastmodified":1561751471,
+    "wof:lastmodified":1563235098,
     "wof:name":"Mokolo",
     "wof:parent_id":1092011899,
     "wof:placetype":"locality",

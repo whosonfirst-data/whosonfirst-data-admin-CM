@@ -42,14 +42,16 @@
         "B\u00e9nou\u00e9"
     ],
     "name:eng_x_variant":[
-        "B\u00e9noue",
-        "B\u00e9nou\u00e9"
+        "B\u00e9noue"
     ],
     "name:fra_x_preferred":[
         "B\u00e9nou\u00e9"
     ],
     "name:ita_x_preferred":[
         "Dipartimento di B\u00e9nou\u00e9"
+    ],
+    "name:nan_x_preferred":[
+        "B\u00e9nou\u00e9 Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "B\u00e9nou\u00e9"
@@ -62,6 +64,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u043d\u0443\u044d"
+    ],
+    "name:spa_x_preferred":[
+        "B\u00e9nou\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u52aa\u57c3\u5dde"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -99,7 +107,7 @@
         }
     ],
     "wof:id":1092012287,
-    "wof:lastmodified":1561751461,
+    "wof:lastmodified":1563234978,
     "wof:name":"Benoue",
     "wof:parent_id":85669957,
     "wof:placetype":"county",

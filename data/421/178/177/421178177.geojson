@@ -25,6 +25,9 @@
     "name:nan_x_preferred":[
         "Mbang"
     ],
+    "name:spa_x_preferred":[
+        "Mbang"
+    ],
     "qs:gn_country":"CM",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":2228019,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":421178177,
-    "wof:lastmodified":1561751473,
+    "wof:lastmodified":1563235131,
     "wof:name":"Mbang",
     "wof:parent_id":1092011395,
     "wof:placetype":"locality",

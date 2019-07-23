@@ -34,7 +34,13 @@
     "name:msa_x_preferred":[
         "Belo"
     ],
+    "name:nan_x_preferred":[
+        "Belo"
+    ],
     "name:nld_x_preferred":[
+        "Belo"
+    ],
+    "name:spa_x_preferred":[
         "Belo"
     ],
     "name:swe_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421205359,
-    "wof:lastmodified":1561751472,
+    "wof:lastmodified":1563235108,
     "wof:name":"Belo",
     "wof:parent_id":1092010661,
     "wof:placetype":"locality",

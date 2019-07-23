@@ -16,10 +16,22 @@
     "name:ceb_x_preferred":[
         "Muyuka"
     ],
+    "name:eng_x_preferred":[
+        "Muyuka"
+    ],
     "name:fra_x_preferred":[
         "Muyuka"
     ],
+    "name:ita_x_preferred":[
+        "Muyuka"
+    ],
     "name:msa_x_preferred":[
+        "Muyuka"
+    ],
+    "name:nan_x_preferred":[
+        "Muyuka"
+    ],
+    "name:nld_x_preferred":[
         "Muyuka"
     ],
     "name:pol_x_preferred":[
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":421167547,
-    "wof:lastmodified":1527716162,
+    "wof:lastmodified":1563235103,
     "wof:name":"Muyuka",
     "wof:parent_id":1092010823,
     "wof:placetype":"locality",

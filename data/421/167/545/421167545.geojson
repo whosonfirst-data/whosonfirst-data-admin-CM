@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Kribi"
     ],
+    "name:ces_x_preferred":[
+        "Kribi"
+    ],
     "name:dan_x_preferred":[
         "Kribi"
     ],
@@ -288,7 +291,7 @@
         }
     ],
     "wof:id":421167545,
-    "wof:lastmodified":1561751471,
+    "wof:lastmodified":1563235101,
     "wof:name":"Kribi",
     "wof:parent_id":1092012139,
     "wof:placetype":"locality",

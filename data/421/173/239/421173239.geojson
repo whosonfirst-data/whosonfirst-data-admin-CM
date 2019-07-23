@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0641\u0648\u0633\u0627\u0645"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u0641\u0648\u0633\u0627\u0645"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u0444\u0443\u0441\u0430\u043c"
     ],
@@ -320,7 +323,7 @@
         }
     ],
     "wof:id":421173239,
-    "wof:lastmodified":1561751472,
+    "wof:lastmodified":1563235113,
     "wof:name":"Bafoussam",
     "wof:parent_id":1092010591,
     "wof:placetype":"locality",

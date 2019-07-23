@@ -55,6 +55,9 @@
     "name:slv_x_preferred":[
         "Obala"
     ],
+    "name:spa_x_preferred":[
+        "Obala"
+    ],
     "name:swe_x_preferred":[
         "Obala"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421198503,
-    "wof:lastmodified":1561751472,
+    "wof:lastmodified":1563235119,
     "wof:name":"Obala",
     "wof:parent_id":1092012079,
     "wof:placetype":"locality",

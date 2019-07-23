@@ -28,10 +28,16 @@
     "name:msa_x_preferred":[
         "Bazou"
     ],
+    "name:nan_x_preferred":[
+        "Bazou"
+    ],
     "name:nld_x_preferred":[
         "Bazou"
     ],
     "name:pol_x_preferred":[
+        "Bazou"
+    ],
+    "name:spa_x_preferred":[
         "Bazou"
     ],
     "name:swe_x_preferred":[
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":421168111,
-    "wof:lastmodified":1561751470,
+    "wof:lastmodified":1563235088,
     "wof:name":"Bazou",
     "wof:parent_id":1092010493,
     "wof:placetype":"locality",

@@ -22,10 +22,16 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043d\u0441\u043e\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Bansoa"
+    ],
     "name:eng_x_preferred":[
         "Bansoa"
     ],
     "name:fra_x_preferred":[
+        "Bansoa"
+    ],
+    "name:nan_x_preferred":[
         "Bansoa"
     ],
     "name:swe_x_preferred":[
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1125940331,
-    "wof:lastmodified":1561751474,
+    "wof:lastmodified":1563235142,
     "wof:name":"Bansoa",
     "wof:parent_id":1092010943,
     "wof:placetype":"locality",

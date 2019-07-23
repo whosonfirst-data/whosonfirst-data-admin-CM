@@ -18,8 +18,17 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043d\u043a\u0438\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Bankim"
+    ],
+    "name:deu_x_preferred":[
+        "Bankim"
+    ],
     "name:eng_x_preferred":[
         "Bamkin"
+    ],
+    "name:eng_x_variant":[
+        "Bankim"
     ],
     "name:fra_x_preferred":[
         "Bankim"
@@ -30,8 +39,17 @@
     "name:msa_x_preferred":[
         "Bankim"
     ],
+    "name:nan_x_preferred":[
+        "Bankim"
+    ],
     "name:nld_x_preferred":[
         "Bamkin"
+    ],
+    "name:nld_x_variant":[
+        "Bankim"
+    ],
+    "name:spa_x_preferred":[
+        "Bankim"
     ],
     "name:swe_x_preferred":[
         "Bankim"
@@ -72,7 +90,7 @@
         }
     ],
     "wof:id":890420419,
-    "wof:lastmodified":1561751474,
+    "wof:lastmodified":1563235140,
     "wof:name":"Bankim",
     "wof:parent_id":1092011501,
     "wof:placetype":"locality",

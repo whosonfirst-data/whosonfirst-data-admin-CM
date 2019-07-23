@@ -35,6 +35,9 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0642\u0648\u0646 \u0648\u0634\u0627\u0631\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "D\u00e9partement du Logone-et-Chari"
+    ],
     "name:deu_x_preferred":[
         "Logone-et-Chari"
     ],
@@ -51,6 +54,9 @@
     "name:ita_x_preferred":[
         "Dipartimento di Logone e Chari"
     ],
+    "name:nan_x_preferred":[
+        "Logone-et-Chari Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Logone-et-Chari"
     ],
@@ -62,6 +68,15 @@
     ],
     "name:rus_x_preferred":[
         "\u041b\u043e\u0433\u043e\u043d\u0435 \u0438 \u0428\u0430\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Logone-et-Chari"
+    ],
+    "name:swe_x_preferred":[
+        "D\u00e9partement du Logone-et-Chari"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u8ca2-\u6c99\u91cc\u5dde"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -99,7 +114,7 @@
         }
     ],
     "wof:id":1092011735,
-    "wof:lastmodified":1561751462,
+    "wof:lastmodified":1563234984,
     "wof:name":"Logone et Chari",
     "wof:parent_id":85669933,
     "wof:placetype":"county",
