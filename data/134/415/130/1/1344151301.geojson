@@ -25,6 +25,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nyan"
+    ],
+    "name:deu_x_preferred":[
+        "Nyan"
+    ],
+    "name:swe_x_preferred":[
+        "Nyan"
+    ],
     "name:und_x_variant":[
         "Ntong",
         "Nton",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1344151301,
-    "wof:lastmodified":1537591219,
+    "wof:lastmodified":1564165274,
     "wof:name":"Nyan",
     "wof:parent_id":1092010727,
     "wof:placetype":"locality",

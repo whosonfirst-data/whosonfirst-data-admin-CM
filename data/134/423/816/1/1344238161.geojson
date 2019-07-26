@@ -25,6 +25,21 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Matomb"
+    ],
+    "name:fra_x_preferred":[
+        "Matomb"
+    ],
+    "name:ita_x_preferred":[
+        "Matomb"
+    ],
+    "name:msa_x_preferred":[
+        "Matomb"
+    ],
+    "name:spa_x_preferred":[
+        "Matomb"
+    ],
     "name:und_x_variant":[
         "Matomb",
         "Matonb"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1344238161,
-    "wof:lastmodified":1537591260,
+    "wof:lastmodified":1564165283,
     "wof:name":"Matonb",
     "wof:parent_id":1092011187,
     "wof:placetype":"locality",

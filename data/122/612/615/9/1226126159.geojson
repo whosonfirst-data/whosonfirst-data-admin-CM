@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ngaoui"
+    ],
+    "name:ita_x_preferred":[
+        "Ngaoui"
+    ],
+    "name:msa_x_preferred":[
+        "Ngaoui"
+    ],
+    "name:spa_x_preferred":[
+        "Ngaoui"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1226126159,
-    "wof:lastmodified":1536606207,
+    "wof:lastmodified":1564167229,
     "wof:name":"Ngaoui",
     "wof:parent_id":1092011633,
     "wof:placetype":"locality",

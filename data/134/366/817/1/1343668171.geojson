@@ -25,8 +25,35 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lomi\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Lomi\u00e9"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05de\u05d9\u05d9\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Lomi\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Lomi\u00e9"
+    ],
+    "name:pol_x_preferred":[
+        "Lomi\u00e9"
+    ],
+    "name:ron_x_preferred":[
+        "Lomi\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Lomi\u00e9"
+    ],
     "name:und_x_variant":[
         "Lomi\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u7c73\u57c3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1343668171,
-    "wof:lastmodified":1537591270,
+    "wof:lastmodified":1564165340,
     "wof:name":"Lomie",
     "wof:parent_id":1092011347,
     "wof:placetype":"locality",

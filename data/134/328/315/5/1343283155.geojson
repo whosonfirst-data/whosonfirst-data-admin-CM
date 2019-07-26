@@ -25,6 +25,84 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Assesse"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0441\u0435\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Assesse"
+    ],
+    "name:ceb_x_preferred":[
+        "Assesse"
+    ],
+    "name:deu_x_preferred":[
+        "Assesse"
+    ],
+    "name:epo_x_preferred":[
+        "Assesse"
+    ],
+    "name:est_x_preferred":[
+        "Assesse"
+    ],
+    "name:eus_x_preferred":[
+        "Assesse"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Assesse"
+    ],
+    "name:ita_x_preferred":[
+        "Assesse"
+    ],
+    "name:lim_x_preferred":[
+        "Assesse"
+    ],
+    "name:nld_x_preferred":[
+        "Assesse"
+    ],
+    "name:nor_x_preferred":[
+        "Assesse"
+    ],
+    "name:oci_x_preferred":[
+        "Assesse"
+    ],
+    "name:pol_x_preferred":[
+        "Assesse"
+    ],
+    "name:por_x_preferred":[
+        "Assesse"
+    ],
+    "name:ron_x_preferred":[
+        "Assesse"
+    ],
+    "name:slk_x_preferred":[
+        "Assesse"
+    ],
+    "name:spa_x_preferred":[
+        "Assesse"
+    ],
+    "name:swe_x_preferred":[
+        "Assesse"
+    ],
+    "name:vie_x_preferred":[
+        "Assesse"
+    ],
+    "name:vol_x_preferred":[
+        "Assesse"
+    ],
+    "name:war_x_preferred":[
+        "Assesse"
+    ],
+    "name:wln_x_preferred":[
+        "Assesse"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u585e\u65af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +126,7 @@
         }
     ],
     "wof:id":1343283155,
-    "wof:lastmodified":1537001461,
+    "wof:lastmodified":1564165423,
     "wof:name":"Assesse",
     "wof:parent_id":1092010619,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Soppo"
+    ],
     "name:und_x_variant":[
         "S\u014fpo",
         "Zopo",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1260064637,
-    "wof:lastmodified":1537591203,
+    "wof:lastmodified":1564166248,
     "wof:name":"Great Sopo",
     "wof:parent_id":1092010823,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ngen"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1276852065,
-    "wof:lastmodified":1537075316,
+    "wof:lastmodified":1564165816,
     "wof:name":"Ngen",
     "wof:parent_id":1092011209,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bongi"
+    ],
+    "name:swe_x_preferred":[
+        "Bongi"
+    ],
     "name:und_x_variant":[
         "Bongui",
         "Bongi"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1327016235,
-    "wof:lastmodified":1537591319,
+    "wof:lastmodified":1564164973,
     "wof:name":"Bongi",
     "wof:parent_id":1092012287,
     "wof:placetype":"locality",

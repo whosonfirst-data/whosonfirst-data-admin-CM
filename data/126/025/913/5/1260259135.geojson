@@ -25,6 +25,30 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Touboro"
+    ],
+    "name:fra_x_preferred":[
+        "Touboro"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05d1\u05d5\u05e8\u05d5"
+    ],
+    "name:ita_x_preferred":[
+        "Touboro"
+    ],
+    "name:msa_x_preferred":[
+        "Touboro"
+    ],
+    "name:pol_x_preferred":[
+        "Touboro"
+    ],
+    "name:spa_x_preferred":[
+        "Touboro"
+    ],
+    "name:swe_x_preferred":[
+        "Touboro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1260259135,
-    "wof:lastmodified":1537489514,
+    "wof:lastmodified":1564166216,
     "wof:name":"Touboro",
     "wof:parent_id":1092011703,
     "wof:placetype":"locality",

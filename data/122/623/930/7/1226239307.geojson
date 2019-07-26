@@ -31,6 +31,12 @@
     "name:fra_x_variant":[
         "Kouoptamo"
     ],
+    "name:msa_x_preferred":[
+        "Kouoptamo"
+    ],
+    "name:spa_x_preferred":[
+        "Kouoptamo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1226239307,
-    "wof:lastmodified":1537591275,
+    "wof:lastmodified":1564167212,
     "wof:name":"Kouoptame",
     "wof:parent_id":1092010521,
     "wof:placetype":"locality",

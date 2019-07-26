@@ -25,6 +25,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648 \u0625\u062a\u0634"
+    ],
+    "name:hun_x_preferred":[
+        "Oh"
+    ],
+    "name:spa_x_preferred":[
+        "OH"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1260158179,
-    "wof:lastmodified":1536882074,
+    "wof:lastmodified":1564166211,
     "wof:name":"Oh",
     "wof:parent_id":1092011735,
     "wof:placetype":"locality",

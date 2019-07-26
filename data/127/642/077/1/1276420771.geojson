@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sirak"
+    ],
+    "name:fin_x_preferred":[
+        "Sirak"
+    ],
+    "name:fra_x_preferred":[
+        "Sirak"
+    ],
+    "name:swe_x_preferred":[
+        "Sirak"
+    ],
     "name:und_x_variant":[
         "Sirac",
         "Sirak",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1276420771,
-    "wof:lastmodified":1537591204,
+    "wof:lastmodified":1564165715,
     "wof:name":"Sirak",
     "wof:parent_id":1092011899,
     "wof:placetype":"locality",

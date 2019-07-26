@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Olamze"
+    ],
+    "name:fra_x_preferred":[
+        "Olamze"
+    ],
+    "name:msa_x_preferred":[
+        "Olamze"
+    ],
+    "name:spa_x_preferred":[
+        "Olamze"
+    ],
     "name:und_x_variant":[
         "Olamz\u00e9"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1327000939,
-    "wof:lastmodified":1537591218,
+    "wof:lastmodified":1564164992,
     "wof:name":"Olamze",
     "wof:parent_id":1092012107,
     "wof:placetype":"locality",

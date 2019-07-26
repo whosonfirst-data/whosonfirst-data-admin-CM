@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mins\u00e9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1293468035,
-    "wof:lastmodified":1536814493,
+    "wof:lastmodified":1564165493,
     "wof:name":"Minse",
     "wof:parent_id":1092011187,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Adia"
+    ],
     "name:und_x_variant":[
         "Adjia",
         "Adia"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226230241,
-    "wof:lastmodified":1537591343,
+    "wof:lastmodified":1564167212,
     "wof:name":"Adia",
     "wof:parent_id":1092012311,
     "wof:placetype":"locality",

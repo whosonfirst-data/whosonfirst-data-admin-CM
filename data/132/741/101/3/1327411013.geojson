@@ -25,6 +25,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bourrha"
+    ],
+    "name:msa_x_preferred":[
+        "Bourrha"
+    ],
+    "name:spa_x_preferred":[
+        "Bourrha"
+    ],
     "name:und_x_variant":[
         "Bourrha",
         "Burha",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1327411013,
-    "wof:lastmodified":1537591316,
+    "wof:lastmodified":1564165086,
     "wof:name":"Bourrah",
     "wof:parent_id":1092011899,
     "wof:placetype":"locality",

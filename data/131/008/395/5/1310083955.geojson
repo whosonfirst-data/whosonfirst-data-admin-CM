@@ -25,6 +25,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0410\u0445\u0430\u043b\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Ahala"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u0430\u043b\u044b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1310083955,
-    "wof:lastmodified":1537026445,
+    "wof:lastmodified":1564166364,
     "wof:name":"Ahala",
     "wof:parent_id":1092012045,
     "wof:placetype":"locality",

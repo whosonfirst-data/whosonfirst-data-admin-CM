@@ -25,6 +25,27 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sabla"
+    ],
+    "name:epo_x_preferred":[
+        "Sabla"
+    ],
+    "name:msa_x_preferred":[
+        "Sabla"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u093e\u0935\u0932\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u093e\u092c\u094d\u0932\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Sabla"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0628\u0644\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1360062421,
-    "wof:lastmodified":1536977867,
+    "wof:lastmodified":1564166483,
     "wof:name":"Sabla",
     "wof:parent_id":1092011735,
     "wof:placetype":"locality",

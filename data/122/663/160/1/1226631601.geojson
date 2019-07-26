@@ -25,8 +25,194 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Maatskappy"
+    ],
+    "name:ara_x_preferred":[
+        "\u0634\u0631\u0643\u0629"
+    ],
+    "name:aze_x_preferred":[
+        "\u015eirk\u0259t"
+    ],
+    "name:bel_x_preferred":[
+        "\u0424\u0456\u0440\u043c\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cb\u09ae\u09cd\u09aa\u09be\u09a8\u09bf"
+    ],
+    "name:bos_x_preferred":[
+        "Kompanija"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u044a\u0440\u0433\u043e\u0432\u0441\u043a\u043e \u0434\u0440\u0443\u0436\u0435\u0441\u0442\u0432\u043e"
+    ],
+    "name:cdo_x_preferred":[
+        "G\u016dng-s\u012d"
+    ],
+    "name:deu_x_preferred":[
+        "Personenvereinigung"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c4\u03b1\u03b9\u03c1\u03b5\u03af\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Company"
+    ],
+    "name:epo_x_preferred":[
+        "Kompanio"
+    ],
+    "name:eus_x_preferred":[
+        "Enpresa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0631\u06a9\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Compagnie"
+    ],
+    "name:gle_x_preferred":[
+        "Comhlacht"
+    ],
+    "name:glv_x_preferred":[
+        "Colught"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0a82\u0aaa\u0aa8\u0ac0"
+    ],
+    "name:hau_x_preferred":[
+        "Kamfani"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d1\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0902\u092a\u0928\u0940"
+    ],
+    "name:hye_x_preferred":[
+        "\u0541\u0565\u057c\u0576\u0561\u0580\u056f\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
+    ],
+    "name:ido_x_preferred":[
+        "Kompanio"
+    ],
+    "name:ind_x_preferred":[
+        "Badan usaha"
+    ],
+    "name:ita_x_preferred":[
+        "Societ\u00e0"
+    ],
+    "name:jam_x_preferred":[
+        "Kompini"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0c82\u0caa\u0ca8\u0cbf/\u0cb8\u0c82\u0c98"
+    ],
+    "name:kir_x_preferred":[
+        "\u0424\u0438\u0440\u043c\u0430"
+    ],
+    "name:kur_x_preferred":[
+        "Dada pardar\u00ee"
+    ],
+    "name:lav_x_preferred":[
+        "Komercsabiedr\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Bendrov\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u0902\u092a\u0928\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Syarikat"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u092e\u094d\u092a\u0928\u093f"
+    ],
+    "name:nld_x_preferred":[
+        "Vennootschap"
+    ],
+    "name:nno_x_preferred":[
+        "Selskap"
+    ],
+    "name:nor_x_preferred":[
+        "Selskap"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a15\u0a70\u0a2a\u0a28\u0a40"
+    ],
+    "name:pol_x_preferred":[
+        "Sp\u00f3\u0142ka"
+    ],
+    "name:pus_x_preferred":[
+        "\u0645\u0644\u062a\u0648\u0646"
+    ],
+    "name:que_x_preferred":[
+        "Ruruchina"
+    ],
+    "name:ron_x_preferred":[
+        "Companie"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u0440\u043c\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "Azzenna"
+    ],
+    "name:sco_x_preferred":[
+        "Company"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0db8\u0dcf\u0d9c\u0db8"
+    ],
+    "name:snd_x_preferred":[
+        "\u06aa\u0645\u067e\u0646\u064a"
+    ],
+    "name:som_x_preferred":[
+        "Shirkad"
+    ],
+    "name:sqi_x_preferred":[
+        "Shenja dalluese"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0435\u0434\u0443\u0437\u0435\u045b\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "Kampuni"
+    ],
+    "name:swe_x_preferred":[
+        "Bolag"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u015eirk\u00e4t"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c02\u0c2a\u0c46\u0c28\u0c40"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17"
+    ],
+    "name:tur_x_preferred":[
+        "\u015eirket"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0456\u0440\u043c\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0645\u067e\u0646\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Kompaniya"
+    ],
+    "name:vie_x_preferred":[
+        "C\u00f4ng ty"
+    ],
+    "name:vls_x_preferred":[
+        "Vennootschap"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e4\u05d9\u05e8\u05de\u05e2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +237,7 @@
         }
     ],
     "wof:id":1226631601,
-    "wof:lastmodified":1537591357,
+    "wof:lastmodified":1564167253,
     "wof:name":"Company",
     "wof:parent_id":1092010971,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0641\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1310678023,
-    "wof:lastmodified":1536668100,
+    "wof:lastmodified":1564166452,
     "wof:name":"Chafa",
     "wof:parent_id":1092011735,
     "wof:placetype":"locality",

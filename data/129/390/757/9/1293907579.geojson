@@ -25,6 +25,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mindourou"
+    ],
+    "name:msa_x_preferred":[
+        "Mindourou"
+    ],
+    "name:spa_x_preferred":[
+        "Mindourou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1293907579,
-    "wof:lastmodified":1536678652,
+    "wof:lastmodified":1564165488,
     "wof:name":"Mindourou",
     "wof:parent_id":1092011431,
     "wof:placetype":"locality",

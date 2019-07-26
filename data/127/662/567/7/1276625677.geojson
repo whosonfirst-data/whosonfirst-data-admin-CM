@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lug_x_preferred":[
+        "Bibia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1276625677,
-    "wof:lastmodified":1536883839,
+    "wof:lastmodified":1564165862,
     "wof:name":"Bibia",
     "wof:parent_id":1092012139,
     "wof:placetype":"locality",

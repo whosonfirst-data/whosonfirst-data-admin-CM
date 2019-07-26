@@ -26,6 +26,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nitoukou"
+    ],
+    "name:ita_x_preferred":[
+        "Nitoukou"
+    ],
+    "name:msa_x_preferred":[
+        "Nitoukou"
+    ],
+    "name:spa_x_preferred":[
+        "Nitoukou"
+    ],
     "name:und_x_variant":[
         "Niloukou",
         "Nitoukou"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1293705273,
-    "wof:lastmodified":1537591226,
+    "wof:lastmodified":1564165512,
     "wof:name":"Nitoukou",
     "wof:parent_id":1092011309,
     "wof:placetype":"locality",

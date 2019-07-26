@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sowe"
+    ],
     "name:und_x_variant":[
         "Sawe",
         "Kaw",
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209506795,
-    "wof:lastmodified":1537591202,
+    "wof:lastmodified":1564166025,
     "wof:name":"Sowe",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",

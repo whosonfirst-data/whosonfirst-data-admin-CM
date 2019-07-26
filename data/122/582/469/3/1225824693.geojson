@@ -25,6 +25,21 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Deta"
+    ],
+    "name:deu_x_preferred":[
+        "Deta"
+    ],
+    "name:min_x_preferred":[
+        "Deta"
+    ],
+    "name:swe_x_preferred":[
+        "Deta"
+    ],
+    "name:vie_x_preferred":[
+        "Deta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1225824693,
-    "wof:lastmodified":1537042308,
+    "wof:lastmodified":1564167290,
     "wof:name":"Deta",
     "wof:parent_id":1092011667,
     "wof:placetype":"locality",

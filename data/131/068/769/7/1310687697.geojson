@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jav_x_preferred":[
+        "Legi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1310687697,
-    "wof:lastmodified":1536654089,
+    "wof:lastmodified":1564166437,
     "wof:name":"Legi",
     "wof:parent_id":1092011667,
     "wof:placetype":"locality",

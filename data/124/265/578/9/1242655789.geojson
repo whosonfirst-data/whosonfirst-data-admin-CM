@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bessir"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1242655789,
-    "wof:lastmodified":1536951447,
+    "wof:lastmodified":1564166840,
     "wof:name":"Bessir",
     "wof:parent_id":1092012311,
     "wof:placetype":"locality",

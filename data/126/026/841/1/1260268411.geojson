@@ -25,7 +25,25 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Baham"
+    ],
     "name:fra_x_preferred":[
+        "Baham"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d4\u05d0\u05dd"
+    ],
+    "name:ita_x_preferred":[
+        "Baham"
+    ],
+    "name:msa_x_preferred":[
+        "Baham"
+    ],
+    "name:pol_x_preferred":[
+        "Baham"
+    ],
+    "name:spa_x_preferred":[
         "Baham"
     ],
     "src:geom":"geonames",
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1260268411,
-    "wof:lastmodified":1537591334,
+    "wof:lastmodified":1564166292,
     "wof:name":"Baham",
     "wof:parent_id":1092012197,
     "wof:placetype":"locality",

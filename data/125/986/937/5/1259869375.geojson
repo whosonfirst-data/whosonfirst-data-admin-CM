@@ -25,6 +25,21 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nguru"
+    ],
+    "name:deu_x_preferred":[
+        "Nguru"
+    ],
+    "name:ita_x_preferred":[
+        "Nguru"
+    ],
+    "name:kor_x_preferred":[
+        "\uc751\uad6c\ub8e8"
+    ],
+    "name:swe_x_preferred":[
+        "Nguru"
+    ],
     "name:und_x_variant":[
         "Nkuru",
         "Nguru"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1259869375,
-    "wof:lastmodified":1537591227,
+    "wof:lastmodified":1564167045,
     "wof:name":"Nguru",
     "wof:parent_id":1092010791,
     "wof:placetype":"locality",

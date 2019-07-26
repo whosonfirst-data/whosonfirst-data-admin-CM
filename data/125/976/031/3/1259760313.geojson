@@ -25,6 +25,21 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zebe"
+    ],
+    "name:ceb_x_preferred":[
+        "Zebe"
+    ],
+    "name:fra_x_preferred":[
+        "Zebe"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0435\u0431\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Zebe"
+    ],
     "name:und_x_variant":[
         "Ts\u00e9b\u00e9",
         "Z\u00e9b\u00e9"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1259760313,
-    "wof:lastmodified":1537591197,
+    "wof:lastmodified":1564166966,
     "wof:name":"Zebe",
     "wof:parent_id":1108390249,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Edzendouan"
+    ],
+    "name:ita_x_preferred":[
+        "Edzendouan"
+    ],
+    "name:msa_x_preferred":[
+        "Edzendouan"
+    ],
+    "name:spa_x_preferred":[
+        "Edzendouan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1226320755,
-    "wof:lastmodified":1537489550,
+    "wof:lastmodified":1564167163,
     "wof:name":"Edzendouan",
     "wof:parent_id":1092010921,
     "wof:placetype":"locality",

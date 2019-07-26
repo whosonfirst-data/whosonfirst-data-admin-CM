@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05e0\u05d9\u05dd"
+    ],
     "name:und_x_variant":[
         "M\u00e9nim",
         "Minim"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226560283,
-    "wof:lastmodified":1537591247,
+    "wof:lastmodified":1564167146,
     "wof:name":"Minim",
     "wof:parent_id":1092011605,
     "wof:placetype":"locality",

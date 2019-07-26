@@ -26,6 +26,12 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Manoka"
+    ],
+    "name:msa_x_preferred":[
+        "Manoka"
+    ],
     "name:und_x_variant":[
         "Manoca",
         "Manoka"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1326935123,
-    "wof:lastmodified":1537591263,
+    "wof:lastmodified":1564165036,
     "wof:name":"Manoka",
     "wof:parent_id":1092011153,
     "wof:placetype":"locality",

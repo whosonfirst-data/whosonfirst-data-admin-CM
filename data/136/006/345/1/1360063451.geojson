@@ -25,6 +25,12 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ot\u00e9l\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Ot\u00e9l\u00e9"
+    ],
     "name:und_x_variant":[
         "Otell\u00e9",
         "Ott\u00e9l\u00e9",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1360063451,
-    "wof:lastmodified":1537591217,
+    "wof:lastmodified":1564166490,
     "wof:name":"Otele",
     "wof:parent_id":1092010889,
     "wof:placetype":"locality",

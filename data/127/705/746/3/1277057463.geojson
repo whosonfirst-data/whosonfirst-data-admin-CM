@@ -25,6 +25,21 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lobo"
+    ],
+    "name:fra_x_preferred":[
+        "Lobo"
+    ],
+    "name:ita_x_preferred":[
+        "Lobo"
+    ],
+    "name:msa_x_preferred":[
+        "Lobo"
+    ],
+    "name:spa_x_preferred":[
+        "Lobo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1277057463,
-    "wof:lastmodified":1537489538,
+    "wof:lastmodified":1564165789,
     "wof:name":"Lobo",
     "wof:parent_id":1092012079,
     "wof:placetype":"locality",

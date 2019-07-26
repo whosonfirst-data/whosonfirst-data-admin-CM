@@ -25,6 +25,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Santchou"
+    ],
+    "name:msa_x_preferred":[
+        "Santchou"
+    ],
+    "name:spa_x_preferred":[
+        "Santchou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1243545225,
-    "wof:lastmodified":1537489517,
+    "wof:lastmodified":1564166648,
     "wof:name":"Santchou",
     "wof:parent_id":1092010943,
     "wof:placetype":"locality",

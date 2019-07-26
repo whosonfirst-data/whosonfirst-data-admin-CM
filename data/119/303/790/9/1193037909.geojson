@@ -25,6 +25,12 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ngwes"
+    ],
+    "name:por_x_preferred":[
+        "Ngwa"
+    ],
     "name:und_x_variant":[
         "Bangoa",
         "Bangwa",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1193037909,
-    "wof:lastmodified":1537591329,
+    "wof:lastmodified":1564166167,
     "wof:name":"Ngwa",
     "wof:parent_id":1092010493,
     "wof:placetype":"locality",

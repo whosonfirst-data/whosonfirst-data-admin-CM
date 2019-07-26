@@ -25,6 +25,12 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Pepo"
+    ],
+    "name:por_x_preferred":[
+        "Pepo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1293595451,
-    "wof:lastmodified":1536629743,
+    "wof:lastmodified":1564165545,
     "wof:name":"Pepo",
     "wof:parent_id":1092011431,
     "wof:placetype":"locality",

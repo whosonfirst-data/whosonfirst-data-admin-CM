@@ -25,9 +25,45 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Konia eisentrauti"
+    ],
+    "name:ceb_x_preferred":[
+        "Konia eisentrauti"
+    ],
+    "name:eus_x_preferred":[
+        "Konia eisentrauti"
+    ],
+    "name:fra_x_preferred":[
+        "Konia eisentrauti"
+    ],
+    "name:nld_x_preferred":[
+        "Konia eisentrauti"
+    ],
+    "name:por_x_preferred":[
+        "Konia eisentrauti"
+    ],
+    "name:spa_x_preferred":[
+        "Konia eisentrauti"
+    ],
+    "name:srp_x_preferred":[
+        "Konia eisentrauti"
+    ],
+    "name:swe_x_preferred":[
+        "Konia eisentrauti"
+    ],
     "name:und_x_variant":[
         "Konje",
         "Konye"
+    ],
+    "name:vie_x_preferred":[
+        "Konia eisentrauti"
+    ],
+    "name:war_x_preferred":[
+        "Konia eisentrauti"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u6c0f\u5eb7\u5c3c\u9e97\u9b5a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1243258445,
-    "wof:lastmodified":1537591278,
+    "wof:lastmodified":1564166754,
     "wof:name":"Konye",
     "wof:parent_id":1092010859,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bambao"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1259363093,
-    "wof:lastmodified":1537030345,
+    "wof:lastmodified":1564166884,
     "wof:name":"Bambao",
     "wof:parent_id":1092011735,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Biyouha"
+    ],
+    "name:ita_x_preferred":[
+        "Biyouha"
+    ],
+    "name:msa_x_preferred":[
+        "Biyouha"
+    ],
+    "name:spa_x_preferred":[
+        "Biyouha"
+    ],
     "name:und_x_variant":[
         "Biyouha",
         "Bihouya"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1276422001,
-    "wof:lastmodified":1537591324,
+    "wof:lastmodified":1564165720,
     "wof:name":"Bihouya",
     "wof:parent_id":1092011187,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tombel"
+    ],
+    "name:msa_x_preferred":[
+        "Tombel"
+    ],
+    "name:pol_x_preferred":[
+        "Tombel"
+    ],
+    "name:spa_x_preferred":[
+        "Tombel"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1243258523,
-    "wof:lastmodified":1537073349,
+    "wof:lastmodified":1564166758,
     "wof:name":"Tombel",
     "wof:parent_id":1092010791,
     "wof:placetype":"locality",

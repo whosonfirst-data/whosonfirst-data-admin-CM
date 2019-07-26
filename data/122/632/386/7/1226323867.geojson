@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u041d\u043a\u043e\u0435\u0431\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226323867,
-    "wof:lastmodified":1536820208,
+    "wof:lastmodified":1564167171,
     "wof:name":"Nkoebe",
     "wof:parent_id":1092010889,
     "wof:placetype":"locality",

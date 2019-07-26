@@ -25,6 +25,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Goura"
+    ],
+    "name:deu_x_preferred":[
+        "Goura"
+    ],
+    "name:swe_x_preferred":[
+        "Goura"
+    ],
     "name:und_x_variant":[
         "Goura I",
         "Gouna",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1259771561,
-    "wof:lastmodified":1537591289,
+    "wof:lastmodified":1564166923,
     "wof:name":"Goura",
     "wof:parent_id":1092012311,
     "wof:placetype":"locality",

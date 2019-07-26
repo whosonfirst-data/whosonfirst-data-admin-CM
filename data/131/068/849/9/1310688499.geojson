@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0648\u0627\u0633\u06cc"
+    ],
+    "name:ceb_x_preferred":[
+        "Vassy"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0633\u06cc"
+    ],
+    "name:swe_x_preferred":[
+        "Vassi"
+    ],
     "name:und_x_variant":[
         "Vasi",
         "Vassi"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1310688499,
-    "wof:lastmodified":1537591196,
+    "wof:lastmodified":1564166438,
     "wof:name":"Vassi",
     "wof:parent_id":1092011899,
     "wof:placetype":"locality",

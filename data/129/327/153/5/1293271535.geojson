@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dawan"
+    ],
+    "name:deu_x_preferred":[
+        "Dawan"
+    ],
+    "name:ind_x_preferred":[
+        "Dawan"
+    ],
+    "name:swe_x_preferred":[
+        "Dawan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1293271535,
-    "wof:lastmodified":1537095171,
+    "wof:lastmodified":1564165627,
     "wof:name":"Dawan",
     "wof:parent_id":1092011703,
     "wof:placetype":"locality",

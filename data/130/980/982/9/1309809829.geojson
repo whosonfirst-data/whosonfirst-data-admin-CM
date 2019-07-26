@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ngola"
+    ],
+    "name:deu_x_preferred":[
+        "Ngola"
+    ],
+    "name:fra_x_preferred":[
+        "Ngola"
+    ],
+    "name:swe_x_preferred":[
+        "Ngola"
+    ],
     "name:und_x_variant":[
         "Mouss\u0101\u2019s",
         "Ngola"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1309809829,
-    "wof:lastmodified":1537591230,
+    "wof:lastmodified":1564166614,
     "wof:name":"Ngola",
     "wof:parent_id":1092011347,
     "wof:placetype":"locality",

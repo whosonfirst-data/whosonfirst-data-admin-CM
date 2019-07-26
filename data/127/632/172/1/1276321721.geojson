@@ -25,6 +25,63 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Memel"
+    ],
+    "name:ceb_x_preferred":[
+        "Memel"
+    ],
+    "name:chv_x_preferred":[
+        "\u041c\u0435\u043c\u0435\u043b\u044c"
+    ],
+    "name:dan_x_preferred":[
+        "Memel"
+    ],
+    "name:deu_x_preferred":[
+        "Memel"
+    ],
+    "name:fin_x_preferred":[
+        "Memel"
+    ],
+    "name:fra_x_preferred":[
+        "Memel"
+    ],
+    "name:glg_x_preferred":[
+        "Memel"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05de\u05dc"
+    ],
+    "name:hun_x_preferred":[
+        "Memel"
+    ],
+    "name:ita_x_preferred":[
+        "Memel"
+    ],
+    "name:nds_x_preferred":[
+        "Memel"
+    ],
+    "name:nld_x_preferred":[
+        "Memel"
+    ],
+    "name:nno_x_preferred":[
+        "Memel"
+    ],
+    "name:oss_x_preferred":[
+        "\u041c\u0435\u043c\u0435\u043b\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043c\u0435\u043b\u044c"
+    ],
+    "name:slk_x_preferred":[
+        "Memel"
+    ],
+    "name:spa_x_preferred":[
+        "Memel"
+    ],
+    "name:swe_x_preferred":[
+        "Memel"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +105,7 @@
         }
     ],
     "wof:id":1276321721,
-    "wof:lastmodified":1536794562,
+    "wof:lastmodified":1564165755,
     "wof:name":"Memel",
     "wof:parent_id":1092011187,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Iwo"
+    ],
+    "name:mlg_x_preferred":[
+        "Iwo"
+    ],
+    "name:pol_x_preferred":[
+        "Iwo"
+    ],
+    "name:por_x_preferred":[
+        "Iwo"
+    ],
     "name:und_x_variant":[
         "Lwo",
         "Iwo"
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1209309015,
-    "wof:lastmodified":1537591284,
+    "wof:lastmodified":1564165939,
     "wof:name":"Iwo",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",

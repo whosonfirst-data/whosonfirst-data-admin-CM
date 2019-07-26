@@ -26,6 +26,12 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bimbia"
+    ],
+    "name:fra_x_preferred":[
+        "Bimbia"
+    ],
     "name:und_x_variant":[
         "Bambia",
         "Bimbia"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1327128607,
-    "wof:lastmodified":1537591323,
+    "wof:lastmodified":1564165073,
     "wof:name":"Bimbia",
     "wof:parent_id":1092010823,
     "wof:placetype":"locality",

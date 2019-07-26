@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mbule"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1343758705,
-    "wof:lastmodified":1537489566,
+    "wof:lastmodified":1564165429,
     "wof:name":"Mbule",
     "wof:parent_id":1092011063,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dziguilao"
+    ],
+    "name:msa_x_preferred":[
+        "Dziguilao"
+    ],
+    "name:pol_x_preferred":[
+        "Dziguilao"
+    ],
     "name:und_x_variant":[
         "Tsiguilaou",
         "Dsigilau",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1243343577,
-    "wof:lastmodified":1537591305,
+    "wof:lastmodified":1564166783,
     "wof:name":"Dziguilao",
     "wof:parent_id":1092011963,
     "wof:placetype":"locality",

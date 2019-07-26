@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Keda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1326807501,
-    "wof:lastmodified":1537081347,
+    "wof:lastmodified":1564165013,
     "wof:name":"Keda",
     "wof:parent_id":1108390249,
     "wof:placetype":"locality",

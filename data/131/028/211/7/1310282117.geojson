@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0642\u0627\u062f\u0627\u06a9\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Gadaka"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u062f\u0627\u06a9\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u7518\u8fbe\u5361"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310282117,
-    "wof:lastmodified":1536741479,
+    "wof:lastmodified":1564166406,
     "wof:name":"Gadaka",
     "wof:parent_id":1092011899,
     "wof:placetype":"locality",

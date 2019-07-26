@@ -25,6 +25,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hrv_x_preferred":[
+        "Metak"
+    ],
+    "name:hun_x_preferred":[
+        "Metak"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0442\u0430\u043a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1260058253,
-    "wof:lastmodified":1537023413,
+    "wof:lastmodified":1564166302,
     "wof:name":"Metak",
     "wof:parent_id":1092012079,
     "wof:placetype":"locality",

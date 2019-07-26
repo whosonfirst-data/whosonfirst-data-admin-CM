@@ -25,6 +25,93 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631\u062a\u0648\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0631\u062a\u0648\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Bertoua"
+    ],
+    "name:deu_x_preferred":[
+        "Bertoua"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03c1\u03c4\u03bf\u03c5\u03ac"
+    ],
+    "name:epo_x_preferred":[
+        "Bertoua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u062a\u0648\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Bertoua"
+    ],
+    "name:fra_x_preferred":[
+        "Bertoua"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d8\u05d5\u05d0\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Bertoua"
+    ],
+    "name:ita_x_preferred":[
+        "Bertoua"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30eb\u30c8\u30a5\u30a2"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\ub974\ud22c\uc544"
+    ],
+    "name:lav_x_preferred":[
+        "Bertva"
+    ],
+    "name:lit_x_preferred":[
+        "Bertua"
+    ],
+    "name:msa_x_preferred":[
+        "Bertoua"
+    ],
+    "name:nld_x_preferred":[
+        "Bertoua"
+    ],
+    "name:pol_x_preferred":[
+        "Bertoua"
+    ],
+    "name:por_x_preferred":[
+        "Bertoua"
+    ],
+    "name:ron_x_preferred":[
+        "Bertoua"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0442\u0443\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Bertoua"
+    ],
+    "name:spa_x_preferred":[
+        "Bertoua"
+    ],
+    "name:swe_x_preferred":[
+        "Bertoua"
+    ],
+    "name:tur_x_preferred":[
+        "Bertoua"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u062a\u0624\u0627"
+    ],
+    "name:war_x_preferred":[
+        "Bertoua"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u5c14\u56fe\u963f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +135,7 @@
         }
     ],
     "wof:id":1326913919,
-    "wof:lastmodified":1536931934,
+    "wof:lastmodified":1564165150,
     "wof:name":"Bertoua",
     "wof:parent_id":1092011633,
     "wof:placetype":"locality",

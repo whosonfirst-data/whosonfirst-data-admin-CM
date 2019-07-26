@@ -25,6 +25,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Basch\u00e9o"
+    ],
+    "name:msa_x_preferred":[
+        "Bash\u00e9o"
+    ],
+    "name:spa_x_preferred":[
+        "Bash\u00e9o"
+    ],
     "name:und_x_variant":[
         "Basch\u00e9",
         "Bachao",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1226122009,
-    "wof:lastmodified":1537591336,
+    "wof:lastmodified":1564167230,
     "wof:name":"Bascheo",
     "wof:parent_id":1092012287,
     "wof:placetype":"locality",

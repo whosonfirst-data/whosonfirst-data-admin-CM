@@ -26,6 +26,12 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ngoyla"
+    ],
+    "name:spa_x_preferred":[
+        "Ngoyla"
+    ],
     "name:und_x_variant":[
         "Ngo\u00efda",
         "Ngo\u00efla"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1276156329,
-    "wof:lastmodified":1537591230,
+    "wof:lastmodified":1564165824,
     "wof:name":"Ngoila",
     "wof:parent_id":1092011347,
     "wof:placetype":"locality",

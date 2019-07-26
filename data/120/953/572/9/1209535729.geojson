@@ -25,7 +25,13 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bandrefam"
+    ],
     "name:fra_x_preferred":[
+        "Bandrefam"
+    ],
+    "name:swe_x_preferred":[
         "Bandrefam"
     ],
     "src:geom":"geonames",
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1209535729,
-    "wof:lastmodified":1537591330,
+    "wof:lastmodified":1564165925,
     "wof:name":"Bandrefam",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",

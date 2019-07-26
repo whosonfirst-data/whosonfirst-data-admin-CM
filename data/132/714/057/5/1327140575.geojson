@@ -25,6 +25,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mandjou"
+    ],
+    "name:msa_x_preferred":[
+        "Mandjou"
+    ],
+    "name:spa_x_preferred":[
+        "Mandjou"
+    ],
     "name:und_x_variant":[
         "Mandzou",
         "Mandjou"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1327140575,
-    "wof:lastmodified":1537591264,
+    "wof:lastmodified":1564165068,
     "wof:name":"Mandjou",
     "wof:parent_id":1092011395,
     "wof:placetype":"locality",

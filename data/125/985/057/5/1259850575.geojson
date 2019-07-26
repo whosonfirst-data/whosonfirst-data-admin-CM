@@ -26,6 +26,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mengong"
+    ],
+    "name:msa_x_preferred":[
+        "Mengong"
+    ],
+    "name:spa_x_preferred":[
+        "Mengong"
+    ],
     "name:und_x_variant":[
         "Mang\u00f3ng",
         "Mengang",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1259850575,
-    "wof:lastmodified":1537591250,
+    "wof:lastmodified":1564166962,
     "wof:name":"Mengong",
     "wof:parent_id":1092012173,
     "wof:placetype":"locality",

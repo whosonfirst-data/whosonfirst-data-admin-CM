@@ -25,7 +25,13 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Banza"
+    ],
     "name:fra_x_preferred":[
+        "Banza"
+    ],
+    "name:swe_x_preferred":[
         "Banza"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1259900047,
-    "wof:lastmodified":1537591364,
+    "wof:lastmodified":1564166917,
     "wof:name":"Banza",
     "wof:parent_id":1092010559,
     "wof:placetype":"locality",

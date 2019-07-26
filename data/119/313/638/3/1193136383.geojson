@@ -26,6 +26,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ngola"
+    ],
+    "name:deu_x_preferred":[
+        "Ngola"
+    ],
+    "name:fra_x_preferred":[
+        "Ngola"
+    ],
+    "name:swe_x_preferred":[
+        "Ngola"
+    ],
     "name:und_x_variant":[
         "Nyola",
         "Njola",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1193136383,
-    "wof:lastmodified":1537591229,
+    "wof:lastmodified":1564166160,
     "wof:name":"Ngola",
     "wof:parent_id":1092011153,
     "wof:placetype":"locality",

@@ -25,6 +25,30 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pere"
+    ],
+    "name:ceb_x_preferred":[
+        "Pere"
+    ],
+    "name:deu_x_preferred":[
+        "Pere"
+    ],
+    "name:fin_x_preferred":[
+        "Pere"
+    ],
+    "name:fra_x_preferred":[
+        "Pere"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d0"
+    ],
+    "name:ita_x_preferred":[
+        "Pere"
+    ],
+    "name:swe_x_preferred":[
+        "Pere"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1293263625,
-    "wof:lastmodified":1536610208,
+    "wof:lastmodified":1564165658,
     "wof:name":"Pere",
     "wof:parent_id":1092012287,
     "wof:placetype":"locality",

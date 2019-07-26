@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Damagaram Takaya"
+    ],
+    "name:ita_x_preferred":[
+        "Damagaram Takaya"
+    ],
+    "name:msa_x_preferred":[
+        "Damagaram Takaya"
+    ],
+    "name:ron_x_preferred":[
+        "Damagaram Takaya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1259377701,
-    "wof:lastmodified":1537009914,
+    "wof:lastmodified":1564166910,
     "wof:name":"Damagaram Takaya",
     "wof:parent_id":1092010823,
     "wof:placetype":"locality",

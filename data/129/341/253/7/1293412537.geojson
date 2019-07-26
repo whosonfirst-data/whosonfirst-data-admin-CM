@@ -26,6 +26,12 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Malimba"
+    ],
+    "name:fra_x_preferred":[
+        "Malimba"
+    ],
     "name:und_x_variant":[
         "Mouhengoue",
         "Malimba"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293412537,
-    "wof:lastmodified":1537591265,
+    "wof:lastmodified":1564165500,
     "wof:name":"Malimba",
     "wof:parent_id":1092011153,
     "wof:placetype":"locality",

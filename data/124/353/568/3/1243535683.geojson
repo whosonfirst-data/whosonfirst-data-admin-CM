@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ebe"
+    ],
+    "name:fra_x_preferred":[
+        "EBE"
+    ],
+    "name:swe_x_preferred":[
+        "Ebe"
+    ],
+    "name:tur_x_preferred":[
+        "Ebe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1243535683,
-    "wof:lastmodified":1536676949,
+    "wof:lastmodified":1564166649,
     "wof:name":"Ebe",
     "wof:parent_id":1092012045,
     "wof:placetype":"locality",

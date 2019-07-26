@@ -28,6 +28,12 @@
     "name:fra_x_preferred":[
         "Njimom"
     ],
+    "name:msa_x_preferred":[
+        "Njimom"
+    ],
+    "name:spa_x_preferred":[
+        "Njimom"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1226333009,
-    "wof:lastmodified":1537591226,
+    "wof:lastmodified":1564167126,
     "wof:name":"Njimom",
     "wof:parent_id":1092010521,
     "wof:placetype":"locality",

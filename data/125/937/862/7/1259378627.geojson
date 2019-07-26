@@ -25,6 +25,12 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Photo"
+    ],
+    "name:por_x_preferred":[
+        "Foto"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1259378627,
-    "wof:lastmodified":1537008597,
+    "wof:lastmodified":1564166912,
     "wof:name":"Foto",
     "wof:parent_id":1092010591,
     "wof:placetype":"locality",

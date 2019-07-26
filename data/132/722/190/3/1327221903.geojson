@@ -26,6 +26,27 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Makak"
+    ],
+    "name:deu_x_preferred":[
+        "Makak"
+    ],
+    "name:fra_x_preferred":[
+        "Makak"
+    ],
+    "name:ita_x_preferred":[
+        "Makak"
+    ],
+    "name:msa_x_preferred":[
+        "Makak"
+    ],
+    "name:spa_x_preferred":[
+        "Makak"
+    ],
+    "name:swe_x_preferred":[
+        "Makak"
+    ],
     "name:und_x_variant":[
         "Mom-Nug\u2019s",
         "Maka",
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1327221903,
-    "wof:lastmodified":1537591266,
+    "wof:lastmodified":1564165059,
     "wof:name":"Makak",
     "wof:parent_id":1092011187,
     "wof:placetype":"locality",

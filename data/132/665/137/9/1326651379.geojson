@@ -25,7 +25,16 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Balikumbat"
+    ],
     "name:fra_x_preferred":[
+        "Balikumbat"
+    ],
+    "name:msa_x_preferred":[
+        "Balikumbat"
+    ],
+    "name:spa_x_preferred":[
         "Balikumbat"
     ],
     "src:geom":"geonames",
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1326651379,
-    "wof:lastmodified":1537591333,
+    "wof:lastmodified":1564165160,
     "wof:name":"Balikumbat",
     "wof:parent_id":1092010693,
     "wof:placetype":"locality",

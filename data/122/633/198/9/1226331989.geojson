@@ -25,6 +25,21 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mokona"
+    ],
+    "name:ita_x_preferred":[
+        "Mokona"
+    ],
+    "name:lit_x_preferred":[
+        "Mokona"
+    ],
+    "name:spa_x_preferred":[
+        "Mokona"
+    ],
+    "name:swe_x_preferred":[
+        "Mokona"
+    ],
     "name:und_x_variant":[
         "Mukono",
         "Mukuna",
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1226331989,
-    "wof:lastmodified":1537591245,
+    "wof:lastmodified":1564167128,
     "wof:name":"Mokona",
     "wof:parent_id":1092010791,
     "wof:placetype":"locality",

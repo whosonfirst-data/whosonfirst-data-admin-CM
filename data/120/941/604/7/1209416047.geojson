@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mbang"
+    ],
+    "name:deu_x_preferred":[
+        "Mbang"
+    ],
+    "name:fra_x_preferred":[
+        "Mbang"
+    ],
+    "name:swe_x_preferred":[
+        "Mbang"
+    ],
     "name:und_x_variant":[
         "Mb\u00e9l\u00e9",
         "Mbang"
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1209416047,
-    "wof:lastmodified":1537591257,
+    "wof:lastmodified":1564165997,
     "wof:name":"Mbang",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",

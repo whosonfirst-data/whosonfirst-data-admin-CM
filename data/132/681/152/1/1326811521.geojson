@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nkolmetet"
+    ],
+    "name:fra_x_preferred":[
+        "Nkolmetet"
+    ],
+    "name:msa_x_preferred":[
+        "Nkolmetet"
+    ],
+    "name:spa_x_preferred":[
+        "Nkolmetet"
+    ],
     "name:und_x_variant":[
         "Nkolm\u00e9tet"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1326811521,
-    "wof:lastmodified":1537591223,
+    "wof:lastmodified":1564165004,
     "wof:name":"Nkolmetet",
     "wof:parent_id":1092011209,
     "wof:placetype":"locality",

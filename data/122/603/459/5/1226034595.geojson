@@ -25,6 +25,12 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "Numba"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d28\u0d41\u0d02\u0d2c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1226034595,
-    "wof:lastmodified":1536741067,
+    "wof:lastmodified":1564167153,
     "wof:name":"Numba",
     "wof:parent_id":1092011003,
     "wof:placetype":"locality",

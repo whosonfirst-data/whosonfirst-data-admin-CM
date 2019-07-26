@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ponga"
+    ],
+    "name:deu_x_preferred":[
+        "Ponga"
+    ],
+    "name:fra_x_preferred":[
+        "Ponga"
+    ],
+    "name:swe_x_preferred":[
+        "Ponga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1226332915,
-    "wof:lastmodified":1536807728,
+    "wof:lastmodified":1564167129,
     "wof:name":"Ponga",
     "wof:parent_id":1092010559,
     "wof:placetype":"locality",

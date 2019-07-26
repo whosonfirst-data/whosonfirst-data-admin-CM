@@ -25,8 +25,29 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Balam"
+    ],
     "name:fra_x_preferred":[
         "Balam"
+    ],
+    "name:ita_x_preferred":[
+        "Balam"
+    ],
+    "name:nld_x_preferred":[
+        "Balam"
+    ],
+    "name:por_x_preferred":[
+        "Balam"
+    ],
+    "name:ron_x_preferred":[
+        "Balam"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044d\u043b\u044d\u043c"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u043c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1293103433,
-    "wof:lastmodified":1537591333,
+    "wof:lastmodified":1564165655,
     "wof:name":"Balam",
     "wof:parent_id":1092011119,
     "wof:placetype":"locality",

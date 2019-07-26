@@ -25,12 +25,36 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ndop"
+    ],
+    "name:deu_x_preferred":[
+        "Ndop"
+    ],
     "name:fra_x_preferred":[
         "Ndop"
     ],
     "name:fra_x_variant":[
         "Ramunka",
         "Bamunka"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d3\u05d5\u05e4"
+    ],
+    "name:ita_x_preferred":[
+        "Ndop"
+    ],
+    "name:msa_x_preferred":[
+        "Ndop"
+    ],
+    "name:pol_x_preferred":[
+        "Ndop"
+    ],
+    "name:por_x_preferred":[
+        "Ndop"
+    ],
+    "name:swe_x_preferred":[
+        "Ndop"
     ],
     "name:und_x_variant":[
         "Bamunka",
@@ -60,7 +84,7 @@
         }
     ],
     "wof:id":1326951341,
-    "wof:lastmodified":1537591331,
+    "wof:lastmodified":1564165049,
     "wof:name":"Ndop",
     "wof:parent_id":1092010693,
     "wof:placetype":"locality",

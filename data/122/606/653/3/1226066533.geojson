@@ -25,6 +25,12 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Babungo"
+    ],
+    "name:fra_x_preferred":[
+        "Babungo"
+    ],
     "name:und_x_variant":[
         "Banbungo",
         "Babungo"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1226066533,
-    "wof:lastmodified":1537591336,
+    "wof:lastmodified":1564167262,
     "wof:name":"Babungo",
     "wof:parent_id":1092010693,
     "wof:placetype":"locality",

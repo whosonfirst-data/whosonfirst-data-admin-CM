@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Matakoro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1259366605,
-    "wof:lastmodified":1537025432,
+    "wof:lastmodified":1564166888,
     "wof:name":"Matakoro",
     "wof:parent_id":1092011581,
     "wof:placetype":"locality",

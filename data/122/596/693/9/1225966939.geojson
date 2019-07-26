@@ -25,6 +25,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ebone"
+    ],
+    "name:msa_x_preferred":[
+        "Ebone"
+    ],
+    "name:spa_x_preferred":[
+        "Nlonako"
+    ],
     "name:und_x_variant":[
         "Ebon\u00e9"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1225966939,
-    "wof:lastmodified":1537591304,
+    "wof:lastmodified":1564167182,
     "wof:name":"Ebone",
     "wof:parent_id":1092011087,
     "wof:placetype":"locality",

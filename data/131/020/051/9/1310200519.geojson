@@ -26,6 +26,21 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Galim"
+    ],
+    "name:fra_x_preferred":[
+        "Galim"
+    ],
+    "name:ita_x_preferred":[
+        "Galim-Tign\u00e8re"
+    ],
+    "name:msa_x_preferred":[
+        "Galim"
+    ],
+    "name:spa_x_preferred":[
+        "Galim"
+    ],
     "name:und_x_variant":[
         "Golim",
         "Galim"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1310200519,
-    "wof:lastmodified":1537591296,
+    "wof:lastmodified":1564166384,
     "wof:name":"Galim",
     "wof:parent_id":1092011545,
     "wof:placetype":"locality",

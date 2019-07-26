@@ -25,6 +25,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ngouri"
+    ],
+    "name:ita_x_preferred":[
+        "Ngouri"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0433\u0443\u0440\u0438"
+    ],
     "name:und_x_variant":[
         "Ngori",
         "Ngouri"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1327023651,
-    "wof:lastmodified":1537591228,
+    "wof:lastmodified":1564165090,
     "wof:name":"Ngouri",
     "wof:parent_id":1092011545,
     "wof:placetype":"locality",

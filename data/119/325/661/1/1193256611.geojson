@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bibey"
+    ],
+    "name:ita_x_preferred":[
+        "Bibey"
+    ],
+    "name:msa_x_preferred":[
+        "Bibey"
+    ],
+    "name:spa_x_preferred":[
+        "Bibey"
+    ],
     "name:und_x_variant":[
         "Bibey",
         "Bib\u00e9"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1193256611,
-    "wof:lastmodified":1537591325,
+    "wof:lastmodified":1564166163,
     "wof:name":"Bibe",
     "wof:parent_id":1092011277,
     "wof:placetype":"locality",

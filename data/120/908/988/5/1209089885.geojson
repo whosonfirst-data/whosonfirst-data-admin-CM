@@ -25,6 +25,12 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:que_x_preferred":[
+        "Lluwa kitilli"
+    ],
+    "name:spa_x_preferred":[
+        "Lloa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632245
@@ -42,7 +48,7 @@
         }
     ],
     "wof:id":1209089885,
-    "wof:lastmodified":1536298068,
+    "wof:lastmodified":1564165954,
     "wof:name":"Lloa",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",

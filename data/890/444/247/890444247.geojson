@@ -15,6 +15,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Babanki"
+    ],
     "name:unk_x_variant":[
         "Big Babanki"
     ],
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":890444247,
-    "wof:lastmodified":1505343598,
+    "wof:lastmodified":1564166631,
     "wof:name":"Babanki",
     "wof:parent_id":1092010661,
     "wof:placetype":"locality",

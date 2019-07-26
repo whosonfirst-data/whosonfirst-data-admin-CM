@@ -26,6 +26,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Touroua"
+    ],
+    "name:msa_x_preferred":[
+        "Touroua"
+    ],
+    "name:spa_x_preferred":[
+        "Touroua"
+    ],
     "name:und_x_variant":[
         "Turua",
         "Touroua"
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1209077575,
-    "wof:lastmodified":1537591197,
+    "wof:lastmodified":1564165923,
     "wof:name":"Touroua",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kalak"
+    ],
+    "name:swe_x_preferred":[
+        "Kalak"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1260367365,
-    "wof:lastmodified":1537093314,
+    "wof:lastmodified":1564166225,
     "wof:name":"Kalak",
     "wof:parent_id":1108390249,
     "wof:placetype":"locality",

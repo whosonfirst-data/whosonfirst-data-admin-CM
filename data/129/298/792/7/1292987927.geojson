@@ -25,6 +25,21 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Atiba"
+    ],
+    "name:hau_x_preferred":[
+        "Atiba"
+    ],
+    "name:ita_x_preferred":[
+        "Atiba"
+    ],
+    "name:por_x_preferred":[
+        "Atiba"
+    ],
+    "name:spa_x_preferred":[
+        "Atiba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1292987927,
-    "wof:lastmodified":1537009531,
+    "wof:lastmodified":1564165593,
     "wof:name":"Atiba",
     "wof:parent_id":1092011977,
     "wof:placetype":"locality",

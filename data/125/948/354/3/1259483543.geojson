@@ -25,6 +25,21 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "D\u00e9oul\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Deoule"
+    ],
+    "name:msa_x_preferred":[
+        "Deoule"
+    ],
+    "name:ron_x_preferred":[
+        "Deoule"
+    ],
+    "name:spa_x_preferred":[
+        "D\u00e9oul\u00e9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1259483543,
-    "wof:lastmodified":1536857500,
+    "wof:lastmodified":1564166921,
     "wof:name":"Deoule",
     "wof:parent_id":1092011395,
     "wof:placetype":"locality",

@@ -25,6 +25,33 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nkambe"
+    ],
+    "name:deu_x_preferred":[
+        "Nkamb\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Nkamb\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Nkamb\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Nkamb\u00e9"
+    ],
+    "name:pol_x_preferred":[
+        "Nkamb\u00e9"
+    ],
+    "name:por_x_preferred":[
+        "Nkamb\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Nkamb\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Nkambe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1293610539,
-    "wof:lastmodified":1537489523,
+    "wof:lastmodified":1564165543,
     "wof:name":"Nkambe",
     "wof:parent_id":1092010727,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Touloum"
+    ],
+    "name:msa_x_preferred":[
+        "Touloum"
+    ],
     "name:und_x_variant":[
         "Tulum",
         "Toloum",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1242854675,
-    "wof:lastmodified":1537591197,
+    "wof:lastmodified":1564166821,
     "wof:name":"Touloum",
     "wof:parent_id":1092011963,
     "wof:placetype":"locality",

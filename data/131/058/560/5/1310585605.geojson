@@ -25,6 +25,33 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Pokkuri-Geta"
+    ],
+    "name:fin_x_preferred":[
+        "Okobo"
+    ],
+    "name:fra_x_preferred":[
+        "Okobo"
+    ],
+    "name:ita_x_preferred":[
+        "Okobo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u307d\u3063\u304f\u308a\u4e0b\u99c4"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\ucf54\ubcf4"
+    ],
+    "name:por_x_preferred":[
+        "Okobo"
+    ],
+    "name:ron_x_preferred":[
+        "Okobo"
+    ],
+    "name:spa_x_preferred":[
+        "Okobo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1310585605,
-    "wof:lastmodified":1536801453,
+    "wof:lastmodified":1564166456,
     "wof:name":"Okobo",
     "wof:parent_id":1092010791,
     "wof:placetype":"locality",

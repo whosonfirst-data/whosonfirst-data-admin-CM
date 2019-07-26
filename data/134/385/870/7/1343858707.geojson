@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nguelemendouka"
+    ],
+    "name:msa_x_preferred":[
+        "Nguelemendouka"
+    ],
+    "name:spa_x_preferred":[
+        "Nguelemendouka"
+    ],
+    "name:swe_x_preferred":[
+        "Nguelemendouka"
+    ],
     "name:und_x_variant":[
         "Guel\u00e9mandouka",
         "Gele-Menduka",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1343858707,
-    "wof:lastmodified":1537591227,
+    "wof:lastmodified":1564165325,
     "wof:name":"Nguelemendouka",
     "wof:parent_id":1092011347,
     "wof:placetype":"locality",

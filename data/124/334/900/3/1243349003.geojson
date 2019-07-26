@@ -25,7 +25,19 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Galim"
+    ],
     "name:fra_x_preferred":[
+        "Galim"
+    ],
+    "name:ita_x_preferred":[
+        "Galim-Tign\u00e8re"
+    ],
+    "name:msa_x_preferred":[
+        "Galim"
+    ],
+    "name:spa_x_preferred":[
         "Galim"
     ],
     "src:geom":"geonames",
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1243349003,
-    "wof:lastmodified":1537591364,
+    "wof:lastmodified":1564166777,
     "wof:name":"Galim",
     "wof:parent_id":1092010559,
     "wof:placetype":"locality",
