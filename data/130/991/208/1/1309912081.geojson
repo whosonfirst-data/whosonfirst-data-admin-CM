@@ -25,6 +25,36 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Gete"
+    ],
+    "name:ces_x_preferred":[
+        "Gete"
+    ],
+    "name:chv_x_preferred":[
+        "\u0413\u0435\u0442\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Gete"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03ad\u03c4\u03b5"
+    ],
+    "name:fra_x_preferred":[
+        "Gette"
+    ],
+    "name:nld_x_preferred":[
+        "Gete"
+    ],
+    "name:por_x_preferred":[
+        "Rio Gete"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0442\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Gete"
+    ],
     "name:und_x_variant":[
         "Ngu\u00e9t\u00e9",
         "G\u00e9t\u00e9"
@@ -52,7 +82,7 @@
         }
     ],
     "wof:id":1309912081,
-    "wof:lastmodified":1537591292,
+    "wof:lastmodified":1564166556,
     "wof:name":"Gete",
     "wof:parent_id":1092011431,
     "wof:placetype":"locality",

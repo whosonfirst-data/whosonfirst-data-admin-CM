@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Massangam"
+    ],
+    "name:fra_x_preferred":[
+        "Massangam"
+    ],
+    "name:msa_x_preferred":[
+        "Massangam"
+    ],
+    "name:spa_x_preferred":[
+        "Massangam"
+    ],
     "name:und_x_variant":[
         "Massangam",
         "Massagam"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1343759635,
-    "wof:lastmodified":1537591261,
+    "wof:lastmodified":1564165427,
     "wof:name":"Massagam",
     "wof:parent_id":1092010521,
     "wof:placetype":"locality",

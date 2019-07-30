@@ -25,6 +25,21 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Maku"
+    ],
+    "name:fin_x_preferred":[
+        "Maku"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05e7\u05d5"
+    ],
+    "name:hrv_x_preferred":[
+        "Mak\u00fa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0443"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1344251567,
-    "wof:lastmodified":1537093882,
+    "wof:lastmodified":1564165254,
     "wof:name":"Maku",
     "wof:parent_id":1092011063,
     "wof:placetype":"locality",

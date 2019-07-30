@@ -25,10 +25,31 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Idenau"
+    ],
+    "name:fra_x_preferred":[
+        "Idenau"
+    ],
+    "name:ita_x_preferred":[
+        "Idenau"
+    ],
+    "name:msa_x_preferred":[
+        "Idenau"
+    ],
+    "name:pol_x_preferred":[
+        "Idenao"
+    ],
+    "name:ron_x_preferred":[
+        "Idenau"
+    ],
     "name:und_x_variant":[
         "Idenau",
         "Idendo",
         "Idenao"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5fb7\u7d0d\u70cf"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1326820079,
-    "wof:lastmodified":1537591285,
+    "wof:lastmodified":1564165109,
     "wof:name":"Idenao",
     "wof:parent_id":1092010823,
     "wof:placetype":"locality",

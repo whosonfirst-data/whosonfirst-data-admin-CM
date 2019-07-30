@@ -25,6 +25,12 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gu\u00e9m\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Gueme"
+    ],
     "name:und_x_variant":[
         "Guen\u00e9",
         "Gu\u00e9m\u00e9"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1326807611,
-    "wof:lastmodified":1537591288,
+    "wof:lastmodified":1564165014,
     "wof:name":"Gueme",
     "wof:parent_id":1108390249,
     "wof:placetype":"locality",

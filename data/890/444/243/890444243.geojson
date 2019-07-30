@@ -15,6 +15,12 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Diang"
+    ],
+    "name:swe_x_preferred":[
+        "Diang"
+    ],
     "qs:name":"Diang",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":890444243,
-    "wof:lastmodified":1527782129,
+    "wof:lastmodified":1564166631,
     "wof:name":"Diang",
     "wof:parent_id":1092011119,
     "wof:placetype":"locality",

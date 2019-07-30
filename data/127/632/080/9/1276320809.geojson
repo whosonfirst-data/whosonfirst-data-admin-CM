@@ -25,6 +25,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tokomb\u00e9r\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Tokomb\u00e9r\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Tokomb\u00e9r\u00e9"
+    ],
     "name:und_x_variant":[
         "Tokomb\u00e9r\u00e9",
         "Tokonb\u00e9r\u00e9"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1276320809,
-    "wof:lastmodified":1537591198,
+    "wof:lastmodified":1564165757,
     "wof:name":"Tokonbere",
     "wof:parent_id":1092011759,
     "wof:placetype":"locality",

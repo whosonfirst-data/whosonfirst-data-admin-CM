@@ -25,6 +25,12 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Banyo"
+    ],
+    "name:swe_x_preferred":[
+        "Banyo"
+    ],
     "name:und_x_variant":[
         "Banion",
         "Banyo"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1260183191,
-    "wof:lastmodified":1537591329,
+    "wof:lastmodified":1564166267,
     "wof:name":"Banyo",
     "wof:parent_id":1092011431,
     "wof:placetype":"locality",

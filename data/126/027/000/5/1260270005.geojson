@@ -25,6 +25,24 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Blangwa"
+    ],
+    "name:deu_x_preferred":[
+        "Blangoua"
+    ],
+    "name:fra_x_preferred":[
+        "Blangoua"
+    ],
+    "name:msa_x_preferred":[
+        "Blangoua"
+    ],
+    "name:spa_x_preferred":[
+        "Blangoua"
+    ],
+    "name:swe_x_preferred":[
+        "Blangwa"
+    ],
     "name:und_x_variant":[
         "Blangoua",
         "Blangwa"
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1260270005,
-    "wof:lastmodified":1537591346,
+    "wof:lastmodified":1564166260,
     "wof:name":"Blangwa",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

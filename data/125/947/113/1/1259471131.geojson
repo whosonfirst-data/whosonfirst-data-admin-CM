@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Adzap"
+    ],
     "name:und_x_variant":[
         "Adjap",
         "Adzap"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1259471131,
-    "wof:lastmodified":1537591343,
+    "wof:lastmodified":1564166955,
     "wof:name":"Adzap",
     "wof:parent_id":1092011209,
     "wof:placetype":"locality",

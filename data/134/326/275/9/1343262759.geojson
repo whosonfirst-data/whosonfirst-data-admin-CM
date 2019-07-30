@@ -26,6 +26,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Messamena"
+    ],
+    "name:msa_x_preferred":[
+        "Messamena"
+    ],
+    "name:spa_x_preferred":[
+        "Messamena"
+    ],
     "name:und_x_variant":[
         "Mesam\u00e9na",
         "Messam\u00e9na"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1343262759,
-    "wof:lastmodified":1537591250,
+    "wof:lastmodified":1564165425,
     "wof:name":"Messamena",
     "wof:parent_id":1092011347,
     "wof:placetype":"locality",

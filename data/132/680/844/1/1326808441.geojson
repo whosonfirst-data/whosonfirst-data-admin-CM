@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mengang"
+    ],
+    "name:ita_x_preferred":[
+        "Mengang"
+    ],
+    "name:msa_x_preferred":[
+        "Mengang"
+    ],
+    "name:spa_x_preferred":[
+        "Mengang"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1326808441,
-    "wof:lastmodified":1537079994,
+    "wof:lastmodified":1564165012,
     "wof:name":"Mengang",
     "wof:parent_id":1092011243,
     "wof:placetype":"locality",

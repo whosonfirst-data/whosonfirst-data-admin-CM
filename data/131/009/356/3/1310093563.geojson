@@ -25,6 +25,33 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Ting"
+    ],
+    "name:deu_x_preferred":[
+        "Ting"
+    ],
+    "name:est_x_preferred":[
+        "Ting"
+    ],
+    "name:fra_x_preferred":[
+        "Ting"
+    ],
+    "name:ita_x_preferred":[
+        "Ting"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30a3\u30f3"
+    ],
+    "name:nor_x_preferred":[
+        "Ting"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043d\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Ting"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1310093563,
-    "wof:lastmodified":1537013053,
+    "wof:lastmodified":1564166351,
     "wof:name":"Ting",
     "wof:parent_id":1092010921,
     "wof:placetype":"locality",

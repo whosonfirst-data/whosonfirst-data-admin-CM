@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dilga"
+    ],
     "name:und_x_variant":[
         "Dilka",
         "Dilga"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1344143975,
-    "wof:lastmodified":1537591312,
+    "wof:lastmodified":1564165264,
     "wof:name":"Dilga",
     "wof:parent_id":1092011735,
     "wof:placetype":"locality",

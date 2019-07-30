@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ribao"
+    ],
     "name:und_x_variant":[
         "Nana\u2019s",
         "Ribao"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1276865699,
-    "wof:lastmodified":1537591208,
+    "wof:lastmodified":1564165691,
     "wof:name":"Ribao",
     "wof:parent_id":1092011501,
     "wof:placetype":"locality",

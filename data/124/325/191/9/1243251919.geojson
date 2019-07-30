@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tsang"
+    ],
+    "name:deu_x_preferred":[
+        "Tsang"
+    ],
+    "name:fra_x_preferred":[
+        "Tsang"
+    ],
+    "name:swe_x_preferred":[
+        "Tsang"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1243251919,
-    "wof:lastmodified":1537082786,
+    "wof:lastmodified":1564166756,
     "wof:name":"Tsang",
     "wof:parent_id":1092012079,
     "wof:placetype":"locality",

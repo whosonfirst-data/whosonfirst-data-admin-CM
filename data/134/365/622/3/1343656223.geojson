@@ -25,6 +25,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Benakuma"
+    ],
+    "name:fra_x_preferred":[
+        "Benakuma"
+    ],
+    "name:msa_x_preferred":[
+        "Benakuma"
+    ],
     "name:und_x_variant":[
         "Benakoma",
         "Benakumo",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1343656223,
-    "wof:lastmodified":1537591326,
+    "wof:lastmodified":1564165208,
     "wof:name":"Benakuma",
     "wof:parent_id":1092010619,
     "wof:placetype":"locality",

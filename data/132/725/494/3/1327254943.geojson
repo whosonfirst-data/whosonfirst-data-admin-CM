@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Menka"
+    ],
+    "name:deu_x_preferred":[
+        "Menka"
+    ],
+    "name:fra_x_preferred":[
+        "Menka"
+    ],
+    "name:swe_x_preferred":[
+        "Menka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1327254943,
-    "wof:lastmodified":1536937854,
+    "wof:lastmodified":1564165065,
     "wof:name":"Menka",
     "wof:parent_id":1092010649,
     "wof:placetype":"locality",

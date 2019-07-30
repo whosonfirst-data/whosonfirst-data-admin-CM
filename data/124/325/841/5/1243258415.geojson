@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ndom"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1243258415,
-    "wof:lastmodified":1537073508,
+    "wof:lastmodified":1564166757,
     "wof:name":"Ndom",
     "wof:parent_id":1092011063,
     "wof:placetype":"locality",

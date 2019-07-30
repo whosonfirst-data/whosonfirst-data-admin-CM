@@ -25,8 +25,20 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pepa"
+    ],
+    "name:ces_x_preferred":[
+        "Pepa"
+    ],
     "name:fra_x_preferred":[
         "Bapepa"
+    ],
+    "name:spa_x_preferred":[
+        "Pepa"
+    ],
+    "name:swe_x_preferred":[
+        "Pepa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1259679227,
-    "wof:lastmodified":1537591359,
+    "wof:lastmodified":1564167015,
     "wof:name":"Pepa",
     "wof:parent_id":1092010559,
     "wof:placetype":"locality",

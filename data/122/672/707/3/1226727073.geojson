@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0632\u0646\u06af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226727073,
-    "wof:lastmodified":1536742231,
+    "wof:lastmodified":1564167077,
     "wof:name":"Mazang",
     "wof:parent_id":1092011963,
     "wof:placetype":"locality",

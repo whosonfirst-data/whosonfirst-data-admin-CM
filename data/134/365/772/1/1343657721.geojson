@@ -25,6 +25,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nganha"
+    ],
+    "name:msa_x_preferred":[
+        "Nganha"
+    ],
+    "name:spa_x_preferred":[
+        "Nganha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1343657721,
-    "wof:lastmodified":1537489525,
+    "wof:lastmodified":1564165209,
     "wof:name":"Nganha",
     "wof:parent_id":1092011581,
     "wof:placetype":"locality",

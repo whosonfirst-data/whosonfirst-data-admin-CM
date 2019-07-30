@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lambo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043c\u0431\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Lambo"
+    ],
+    "name:swe_x_preferred":[
+        "Lambo"
+    ],
     "name:und_x_variant":[
         "Kombo",
         "Lambo"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1343285983,
-    "wof:lastmodified":1537591273,
+    "wof:lastmodified":1564165424,
     "wof:name":"Lambo",
     "wof:parent_id":1092011465,
     "wof:placetype":"locality",

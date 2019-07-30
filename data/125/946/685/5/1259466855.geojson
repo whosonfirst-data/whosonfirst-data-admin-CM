@@ -25,6 +25,12 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bouba"
+    ],
+    "name:swe_x_preferred":[
+        "Bouba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1259466855,
-    "wof:lastmodified":1536882005,
+    "wof:lastmodified":1564166938,
     "wof:name":"Bouba",
     "wof:parent_id":1092011605,
     "wof:placetype":"locality",

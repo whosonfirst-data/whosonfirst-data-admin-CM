@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mehe"
+    ],
+    "name:chv_x_preferred":[
+        "\u041c\u0435\u044d"
+    ],
+    "name:deu_x_preferred":[
+        "Mehe"
+    ],
+    "name:nds_x_preferred":[
+        "Meh"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310385499,
-    "wof:lastmodified":1537086920,
+    "wof:lastmodified":1564166342,
     "wof:name":"Mehe",
     "wof:parent_id":1092011759,
     "wof:placetype":"locality",

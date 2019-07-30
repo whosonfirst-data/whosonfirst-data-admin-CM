@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Yingui"
+    ],
+    "name:fra_x_preferred":[
+        "Yingui"
+    ],
+    "name:msa_x_preferred":[
+        "Yingui"
+    ],
+    "name:spa_x_preferred":[
+        "Yingui"
+    ],
     "name:und_x_variant":[
         "Yingi",
         "Yngui I",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1276584225,
-    "wof:lastmodified":1537591192,
+    "wof:lastmodified":1564165749,
     "wof:name":"Yingui",
     "wof:parent_id":1092011119,
     "wof:placetype":"locality",

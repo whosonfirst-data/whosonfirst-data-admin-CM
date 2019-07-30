@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Ho"
+    ],
+    "name:ind_x_preferred":[
+        "Ho"
+    ],
+    "name:spa_x_preferred":[
+        "Ho"
+    ],
+    "name:vie_x_preferred":[
+        "Ho"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1326450299,
-    "wof:lastmodified":1536602028,
+    "wof:lastmodified":1564165011,
     "wof:name":"Ho",
     "wof:parent_id":1092012197,
     "wof:placetype":"locality",

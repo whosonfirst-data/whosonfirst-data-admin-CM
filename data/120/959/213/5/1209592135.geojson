@@ -25,6 +25,24 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Bourra"
+    ],
+    "name:fra_x_preferred":[
+        "Bourra"
+    ],
+    "name:ita_x_preferred":[
+        "Bourra"
+    ],
+    "name:nld_x_preferred":[
+        "Bourra"
+    ],
+    "name:spa_x_preferred":[
+        "Bourra"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u62c9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632245
@@ -42,7 +60,7 @@
         }
     ],
     "wof:id":1209592135,
-    "wof:lastmodified":1536282445,
+    "wof:lastmodified":1564166039,
     "wof:name":"Bourra",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",

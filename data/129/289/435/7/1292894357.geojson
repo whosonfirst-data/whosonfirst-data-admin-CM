@@ -25,6 +25,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ngoulemakong"
+    ],
+    "name:msa_x_preferred":[
+        "Ngoulemakong"
+    ],
+    "name:spa_x_preferred":[
+        "Ngoulemakong"
+    ],
     "name:und_x_variant":[
         "Ngulemakong",
         "Ngoul\u00e9makong"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1292894357,
-    "wof:lastmodified":1537591228,
+    "wof:lastmodified":1564165489,
     "wof:name":"Ngoulemakong",
     "wof:parent_id":1092012079,
     "wof:placetype":"locality",

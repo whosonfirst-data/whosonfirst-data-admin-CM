@@ -26,10 +26,31 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Campo"
+    ],
+    "name:ita_x_preferred":[
+        "Campo"
+    ],
+    "name:msa_x_preferred":[
+        "Campo"
+    ],
+    "name:pol_x_preferred":[
+        "Campo"
+    ],
+    "name:ron_x_preferred":[
+        "Campo"
+    ],
+    "name:spa_x_preferred":[
+        "Campo"
+    ],
     "name:und_x_variant":[
         "Kampo",
         "Campo Aka",
         "Campo"
+    ],
+    "name:zho_x_preferred":[
+        "\u574e\u6ce2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1309889355,
-    "wof:lastmodified":1537591316,
+    "wof:lastmodified":1564166625,
     "wof:name":"Campo",
     "wof:parent_id":1092012139,
     "wof:placetype":"locality",

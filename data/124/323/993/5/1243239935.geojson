@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lokoti"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1243239935,
-    "wof:lastmodified":1536603252,
+    "wof:lastmodified":1564166735,
     "wof:name":"Lokoti",
     "wof:parent_id":1092011633,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Deuk"
+    ],
+    "name:ita_x_preferred":[
+        "Deuk"
+    ],
+    "name:msa_x_preferred":[
+        "Deuk"
+    ],
+    "name:spa_x_preferred":[
+        "Deuk"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1260162073,
-    "wof:lastmodified":1537489553,
+    "wof:lastmodified":1564166275,
     "wof:name":"Deuk",
     "wof:parent_id":1092011309,
     "wof:placetype":"locality",

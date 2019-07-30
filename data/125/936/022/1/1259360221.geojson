@@ -25,6 +25,12 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mahana"
+    ],
+    "name:swe_x_preferred":[
+        "Mahana"
+    ],
     "name:und_x_variant":[
         "Mahaha",
         "Mahana"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1259360221,
-    "wof:lastmodified":1537591267,
+    "wof:lastmodified":1564166886,
     "wof:name":"Mahana",
     "wof:parent_id":1092011735,
     "wof:placetype":"locality",

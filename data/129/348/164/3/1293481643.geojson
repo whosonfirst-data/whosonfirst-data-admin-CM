@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Babessi"
+    ],
+    "name:fra_x_preferred":[
+        "Babessi"
+    ],
+    "name:msa_x_preferred":[
+        "Babessi"
+    ],
+    "name:spa_x_preferred":[
+        "Babessi"
+    ],
     "name:und_x_variant":[
         "Babessi",
         "Bamessi"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1293481643,
-    "wof:lastmodified":1537591332,
+    "wof:lastmodified":1564165509,
     "wof:name":"Bamessi",
     "wof:parent_id":1092010693,
     "wof:placetype":"locality",

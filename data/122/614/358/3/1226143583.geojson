@@ -25,6 +25,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Koua"
+    ],
+    "name:ita_x_preferred":[
+        "Koua"
+    ],
+    "name:msa_x_preferred":[
+        "Koua"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1226143583,
-    "wof:lastmodified":1537077714,
+    "wof:lastmodified":1564167186,
     "wof:name":"Koua",
     "wof:parent_id":1092011347,
     "wof:placetype":"locality",

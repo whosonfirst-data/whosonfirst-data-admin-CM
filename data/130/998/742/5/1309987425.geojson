@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mengang"
+    ],
+    "name:ita_x_preferred":[
+        "Mengang"
+    ],
+    "name:msa_x_preferred":[
+        "Mengang"
+    ],
+    "name:spa_x_preferred":[
+        "Mengang"
+    ],
     "name:und_x_variant":[
         "Mangang",
         "Nangan",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1309987425,
-    "wof:lastmodified":1537591251,
+    "wof:lastmodified":1564166554,
     "wof:name":"Mengang",
     "wof:parent_id":1092011277,
     "wof:placetype":"locality",

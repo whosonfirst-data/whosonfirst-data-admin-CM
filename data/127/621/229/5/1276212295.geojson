@@ -28,6 +28,12 @@
     "name:fra_x_preferred":[
         "Foto"
     ],
+    "name:fra_x_variant":[
+        "Photo"
+    ],
+    "name:por_x_preferred":[
+        "Foto"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1276212295,
-    "wof:lastmodified":1537591297,
+    "wof:lastmodified":1564165706,
     "wof:name":"Foto",
     "wof:parent_id":1092010943,
     "wof:placetype":"locality",

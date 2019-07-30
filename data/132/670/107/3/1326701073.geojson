@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fifinda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1326701073,
-    "wof:lastmodified":1537489549,
+    "wof:lastmodified":1564165128,
     "wof:name":"Fifinda",
     "wof:parent_id":1092012139,
     "wof:placetype":"locality",

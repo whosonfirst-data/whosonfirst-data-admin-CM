@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kolofata"
+    ],
+    "name:fra_x_preferred":[
+        "Kolofata"
+    ],
+    "name:msa_x_preferred":[
+        "Kolofata"
+    ],
+    "name:spa_x_preferred":[
+        "Kolofata"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1209903283,
-    "wof:lastmodified":1537489541,
+    "wof:lastmodified":1564165963,
     "wof:name":"Kolofata",
     "wof:parent_id":1092011759,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ido_x_preferred":[
+        "Kastono"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30bc\u30eb"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1293669245,
-    "wof:lastmodified":1537021356,
+    "wof:lastmodified":1564165548,
     "wof:name":"Bezel",
     "wof:parent_id":1092011977,
     "wof:placetype":"locality",

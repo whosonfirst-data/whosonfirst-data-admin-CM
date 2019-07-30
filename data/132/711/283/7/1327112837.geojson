@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Oveng"
+    ],
     "name:und_x_variant":[
         "Oving",
         "Oveng"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1327112837,
-    "wof:lastmodified":1537591212,
+    "wof:lastmodified":1564165199,
     "wof:name":"Oveng",
     "wof:parent_id":1092010889,
     "wof:placetype":"locality",

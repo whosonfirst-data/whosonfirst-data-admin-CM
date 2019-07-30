@@ -25,6 +25,12 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tode"
+    ],
+    "name:ita_x_preferred":[
+        "Tode"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1260166701,
-    "wof:lastmodified":1536869934,
+    "wof:lastmodified":1564166274,
     "wof:name":"Tode",
     "wof:parent_id":1092012197,
     "wof:placetype":"locality",

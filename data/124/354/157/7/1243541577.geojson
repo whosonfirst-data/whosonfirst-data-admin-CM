@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mada"
+    ],
     "name:und_x_variant":[
         "Mada I"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1243541577,
-    "wof:lastmodified":1537591268,
+    "wof:lastmodified":1564166641,
     "wof:name":"Mada",
     "wof:parent_id":1092011735,
     "wof:placetype":"locality",

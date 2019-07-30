@@ -25,7 +25,13 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ndo"
+    ],
     "name:fra_x_preferred":[
+        "Ndo"
+    ],
+    "name:swe_x_preferred":[
         "Ndo"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1293385511,
-    "wof:lastmodified":1537591354,
+    "wof:lastmodified":1564165454,
     "wof:name":"Ndo",
     "wof:parent_id":1092010943,
     "wof:placetype":"locality",

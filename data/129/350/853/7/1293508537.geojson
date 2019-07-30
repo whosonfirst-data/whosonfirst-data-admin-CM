@@ -25,11 +25,53 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0444\u0438\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Bafia"
+    ],
+    "name:deu_x_preferred":[
+        "Bafia"
+    ],
+    "name:fra_x_preferred":[
+        "Bafia"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05e4\u05d9\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Bafia"
+    ],
+    "name:msa_x_preferred":[
+        "Bafia"
+    ],
+    "name:pol_x_preferred":[
+        "Bafia"
+    ],
+    "name:por_x_preferred":[
+        "Bafia"
+    ],
+    "name:ron_x_preferred":[
+        "Bafia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0444\u0438\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Bafia"
+    ],
+    "name:spa_x_preferred":[
+        "Bafia"
+    ],
     "name:und_x_variant":[
         "Vafia-Likoki",
         "Baffia",
         "Vafia",
         "Bafia"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u83f2\u4e9e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +96,7 @@
         }
     ],
     "wof:id":1293508537,
-    "wof:lastmodified":1537591197,
+    "wof:lastmodified":1564165553,
     "wof:name":"Bafia",
     "wof:parent_id":1092010823,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kette"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d8\u05d4"
+    ],
+    "name:msa_x_preferred":[
+        "Kette"
+    ],
+    "name:spa_x_preferred":[
+        "Kette"
+    ],
     "name:und_x_variant":[
         "Nazerk\u00e9k\u00e9d\u00e9",
         "K\u00e9t\u00e9"
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1209539665,
-    "wof:lastmodified":1537591280,
+    "wof:lastmodified":1564165925,
     "wof:name":"Kette",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",

@@ -25,8 +25,23 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bassamba"
+    ],
     "name:fra_x_preferred":[
         "Sa\u2019mba"
+    ],
+    "name:fra_x_variant":[
+        "Bassamba"
+    ],
+    "name:msa_x_preferred":[
+        "Bassamba"
+    ],
+    "name:spa_x_preferred":[
+        "Bassamba"
+    ],
+    "name:swe_x_preferred":[
+        "Bassamba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1293769347,
-    "wof:lastmodified":1537591360,
+    "wof:lastmodified":1564165522,
     "wof:name":"Bassamba",
     "wof:parent_id":1092010493,
     "wof:placetype":"locality",

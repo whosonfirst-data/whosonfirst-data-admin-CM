@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Masset"
+    ],
+    "name:deu_x_preferred":[
+        "Masset"
+    ],
+    "name:ita_x_preferred":[
+        "Masset"
+    ],
+    "name:swe_x_preferred":[
+        "Masset"
+    ],
     "name:und_x_variant":[
         "Massette",
         "Masset"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1260177259,
-    "wof:lastmodified":1537591261,
+    "wof:lastmodified":1564166278,
     "wof:name":"Masset",
     "wof:parent_id":1092011581,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "\u0926\u093e\u0939\u093e\u0932"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1326517141,
-    "wof:lastmodified":1537005102,
+    "wof:lastmodified":1564165021,
     "wof:name":"Dahal",
     "wof:parent_id":1092011479,
     "wof:placetype":"locality",

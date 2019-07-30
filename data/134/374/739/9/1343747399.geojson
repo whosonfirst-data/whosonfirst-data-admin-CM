@@ -28,6 +28,18 @@
     "name:fra_x_preferred":[
         "Bati\u00e9"
     ],
+    "name:ita_x_preferred":[
+        "Bati\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Bati\u00e9"
+    ],
+    "name:pol_x_preferred":[
+        "Bati\u00e9"
+    ],
+    "name:ron_x_preferred":[
+        "Bati\u00e9"
+    ],
     "name:und_x_variant":[
         "Bafi\u00e9"
     ],
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1343747399,
-    "wof:lastmodified":1537591328,
+    "wof:lastmodified":1564165411,
     "wof:name":"Batie",
     "wof:parent_id":1092012197,
     "wof:placetype":"locality",

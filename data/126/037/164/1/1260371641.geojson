@@ -25,6 +25,21 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mangan"
+    ],
+    "name:deu_x_preferred":[
+        "Mangan"
+    ],
+    "name:fra_x_preferred":[
+        "Mangan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0433\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Mangan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1260371641,
-    "wof:lastmodified":1537087604,
+    "wof:lastmodified":1564166240,
     "wof:name":"Mangan",
     "wof:parent_id":1092012311,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Krenek"
+    ],
+    "name:ces_x_preferred":[
+        "K\u0159enek"
+    ],
+    "name:deu_x_preferred":[
+        "Krenek"
+    ],
+    "name:fra_x_preferred":[
+        "K\u0159enek"
+    ],
+    "name:ita_x_preferred":[
+        "Krenek"
+    ],
+    "name:pol_x_preferred":[
+        "K\u0159enek"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1293760761,
-    "wof:lastmodified":1536889841,
+    "wof:lastmodified":1564165519,
     "wof:name":"Krenek",
     "wof:parent_id":1092011735,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Misaje"
+    ],
+    "name:fra_x_preferred":[
+        "Misaje"
+    ],
+    "name:msa_x_preferred":[
+        "Misaje"
+    ],
+    "name:spa_x_preferred":[
+        "Misaje"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1259780201,
-    "wof:lastmodified":1537489579,
+    "wof:lastmodified":1564166947,
     "wof:name":"Misaje",
     "wof:parent_id":1092010727,
     "wof:placetype":"locality",

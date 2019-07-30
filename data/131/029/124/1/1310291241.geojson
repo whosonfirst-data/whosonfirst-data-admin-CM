@@ -25,6 +25,108 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0641\u0637\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Kaftan"
+    ],
+    "name:bak_x_preferred":[
+        "\u0421\u0430\u043f\u0430\u043d"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0444\u0442\u0430\u043d"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0444\u0442\u0430\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Caftan"
+    ],
+    "name:ces_x_preferred":[
+        "Kaftan"
+    ],
+    "name:deu_x_preferred":[
+        "Kaftan"
+    ],
+    "name:epo_x_preferred":[
+        "Kaftano"
+    ],
+    "name:est_x_preferred":[
+        "Kaftan"
+    ],
+    "name:fin_x_preferred":[
+        "Kaftaani"
+    ],
+    "name:fra_x_preferred":[
+        "Caftan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05ea\u05df \u05de\u05e8\u05d5\u05e7\u05d0\u05d9"
+    ],
+    "name:hrv_x_preferred":[
+        "Kaftan"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0586\u057f\u0561\u0576"
+    ],
+    "name:ido_x_preferred":[
+        "Kaftano"
+    ],
+    "name:ita_x_preferred":[
+        "Caffettano"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30d5\u30bf\u30f3"
+    ],
+    "name:lit_x_preferred":[
+        "Kaftanas"
+    ],
+    "name:nld_x_preferred":[
+        "Kaftan"
+    ],
+    "name:nno_x_preferred":[
+        "Kaftan"
+    ],
+    "name:nor_x_preferred":[
+        "Kaftan"
+    ],
+    "name:pol_x_preferred":[
+        "Kaftan"
+    ],
+    "name:por_x_preferred":[
+        "Cafet\u00e3"
+    ],
+    "name:ron_x_preferred":[
+        "Caftan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0444\u0442\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Caft\u00e1n"
+    ],
+    "name:sqi_x_preferred":[
+        "Kaftani"
+    ],
+    "name:srp_x_preferred":[
+        "Kaftan"
+    ],
+    "name:swe_x_preferred":[
+        "Kaftan"
+    ],
+    "name:tur_x_preferred":[
+        "Kaftan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043f\u0442\u0430\u043d"
+    ],
+    "name:vec_x_preferred":[
+        "Cafetan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u592b\u5766"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +150,7 @@
         }
     ],
     "wof:id":1310291241,
-    "wof:lastmodified":1536728910,
+    "wof:lastmodified":1564166403,
     "wof:name":"Kaftan",
     "wof:parent_id":1092011479,
     "wof:placetype":"locality",

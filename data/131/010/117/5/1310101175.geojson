@@ -28,6 +28,12 @@
     "name:fra_x_preferred":[
         "Kambo"
     ],
+    "name:jav_x_preferred":[
+        "Kambo"
+    ],
+    "name:nor_x_preferred":[
+        "Kambo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1310101175,
-    "wof:lastmodified":1537591353,
+    "wof:lastmodified":1564166415,
     "wof:name":"Kambo",
     "wof:parent_id":1092010971,
     "wof:placetype":"locality",

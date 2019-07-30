@@ -25,6 +25,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Angossas"
+    ],
+    "name:msa_x_preferred":[
+        "Angossas"
+    ],
+    "name:spa_x_preferred":[
+        "Angossas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1343662201,
-    "wof:lastmodified":1537489563,
+    "wof:lastmodified":1564165340,
     "wof:name":"Angossas",
     "wof:parent_id":1092011347,
     "wof:placetype":"locality",

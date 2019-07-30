@@ -25,6 +25,30 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pang"
+    ],
+    "name:deu_x_preferred":[
+        "Pang"
+    ],
+    "name:fra_x_preferred":[
+        "Pang"
+    ],
+    "name:ita_x_preferred":[
+        "Pang"
+    ],
+    "name:pol_x_preferred":[
+        "Pang"
+    ],
+    "name:por_x_preferred":[
+        "Pang"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u044d\u043d\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Pang"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1259963477,
-    "wof:lastmodified":1536664004,
+    "wof:lastmodified":1564166902,
     "wof:name":"Pang",
     "wof:parent_id":1092011605,
     "wof:placetype":"locality",

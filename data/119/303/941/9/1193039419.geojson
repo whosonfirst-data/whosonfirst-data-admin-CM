@@ -25,7 +25,16 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bome"
+    ],
     "name:fra_x_preferred":[
+        "Bome"
+    ],
+    "name:ita_x_preferred":[
+        "Bome"
+    ],
+    "name:swe_x_preferred":[
         "Bome"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1193039419,
-    "wof:lastmodified":1537591350,
+    "wof:lastmodified":1564166168,
     "wof:name":"Bome",
     "wof:parent_id":1092010649,
     "wof:placetype":"locality",

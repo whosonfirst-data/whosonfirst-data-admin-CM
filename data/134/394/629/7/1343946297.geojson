@@ -25,6 +25,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Abanga"
+    ],
+    "name:ita_x_preferred":[
+        "Abanga"
+    ],
+    "name:swe_x_preferred":[
+        "Abanga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1343946297,
-    "wof:lastmodified":1537038814,
+    "wof:lastmodified":1564165361,
     "wof:name":"Abanga",
     "wof:parent_id":1092010921,
     "wof:placetype":"locality",

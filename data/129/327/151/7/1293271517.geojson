@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Baila"
+    ],
     "name:und_x_variant":[
         "Beila",
         "Ba\u00efla"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293271517,
-    "wof:lastmodified":1537591334,
+    "wof:lastmodified":1564165624,
     "wof:name":"Baila",
     "wof:parent_id":1092011703,
     "wof:placetype":"locality",

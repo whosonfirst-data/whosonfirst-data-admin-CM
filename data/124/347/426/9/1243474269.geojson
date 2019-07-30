@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Bangou"
     ],
+    "name:fra_x_preferred":[
+        "Bangou"
+    ],
+    "name:msa_x_preferred":[
+        "Bangou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1243474269,
-    "wof:lastmodified":1537591357,
+    "wof:lastmodified":1564166747,
     "wof:name":"Bangou",
     "wof:parent_id":1092012197,
     "wof:placetype":"locality",

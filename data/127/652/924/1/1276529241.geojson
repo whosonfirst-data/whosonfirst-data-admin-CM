@@ -25,6 +25,21 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Loum"
+    ],
+    "name:deu_x_preferred":[
+        "Loum"
+    ],
+    "name:fra_x_preferred":[
+        "Loum"
+    ],
+    "name:nds_x_preferred":[
+        "Loum"
+    ],
+    "name:swe_x_preferred":[
+        "Loum"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1276529241,
-    "wof:lastmodified":1537012824,
+    "wof:lastmodified":1564165839,
     "wof:name":"Loum",
     "wof:parent_id":1092011243,
     "wof:placetype":"locality",

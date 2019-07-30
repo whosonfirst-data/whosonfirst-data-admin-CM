@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Banti"
+    ],
+    "name:fra_x_preferred":[
+        "Banti"
+    ],
+    "name:ita_x_preferred":[
+        "Banti"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0442\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1259372613,
-    "wof:lastmodified":1537017208,
+    "wof:lastmodified":1564166909,
     "wof:name":"Banti",
     "wof:parent_id":1092011035,
     "wof:placetype":"locality",

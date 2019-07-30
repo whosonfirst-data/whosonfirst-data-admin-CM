@@ -31,6 +31,12 @@
     "name:fra_x_variant":[
         "Nkoutaba"
     ],
+    "name:msa_x_preferred":[
+        "Koutaba"
+    ],
+    "name:spa_x_preferred":[
+        "Koutaba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1242958691,
-    "wof:lastmodified":1537591274,
+    "wof:lastmodified":1564166705,
     "wof:name":"Nkoutaba",
     "wof:parent_id":1092010521,
     "wof:placetype":"locality",

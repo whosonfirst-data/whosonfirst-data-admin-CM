@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Batchenga"
+    ],
+    "name:ita_x_preferred":[
+        "Batschenga"
+    ],
+    "name:msa_x_preferred":[
+        "Batchenga"
+    ],
+    "name:spa_x_preferred":[
+        "Batchenga"
+    ],
     "name:und_x_variant":[
         "Batschenga",
         "Batchenga"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1326811571,
-    "wof:lastmodified":1537591328,
+    "wof:lastmodified":1564165000,
     "wof:name":"Batchenga",
     "wof:parent_id":1092012079,
     "wof:placetype":"locality",

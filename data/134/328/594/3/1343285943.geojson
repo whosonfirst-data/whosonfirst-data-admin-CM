@@ -25,6 +25,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Doumaintang"
+    ],
+    "name:msa_x_preferred":[
+        "Doumaintang"
+    ],
+    "name:spa_x_preferred":[
+        "Doumaintang"
+    ],
     "name:und_x_variant":[
         "Doumaidant",
         "Doumaintang"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1343285943,
-    "wof:lastmodified":1537591306,
+    "wof:lastmodified":1564165422,
     "wof:name":"Doumaintang",
     "wof:parent_id":1092011347,
     "wof:placetype":"locality",

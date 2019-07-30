@@ -25,6 +25,12 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Guidiguis"
+    ],
+    "name:msa_x_preferred":[
+        "Guidiguis"
+    ],
     "name:und_x_variant":[
         "Gidigis",
         "Gidigig",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1293470075,
-    "wof:lastmodified":1537591288,
+    "wof:lastmodified":1564165530,
     "wof:name":"Guidiguis",
     "wof:parent_id":1092011963,
     "wof:placetype":"locality",

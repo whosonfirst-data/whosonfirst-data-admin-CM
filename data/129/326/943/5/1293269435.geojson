@@ -25,6 +25,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mandja"
+    ],
+    "name:fra_x_preferred":[
+        "Mandja"
+    ],
+    "name:swe_x_preferred":[
+        "Mandja"
+    ],
     "name:und_x_variant":[
         "Hina",
         "Hina Mandja",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1293269435,
-    "wof:lastmodified":1537591286,
+    "wof:lastmodified":1564165661,
     "wof:name":"Mandja",
     "wof:parent_id":1092011899,
     "wof:placetype":"locality",

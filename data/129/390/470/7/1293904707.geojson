@@ -25,6 +25,21 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Matazu"
+    ],
+    "name:fra_x_preferred":[
+        "Matazu"
+    ],
+    "name:hau_x_preferred":[
+        "Matazu"
+    ],
+    "name:ita_x_preferred":[
+        "Matazu"
+    ],
+    "name:spa_x_preferred":[
+        "Matazu"
+    ],
     "name:und_x_variant":[
         "Mutaso",
         "Matazu"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1293904707,
-    "wof:lastmodified":1537591260,
+    "wof:lastmodified":1564165487,
     "wof:name":"Matazu",
     "wof:parent_id":1092010619,
     "wof:placetype":"locality",

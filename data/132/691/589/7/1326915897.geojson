@@ -25,8 +25,20 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mang"
+    ],
+    "name:deu_x_preferred":[
+        "Mang"
+    ],
     "name:fra_x_preferred":[
         "Bamang"
+    ],
+    "name:fra_x_variant":[
+        "Mang"
+    ],
+    "name:swe_x_preferred":[
+        "Mang"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1326915897,
-    "wof:lastmodified":1537591358,
+    "wof:lastmodified":1564165154,
     "wof:name":"Mang",
     "wof:parent_id":1092010943,
     "wof:placetype":"locality",

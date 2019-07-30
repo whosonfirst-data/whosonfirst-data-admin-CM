@@ -25,7 +25,19 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ace_x_preferred":[
+        "Mengwi"
+    ],
     "name:fra_x_preferred":[
+        "Mengwi"
+    ],
+    "name:ind_x_preferred":[
+        "Mengwi"
+    ],
+    "name:jav_x_preferred":[
+        "Mengwi"
+    ],
+    "name:msa_x_preferred":[
         "Mengwi"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1344252557,
-    "wof:lastmodified":1537591354,
+    "wof:lastmodified":1564165255,
     "wof:name":"Mengwi",
     "wof:parent_id":1092010943,
     "wof:placetype":"locality",

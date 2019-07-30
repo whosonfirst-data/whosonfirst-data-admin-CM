@@ -25,6 +25,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kentzou"
+    ],
+    "name:msa_x_preferred":[
+        "Kentzou"
+    ],
+    "name:spa_x_preferred":[
+        "Kentzou"
+    ],
     "name:und_x_variant":[
         "kenzu",
         "Kentzou",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1309744975,
-    "wof:lastmodified":1537591281,
+    "wof:lastmodified":1564166613,
     "wof:name":"Kenzou",
     "wof:parent_id":1092011431,
     "wof:placetype":"locality",

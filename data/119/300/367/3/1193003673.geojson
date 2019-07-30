@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Bandja"
     ],
+    "name:msa_x_preferred":[
+        "Bandja"
+    ],
     "name:und_x_variant":[
         "Nja\u2019"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1193003673,
-    "wof:lastmodified":1537591226,
+    "wof:lastmodified":1564166143,
     "wof:name":"Nja'",
     "wof:parent_id":1092010943,
     "wof:placetype":"locality",

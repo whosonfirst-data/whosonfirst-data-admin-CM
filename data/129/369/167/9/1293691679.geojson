@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Pouma"
+    ],
+    "name:fra_x_preferred":[
+        "Pouma"
+    ],
+    "name:msa_x_preferred":[
+        "Pouma"
+    ],
+    "name:spa_x_preferred":[
+        "Pouma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1293691679,
-    "wof:lastmodified":1537489518,
+    "wof:lastmodified":1564165564,
     "wof:name":"Pouma",
     "wof:parent_id":1092011153,
     "wof:placetype":"locality",

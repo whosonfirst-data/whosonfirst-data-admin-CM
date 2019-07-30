@@ -25,6 +25,18 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Demsa"
+    ],
+    "name:hau_x_preferred":[
+        "Demsa"
+    ],
+    "name:ita_x_preferred":[
+        "Demsa"
+    ],
+    "name:spa_x_preferred":[
+        "Demsa"
+    ],
     "name:und_x_variant":[
         "Demssa",
         "Demasa",
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1209401143,
-    "wof:lastmodified":1537591313,
+    "wof:lastmodified":1564166008,
     "wof:name":"Demsa",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",

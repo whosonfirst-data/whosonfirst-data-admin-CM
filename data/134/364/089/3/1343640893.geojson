@@ -25,6 +25,69 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Forti"
+    ],
+    "name:ces_x_preferred":[
+        "Forti"
+    ],
+    "name:deu_x_preferred":[
+        "Forti Corse"
+    ],
+    "name:fin_x_preferred":[
+        "Forti"
+    ],
+    "name:fra_x_preferred":[
+        "Forti Corse"
+    ],
+    "name:glg_x_preferred":[
+        "Forti"
+    ],
+    "name:hrv_x_preferred":[
+        "Forti"
+    ],
+    "name:ind_x_preferred":[
+        "Forti"
+    ],
+    "name:ita_x_preferred":[
+        "Forti Corse"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a9\u30eb\u30c6\u30a3"
+    ],
+    "name:lav_x_preferred":[
+        "Forti Corse"
+    ],
+    "name:lit_x_preferred":[
+        "Forti"
+    ],
+    "name:nld_x_preferred":[
+        "Forti"
+    ],
+    "name:pol_x_preferred":[
+        "Forti"
+    ],
+    "name:por_x_preferred":[
+        "Forti"
+    ],
+    "name:ron_x_preferred":[
+        "Forti"
+    ],
+    "name:slv_x_preferred":[
+        "Forti"
+    ],
+    "name:spa_x_preferred":[
+        "Forti Corse"
+    ],
+    "name:swe_x_preferred":[
+        "Forti"
+    ],
+    "name:tur_x_preferred":[
+        "Forti"
+    ],
+    "name:vec_x_preferred":[
+        "Forti"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +111,7 @@
         }
     ],
     "wof:id":1343640893,
-    "wof:lastmodified":1536982600,
+    "wof:lastmodified":1564165247,
     "wof:name":"Forti",
     "wof:parent_id":1092012287,
     "wof:placetype":"locality",

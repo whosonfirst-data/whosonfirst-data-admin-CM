@@ -25,6 +25,9 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Toukouroua"
+    ],
     "name:und_x_variant":[
         "Tukur\u016ba",
         "Tukorua",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1343379199,
-    "wof:lastmodified":1537591198,
+    "wof:lastmodified":1564165231,
     "wof:name":"Toukouroua",
     "wof:parent_id":1092011501,
     "wof:placetype":"locality",

@@ -25,6 +25,33 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kona"
+    ],
+    "name:ceb_x_preferred":[
+        "Kona"
+    ],
+    "name:dan_x_preferred":[
+        "Kona"
+    ],
+    "name:deu_x_preferred":[
+        "Kona"
+    ],
+    "name:fin_x_preferred":[
+        "Kona"
+    ],
+    "name:fra_x_preferred":[
+        "Kona"
+    ],
+    "name:nno_x_preferred":[
+        "Kona"
+    ],
+    "name:spa_x_preferred":[
+        "Kona"
+    ],
+    "name:swe_x_preferred":[
+        "Kona"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1259984447,
-    "wof:lastmodified":1536632256,
+    "wof:lastmodified":1564166897,
     "wof:name":"Kona",
     "wof:parent_id":1092011153,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Fonfuka"
+    ],
+    "name:fra_x_preferred":[
+        "Fonfuka"
+    ],
+    "name:msa_x_preferred":[
+        "Fonfuka"
+    ],
     "name:und_x_variant":[
         "Fonfuka",
         "Fofuka",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1327051493,
-    "wof:lastmodified":1537591298,
+    "wof:lastmodified":1564165090,
     "wof:name":"Fonfukka",
     "wof:parent_id":1092010759,
     "wof:placetype":"locality",
