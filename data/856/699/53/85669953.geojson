@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AD"
+    ],
     "lbl:latitude":6.797889,
     "lbl:longitude":13.142577,
     "mps:latitude":6.798065,
@@ -306,9 +309,6 @@
         }
     ],
     "wof:id":85669953,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "eng"
@@ -317,7 +317,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563233946,
+    "wof:lastmodified":1565662786,
     "wof:name":"Adamaoua",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

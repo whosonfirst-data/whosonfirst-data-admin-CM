@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SU"
+    ],
     "lbl:latitude":2.792101,
     "lbl:longitude":12.149518,
     "mps:latitude":2.794566,
@@ -296,9 +299,6 @@
         }
     ],
     "wof:id":85669971,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "eng"
@@ -307,7 +307,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563233949,
+    "wof:lastmodified":1565662786,
     "wof:name":"Sud",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

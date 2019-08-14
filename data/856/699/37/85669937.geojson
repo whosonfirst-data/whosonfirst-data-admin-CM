@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LT"
+    ],
     "lbl:latitude":4.182913,
     "lbl:longitude":10.05821,
     "mps:latitude":4.148091,
@@ -297,9 +300,6 @@
         }
     ],
     "wof:id":85669937,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "eng"
@@ -308,7 +308,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563233948,
+    "wof:lastmodified":1565662786,
     "wof:name":"Littoral",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

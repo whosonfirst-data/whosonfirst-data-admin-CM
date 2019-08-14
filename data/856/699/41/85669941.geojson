@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NW"
+    ],
     "lbl:latitude":6.344231,
     "lbl:longitude":10.305176,
     "mps:latitude":6.349279,
@@ -300,9 +303,6 @@
         }
     ],
     "wof:id":85669941,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "eng"
@@ -311,7 +311,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563233949,
+    "wof:lastmodified":1565662786,
     "wof:name":"Nord Ouest",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

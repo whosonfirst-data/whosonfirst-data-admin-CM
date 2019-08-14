@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "EN"
+    ],
     "lbl:latitude":10.661389,
     "lbl:longitude":14.452129,
     "mps:latitude":10.649099,
@@ -307,9 +310,6 @@
         }
     ],
     "wof:id":85669933,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "eng"
@@ -318,7 +318,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563233944,
+    "wof:lastmodified":1565662785,
     "wof:name":"Extreme Nord",
     "wof:parent_id":85632245,
     "wof:placetype":"region",
