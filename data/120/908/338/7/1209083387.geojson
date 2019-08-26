@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"15.06493,11.59708,15.10493,11.63708",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632245
@@ -34,7 +38,7 @@
         "gn:id":6769413
     },
     "wof:country":"CM",
-    "wof:geomhash":"5c765d3eae4a011e6ab648c08c4c1c45",
+    "wof:geomhash":"43a82efb5fb067d6f23ef982f5091278",
     "wof:hierarchy":[
         {
             "country_id":85632245,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209083387,
-    "wof:lastmodified":1536298264,
+    "wof:lastmodified":1566645527,
     "wof:name":"Matkeu",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.084929999999998,
+    15.08493,
     11.61708,
-    15.084929999999998,
+    15.08493,
     11.61708
 ],
   "geometry": {"coordinates":[15.08493,11.61708],"type":"Point"}

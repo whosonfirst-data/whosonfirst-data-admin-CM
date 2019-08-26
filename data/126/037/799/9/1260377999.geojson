@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.94387,10.78458,13.98387,10.82458",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260377999,
-    "wof:lastmodified":1537079223,
+    "wof:lastmodified":1566645733,
     "wof:name":"Grimater",
     "wof:parent_id":1092011899,
     "wof:placetype":"locality",

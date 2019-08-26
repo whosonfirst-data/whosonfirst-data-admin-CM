@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.36251,12.52916,14.40251,12.56916",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ndelbeng"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309886069,
-    "wof:lastmodified":1537591349,
+    "wof:lastmodified":1566646016,
     "wof:name":"Ndalbeng",
     "wof:parent_id":1092011735,
     "wof:placetype":"locality",

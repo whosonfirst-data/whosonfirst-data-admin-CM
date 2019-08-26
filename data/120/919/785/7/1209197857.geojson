@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"9.96333,2.83,10.00333,2.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bidu\u00eb",
         "Bidoue",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209197857,
-    "wof:lastmodified":1537591324,
+    "wof:lastmodified":1566645642,
     "wof:name":"Bidou",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.21741,5.50788,10.25741,5.54788",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226339233,
-    "wof:lastmodified":1536798982,
+    "wof:lastmodified":1566646388,
     "wof:name":"Ngouang I",
     "wof:parent_id":1092010559,
     "wof:placetype":"locality",

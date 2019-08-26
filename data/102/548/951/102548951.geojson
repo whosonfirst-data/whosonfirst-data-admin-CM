@@ -12,6 +12,7 @@
     "iso:country":"CM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Ngaound\u00e9r\u00e9 Airport"
     ],
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":102548951,
-    "wof:lastmodified":1563233708,
+    "wof:lastmodified":1566644967,
     "wof:name":"Ngaoundere Airport",
     "wof:parent_id":85669953,
     "wof:placetype":"campus",

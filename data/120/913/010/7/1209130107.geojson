@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.06333,5.44667,14.10333,5.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632245
@@ -34,7 +38,7 @@
         "gn:id":2222946
     },
     "wof:country":"CM",
-    "wof:geomhash":"37b0c20a599fa30ea13bacfc3d18af6b",
+    "wof:geomhash":"be73eba46e02f654afe253d4222a53ad",
     "wof:hierarchy":[
         {
             "country_id":85632245,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209130107,
-    "wof:lastmodified":1536296831,
+    "wof:lastmodified":1566645579,
     "wof:name":"Oudou",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.083329999999998,
+    14.08333,
     5.46667,
-    14.083329999999998,
+    14.08333,
     5.46667
 ],
   "geometry": {"coordinates":[14.08333,5.46667],"type":"Point"}

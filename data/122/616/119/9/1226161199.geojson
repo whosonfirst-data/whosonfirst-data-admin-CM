@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.96333,3.39667,11.00333,3.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Likongu\u00e9",
         "Likong\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226161199,
-    "wof:lastmodified":1537591271,
+    "wof:lastmodified":1566646382,
     "wof:name":"Likonge",
     "wof:parent_id":1092011187,
     "wof:placetype":"locality",

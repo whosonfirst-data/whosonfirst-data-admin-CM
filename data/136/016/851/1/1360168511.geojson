@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.71333,7.14667,13.75333,7.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0631\u0627\u064a\u0627\u0646"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1360168511,
-    "wof:lastmodified":1564166503,
+    "wof:lastmodified":1566645918,
     "wof:name":"Sarayan",
     "wof:parent_id":1092011581,
     "wof:placetype":"locality",

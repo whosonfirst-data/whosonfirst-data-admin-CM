@@ -11,11 +11,15 @@
     "geom:longitude":10.23333,
     "gn:country":"CM",
     "gn:fcode":"PPL",
-    "gn:pop":6149,
+    "gn:population":6149,
     "iso:country":"CM",
+    "lbl:bbox":"10.21333,6.31333,10.25333,6.35333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Me"
     ],
     "qs:name":"Mme-Bafumen",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2226441,
         "gp:id":1301423,
-        "qs:id":278271
+        "qs_pg:id":278271
     },
     "wof:country":"CM",
     "wof:created":1469051930,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890432151,
-    "wof:lastmodified":1505343528,
+    "wof:lastmodified":1566646033,
     "wof:name":"Mme-Bafumen",
     "wof:parent_id":1092010759,
     "wof:placetype":"locality",

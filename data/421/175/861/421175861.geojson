@@ -10,8 +10,12 @@
     "geom:latitude":6.23333,
     "geom:longitude":10.28333,
     "iso:country":"CM",
+    "lbl:bbox":"10.26333,6.21333,10.30333,6.25333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Njinikom"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "Njinikom"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Njnikom"
     ],
     "qs:gn_country":"CM",
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":2224212,
         "gp:id":1304387,
-        "qs:id":1034411,
+        "qs_pg:id":1034411,
         "wd:id":"Q7042443",
         "wk:page":"Njinikom"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421175861,
-    "wof:lastmodified":1563235116,
+    "wof:lastmodified":1566646025,
     "wof:name":"Njinikom",
     "wof:parent_id":1092010759,
     "wof:placetype":"locality",

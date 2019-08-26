@@ -10,8 +10,12 @@
     "geom:latitude":4.23333,
     "geom:longitude":10.61667,
     "iso:country":"CM",
+    "lbl:bbox":"10.59667,4.21333,10.63667,4.25333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Ngambe"
@@ -31,7 +35,7 @@
     "name:spa_x_preferred":[
         "Ngambe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Babimbi"
     ],
     "qs:gn_country":"CM",
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":2224863,
         "gp:id":1304113,
-        "qs:id":1297162,
+        "qs_pg:id":1297162,
         "wd:id":"Q7021939"
     },
     "wof:country":"CM",
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":421168453,
-    "wof:lastmodified":1563235088,
+    "wof:lastmodified":1566646018,
     "wof:name":"Ngamb\u00e9",
     "wof:parent_id":1092011153,
     "wof:placetype":"locality",

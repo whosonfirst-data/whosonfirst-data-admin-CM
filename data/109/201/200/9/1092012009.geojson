@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.20778,
     "lbl:longitude":10.701073,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Nord Ouest",
     "meso:gadm_admin":"Bui",
     "meso:gadm_hasc2":"CM.NW.BU",
@@ -32,6 +34,7 @@
     "mps:longitude":10.701073,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Bui"
     ],
@@ -87,9 +90,9 @@
         "\u5e03\u4f0a\u5dde"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-01-01",
+    "src:population_date":"2001-01-01",
     "statoids:area_km":"2,297.0",
     "statoids:as_of_date":"2001-01-01",
     "statoids:capital":"Kumbo",
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":1092012009,
-    "wof:lastmodified":1563234999,
+    "wof:lastmodified":1566645957,
     "wof:name":"Bui",
     "wof:parent_id":85669941,
     "wof:placetype":"county",

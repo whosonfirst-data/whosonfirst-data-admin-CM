@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"11.51333,4.21333,11.55333,4.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632245
@@ -34,7 +38,7 @@
         "gn:id":2223878
     },
     "wof:country":"CM",
-    "wof:geomhash":"ff2731c7ddaa7d6a3abef24a378d1bdf",
+    "wof:geomhash":"4c3e8d9c59340af284119c6bb95bd451",
     "wof:hierarchy":[
         {
             "country_id":85632245,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209094289,
-    "wof:lastmodified":1536297937,
+    "wof:lastmodified":1566645504,
     "wof:name":"Nkolondogo",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     11.53333,
-    4.2333300000000005,
+    4.23333,
     11.53333,
-    4.2333300000000005
+    4.23333
 ],
   "geometry": {"coordinates":[11.53333,4.23333],"type":"Point"}
 }

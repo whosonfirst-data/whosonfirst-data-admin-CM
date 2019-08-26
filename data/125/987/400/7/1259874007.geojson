@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.30771,5.81228,10.34771,5.85228",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Mulafi"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259874007,
-    "wof:lastmodified":1537591360,
+    "wof:lastmodified":1566646324,
     "wof:name":"Mulafi",
     "wof:parent_id":1092010693,
     "wof:placetype":"locality",

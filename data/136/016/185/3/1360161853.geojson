@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.94529,11.24235,14.98529,11.28235",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u062f \u0627\u0644\u0632\u0646\u0627"
     ],
@@ -77,8 +81,7 @@
         "Zina"
     ],
     "name:und_x_variant":[
-        "Sina",
-        "Zina"
+        "Sina"
     ],
     "name:urd_x_preferred":[
         "\u0632\u0646\u0627"
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1360161853,
-    "wof:lastmodified":1564166510,
+    "wof:lastmodified":1566645923,
     "wof:name":"Zina",
     "wof:parent_id":1092011735,
     "wof:placetype":"locality",

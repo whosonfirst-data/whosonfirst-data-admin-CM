@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"8.96822,4.19029,9.00822,4.23029",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Idenau"
     ],
@@ -44,9 +48,7 @@
         "Idenau"
     ],
     "name:und_x_variant":[
-        "Idenau",
-        "Idendo",
-        "Idenao"
+        "Idendo"
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u5fb7\u7d0d\u70cf"
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1326820079,
-    "wof:lastmodified":1564165109,
+    "wof:lastmodified":1566644909,
     "wof:name":"Idenao",
     "wof:parent_id":1092010823,
     "wof:placetype":"locality",

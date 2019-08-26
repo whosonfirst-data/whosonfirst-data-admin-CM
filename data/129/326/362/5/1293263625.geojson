@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.77315,9.36225,13.81315,9.40225",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pere"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1293263625,
-    "wof:lastmodified":1564165658,
+    "wof:lastmodified":1566645310,
     "wof:name":"Pere",
     "wof:parent_id":1092012287,
     "wof:placetype":"locality",

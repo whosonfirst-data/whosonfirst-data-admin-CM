@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.33,4.56333,13.37,4.60333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Diang"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225850977,
-    "wof:lastmodified":1564167292,
+    "wof:lastmodified":1566646508,
     "wof:name":"Diang",
     "wof:parent_id":1092011395,
     "wof:placetype":"locality",

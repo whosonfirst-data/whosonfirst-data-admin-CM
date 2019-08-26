@@ -10,6 +10,9 @@
     "geom:latitude":2.9,
     "geom:longitude":11.15,
     "iso:country":"CM",
+    "lbl:bbox":"11.13,2.88,11.17,2.92",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -146,9 +149,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u0431\u043e\u043b\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
-        "Ebolova"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0628\u0648\u0644\u0648\u0648\u0627"
     ],
@@ -281,7 +281,7 @@
     "wof:concordances":{
         "gn:id":2232283,
         "gp:id":1301009,
-        "qs:id":229237,
+        "qs_pg:id":229237,
         "wd:id":"Q910616",
         "wk:page":"Ebolowa"
     },
@@ -298,7 +298,7 @@
         }
     ],
     "wof:id":421168937,
-    "wof:lastmodified":1563235087,
+    "wof:lastmodified":1566646018,
     "wof:name":"Ebolowa",
     "wof:parent_id":1092012173,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.03134,5.40532,10.07134,5.44532",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Minka"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1310497123,
-    "wof:lastmodified":1564166323,
+    "wof:lastmodified":1566645795,
     "wof:name":"Minka",
     "wof:parent_id":1092010943,
     "wof:placetype":"locality",

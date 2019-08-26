@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.28278,5.67932,10.32278,5.71932",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632245
@@ -34,7 +38,7 @@
         "gn:id":9085074
     },
     "wof:country":"CM",
-    "wof:geomhash":"3f8f1044d3702afb1b5524886d36ef25",
+    "wof:geomhash":"ce0fc144f0c5374706a122b01e3dfc19",
     "wof:hierarchy":[
         {
             "country_id":85632245,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209234471,
-    "wof:lastmodified":1536293533,
+    "wof:lastmodified":1566645566,
     "wof:name":"Monbap",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     10.30278,
-    5.699319999999998,
+    5.69932,
     10.30278,
-    5.699319999999998
+    5.69932
 ],
   "geometry": {"coordinates":[10.30278,5.69932],"type":"Point"}
 }

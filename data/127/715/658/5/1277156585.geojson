@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.70687,9.82717,13.74687,9.86717",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Fel"
     ],
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":1277156585,
-    "wof:lastmodified":1564165777,
+    "wof:lastmodified":1566645401,
     "wof:name":"Fel",
     "wof:parent_id":1092011479,
     "wof:placetype":"locality",

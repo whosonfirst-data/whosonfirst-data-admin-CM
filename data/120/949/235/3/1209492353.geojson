@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.06333,11.01333,14.10333,11.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632245
@@ -34,7 +38,7 @@
         "gn:id":2225359
     },
     "wof:country":"CM",
-    "wof:geomhash":"8d7d7941a0c2a3fee22b1ec4c4a057ef",
+    "wof:geomhash":"71a017b5608363eead650c6d24d5d795",
     "wof:hierarchy":[
         {
             "country_id":85632245,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209492353,
-    "wof:lastmodified":1536285445,
+    "wof:lastmodified":1566645573,
     "wof:name":"Ndananba",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.083329999999998,
+    14.08333,
     11.03333,
-    14.083329999999998,
+    14.08333,
     11.03333
 ],
   "geometry": {"coordinates":[14.08333,11.03333],"type":"Point"}

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"9.7698,5.5445,9.8098,5.5845",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Atebong",
         "Atebong Wire"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343545705,
-    "wof:lastmodified":1537591337,
+    "wof:lastmodified":1566644981,
     "wof:name":"Atebong Wire",
     "wof:parent_id":1092011003,
     "wof:placetype":"locality",

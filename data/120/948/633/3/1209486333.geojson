@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"12.49667,2.38,12.53667,2.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ngbwassa",
         "Ngbouasa"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209486333,
-    "wof:lastmodified":1537591231,
+    "wof:lastmodified":1566645547,
     "wof:name":"Ngbouasa",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",

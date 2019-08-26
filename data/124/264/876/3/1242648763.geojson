@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.9786,8.1995,15.0186,8.2395",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kongola"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242648763,
-    "wof:lastmodified":1564166842,
+    "wof:lastmodified":1566646191,
     "wof:name":"Kongola",
     "wof:parent_id":1092011703,
     "wof:placetype":"locality",

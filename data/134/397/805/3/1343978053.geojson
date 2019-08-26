@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.26078,5.53642,10.30078,5.57642",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bamenjo"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343978053,
-    "wof:lastmodified":1537591332,
+    "wof:lastmodified":1566644989,
     "wof:name":"Bamendjeu",
     "wof:parent_id":1092010559,
     "wof:placetype":"locality",

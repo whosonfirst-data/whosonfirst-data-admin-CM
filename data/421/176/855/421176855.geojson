@@ -10,8 +10,12 @@
     "geom:latitude":5.4685,
     "geom:longitude":9.8818,
     "iso:country":"CM",
+    "lbl:bbox":"9.8618,5.4485,9.9018,5.4885",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0424\u043e\u043d\u0442\u0435\u043c"
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":2231564,
         "gp:id":1301375,
-        "qs:id":1088985,
+        "qs_pg:id":1088985,
         "wd:id":"Q9261275"
     },
     "wof:country":"CM",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":421176855,
-    "wof:lastmodified":1563235137,
+    "wof:lastmodified":1566646032,
     "wof:name":"Fontem",
     "wof:parent_id":1092011035,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.2706,8.6302,14.3106,8.6702",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bila",
         "Rumde-B\u00edla",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293461219,
-    "wof:lastmodified":1537591255,
+    "wof:lastmodified":1566645190,
     "wof:name":"Mbila",
     "wof:parent_id":1092011703,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.08,10.99667,14.12,11.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Zala"
     ],
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":1226229247,
-    "wof:lastmodified":1564167198,
+    "wof:lastmodified":1566646435,
     "wof:name":"Zala",
     "wof:parent_id":1092011759,
     "wof:placetype":"locality",

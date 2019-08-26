@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.22851,9.98434,13.26851,10.02434",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Regnmala",
         "Rey Mala"
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1276202551,
-    "wof:lastmodified":1537591209,
+    "wof:lastmodified":1566645378,
     "wof:name":"Rey Mala",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

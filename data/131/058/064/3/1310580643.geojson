@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.76646,10.0109,13.80646,10.0509",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lorina"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310580643,
-    "wof:lastmodified":1537591270,
+    "wof:lastmodified":1566645886,
     "wof:name":"Larma",
     "wof:parent_id":1092011479,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.55943,5.10583,10.59943,5.14583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nekan I"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343647243,
-    "wof:lastmodified":1537591365,
+    "wof:lastmodified":1566644997,
     "wof:name":"Nekan",
     "wof:parent_id":1092010493,
     "wof:placetype":"locality",

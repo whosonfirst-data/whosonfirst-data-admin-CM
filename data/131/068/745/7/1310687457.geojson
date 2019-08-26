@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.16994,8.48967,14.20994,8.52967",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310687457,
-    "wof:lastmodified":1536654450,
+    "wof:lastmodified":1566645874,
     "wof:name":"Tapare",
     "wof:parent_id":1092011703,
     "wof:placetype":"locality",

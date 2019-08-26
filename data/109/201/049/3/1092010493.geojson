@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.058731,
     "lbl:longitude":10.583056,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Ouest",
     "meso:gadm_admin":"Nd\u00e9",
     "meso:gadm_hasc2":"CM.OU.ND",
@@ -32,6 +34,7 @@
     "mps:longitude":10.583056,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Nd\u00e9"
     ],
@@ -69,9 +72,9 @@
         "\u6069\u4ee3\u5dde"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-01-01",
+    "src:population_date":"2001-01-01",
     "statoids:area_km":"1,524.0",
     "statoids:as_of_date":"2001-01-01",
     "statoids:capital":"Bangangte",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1092010493,
-    "wof:lastmodified":1563234979,
+    "wof:lastmodified":1566645946,
     "wof:name":"Nde",
     "wof:parent_id":85669961,
     "wof:placetype":"county",

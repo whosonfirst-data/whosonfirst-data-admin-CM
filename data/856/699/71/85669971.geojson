@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":2.792101,
     "lbl:longitude":12.149518,
+    "lbl:min_zoom":8.0,
     "mps:latitude":2.794566,
     "mps:longitude":12.136957,
     "mz:hierarchy_label":1,
@@ -259,9 +260,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-11-11",
+    "src:population_date":"2005-11-11",
     "statoids:area_km":"47,110",
     "statoids:area_mi":"18,189",
     "statoids:as_of_date":"2005-11-11",
@@ -285,7 +286,7 @@
         "gp:id":2345042,
         "hasc:id":"CM.SU",
         "iso:id":"CM-SU",
-        "qs:id":219529,
+        "qs_pg:id":219529,
         "wd:id":"Q857122",
         "wk:page":"South Region (Cameroon)"
     },
@@ -307,11 +308,10 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1565662786,
+    "wof:lastmodified":1566645154,
     "wof:name":"Sud",
     "wof:parent_id":85632245,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":634655,
     "wof:population_rank":11,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.8245,10.83622,13.8645,10.87622",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Oulad"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326510237,
-    "wof:lastmodified":1564165019,
+    "wof:lastmodified":1566644842,
     "wof:name":"Oulad",
     "wof:parent_id":1092011899,
     "wof:placetype":"locality",

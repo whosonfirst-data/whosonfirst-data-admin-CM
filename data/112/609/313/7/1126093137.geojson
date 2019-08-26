@@ -9,16 +9,19 @@
     "geom:bbox":"9.7,4.05,9.7,4.05",
     "geom:latitude":4.05,
     "geom:longitude":9.7,
-    "gn:gn_country":"CM",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CM",
+    "gn:fcode":"PPLX",
     "gn:latitude":4.05,
     "gn:longitude":9.7,
+    "gn:population":0,
     "iso:country":"CM",
+    "lbl:bbox":"9.695,4.045,9.705,4.055",
     "lbl:latitude":4.05,
     "lbl:longitude":9.7,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Akwa"
@@ -33,9 +36,6 @@
         "\uc544\ucf70"
     ],
     "name:swe_x_preferred":[
-        "Akwa"
-    ],
-    "name:unk_x_variant":[
         "Akwa"
     ],
     "qs_pg:aaroncc":"CM",
@@ -59,7 +59,7 @@
     "qs_pg:woe_adm0":23424785,
     "qs_pg:woe_id":1299318,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424785,
     "woe:name_adm0":"Cameroun",
     "woe:name_adm1":"Littoral",
@@ -74,7 +74,6 @@
     "wof:concordances":{
         "gn:id":2235748,
         "gp:id":1299318,
-        "qs:id":222659,
         "qs_pg:id":222659
     },
     "wof:country":"CM",
@@ -91,7 +90,7 @@
         }
     ],
     "wof:id":1126093137,
-    "wof:lastmodified":1564166633,
+    "wof:lastmodified":1566646034,
     "wof:name":"Akwa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

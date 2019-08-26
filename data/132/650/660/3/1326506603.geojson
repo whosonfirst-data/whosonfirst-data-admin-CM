@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.44961,9.6253,13.48961,9.6653",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326506603,
-    "wof:lastmodified":1537020139,
+    "wof:lastmodified":1566644867,
     "wof:name":"Balde-Anedji",
     "wof:parent_id":1092012287,
     "wof:placetype":"locality",

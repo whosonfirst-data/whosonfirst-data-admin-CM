@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.44667,2.74667,10.48667,2.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Asouk",
         "As\u016dk",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243150969,
-    "wof:lastmodified":1537591337,
+    "wof:lastmodified":1566646116,
     "wof:name":"Assok",
     "wof:parent_id":1092012139,
     "wof:placetype":"locality",

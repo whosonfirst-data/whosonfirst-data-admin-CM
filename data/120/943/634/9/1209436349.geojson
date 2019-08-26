@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"9.9405,6.3135,9.9805,6.3535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041c\u0443\u043a\u0443\u0440\u0443"
     ],
@@ -32,8 +36,7 @@
         "Mukuru"
     ],
     "name:und_x_variant":[
-        "Mukura",
-        "Mukuru"
+        "Mukura"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1209436349,
-    "wof:lastmodified":1564166119,
+    "wof:lastmodified":1566645653,
     "wof:name":"Mukuru",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",

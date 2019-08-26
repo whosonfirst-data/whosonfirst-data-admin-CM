@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.49033,10.23075,13.53033,10.27075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bourrha"
     ],
@@ -35,7 +39,6 @@
         "Bourrha"
     ],
     "name:und_x_variant":[
-        "Bourrha",
         "Burha",
         "Bourha",
         "Bourba",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1327411013,
-    "wof:lastmodified":1564165086,
+    "wof:lastmodified":1566644892,
     "wof:name":"Bourrah",
     "wof:parent_id":1092011899,
     "wof:placetype":"locality",

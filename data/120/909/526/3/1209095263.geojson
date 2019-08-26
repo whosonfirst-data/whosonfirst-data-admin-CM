@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.66333,5.99667,13.70333,6.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632245
@@ -34,7 +38,7 @@
         "gn:id":2233153
     },
     "wof:country":"CM",
-    "wof:geomhash":"e2a138f0679db8e2cbe4fa99ef984a7c",
+    "wof:geomhash":"e99b23df1b57fb3aa86b2d5e3fcf1e87",
     "wof:hierarchy":[
         {
             "country_id":85632245,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209095263,
-    "wof:lastmodified":1536297907,
+    "wof:lastmodified":1566645503,
     "wof:name":"Deng-Haoussa",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.683329999999998,
+    13.68333,
     6.01667,
-    13.683329999999998,
+    13.68333,
     6.01667
 ],
   "geometry": {"coordinates":[13.68333,6.01667],"type":"Point"}

@@ -10,8 +10,12 @@
     "geom:latitude":4.76667,
     "geom:longitude":10.83333,
     "iso:country":"CM",
+    "lbl:bbox":"10.81333,4.74667,10.85333,4.78667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ndikinim\u00e9ki"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "Ndikinim\u00e9ki"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ndikinemeki"
     ],
     "qs:gn_country":"CM",
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":2225263,
         "gp:id":1303936,
-        "qs:id":1297166,
+        "qs_pg:id":1297166,
         "wd:id":"Q14944568",
         "wk:page":"Ndikinim\u00e9ki"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421196709,
-    "wof:lastmodified":1563235120,
+    "wof:lastmodified":1566646027,
     "wof:name":"Ndikinim\u00e9ki",
     "wof:parent_id":1092011309,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.69667,6.79667,10.73667,6.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u06a9\u0648"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1260076971,
-    "wof:lastmodified":1564166222,
+    "wof:lastmodified":1566645723,
     "wof:name":"Ako",
     "wof:parent_id":1092010727,
     "wof:placetype":"locality",

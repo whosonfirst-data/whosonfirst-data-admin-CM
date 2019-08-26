@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.94063,
     "lbl:longitude":13.869271,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Nord",
     "meso:gadm_admin":"Mayo Louti",
     "meso:gadm_hasc2":"CM.NO.ML",
@@ -32,6 +34,7 @@
     "mps:longitude":13.869271,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Mayo-Louti"
     ],
@@ -75,9 +78,9 @@
         "\u99ac\u7d04-\u76e7\u8482\u5dde"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-01-01",
+    "src:population_date":"2001-01-01",
     "statoids:area_km":"4,162.0",
     "statoids:as_of_date":"2001-01-01",
     "statoids:capital":"Guider",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1092011479,
-    "wof:lastmodified":1563235004,
+    "wof:lastmodified":1566645960,
     "wof:name":"Mayo Louti",
     "wof:parent_id":85669957,
     "wof:placetype":"county",

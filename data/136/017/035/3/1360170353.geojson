@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.10412,5.58829,10.14412,5.62829",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Mbi\u00e9t\u00e9"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360170353,
-    "wof:lastmodified":1537591356,
+    "wof:lastmodified":1566645927,
     "wof:name":"Mbiete",
     "wof:parent_id":1092010559,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.83,4.08,10.87,4.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bamba"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1327144357,
-    "wof:lastmodified":1564165068,
+    "wof:lastmodified":1566644881,
     "wof:name":"Bamba",
     "wof:parent_id":1092011187,
     "wof:placetype":"locality",

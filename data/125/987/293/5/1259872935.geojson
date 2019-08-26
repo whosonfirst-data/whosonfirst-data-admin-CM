@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.39085,5.28905,10.43085,5.32905",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kafo"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259872935,
-    "wof:lastmodified":1537591358,
+    "wof:lastmodified":1566646323,
     "wof:name":"Ka'afo",
     "wof:parent_id":1092012197,
     "wof:placetype":"locality",

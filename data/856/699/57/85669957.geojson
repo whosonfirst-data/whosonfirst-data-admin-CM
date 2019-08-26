@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":8.710836,
     "lbl:longitude":13.774488,
+    "lbl:min_zoom":8.0,
     "mps:latitude":8.479401,
     "mps:longitude":13.882279,
     "mz:hierarchy_label":1,
@@ -264,9 +265,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-11-11",
+    "src:population_date":"2005-11-11",
     "statoids:area_km":"65,576",
     "statoids:area_mi":"25,319",
     "statoids:as_of_date":"2005-11-11",
@@ -290,7 +291,7 @@
         "gp:id":2345041,
         "hasc:id":"CM.NO",
         "iso:id":"CM-NO",
-        "qs:id":1168635,
+        "qs_pg:id":1168635,
         "wd:id":"Q502341",
         "wk:page":"North Region (Cameroon)"
     },
@@ -312,11 +313,10 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1565662785,
+    "wof:lastmodified":1566645151,
     "wof:name":"Nord",
     "wof:parent_id":85632245,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1687959,
     "wof:population_rank":12,

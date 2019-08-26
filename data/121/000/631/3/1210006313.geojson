@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"9.3428,4.2176,9.3828,4.2576",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1210006313,
-    "wof:lastmodified":1536373314,
+    "wof:lastmodified":1566645663,
     "wof:name":"Puwo Camp",
     "wof:parent_id":1092010823,
     "wof:placetype":"locality",

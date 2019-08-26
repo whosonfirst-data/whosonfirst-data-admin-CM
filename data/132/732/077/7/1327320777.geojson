@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.52048,12.55438,14.56048,12.59438",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lafia"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327320777,
-    "wof:lastmodified":1537591368,
+    "wof:lastmodified":1566644901,
     "wof:name":"Lafia Sawaki",
     "wof:parent_id":1092011735,
     "wof:placetype":"locality",

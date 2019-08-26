@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.67616,4.99791,10.71616,5.03791",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b9\u09be\u09ae"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1209635357,
-    "wof:lastmodified":1564165955,
+    "wof:lastmodified":1566645534,
     "wof:name":"Maham",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",

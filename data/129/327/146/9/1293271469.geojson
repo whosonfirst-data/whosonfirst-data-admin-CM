@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.06036,8.26262,14.10036,8.30262",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Yet"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293271469,
-    "wof:lastmodified":1564165631,
+    "wof:lastmodified":1566645287,
     "wof:name":"Yet",
     "wof:parent_id":1092011703,
     "wof:placetype":"locality",

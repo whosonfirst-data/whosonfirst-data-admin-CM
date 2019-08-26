@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.042499,
     "lbl:longitude":9.72827,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Littoral",
     "meso:gadm_admin":"Wouri",
     "meso:gadm_hasc2":"CM.LT.WO",
@@ -32,6 +34,7 @@
     "mps:longitude":9.72827,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0434\u044d\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u0412\u0443\u0440\u044b"
     ],
@@ -75,9 +78,9 @@
         "\u4f0d\u91cc\u5dde"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-01-01",
+    "src:population_date":"2001-01-01",
     "statoids:area_km":"923.0",
     "statoids:as_of_date":"2001-01-01",
     "statoids:capital":"Douala",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1092012257,
-    "wof:lastmodified":1563234994,
+    "wof:lastmodified":1566645956,
     "wof:name":"Wouri",
     "wof:parent_id":85669937,
     "wof:placetype":"county",

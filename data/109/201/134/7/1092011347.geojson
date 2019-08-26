@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":3.382915,
     "lbl:longitude":13.38706,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Est",
     "meso:gadm_admin":"Haut Nyong",
     "meso:gadm_hasc2":"CM.ES.HN",
@@ -32,6 +34,7 @@
     "mps:longitude":13.38706,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Departement du Haut-Nyong"
     ],
@@ -82,9 +85,9 @@
         "\u4e0a\u5c3c\u6c38\u5dde"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-01-01",
+    "src:population_date":"2001-01-01",
     "statoids:area_km":"36,384.0",
     "statoids:as_of_date":"2001-01-01",
     "statoids:capital":"Abong-Mbang",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1092011347,
-    "wof:lastmodified":1563234974,
+    "wof:lastmodified":1566645943,
     "wof:name":"Haut Nyong",
     "wof:parent_id":85669949,
     "wof:placetype":"county",

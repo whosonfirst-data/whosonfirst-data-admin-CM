@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.7502,10.47867,14.7902,10.51867",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343249143,
-    "wof:lastmodified":1537049220,
+    "wof:lastmodified":1566645050,
     "wof:name":"Kerdeng",
     "wof:parent_id":1092011963,
     "wof:placetype":"locality",

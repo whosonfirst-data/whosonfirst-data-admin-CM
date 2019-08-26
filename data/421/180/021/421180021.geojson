@@ -10,6 +10,9 @@
     "geom:latitude":7.31667,
     "geom:longitude":13.58333,
     "iso:country":"CM",
+    "lbl:bbox":"13.56333,7.29667,13.60333,7.33667",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -152,9 +155,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0433\u0430\u0443\u043d\u0434\u0435\u0440\u0435"
     ],
-    "name:unk_x_variant":[
-        "Ngaundere"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u06af\u0627\u0624\u0646\u062f\u06cc\u0631\u06d2"
     ],
@@ -292,7 +292,7 @@
     "wof:concordances":{
         "gn:id":2224827,
         "gp:id":1304138,
-        "qs:id":274190,
+        "qs_pg:id":274190,
         "wd:id":"Q745906",
         "wk:page":"Ngaound\u00e9r\u00e9"
     },
@@ -309,7 +309,7 @@
         }
     ],
     "wof:id":421180021,
-    "wof:lastmodified":1563235109,
+    "wof:lastmodified":1566646024,
     "wof:name":"Ngaound\u00e9r\u00e9",
     "wof:parent_id":1092011581,
     "wof:placetype":"locality",

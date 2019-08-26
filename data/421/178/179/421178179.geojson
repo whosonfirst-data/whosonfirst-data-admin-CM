@@ -10,6 +10,9 @@
     "geom:latitude":3.51667,
     "geom:longitude":11.5,
     "iso:country":"CM",
+    "lbl:bbox":"11.48,3.49667,11.52,3.53667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -125,7 +128,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0431\u0430\u043b\u044c\u043c\u0430\u0439\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mbalmajo"
     ],
     "name:urd_x_preferred":[
@@ -262,7 +265,7 @@
     "wof:concordances":{
         "gn:id":2228079,
         "gp:id":1303011,
-        "qs:id":278276,
+        "qs_pg:id":278276,
         "wd:id":"Q2702755",
         "wk:page":"Mbalmayo"
     },
@@ -279,7 +282,7 @@
         }
     ],
     "wof:id":421178179,
-    "wof:lastmodified":1563235132,
+    "wof:lastmodified":1566646031,
     "wof:name":"Mbalmayo",
     "wof:parent_id":1092011209,
     "wof:placetype":"locality",

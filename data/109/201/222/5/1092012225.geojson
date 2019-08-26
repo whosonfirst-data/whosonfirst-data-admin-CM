@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.322496,
     "lbl:longitude":10.492055,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Ouest",
     "meso:gadm_admin":"Koung Khi",
     "meso:gadm_hasc2":"CM.OU.KK",
@@ -32,6 +34,7 @@
     "mps:longitude":10.492055,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Koung-Khi"
     ],
@@ -75,9 +78,9 @@
         "\u5b54\u57fa\u5dde"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-01-01",
+    "src:population_date":"2001-01-01",
     "statoids:area_km":"353.0",
     "statoids:as_of_date":"2001-01-01",
     "statoids:capital":"Badjoun",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1092012225,
-    "wof:lastmodified":1563234995,
+    "wof:lastmodified":1566645956,
     "wof:name":"Koung Khi",
     "wof:parent_id":85669961,
     "wof:placetype":"county",

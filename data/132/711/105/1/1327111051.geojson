@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.51269,8.96137,13.55269,9.00137",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Djalingo",
         "Lamudan",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327111051,
-    "wof:lastmodified":1537591311,
+    "wof:lastmodified":1566644959,
     "wof:name":"Lamoudam",
     "wof:parent_id":1092012287,
     "wof:placetype":"locality",

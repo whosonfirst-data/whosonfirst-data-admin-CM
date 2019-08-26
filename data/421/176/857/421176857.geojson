@@ -10,8 +10,12 @@
     "geom:latitude":10.39757,
     "geom:longitude":14.43626,
     "iso:country":"CM",
+    "lbl:bbox":"14.41626,10.37757,14.45626,10.41757",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041c\u0438\u043d\u0434\u0438\u0444"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "Mindif"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mendif"
     ],
     "qs:gn_country":"CM",
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":2226641,
         "gp:id":1303522,
-        "qs:id":1089008,
+        "qs_pg:id":1089008,
         "wd:id":"Q3314784",
         "wk:page":"Mindif"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421176857,
-    "wof:lastmodified":1563235135,
+    "wof:lastmodified":1566646031,
     "wof:name":"Mindif",
     "wof:parent_id":1092011963,
     "wof:placetype":"locality",

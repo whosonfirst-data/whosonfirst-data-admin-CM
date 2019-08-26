@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.87717,9.92025,13.91717,9.96025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327213235,
-    "wof:lastmodified":1536996579,
+    "wof:lastmodified":1566644949,
     "wof:name":"Ouro Ngabou",
     "wof:parent_id":1092011479,
     "wof:placetype":"locality",

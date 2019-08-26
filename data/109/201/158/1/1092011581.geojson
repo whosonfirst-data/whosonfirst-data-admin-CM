@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.20988,
     "lbl:longitude":13.597198,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Adamaoua",
     "meso:gadm_admin":"Vina",
     "meso:gadm_hasc2":"CM.AD.VI",
@@ -32,6 +34,7 @@
     "mps:longitude":13.597198,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Vina"
     ],
@@ -72,9 +75,9 @@
         "\u7dad\u7d0d\u5dde"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-01-01",
+    "src:population_date":"2001-01-01",
     "statoids:area_km":"17,196.0",
     "statoids:as_of_date":"2001-01-01",
     "statoids:capital":"Ngaound\u00e9r\u00e9",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1092011581,
-    "wof:lastmodified":1563234975,
+    "wof:lastmodified":1566645944,
     "wof:name":"Vina",
     "wof:parent_id":85669953,
     "wof:placetype":"county",

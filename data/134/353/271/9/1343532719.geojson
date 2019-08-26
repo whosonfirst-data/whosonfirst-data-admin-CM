@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"15.0845,7.8328,15.1245,7.8728",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Gay"
     ],
@@ -234,7 +238,7 @@
         }
     ],
     "wof:id":1343532719,
-    "wof:lastmodified":1564165228,
+    "wof:lastmodified":1566644985,
     "wof:name":"Gay",
     "wof:parent_id":1092011703,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"9.883,5.494,9.923,5.534",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632245
@@ -34,7 +38,7 @@
         "gn:id":6858318
     },
     "wof:country":"CM",
-    "wof:geomhash":"52eb7c858fde9ff92bf20e10045d3789",
+    "wof:geomhash":"d64f8be0607b28a099f3a1611f494752",
     "wof:hierarchy":[
         {
             "country_id":85632245,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209404483,
-    "wof:lastmodified":1536288040,
+    "wof:lastmodified":1566645567,
     "wof:name":"Fotabong I",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     9.903,
-    5.5139999999999985,
+    5.514,
     9.903,
-    5.5139999999999985
+    5.514
 ],
   "geometry": {"coordinates":[9.903,5.514],"type":"Point"}
 }

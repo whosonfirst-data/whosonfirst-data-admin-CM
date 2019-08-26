@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":2.867957,
     "lbl:longitude":10.264784,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Sud",
     "meso:gadm_admin":"Oc\u00e9an",
     "meso:gadm_hasc2":"CM.SU.OC",
@@ -32,6 +34,7 @@
     "mps:longitude":10.264784,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Oc\u00e9an"
     ],
@@ -66,9 +69,9 @@
         "\u5927\u6d0b\u5dde"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-01-01",
+    "src:population_date":"2001-01-01",
     "statoids:area_km":"11,280.0",
     "statoids:as_of_date":"2001-01-01",
     "statoids:capital":"Kribi",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1092012139,
-    "wof:lastmodified":1563234998,
+    "wof:lastmodified":1566645956,
     "wof:name":"Ocean",
     "wof:parent_id":85669971,
     "wof:placetype":"county",

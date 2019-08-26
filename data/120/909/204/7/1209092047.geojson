@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.23328,5.49528,10.27328,5.53528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632245
@@ -34,7 +38,7 @@
         "gn:id":9086426
     },
     "wof:country":"CM",
-    "wof:geomhash":"0dceeb62b656b8a5da81695acba0418a",
+    "wof:geomhash":"143b2f42719fc7026f08cbbbd2c4bda2",
     "wof:hierarchy":[
         {
             "country_id":85632245,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209092047,
-    "wof:lastmodified":1536298007,
+    "wof:lastmodified":1566645501,
     "wof:name":"Bankui",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     10.25328,
-    5.5152800000000015,
+    5.51528,
     10.25328,
-    5.5152800000000015
+    5.51528
 ],
   "geometry": {"coordinates":[10.25328,5.51528],"type":"Point"}
 }

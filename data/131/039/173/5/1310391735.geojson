@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.9938,9.1591,14.0338,9.1991",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La\u00efnd\u00e9 Bani",
         "La\u00e8nd\u00e9 Bani"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310391735,
-    "wof:lastmodified":1537591273,
+    "wof:lastmodified":1566645828,
     "wof:name":"Laende Bani",
     "wof:parent_id":1092011703,
     "wof:placetype":"locality",

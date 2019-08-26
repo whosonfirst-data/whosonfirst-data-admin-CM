@@ -10,8 +10,12 @@
     "geom:latitude":5.1481,
     "geom:longitude":10.2762,
     "iso:country":"CM",
+    "lbl:bbox":"10.2562,5.1281,10.2962,5.1681",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Bana"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":2234936,
         "gp:id":1299724,
-        "qs:id":139094,
+        "qs_pg:id":139094,
         "wd:id":"Q2881848",
         "wk:page":"Bana, Cameroon"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421167569,
-    "wof:lastmodified":1563235098,
+    "wof:lastmodified":1566646021,
     "wof:name":"Bana",
     "wof:parent_id":1092010971,
     "wof:placetype":"locality",

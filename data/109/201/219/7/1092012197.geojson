@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.292712,
     "lbl:longitude":10.333196,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Ouest",
     "meso:gadm_admin":"Hauts Plateaux",
     "meso:gadm_hasc2":"CM.OU.HP",
@@ -32,6 +34,7 @@
     "mps:longitude":10.333196,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Hauts-Plateaux"
     ],
@@ -75,9 +78,9 @@
         "\u4e0a\u9ad8\u539f\u5dde"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-01-01",
+    "src:population_date":"2001-01-01",
     "statoids:area_km":"415.0",
     "statoids:as_of_date":"2001-01-01",
     "statoids:capital":"Baham",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1092012197,
-    "wof:lastmodified":1563234976,
+    "wof:lastmodified":1566645945,
     "wof:name":"Hauts Plateaux",
     "wof:parent_id":85669961,
     "wof:placetype":"county",

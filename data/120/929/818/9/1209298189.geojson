@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"12.56178,6.46429,12.60178,6.50429",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632245
@@ -34,7 +38,7 @@
         "gn:id":8696639
     },
     "wof:country":"CM",
-    "wof:geomhash":"92e53caad09d0dc5a8e3ae7c11378cfd",
+    "wof:geomhash":"77fbabe85a45fe22471ecd3c25977599",
     "wof:hierarchy":[
         {
             "country_id":85632245,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209298189,
-    "wof:lastmodified":1536291450,
+    "wof:lastmodified":1566645617,
     "wof:name":"Mbon Ha",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     12.58178,
-    6.4842900000000006,
+    6.48429,
     12.58178,
-    6.4842900000000006
+    6.48429
 ],
   "geometry": {"coordinates":[12.58178,6.48429],"type":"Point"}
 }

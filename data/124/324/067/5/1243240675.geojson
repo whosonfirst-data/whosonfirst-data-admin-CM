@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.61553,11.99521,14.65553,12.03521",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gassama",
         "Gasama"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243240675,
-    "wof:lastmodified":1537591294,
+    "wof:lastmodified":1566646111,
     "wof:name":"Gasama",
     "wof:parent_id":1092011735,
     "wof:placetype":"locality",

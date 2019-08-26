@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.51548,5.64606,10.55548,5.68606",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293574857,
-    "wof:lastmodified":1536661221,
+    "wof:lastmodified":1566645237,
     "wof:name":"Nchout-Monoun",
     "wof:parent_id":1092010521,
     "wof:placetype":"locality",

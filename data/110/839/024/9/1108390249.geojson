@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.22789,
     "lbl:longitude":15.129282,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Extreme Nord",
     "meso:gadm_admin":"Mayo Danay",
     "meso:gadm_hasc2":"CM.EN.MD",
@@ -32,6 +34,7 @@
     "mps:longitude":15.129282,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Mayo Danay"
@@ -101,9 +104,9 @@
     "qs:woe_id":56013486,
     "src:geom":"meso",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-01-01",
+    "src:population_date":"2001-01-01",
     "statoids:area_km":"5,303.0",
     "statoids:as_of_date":"2001-01-01",
     "statoids:capital":"Yagoua",
@@ -124,7 +127,7 @@
     "wof:concordances":{
         "gp:id":56013486,
         "hasc:id":"CM.EN.MD",
-        "qs:id":264096,
+        "qs_pg:id":264096,
         "wd:id":"Q2444290"
     },
     "wof:country":"CM",
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":1108390249,
-    "wof:lastmodified":1563234757,
+    "wof:lastmodified":1566645782,
     "wof:name":"Mayo Danay",
     "wof:parent_id":85669933,
     "wof:placetype":"county",

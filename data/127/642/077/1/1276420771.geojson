@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.77583,10.67374,13.81583,10.71374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sirak"
     ],
@@ -39,7 +43,6 @@
     ],
     "name:und_x_variant":[
         "Sirac",
-        "Sirak",
         "Serak"
     ],
     "src:geom":"geonames",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1276420771,
-    "wof:lastmodified":1564165715,
+    "wof:lastmodified":1566645354,
     "wof:name":"Sirak",
     "wof:parent_id":1092011899,
     "wof:placetype":"locality",

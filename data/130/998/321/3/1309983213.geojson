@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.85309,10.8426,13.89309,10.8826",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309983213,
-    "wof:lastmodified":1536675471,
+    "wof:lastmodified":1566645967,
     "wof:name":"Hamdalla",
     "wof:parent_id":1092011899,
     "wof:placetype":"locality",

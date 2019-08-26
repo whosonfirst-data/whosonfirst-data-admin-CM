@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"11.06333,3.36333,11.10333,3.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0643\u0648\u0646\u062c\u0648"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343276425,
-    "wof:lastmodified":1564165404,
+    "wof:lastmodified":1566645115,
     "wof:name":"Akongo",
     "wof:parent_id":1092011209,
     "wof:placetype":"locality",

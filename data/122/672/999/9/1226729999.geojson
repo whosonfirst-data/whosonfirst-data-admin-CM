@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.24498,10.54464,14.28498,10.58464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kan_x_preferred":[
         "\u0cac\u0cc6\u0cb3\u0ccd\u0cb3\u0cbe\u0cb0\u0cc6"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226729999,
-    "wof:lastmodified":1564167077,
+    "wof:lastmodified":1566646354,
     "wof:name":"Bellare",
     "wof:parent_id":1092011977,
     "wof:placetype":"locality",

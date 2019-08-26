@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.1296,10.84347,14.1696,10.88347",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Tokomb\u00e9r\u00e9"
     ],
@@ -35,7 +39,6 @@
         "Tokomb\u00e9r\u00e9"
     ],
     "name:und_x_variant":[
-        "Tokomb\u00e9r\u00e9",
         "Tokonb\u00e9r\u00e9"
     ],
     "src:geom":"geonames",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1276320809,
-    "wof:lastmodified":1564165757,
+    "wof:lastmodified":1566645388,
     "wof:name":"Tokonbere",
     "wof:parent_id":1092011759,
     "wof:placetype":"locality",

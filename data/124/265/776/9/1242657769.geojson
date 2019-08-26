@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.71378,10.43445,13.75378,10.47445",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Dili"
     ],
@@ -384,7 +388,7 @@
         }
     ],
     "wof:id":1242657769,
-    "wof:lastmodified":1564166835,
+    "wof:lastmodified":1566646187,
     "wof:name":"Dili",
     "wof:parent_id":1092011899,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":6.46667,
     "geom:longitude":12.63333,
     "iso:country":"CM",
+    "lbl:bbox":"12.61333,6.44667,12.65333,6.48667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -184,7 +187,7 @@
     "wof:concordances":{
         "gn:id":2221530,
         "gp:id":1305636,
-        "qs:id":278261,
+        "qs_pg:id":278261,
         "wd:id":"Q2005262",
         "wk:page":"Tibati"
     },
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":421178169,
-    "wof:lastmodified":1563235129,
+    "wof:lastmodified":1566646030,
     "wof:name":"Tibati",
     "wof:parent_id":1092011605,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"9.4459,6.3475,9.4859,6.3875",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310099889,
-    "wof:lastmodified":1537003836,
+    "wof:lastmodified":1566645814,
     "wof:name":"Aya-maya",
     "wof:parent_id":1092011003,
     "wof:placetype":"locality",

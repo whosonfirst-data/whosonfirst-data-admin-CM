@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.39667,7.93,14.43667,7.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632245
@@ -34,7 +38,7 @@
         "gn:id":2232684
     },
     "wof:country":"CM",
-    "wof:geomhash":"30872f04fddc953b0ced0edcf5dbbd56",
+    "wof:geomhash":"e975c8cb8e998d5a947115e4d7f9f745",
     "wof:hierarchy":[
         {
             "country_id":85632245,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209695297,
-    "wof:lastmodified":1536279097,
+    "wof:lastmodified":1566645606,
     "wof:name":"Dofe",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.416670000000002,
+    14.41667,
     7.95,
-    14.416670000000002,
+    14.41667,
     7.95
 ],
   "geometry": {"coordinates":[14.41667,7.95],"type":"Point"}

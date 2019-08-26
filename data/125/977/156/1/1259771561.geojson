@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"11.38,4.53,11.42,4.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Goura"
     ],
@@ -36,8 +40,7 @@
     ],
     "name:und_x_variant":[
         "Goura I",
-        "Gouna",
-        "Goura"
+        "Gouna"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1259771561,
-    "wof:lastmodified":1564166923,
+    "wof:lastmodified":1566646248,
     "wof:name":"Goura",
     "wof:parent_id":1092012311,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.95638,10.9807,14.99638,11.0207",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Daouaya",
         "Dawaya"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259770269,
-    "wof:lastmodified":1537591314,
+    "wof:lastmodified":1566646251,
     "wof:name":"Dawaya",
     "wof:parent_id":1108390249,
     "wof:placetype":"locality",

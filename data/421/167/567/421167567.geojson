@@ -10,8 +10,12 @@
     "geom:latitude":6.83333,
     "geom:longitude":14.7,
     "iso:country":"CM",
+    "lbl:bbox":"14.68,6.81333,14.72,6.85333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Djohong"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "Djohong"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Doumba"
     ],
     "qs:gn_country":"CM",
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":2232774,
         "gp:id":1300773,
-        "qs:id":139066,
+        "qs_pg:id":139066,
         "wd:id":"Q5285362",
         "wk:page":"Djohong"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421167567,
-    "wof:lastmodified":1563235098,
+    "wof:lastmodified":1566646021,
     "wof:name":"Djohong",
     "wof:parent_id":1092011633,
     "wof:placetype":"locality",

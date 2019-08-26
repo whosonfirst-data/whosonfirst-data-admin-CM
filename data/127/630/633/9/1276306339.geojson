@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"12.08,3.28,12.12,3.32",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Biba"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276306339,
-    "wof:lastmodified":1564165860,
+    "wof:lastmodified":1566645466,
     "wof:name":"Biba",
     "wof:parent_id":1092011365,
     "wof:placetype":"locality",

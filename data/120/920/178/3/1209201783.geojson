@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.84562,10.74091,13.88562,10.78091",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632245
@@ -34,7 +38,7 @@
         "gn:id":9074292
     },
     "wof:country":"CM",
-    "wof:geomhash":"28bbd3b61e11459e499252ce136390fa",
+    "wof:geomhash":"db98a58e8000653519d6d01374b5d378",
     "wof:hierarchy":[
         {
             "country_id":85632245,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209201783,
-    "wof:lastmodified":1536294584,
+    "wof:lastmodified":1566645626,
     "wof:name":"Paldok",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.865620000000002,
+    13.86562,
     10.76091,
-    13.865620000000002,
+    13.86562,
     10.76091
 ],
   "geometry": {"coordinates":[13.86562,10.76091],"type":"Point"}

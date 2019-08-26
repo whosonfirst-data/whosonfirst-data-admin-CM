@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.46332,
     "lbl:longitude":11.882316,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Centre",
     "meso:gadm_admin":"Mbam et Kim",
     "meso:gadm_hasc2":"CM.CE.MK",
@@ -32,6 +34,7 @@
     "mps:longitude":11.882316,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Mbam-et-Kim"
     ],
@@ -76,9 +79,9 @@
         "\u59c6\u73ed-\u91d1\u5dde"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-01-01",
+    "src:population_date":"2001-01-01",
     "statoids:area_km":"25,906.0",
     "statoids:as_of_date":"2001-01-01",
     "statoids:capital":"Ntui",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1092012311,
-    "wof:lastmodified":1563234998,
+    "wof:lastmodified":1566645957,
     "wof:name":"Mbam et Kim",
     "wof:parent_id":85669945,
     "wof:placetype":"county",

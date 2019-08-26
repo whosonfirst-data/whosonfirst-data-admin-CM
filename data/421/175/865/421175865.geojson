@@ -10,8 +10,12 @@
     "geom:latitude":4.1787,
     "geom:longitude":9.6561,
     "iso:country":"CM",
+    "lbl:bbox":"9.6361,4.1587,9.6761,4.1987",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0414\u0438\u0431\u043e\u043c\u0431\u0430\u0440\u0438"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":2233100,
         "gp:id":1300602,
-        "qs:id":1034474,
+        "qs_pg:id":1034474,
         "wd:id":"Q3026494",
         "wk:page":"Dibombari"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421175865,
-    "wof:lastmodified":1563235118,
+    "wof:lastmodified":1566646026,
     "wof:name":"Dibombari",
     "wof:parent_id":1092011087,
     "wof:placetype":"locality",

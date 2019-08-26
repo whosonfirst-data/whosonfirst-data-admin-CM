@@ -11,10 +11,14 @@
     "geom:longitude":9.3144,
     "gn:country":"CM",
     "gn:fcode":"PPL",
-    "gn:pop":47478,
+    "gn:population":47478,
     "iso:country":"CM",
+    "lbl:bbox":"9.2944,4.0713,9.3344,4.1113",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u041c\u0443\u0442\u0435\u043d\u0433\u0435\u043d\u0435"
     ],
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":2225728,
         "gp:id":12512353,
-        "qs:id":139002,
+        "qs_pg:id":139002,
         "wd:id":"Q10334043"
     },
     "wof:country":"CM",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890437831,
-    "wof:lastmodified":1563235138,
+    "wof:lastmodified":1566646032,
     "wof:name":"Mutengene",
     "wof:parent_id":1092010823,
     "wof:placetype":"locality",

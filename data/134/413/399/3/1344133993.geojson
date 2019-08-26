@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.32669,10.20132,14.36669,10.24132",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344133993,
-    "wof:lastmodified":1536770037,
+    "wof:lastmodified":1566645007,
     "wof:name":"Ligazang",
     "wof:parent_id":1092011963,
     "wof:placetype":"locality",

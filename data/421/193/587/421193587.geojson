@@ -10,8 +10,12 @@
     "geom:latitude":6.1,
     "geom:longitude":10.65,
     "iso:country":"CM",
+    "lbl:bbox":"10.63,6.08,10.67,6.12",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Jakiri"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":2230641,
         "gp:id":1301875,
-        "qs:id":1128709,
+        "qs_pg:id":1128709,
         "wd:id":"Q6125182",
         "wk:page":"Jakiri"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421193587,
-    "wof:lastmodified":1563235097,
+    "wof:lastmodified":1566646021,
     "wof:name":"Jakiri",
     "wof:parent_id":1092012009,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.41333,11.03,14.45333,11.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632245
@@ -34,7 +38,7 @@
         "gn:id":2222828
     },
     "wof:country":"CM",
-    "wof:geomhash":"e4cd70f4c4cc22b65a9967a27d958d4f",
+    "wof:geomhash":"20661b9bff67a45478ed46fdda36fb81",
     "wof:hierarchy":[
         {
             "country_id":85632245,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209602369,
-    "wof:lastmodified":1536282125,
+    "wof:lastmodified":1566645603,
     "wof:name":"Ouro Mbouka",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.433329999999998,
+    14.43333,
     11.05,
-    14.433329999999998,
+    14.43333,
     11.05
 ],
   "geometry": {"coordinates":[14.43333,11.05],"type":"Point"}

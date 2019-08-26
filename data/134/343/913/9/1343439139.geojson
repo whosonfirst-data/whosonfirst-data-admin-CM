@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"11.46333,4.24667,11.50333,4.28667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lebamzib",
         "L\u00e9bamzip I"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343439139,
-    "wof:lastmodified":1537591272,
+    "wof:lastmodified":1566645145,
     "wof:name":"Lebamzip I",
     "wof:parent_id":1092012079,
     "wof:placetype":"locality",

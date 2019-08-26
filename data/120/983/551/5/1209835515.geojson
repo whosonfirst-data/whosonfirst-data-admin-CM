@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.88644,5.95562,10.92644,5.99562",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Mabouo"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209835515,
-    "wof:lastmodified":1564165977,
+    "wof:lastmodified":1566645548,
     "wof:name":"Mabouo",
     "wof:parent_id":1092010521,
     "wof:placetype":"locality",

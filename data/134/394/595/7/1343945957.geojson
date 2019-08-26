@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.41333,3.43,10.45333,3.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lebok",
         "Libog",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343945957,
-    "wof:lastmodified":1537591271,
+    "wof:lastmodified":1566645083,
     "wof:name":"Libok",
     "wof:parent_id":1092011187,
     "wof:placetype":"locality",
