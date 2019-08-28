@@ -10,8 +10,12 @@
     "geom:latitude":4.0779,
     "geom:longitude":9.6759,
     "iso:country":"CM",
+    "lbl:bbox":"9.6559,4.0579,9.6959,4.0979",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Bonab\u00e9ri"
@@ -34,7 +38,7 @@
     "name:swe_x_preferred":[
         "Bonab\u00e9ri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Boniberi"
     ],
     "qs:gn_country":"CM",
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":2233704,
         "gp:id":1300305,
-        "qs:id":1352588,
+        "qs_pg:id":1352588,
         "wd:id":"Q4941069",
         "wk:page":"Bonab\u00e9ri"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421193589,
-    "wof:lastmodified":1563235096,
+    "wof:lastmodified":1566646020,
     "wof:name":"Bonab\u00e9ri",
     "wof:parent_id":1092012257,
     "wof:placetype":"locality",

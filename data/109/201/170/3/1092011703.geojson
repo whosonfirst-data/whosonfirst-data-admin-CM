@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.171136,
     "lbl:longitude":14.490423,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Nord",
     "meso:gadm_admin":"Mayo Rey",
     "meso:gadm_hasc2":"CM.NO.MA",
@@ -32,6 +34,7 @@
     "mps:longitude":14.490423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Mayo-Rey"
     ],
@@ -76,9 +79,9 @@
         "\u99ac\u7d04\u96f7\u5dde"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-01-01",
+    "src:population_date":"2001-01-01",
     "statoids:area_km":"36,529.0",
     "statoids:as_of_date":"2001-01-01",
     "statoids:capital":"Tchollir\u00e9",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1092011703,
-    "wof:lastmodified":1563235003,
+    "wof:lastmodified":1566645959,
     "wof:name":"Mayo Rey",
     "wof:parent_id":85669957,
     "wof:placetype":"county",

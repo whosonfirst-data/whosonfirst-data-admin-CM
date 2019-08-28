@@ -10,8 +10,12 @@
     "geom:latitude":8.6724,
     "geom:longitude":14.1786,
     "iso:country":"CM",
+    "lbl:bbox":"14.1586,8.6524,14.1986,8.6924",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Rey Bouba"
@@ -25,7 +29,7 @@
     "name:swe_x_preferred":[
         "Rey Bouba"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rei Buba"
     ],
     "qs:gn_country":"CM",
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":2222439,
         "gp:id":1305244,
-        "qs:id":969782,
+        "qs_pg:id":969782,
         "wd:id":"Q7319397"
     },
     "wof:country":"CM",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":421168063,
-    "wof:lastmodified":1563235088,
+    "wof:lastmodified":1566646018,
     "wof:name":"Rey Bouba",
     "wof:parent_id":1092011703,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.46768,10.10907,14.50768,10.14907",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0645\u0632\u0646\u06af"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226727073,
-    "wof:lastmodified":1564167077,
+    "wof:lastmodified":1566646354,
     "wof:name":"Mazang",
     "wof:parent_id":1092011963,
     "wof:placetype":"locality",

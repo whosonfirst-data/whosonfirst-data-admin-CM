@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"12.73,3.38,12.77,3.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ngola"
     ],
@@ -38,8 +42,7 @@
         "Ngola"
     ],
     "name:und_x_variant":[
-        "Mouss\u0101\u2019s",
-        "Ngola"
+        "Mouss\u0101\u2019s"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1309809829,
-    "wof:lastmodified":1564166614,
+    "wof:lastmodified":1566646008,
     "wof:name":"Ngola",
     "wof:parent_id":1092011347,
     "wof:placetype":"locality",

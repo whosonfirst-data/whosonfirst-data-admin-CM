@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.46454,8.32793,13.50454,8.36793",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Saba"
     ],
@@ -246,7 +250,7 @@
         }
     ],
     "wof:id":1309985429,
-    "wof:lastmodified":1564166549,
+    "wof:lastmodified":1566645964,
     "wof:name":"Saba",
     "wof:parent_id":1092011703,
     "wof:placetype":"locality",

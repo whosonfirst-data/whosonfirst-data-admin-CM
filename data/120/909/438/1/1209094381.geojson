@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"12.44667,3.96333,12.48667,4.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632245
@@ -34,7 +38,7 @@
         "gn:id":2223281
     },
     "wof:country":"CM",
-    "wof:geomhash":"5d2c3a53e7e987a84edb3cf7e928ffd0",
+    "wof:geomhash":"faf31960c8481fd0fcaf85a17f1fe114",
     "wof:hierarchy":[
         {
             "country_id":85632245,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209094381,
-    "wof:lastmodified":1536297934,
+    "wof:lastmodified":1566645501,
     "wof:name":"Obis",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     12.46667,
-    3.983330000000001,
+    3.98333,
     12.46667,
-    3.983330000000001
+    3.98333
 ],
   "geometry": {"coordinates":[12.46667,3.98333],"type":"Point"}
 }

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.63,6.79667,14.67,6.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632245
@@ -34,7 +38,7 @@
         "gn:id":2227669
     },
     "wof:country":"CM",
-    "wof:geomhash":"2e0eb17eb0eff03a82e5e2faf2531019",
+    "wof:geomhash":"7f2392395a4526fd53ee6053ec6a7061",
     "wof:hierarchy":[
         {
             "country_id":85632245,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209410261,
-    "wof:lastmodified":1536287860,
+    "wof:lastmodified":1566645564,
     "wof:name":"Mbondo",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     14.65,
-    6.8166699999999985,
+    6.81667,
     14.65,
-    6.8166699999999985
+    6.81667
 ],
   "geometry": {"coordinates":[14.65,6.81667],"type":"Point"}
 }

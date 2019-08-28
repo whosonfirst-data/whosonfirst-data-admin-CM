@@ -10,8 +10,12 @@
     "geom:latitude":3.98333,
     "geom:longitude":11.6,
     "iso:country":"CM",
+    "lbl:bbox":"11.58,3.96333,11.62,4.00333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041e\u043a\u043e\u0430"
@@ -49,7 +53,7 @@
     "name:swe_x_preferred":[
         "Okoa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Scho"
     ],
     "qs:gn_country":"CM",
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":2223226,
         "gp:id":1305437,
-        "qs:id":1034405,
+        "qs_pg:id":1034405,
         "wd:id":"Q7549734",
         "wk:page":"Soa, Cameroon"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421168109,
-    "wof:lastmodified":1563235089,
+    "wof:lastmodified":1566646018,
     "wof:name":"Soa",
     "wof:parent_id":1092010921,
     "wof:placetype":"locality",

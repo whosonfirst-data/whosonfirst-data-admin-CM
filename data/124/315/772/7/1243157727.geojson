@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.09115,5.42447,10.13115,5.46447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nsinla"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243157727,
-    "wof:lastmodified":1537591220,
+    "wof:lastmodified":1566646120,
     "wof:name":"Tsingla",
     "wof:parent_id":1092010943,
     "wof:placetype":"locality",

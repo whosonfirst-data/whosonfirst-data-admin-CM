@@ -10,8 +10,12 @@
     "geom:latitude":4.7182,
     "geom:longitude":9.7351,
     "iso:country":"CM",
+    "lbl:bbox":"9.7151,4.6982,9.7551,4.7382",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Loum"
@@ -70,7 +74,7 @@
     "name:swe_x_preferred":[
         "Loum"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lum"
     ],
     "name:war_x_preferred":[
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":2229152,
         "gp:id":1302527,
-        "qs:id":1034443,
+        "qs_pg:id":1034443,
         "wd:id":"Q1828275",
         "wk:page":"Loum, Cameroon"
     },
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":421183541,
-    "wof:lastmodified":1563235127,
+    "wof:lastmodified":1566646029,
     "wof:name":"Loum",
     "wof:parent_id":1092011087,
     "wof:placetype":"locality",

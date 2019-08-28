@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"11.56333,6.29667,11.60333,6.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632245
@@ -34,7 +38,7 @@
         "gn:id":2230236
     },
     "wof:country":"CM",
-    "wof:geomhash":"509a4102bf6305c0c95506da6c551d31",
+    "wof:geomhash":"7a6228477d94464cb56b2558199df0d6",
     "wof:hierarchy":[
         {
             "country_id":85632245,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209398609,
-    "wof:lastmodified":1536288219,
+    "wof:lastmodified":1566645517,
     "wof:name":"Koboa",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     11.58333,
-    6.3166699999999985,
+    6.31667,
     11.58333,
-    6.3166699999999985
+    6.31667
 ],
   "geometry": {"coordinates":[11.58333,6.31667],"type":"Point"}
 }

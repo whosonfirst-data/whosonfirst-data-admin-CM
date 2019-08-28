@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.40385,10.99985,14.44385,11.03985",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mokoss\u00e9",
         "Makoch\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344037739,
-    "wof:lastmodified":1537591245,
+    "wof:lastmodified":1566645109,
     "wof:name":"Makoche",
     "wof:parent_id":1092011759,
     "wof:placetype":"locality",

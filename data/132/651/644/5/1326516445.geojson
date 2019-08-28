@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.18332,8.40995,13.22332,8.44995",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ni\u00e9tch\u00e9",
         "Nietch\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326516445,
-    "wof:lastmodified":1537591226,
+    "wof:lastmodified":1566644842,
     "wof:name":"Nietche",
     "wof:parent_id":1092011667,
     "wof:placetype":"locality",

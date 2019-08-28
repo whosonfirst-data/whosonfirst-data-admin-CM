@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"8.54667,4.48,8.58667,4.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "East Atabong",
         "Atabong East"
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1344051493,
-    "wof:lastmodified":1537591337,
+    "wof:lastmodified":1566645104,
     "wof:name":"Atabong East",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

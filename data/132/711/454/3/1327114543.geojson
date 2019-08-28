@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"15.01868,11.22193,15.05868,11.26193",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kasere",
         "Kazere"
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1327114543,
-    "wof:lastmodified":1537591281,
+    "wof:lastmodified":1566644961,
     "wof:name":"Kazere",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"15.06333,3.93,15.10333,3.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mese"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1293001175,
-    "wof:lastmodified":1564165458,
+    "wof:lastmodified":1566645163,
     "wof:name":"Mese",
     "wof:parent_id":1092011465,
     "wof:placetype":"locality",

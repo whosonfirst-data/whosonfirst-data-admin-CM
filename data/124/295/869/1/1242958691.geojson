@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.79034,5.6654,10.83034,5.7054",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Koutaba"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1242958691,
-    "wof:lastmodified":1564166705,
+    "wof:lastmodified":1566646088,
     "wof:name":"Nkoutaba",
     "wof:parent_id":1092010521,
     "wof:placetype":"locality",

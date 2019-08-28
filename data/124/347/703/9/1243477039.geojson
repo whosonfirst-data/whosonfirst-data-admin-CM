@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"9.8782,4.636,9.9182,4.676",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243477039,
-    "wof:lastmodified":1536761680,
+    "wof:lastmodified":1566646122,
     "wof:name":"Ndoknak",
     "wof:parent_id":1092011119,
     "wof:placetype":"locality",

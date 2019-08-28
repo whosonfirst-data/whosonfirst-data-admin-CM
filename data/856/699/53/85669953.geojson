@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":6.797889,
     "lbl:longitude":13.142577,
+    "lbl:min_zoom":8.0,
     "mps:latitude":6.798065,
     "mps:longitude":13.128565,
     "mz:hierarchy_label":1,
@@ -267,9 +268,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-11-11",
+    "src:population_date":"2005-11-11",
     "statoids:area_km":"63,691",
     "statoids:area_mi":"24,591",
     "statoids:as_of_date":"2005-11-11",
@@ -294,7 +295,7 @@
         "gp:id":2345038,
         "hasc:id":"CM.AD",
         "iso:id":"CM-AD",
-        "qs:id":219527,
+        "qs_pg:id":219527,
         "unlc:id":"CM-AD",
         "wd:id":"Q351514",
         "wk:page":"Adamawa Region"
@@ -317,11 +318,10 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1565662786,
+    "wof:lastmodified":1566645153,
     "wof:name":"Adamaoua",
     "wof:parent_id":85632245,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":884289,
     "wof:population_rank":11,

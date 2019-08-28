@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.46475,5.68526,10.50475,5.72526",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bamendjing"
     ],
     "name:fra_x_variant":[
-        "Bamindjin"
-    ],
-    "name:und_x_variant":[
         "Bamindjin"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1242958931,
-    "wof:lastmodified":1537591332,
+    "wof:lastmodified":1566646088,
     "wof:name":"Bamendjing",
     "wof:parent_id":1092010559,
     "wof:placetype":"locality",

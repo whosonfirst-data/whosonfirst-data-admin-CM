@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.13,7.41333,13.17,7.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Masset"
     ],
@@ -38,8 +42,7 @@
         "Masset"
     ],
     "name:und_x_variant":[
-        "Massette",
-        "Masset"
+        "Massette"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1260177259,
-    "wof:lastmodified":1564166278,
+    "wof:lastmodified":1566645762,
     "wof:name":"Masset",
     "wof:parent_id":1092011581,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"9.2492,4.4229,9.2892,4.4629",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Musone"
     ],
@@ -40,8 +44,7 @@
     "name:und_x_variant":[
         "Mesambe",
         "Musome",
-        "Mesame",
-        "Musone"
+        "Mesame"
     ],
     "name:zho_x_preferred":[
         "\u7a46\u7d22\u5167\u6cb3"
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1277095217,
-    "wof:lastmodified":1564165686,
+    "wof:lastmodified":1566645332,
     "wof:name":"Musone",
     "wof:parent_id":1092010823,
     "wof:placetype":"locality",

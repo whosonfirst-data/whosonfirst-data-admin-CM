@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.310415,
     "lbl:longitude":12.71065,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Nord",
     "meso:gadm_admin":"Faro",
     "meso:gadm_hasc2":"CM.NO.FA",
@@ -32,6 +34,7 @@
     "mps:longitude":12.71065,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Faro"
     ],
@@ -66,9 +69,9 @@
         "\u6cd5\u7f85\u5dde"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-01-01",
+    "src:population_date":"2001-01-01",
     "statoids:area_km":"11,785.0",
     "statoids:as_of_date":"2001-01-01",
     "statoids:capital":"Poli",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1092011667,
-    "wof:lastmodified":1563234973,
+    "wof:lastmodified":1566645943,
     "wof:name":"Faro",
     "wof:parent_id":85669957,
     "wof:placetype":"county",

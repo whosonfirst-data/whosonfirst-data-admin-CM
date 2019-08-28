@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.78552,10.30571,13.82552,10.34571",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gongon"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344136987,
-    "wof:lastmodified":1537591291,
+    "wof:lastmodified":1566645011,
     "wof:name":"Goungong",
     "wof:parent_id":1092011899,
     "wof:placetype":"locality",

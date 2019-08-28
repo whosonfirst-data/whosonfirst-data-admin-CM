@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.30362,12.48591,14.34362,12.52591",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632245
@@ -34,7 +38,7 @@
         "gn:id":2222280
     },
     "wof:country":"CM",
-    "wof:geomhash":"d0349f65b922b5462cedb98a89cec871",
+    "wof:geomhash":"cdfe9fc225c7dc3b19bee16f355149af",
     "wof:hierarchy":[
         {
             "country_id":85632245,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209502127,
-    "wof:lastmodified":1536285149,
+    "wof:lastmodified":1566645581,
     "wof:name":"Sambori",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.323620000000002,
+    14.32362,
     12.50591,
-    14.323620000000002,
+    14.32362,
     12.50591
 ],
   "geometry": {"coordinates":[14.32362,12.50591],"type":"Point"}

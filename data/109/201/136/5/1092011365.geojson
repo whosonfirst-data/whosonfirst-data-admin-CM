@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":2.599857,
     "lbl:longitude":12.608211,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Sud",
     "meso:gadm_admin":"Dja et Lobo",
     "meso:gadm_hasc2":"CM.SU.DL",
@@ -32,6 +34,7 @@
     "mps:longitude":12.608211,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Dja-et-Lobo"
     ],
@@ -73,9 +76,9 @@
         "\u8cc8-\u6d1b\u535a\u5dde"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-01-01",
+    "src:population_date":"2001-01-01",
     "statoids:area_km":"19,911.0",
     "statoids:as_of_date":"2001-01-01",
     "statoids:capital":"Sangmelima",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1092011365,
-    "wof:lastmodified":1563234989,
+    "wof:lastmodified":1566645951,
     "wof:name":"Dja et Lobo",
     "wof:parent_id":85669971,
     "wof:placetype":"county",

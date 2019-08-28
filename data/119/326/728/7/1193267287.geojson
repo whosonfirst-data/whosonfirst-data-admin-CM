@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"12.71333,6.39667,12.75333,6.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0622\u0628\u0627"
     ],
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":1193267287,
-    "wof:lastmodified":1564166208,
+    "wof:lastmodified":1566645713,
     "wof:name":"Aba",
     "wof:parent_id":1092011605,
     "wof:placetype":"locality",

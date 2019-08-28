@@ -11,10 +11,14 @@
     "geom:longitude":10.01667,
     "gn:country":"CM",
     "gn:fcode":"PPL",
-    "gn:pop":2062,
+    "gn:population":2062,
     "iso:country":"CM",
+    "lbl:bbox":"9.99667,4.23,10.03667,4.27",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Diang"
     ],
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":2233118,
         "gp:id":1300325,
-        "qs:id":1034475,
+        "qs_pg:id":1034475,
         "wk:page":"Diang"
     },
     "wof:country":"CM",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890444243,
-    "wof:lastmodified":1564166631,
+    "wof:lastmodified":1566646033,
     "wof:name":"Diang",
     "wof:parent_id":1092011119,
     "wof:placetype":"locality",

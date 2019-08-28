@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"11.18,3.71333,11.22,3.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632245
@@ -34,7 +38,7 @@
         "gn:id":2233682
     },
     "wof:country":"CM",
-    "wof:geomhash":"37d8d28461d6229d3de011d61a88eea1",
+    "wof:geomhash":"22f4240d9aad935d40a84b6d4b16a5a0",
     "wof:hierarchy":[
         {
             "country_id":85632245,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209402817,
-    "wof:lastmodified":1536288089,
+    "wof:lastmodified":1566645567,
     "wof:name":"Bondjok",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     11.2,
-    3.733330000000001,
+    3.73333,
     11.2,
-    3.733330000000001
+    3.73333
 ],
   "geometry": {"coordinates":[11.2,3.73333],"type":"Point"}
 }

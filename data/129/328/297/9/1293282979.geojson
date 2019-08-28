@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.40136,5.36267,10.44136,5.40267",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pete"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1293282979,
-    "wof:lastmodified":1564165647,
+    "wof:lastmodified":1566645301,
     "wof:name":"Pete",
     "wof:parent_id":1092012225,
     "wof:placetype":"locality",

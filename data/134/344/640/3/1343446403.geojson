@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.43036,5.64815,10.47036,5.68815",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bati"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1343446403,
-    "wof:lastmodified":1564165437,
+    "wof:lastmodified":1566645141,
     "wof:name":"Bati",
     "wof:parent_id":1092010559,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.05733,5.42534,10.09733,5.46534",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Keleng II"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326950087,
-    "wof:lastmodified":1537591365,
+    "wof:lastmodified":1566644866,
     "wof:name":"Keleng",
     "wof:parent_id":1092010943,
     "wof:placetype":"locality",

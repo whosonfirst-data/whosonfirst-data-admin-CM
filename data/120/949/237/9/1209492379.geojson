@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.92468,10.01377,14.96468,10.05377",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632245
@@ -34,7 +38,7 @@
         "gn:id":6730823
     },
     "wof:country":"CM",
-    "wof:geomhash":"aad22b1f2a06f893ac04ab4a9f601b39",
+    "wof:geomhash":"f6013c4fdded701b0c757cb76ee4b607",
     "wof:hierarchy":[
         {
             "country_id":85632245,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209492379,
-    "wof:lastmodified":1536285444,
+    "wof:lastmodified":1566645577,
     "wof:name":"Youeye",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.944679999999998,
+    14.94468,
     10.03377,
-    14.944679999999998,
+    14.94468,
     10.03377
 ],
   "geometry": {"coordinates":[14.94468,10.03377],"type":"Point"}

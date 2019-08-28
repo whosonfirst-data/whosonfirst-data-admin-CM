@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.01724,4.99147,10.05724,5.03147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Manjibo"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327356371,
-    "wof:lastmodified":1537591263,
+    "wof:lastmodified":1566644907,
     "wof:name":"Mandjibo",
     "wof:parent_id":1092011087,
     "wof:placetype":"locality",

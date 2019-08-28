@@ -10,6 +10,9 @@
     "geom:latitude":4.9547,
     "geom:longitude":9.9404,
     "iso:country":"CM",
+    "lbl:bbox":"9.9204,4.9347,9.9604,4.9747",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -98,7 +101,7 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e36\u0e07\u0e04\u0e2d\u0e07\u0e0b\u0e32\u0e21\u0e1a\u0e32"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nkongsomba"
     ],
     "name:zho_x_preferred":[
@@ -229,7 +232,7 @@
     "wof:concordances":{
         "gn:id":2223763,
         "gp:id":1304669,
-        "qs:id":1089027,
+        "qs_pg:id":1089027,
         "wd:id":"Q999070",
         "wk:page":"Nkongsamba"
     },
@@ -246,7 +249,7 @@
         }
     ],
     "wof:id":421176865,
-    "wof:lastmodified":1561751474,
+    "wof:lastmodified":1566646032,
     "wof:name":"Nkongsamba",
     "wof:parent_id":1092011087,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.87077,10.87217,13.91077,10.91217",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632245
@@ -34,7 +38,7 @@
         "gn:id":9074054
     },
     "wof:country":"CM",
-    "wof:geomhash":"e52a4ef4764943b36f50dde9e8bf6368",
+    "wof:geomhash":"0510337e1dac900fc59b6809f7a7a465",
     "wof:hierarchy":[
         {
             "country_id":85632245,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209502147,
-    "wof:lastmodified":1536285148,
+    "wof:lastmodified":1566645582,
     "wof:name":"Yam Guibi",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.890770000000002,
+    13.89077,
     10.89217,
-    13.890770000000002,
+    13.89077,
     10.89217
 ],
   "geometry": {"coordinates":[13.89077,10.89217],"type":"Point"}

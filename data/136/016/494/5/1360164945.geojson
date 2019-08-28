@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"15.02365,10.18469,15.06365,10.22469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Flayoukour",
         "Foulayargou"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360164945,
-    "wof:lastmodified":1537591299,
+    "wof:lastmodified":1566645921,
     "wof:name":"Foulayargou",
     "wof:parent_id":1108390249,
     "wof:placetype":"locality",

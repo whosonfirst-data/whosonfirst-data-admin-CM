@@ -10,6 +10,9 @@
     "geom:latitude":5.95266,
     "geom:longitude":10.15824,
     "iso:country":"CM",
+    "lbl:bbox":"10.13824,5.93266,10.17824,5.97266",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":5.6,
@@ -296,7 +299,7 @@
     "wof:concordances":{
         "gn:id":2234974,
         "gp:id":1299700,
-        "qs:id":279357,
+        "qs_pg:id":279357,
         "wd:id":"Q528432",
         "wk:page":"Bamenda"
     },
@@ -313,7 +316,7 @@
         }
     ],
     "wof:id":421169257,
-    "wof:lastmodified":1563235104,
+    "wof:lastmodified":1566646023,
     "wof:name":"Bamenda",
     "wof:parent_id":1092010661,
     "wof:placetype":"locality",

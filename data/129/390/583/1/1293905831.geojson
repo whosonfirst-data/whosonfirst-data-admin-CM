@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.65405,5.05368,10.69405,5.09368",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bantoum I"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293905831,
-    "wof:lastmodified":1537591329,
+    "wof:lastmodified":1566645184,
     "wof:name":"Bantoum",
     "wof:parent_id":1092010493,
     "wof:placetype":"locality",

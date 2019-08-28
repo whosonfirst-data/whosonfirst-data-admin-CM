@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.82451,12.09077,14.86451,12.13077",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327310971,
-    "wof:lastmodified":1536855065,
+    "wof:lastmodified":1566644813,
     "wof:name":"Frohiri",
     "wof:parent_id":1092011735,
     "wof:placetype":"locality",

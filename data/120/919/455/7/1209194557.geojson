@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.87513,10.12054,14.91513,10.16054",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Datcheka",
         "Datch\u00e9ka-Takr\u00e9o"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209194557,
-    "wof:lastmodified":1537591314,
+    "wof:lastmodified":1566645641,
     "wof:name":"Datcheka-Takreo",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",

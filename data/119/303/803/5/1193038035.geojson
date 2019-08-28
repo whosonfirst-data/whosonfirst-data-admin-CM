@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.12901,5.48906,10.16901,5.52906",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Meliya"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1193038035,
-    "wof:lastmodified":1564166168,
+    "wof:lastmodified":1566645690,
     "wof:name":"Melia",
     "wof:parent_id":1092010943,
     "wof:placetype":"locality",

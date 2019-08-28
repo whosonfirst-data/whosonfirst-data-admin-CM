@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"12.73,3.36333,12.77,3.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632245
@@ -34,7 +38,7 @@
         "gn:id":2234094
     },
     "wof:country":"CM",
-    "wof:geomhash":"b8db5c380e3cf3d1b820689615b3f15d",
+    "wof:geomhash":"2114a75dd74606575fb87493fd409b5a",
     "wof:hierarchy":[
         {
             "country_id":85632245,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209320875,
-    "wof:lastmodified":1536290699,
+    "wof:lastmodified":1566645595,
     "wof:name":"Bilon",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     12.75,
-    3.3833300000000004,
+    3.38333,
     12.75,
-    3.3833300000000004
+    3.38333
 ],
   "geometry": {"coordinates":[12.75,3.38333],"type":"Point"}
 }

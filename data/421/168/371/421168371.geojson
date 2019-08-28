@@ -10,8 +10,12 @@
     "geom:latitude":3.25,
     "geom:longitude":11.2,
     "iso:country":"CM",
+    "lbl:bbox":"11.18,3.23,11.22,3.27",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041d\u0433\u043e\u043c\u0435\u0434\u0437\u0430\u043f"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":2224641,
         "gp:id":1304217,
-        "qs:id":1034415,
+        "qs_pg:id":1034415,
         "wd:id":"Q3339327",
         "wk:page":"Ngomedzap"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421168371,
-    "wof:lastmodified":1563235089,
+    "wof:lastmodified":1566646018,
     "wof:name":"Ngomedzap",
     "wof:parent_id":1092011209,
     "wof:placetype":"locality",

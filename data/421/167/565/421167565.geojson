@@ -10,8 +10,12 @@
     "geom:latitude":4.08333,
     "geom:longitude":11.2,
     "iso:country":"CM",
+    "lbl:bbox":"11.18,4.06333,11.22,4.10333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "\u00c9vodoula"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":2231775,
         "gp:id":1301266,
-        "qs:id":139050,
+        "qs_pg:id":139050,
         "wd:id":"Q5418557",
         "wk:page":"Evodoula"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421167565,
-    "wof:lastmodified":1563235102,
+    "wof:lastmodified":1566646022,
     "wof:name":"\u00c9vodoula",
     "wof:parent_id":1092012079,
     "wof:placetype":"locality",

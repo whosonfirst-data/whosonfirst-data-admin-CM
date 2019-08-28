@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4665567.613347,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.706035,4.063242,9.706035,4.063242",
     "geom:latitude":4.063242,
     "geom:longitude":9.706035,
     "gn:id":"",
     "iso:country":"CM",
+    "lbl:bbox":"9.701035,4.058242,9.711035,4.068242",
     "lbl:latitude":4.063242,
     "lbl:longitude":9.706035,
+    "lbl:max_zoom":18.0,
     "mps:latitude":4.065821,
     "mps:longitude":9.71074,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:fra_x_preferred":[
-        "New Deido"
-    ],
-    "name:unk_x_variant":[
         "New Deido"
     ],
     "qs:gn_adm0_cc":"CM",
@@ -56,17 +55,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85669937,
         102191573,
         85632245,
-        1092012257,
-        85669937
+        1092012257
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1304089,
-        "qs:id":558970
+        "qs_pg:id":558970
     },
     "wof:country":"CM",
     "wof:geomhash":"7b3157754c2932644a561759c5640ef8",
@@ -84,7 +83,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531859471,
+    "wof:lastmodified":1566645148,
     "wof:name":"New Deido",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

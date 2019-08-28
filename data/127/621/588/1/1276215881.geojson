@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.14667,6.76333,13.18667,6.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swe_x_preferred":[
         "Tekel"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276215881,
-    "wof:lastmodified":1564165710,
+    "wof:lastmodified":1566645350,
     "wof:name":"Tekel",
     "wof:parent_id":1092011605,
     "wof:placetype":"locality",

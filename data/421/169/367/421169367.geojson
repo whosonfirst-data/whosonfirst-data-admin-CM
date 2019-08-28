@@ -10,8 +10,12 @@
     "geom:latitude":5.88333,
     "geom:longitude":14.55,
     "iso:country":"CM",
+    "lbl:bbox":"14.53,5.86333,14.57,5.90333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Garoua Boula\u00ef"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":2231319,
         "gp:id":1301519,
-        "qs:id":1297111,
+        "qs_pg:id":1297111,
         "wd:id":"Q5523752"
     },
     "wof:country":"CM",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421169367,
-    "wof:lastmodified":1563235104,
+    "wof:lastmodified":1566646023,
     "wof:name":"Garoua Boula\u00ef",
     "wof:parent_id":1092011395,
     "wof:placetype":"locality",

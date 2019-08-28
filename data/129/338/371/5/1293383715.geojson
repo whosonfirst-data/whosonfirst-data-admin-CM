@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"12.94408,6.57822,12.98408,6.61822",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mandoum One"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293383715,
-    "wof:lastmodified":1537591367,
+    "wof:lastmodified":1566645161,
     "wof:name":"Mandoum Un",
     "wof:parent_id":1092011605,
     "wof:placetype":"locality",

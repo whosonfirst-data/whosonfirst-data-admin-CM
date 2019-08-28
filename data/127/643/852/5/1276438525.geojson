@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"9.9607,6.0092,10.0007,6.0492",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guneku",
         "Gonoku"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276438525,
-    "wof:lastmodified":1537591287,
+    "wof:lastmodified":1566645345,
     "wof:name":"Gonoku",
     "wof:parent_id":1092010649,
     "wof:placetype":"locality",

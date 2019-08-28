@@ -10,8 +10,12 @@
     "geom:latitude":3.23333,
     "geom:longitude":10.73333,
     "iso:country":"CM",
+    "lbl:bbox":"10.71333,3.21333,10.75333,3.25333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041b\u043e\u043b\u043e\u0434\u043e\u0440\u0444"
@@ -49,7 +53,7 @@
     "name:swe_x_preferred":[
         "Lolodorf"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lelodorf"
     ],
     "qs:gn_country":"CM",
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":2229267,
         "gp:id":1302489,
-        "qs:id":139020,
+        "qs_pg:id":139020,
         "wd:id":"Q324195",
         "wk:page":"Lolodorf"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421167553,
-    "wof:lastmodified":1563235102,
+    "wof:lastmodified":1566646023,
     "wof:name":"Lolodorf",
     "wof:parent_id":1092012139,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":4.16667,
     "geom:longitude":11.53333,
     "iso:country":"CM",
+    "lbl:bbox":"11.51333,4.14667,11.55333,4.18667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Obala"
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":2223293,
         "gp:id":1304864,
-        "qs:id":183311,
+        "qs_pg:id":183311,
         "wd:id":"Q2604706",
         "wk:page":"Obala"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421198503,
-    "wof:lastmodified":1563235119,
+    "wof:lastmodified":1566646026,
     "wof:name":"Obala",
     "wof:parent_id":1092012079,
     "wof:placetype":"locality",

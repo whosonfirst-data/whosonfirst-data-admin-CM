@@ -10,8 +10,12 @@
     "geom:latitude":10.10917,
     "geom:longitude":14.45083,
     "iso:country":"CM",
+    "lbl:bbox":"14.43083,10.08917,14.47083,10.12917",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Kael\u00e9"
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":2230599,
         "gp:id":1478399,
-        "qs:id":278285,
+        "qs_pg:id":278285,
         "wd:id":"Q2708429"
     },
     "wof:country":"CM",
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":421178181,
-    "wof:lastmodified":1563235130,
+    "wof:lastmodified":1566646030,
     "wof:name":"Ka\u00e9l\u00e9",
     "wof:parent_id":1092011963,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"9.8096,5.3698,9.8496,5.4098",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310189717,
-    "wof:lastmodified":1536874103,
+    "wof:lastmodified":1566645838,
     "wof:name":"Fotabong III",
     "wof:parent_id":1092011035,
     "wof:placetype":"locality",

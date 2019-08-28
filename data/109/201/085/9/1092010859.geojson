@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.60013,
     "lbl:longitude":9.367591,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Sud Ouest",
     "meso:gadm_admin":"Meme",
     "meso:gadm_hasc2":"CM.SW.MM",
@@ -32,6 +34,7 @@
     "mps:longitude":9.367591,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Meme"
     ],
@@ -66,9 +69,9 @@
         "\u8ff7\u56e0"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-01-01",
+    "src:population_date":"2001-01-01",
     "statoids:area_km":"3,105.0",
     "statoids:as_of_date":"2001-01-01",
     "statoids:capital":"Kumba",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1092010859,
-    "wof:lastmodified":1563234979,
+    "wof:lastmodified":1566645946,
     "wof:name":"Meme",
     "wof:parent_id":85669967,
     "wof:placetype":"county",

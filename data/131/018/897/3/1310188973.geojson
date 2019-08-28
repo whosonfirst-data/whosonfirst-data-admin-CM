@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"12.28262,6.7574,12.32262,6.7974",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310188973,
-    "wof:lastmodified":1536875233,
+    "wof:lastmodified":1566645841,
     "wof:name":"Nyakaka",
     "wof:parent_id":1092011605,
     "wof:placetype":"locality",

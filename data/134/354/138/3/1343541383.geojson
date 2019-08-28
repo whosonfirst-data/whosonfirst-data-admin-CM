@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.52675,10.33448,13.56675,10.37448",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Schoua",
         "Sch\u00faa",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343541383,
-    "wof:lastmodified":1537591315,
+    "wof:lastmodified":1566644978,
     "wof:name":"Choua",
     "wof:parent_id":1092011899,
     "wof:placetype":"locality",

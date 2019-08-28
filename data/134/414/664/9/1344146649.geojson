@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"8.9839,5.1677,9.0239,5.2077",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ngany",
         "Ngenie",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344146649,
-    "wof:lastmodified":1537591231,
+    "wof:lastmodified":1566645017,
     "wof:name":"Nguenie",
     "wof:parent_id":1092010791,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":5.47366,
     "geom:longitude":10.41786,
     "iso:country":"CM",
+    "lbl:bbox":"10.39786,5.45366,10.43786,5.49366",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -166,9 +169,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0444\u0443\u0441\u0430\u043c"
     ],
-    "name:unk_x_variant":[
-        "Bafusam"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0641\u0624\u0633\u0627\u0645"
     ],
@@ -306,7 +306,7 @@
     "wof:concordances":{
         "gn:id":2235189,
         "gp:id":1299593,
-        "qs:id":496828,
+        "qs_pg:id":496828,
         "wd:id":"Q799808",
         "wk:page":"Bafoussam"
     },
@@ -323,7 +323,7 @@
         }
     ],
     "wof:id":421173239,
-    "wof:lastmodified":1563235113,
+    "wof:lastmodified":1566646025,
     "wof:name":"Bafoussam",
     "wof:parent_id":1092010591,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":4.04065,
     "geom:longitude":14.92501,
     "iso:country":"CM",
+    "lbl:bbox":"14.90501,4.02065,14.94501,4.06065",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ndelele"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "Ndelele"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alte Fakt Delele"
     ],
     "qs:gn_country":"CM",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":2225325,
         "gp:id":1303907,
-        "qs:id":1297168,
+        "qs_pg:id":1297168,
         "wd:id":"Q14944567",
         "wk:page":"Ndelele"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421196711,
-    "wof:lastmodified":1563235122,
+    "wof:lastmodified":1566646027,
     "wof:name":"Nd\u00e9l\u00e9l\u00e9",
     "wof:parent_id":1092011431,
     "wof:placetype":"locality",

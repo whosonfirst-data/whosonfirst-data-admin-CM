@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.21073,12.44651,14.25073,12.48651",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mid\u00e9guine",
         "M\u00e9d\u00e9gen",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360171741,
-    "wof:lastmodified":1537591253,
+    "wof:lastmodified":1566645926,
     "wof:name":"Mideguine",
     "wof:parent_id":1092011735,
     "wof:placetype":"locality",

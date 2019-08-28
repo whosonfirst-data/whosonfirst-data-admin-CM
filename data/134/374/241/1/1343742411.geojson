@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.74702,10.73867,13.78702,10.77867",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343742411,
-    "wof:lastmodified":1536835895,
+    "wof:lastmodified":1566645126,
     "wof:name":"Mavoumay",
     "wof:parent_id":1092011899,
     "wof:placetype":"locality",

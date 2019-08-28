@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.073352,
     "lbl:longitude":14.176959,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Extreme Nord",
     "meso:gadm_admin":"Mayo Sava",
     "meso:gadm_hasc2":"CM.EN.MS",
@@ -32,6 +34,7 @@
     "mps:longitude":14.176959,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Mayo-Sava"
     ],
@@ -75,9 +78,9 @@
         "\u99ac\u7d04-\u85a9\u74e6\u5dde"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-01-01",
+    "src:population_date":"2001-01-01",
     "statoids:area_km":"2,736.0",
     "statoids:as_of_date":"2001-01-01",
     "statoids:capital":"Mora",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1092011759,
-    "wof:lastmodified":1563234988,
+    "wof:lastmodified":1566645951,
     "wof:name":"Mayo Sava",
     "wof:parent_id":85669933,
     "wof:placetype":"county",

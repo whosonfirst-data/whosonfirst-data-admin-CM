@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"9.33208,5.55943,9.37208,5.59943",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ashun",
         "Asung",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344251525,
-    "wof:lastmodified":1537591337,
+    "wof:lastmodified":1566645005,
     "wof:name":"Ashum",
     "wof:parent_id":1092011003,
     "wof:placetype":"locality",

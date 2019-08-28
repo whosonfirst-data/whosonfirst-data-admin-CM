@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"9.98104,5.95591,10.02104,5.99591",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bome"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1193039419,
-    "wof:lastmodified":1564166168,
+    "wof:lastmodified":1566645690,
     "wof:name":"Bome",
     "wof:parent_id":1092010649,
     "wof:placetype":"locality",

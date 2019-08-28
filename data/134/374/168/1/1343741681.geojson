@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"15.28354,7.34785,15.32354,7.38785",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343741681,
-    "wof:lastmodified":1536836960,
+    "wof:lastmodified":1566645120,
     "wof:name":"Nvor",
     "wof:parent_id":1092011703,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.463991,
     "lbl:longitude":9.871466,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Sud Ouest",
     "meso:gadm_admin":"Lebialem",
     "meso:gadm_hasc2":"CM.SW.LE",
@@ -32,6 +34,7 @@
     "mps:longitude":9.871466,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041b\u0435\u0431\u0438\u0430\u043b\u0435\u043c"
     ],
@@ -75,9 +78,9 @@
         "\u840a\u6bd4\u4e9e\u502b\u5dde"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-01-01",
+    "src:population_date":"2001-01-01",
     "statoids:area_km":"617.0",
     "statoids:as_of_date":"2001-01-01",
     "statoids:capital":"Menji",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1092011035,
-    "wof:lastmodified":1563234972,
+    "wof:lastmodified":1566645941,
     "wof:name":"Lebialem",
     "wof:parent_id":85669967,
     "wof:placetype":"county",

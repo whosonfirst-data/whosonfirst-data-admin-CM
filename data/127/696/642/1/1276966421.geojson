@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.90446,10.76594,13.94446,10.80594",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wudum-Yarei",
         "Oudoum Zare\u00ef",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276966421,
-    "wof:lastmodified":1537591215,
+    "wof:lastmodified":1566645470,
     "wof:name":"Oudoumdjaray",
     "wof:parent_id":1092011899,
     "wof:placetype":"locality",

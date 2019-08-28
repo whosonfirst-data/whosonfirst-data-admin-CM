@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.61333,3.21333,10.65333,3.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mougu\u00e9",
         "Moug\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243142961,
-    "wof:lastmodified":1537591244,
+    "wof:lastmodified":1566646125,
     "wof:name":"Mouge",
     "wof:parent_id":1092012139,
     "wof:placetype":"locality",

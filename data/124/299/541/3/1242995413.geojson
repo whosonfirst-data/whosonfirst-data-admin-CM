@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.53848,5.13724,10.57848,5.17724",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242995413,
-    "wof:lastmodified":1536958816,
+    "wof:lastmodified":1566646195,
     "wof:name":"Noumga",
     "wof:parent_id":1092010493,
     "wof:placetype":"locality",

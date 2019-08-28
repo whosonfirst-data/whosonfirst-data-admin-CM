@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.93624,10.15161,13.97624,10.19161",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ndiam Ibbi",
         "Ndiam Ibi",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226726305,
-    "wof:lastmodified":1537591237,
+    "wof:lastmodified":1566646357,
     "wof:name":"Diam Ibbi",
     "wof:parent_id":1092011479,
     "wof:placetype":"locality",

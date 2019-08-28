@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"12.316,6.65753,12.356,6.69753",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nno_x_preferred":[
         "Berim"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209403815,
-    "wof:lastmodified":1564166008,
+    "wof:lastmodified":1566645570,
     "wof:name":"Berim",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",

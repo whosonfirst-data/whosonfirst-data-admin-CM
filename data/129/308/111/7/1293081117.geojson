@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.43249,10.04437,13.47249,10.08437",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kwadalang",
         "Kouadalang",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293081117,
-    "wof:lastmodified":1537591277,
+    "wof:lastmodified":1566645177,
     "wof:name":"Wandalang",
     "wof:parent_id":1092011479,
     "wof:placetype":"locality",

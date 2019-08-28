@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.85619,10.83206,13.89619,10.87206",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1292978143,
-    "wof:lastmodified":1537023311,
+    "wof:lastmodified":1566645268,
     "wof:name":"Dzokrouma",
     "wof:parent_id":1092011899,
     "wof:placetype":"locality",

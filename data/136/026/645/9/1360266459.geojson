@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"11.09667,3.79667,11.13667,3.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Lise"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1360266459,
-    "wof:lastmodified":1564166526,
+    "wof:lastmodified":1566645934,
     "wof:name":"Lise",
     "wof:parent_id":1092011187,
     "wof:placetype":"locality",

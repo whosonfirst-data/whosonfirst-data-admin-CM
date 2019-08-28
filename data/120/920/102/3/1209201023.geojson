@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.86012,9.17995,13.90012,9.21995",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632245
@@ -34,7 +38,7 @@
         "gn:id":8667689
     },
     "wof:country":"CM",
-    "wof:geomhash":"da07a74d7061dc8ec40b74b606ead7e1",
+    "wof:geomhash":"1ebdf029aab385b5eba749a8fe444cb2",
     "wof:hierarchy":[
         {
             "country_id":85632245,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209201023,
-    "wof:lastmodified":1536294611,
+    "wof:lastmodified":1566645622,
     "wof:name":"Karedje",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.880120000000002,
+    13.88012,
     9.19995,
-    13.880120000000002,
+    13.88012,
     9.19995
 ],
   "geometry": {"coordinates":[13.88012,9.19995],"type":"Point"}

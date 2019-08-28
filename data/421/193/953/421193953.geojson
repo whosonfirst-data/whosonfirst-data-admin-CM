@@ -10,8 +10,12 @@
     "geom:latitude":12.07689,
     "geom:longitude":15.03063,
     "iso:country":"CM",
+    "lbl:bbox":"15.01063,12.05689,15.05063,12.09689",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0642\u0635\u0648\u0631"
@@ -136,7 +140,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0441\u0435\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fort-Foureau"
     ],
     "name:urd_x_preferred":[
@@ -184,7 +188,7 @@
     "wof:concordances":{
         "gn:id":2229798,
         "gp:id":1302288,
-        "qs:id":638769,
+        "qs_pg:id":638769,
         "wd:id":"Q697662",
         "wk:page":"Kouss\u00e9ri"
     },
@@ -201,7 +205,7 @@
         }
     ],
     "wof:id":421193953,
-    "wof:lastmodified":1563235096,
+    "wof:lastmodified":1566646020,
     "wof:name":"Kouss\u00e9ri",
     "wof:parent_id":1092011735,
     "wof:placetype":"locality",

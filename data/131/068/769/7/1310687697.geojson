@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.34159,8.38447,13.38159,8.42447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jav_x_preferred":[
         "Legi"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310687697,
-    "wof:lastmodified":1564166437,
+    "wof:lastmodified":1566645870,
     "wof:name":"Legi",
     "wof:parent_id":1092011667,
     "wof:placetype":"locality",

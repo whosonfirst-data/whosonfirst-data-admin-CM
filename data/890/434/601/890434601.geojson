@@ -11,10 +11,14 @@
     "geom:longitude":8.9027,
     "gn:country":"CM",
     "gn:fcode":"PPL",
-    "gn:pop":24741,
+    "gn:population":24741,
     "iso:country":"CM",
+    "lbl:bbox":"8.8827,4.4391,8.9227,4.4791",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u0411\u0430\u043c\u0443\u0441\u043e"
     ],
@@ -48,9 +52,6 @@
     "name:swe_x_preferred":[
         "Bamusso"
     ],
-    "name:unk_x_variant":[
-        "Bamuso"
-    ],
     "qs:name":"Bamusso",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -66,7 +67,7 @@
     "wof:concordances":{
         "gn:id":2234941,
         "gp:id":1301105,
-        "qs:id":139095,
+        "qs_pg:id":139095,
         "wd:id":"Q4853554"
     },
     "wof:country":"CM",
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":890434601,
-    "wof:lastmodified":1563235141,
+    "wof:lastmodified":1566646033,
     "wof:name":"Bamusso",
     "wof:parent_id":1092010791,
     "wof:placetype":"locality",

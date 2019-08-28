@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"9.43082,6.10061,9.47082,6.14061",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344246797,
-    "wof:lastmodified":1536603644,
+    "wof:lastmodified":1566645023,
     "wof:name":"Basho I",
     "wof:parent_id":1092011003,
     "wof:placetype":"locality",

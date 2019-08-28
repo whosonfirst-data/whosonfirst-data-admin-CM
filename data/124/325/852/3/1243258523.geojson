@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"9.2098,5.138,9.2498,5.178",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Tombel"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1243258523,
-    "wof:lastmodified":1564166758,
+    "wof:lastmodified":1566646130,
     "wof:name":"Tombel",
     "wof:parent_id":1092010791,
     "wof:placetype":"locality",

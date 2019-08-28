@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":3.834744,
     "lbl:longitude":14.028273,
+    "lbl:min_zoom":8.0,
     "mps:latitude":3.847189,
     "mps:longitude":14.027157,
     "mz:hierarchy_label":1,
@@ -266,9 +267,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-11-11",
+    "src:population_date":"2005-11-11",
     "statoids:area_km":"109,011",
     "statoids:area_mi":"42,089",
     "statoids:as_of_date":"2005-11-11",
@@ -292,7 +293,7 @@
         "gp:id":2345033,
         "hasc:id":"CM.ES",
         "iso:id":"CM-ES",
-        "qs:id":946776,
+        "qs_pg:id":946776,
         "wd:id":"Q845168",
         "wk:page":"East Region (Cameroon)"
     },
@@ -314,11 +315,10 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1565662787,
+    "wof:lastmodified":1566645154,
     "wof:name":"Est",
     "wof:parent_id":85632245,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":771755,
     "wof:population_rank":11,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.02658,5.76317,10.06658,5.80317",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Nyali"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226333819,
-    "wof:lastmodified":1537591354,
+    "wof:lastmodified":1566646390,
     "wof:name":"Nyali",
     "wof:parent_id":1092010661,
     "wof:placetype":"locality",

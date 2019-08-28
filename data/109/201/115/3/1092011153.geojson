@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":3.848773,
     "lbl:longitude":10.145554,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Littoral",
     "meso:gadm_admin":"Sanaga Maritime",
     "meso:gadm_hasc2":"CM.LT.SM",
@@ -32,6 +34,7 @@
     "mps:longitude":10.145554,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Sanaga-Maritime"
     ],
@@ -73,9 +76,9 @@
         "\u6ff1\u6d77\u85a9\u90a3\u52a0\u5dde"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-01-01",
+    "src:population_date":"2001-01-01",
     "statoids:area_km":"9,311.0",
     "statoids:as_of_date":"2001-01-01",
     "statoids:capital":"Ed\u00e9a",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1092011153,
-    "wof:lastmodified":1563235002,
+    "wof:lastmodified":1566645958,
     "wof:name":"Sanaga Maritime",
     "wof:parent_id":85669937,
     "wof:placetype":"county",

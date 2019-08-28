@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.23801,5.36981,10.27801,5.40981",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tchum II"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360075881,
-    "wof:lastmodified":1537591367,
+    "wof:lastmodified":1566645895,
     "wof:name":"Tchum",
     "wof:parent_id":1092012197,
     "wof:placetype":"locality",

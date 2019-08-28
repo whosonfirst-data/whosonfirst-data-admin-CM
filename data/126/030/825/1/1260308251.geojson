@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.27323,5.67093,10.31323,5.71093",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bagam"
     ],
     "name:fra_x_variant":[
-        "Bangam"
-    ],
-    "name:und_x_variant":[
         "Bangam"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1260308251,
-    "wof:lastmodified":1537591335,
+    "wof:lastmodified":1566645731,
     "wof:name":"Bagam",
     "wof:parent_id":1092010559,
     "wof:placetype":"locality",

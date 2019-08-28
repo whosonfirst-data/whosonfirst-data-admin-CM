@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"9.85612,6.01636,9.89612,6.05636",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Etinachong",
         "Tinachong"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293283945,
-    "wof:lastmodified":1537591301,
+    "wof:lastmodified":1566645299,
     "wof:name":"Tinachong",
     "wof:parent_id":1092010649,
     "wof:placetype":"locality",

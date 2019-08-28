@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.86424,10.40277,13.90424,10.44277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209702941,
-    "wof:lastmodified":1536394141,
+    "wof:lastmodified":1566645552,
     "wof:name":"Gazeil",
     "wof:parent_id":1092011899,
     "wof:placetype":"locality",

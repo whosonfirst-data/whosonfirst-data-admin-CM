@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.43158,5.39478,10.47158,5.43478",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Toba"
     ],
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1277061891,
-    "wof:lastmodified":1564165679,
+    "wof:lastmodified":1566645328,
     "wof:name":"Toba",
     "wof:parent_id":1092012225,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.01528,10.82425,14.05528,10.86425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632245
@@ -34,7 +38,7 @@
         "gn:id":6729419
     },
     "wof:country":"CM",
-    "wof:geomhash":"48f3949d6f72c23d3c731099f9302d9f",
+    "wof:geomhash":"04dca64cb881277eaacf2361dfc6ceb9",
     "wof:hierarchy":[
         {
             "country_id":85632245,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209194575,
-    "wof:lastmodified":1536294816,
+    "wof:lastmodified":1566645645,
     "wof:name":"Mbalache",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.035279999999998,
+    14.03528,
     10.84425,
-    14.035279999999998,
+    14.03528,
     10.84425
 ],
   "geometry": {"coordinates":[14.03528,10.84425],"type":"Point"}

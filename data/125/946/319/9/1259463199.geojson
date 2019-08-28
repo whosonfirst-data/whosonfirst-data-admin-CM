@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.00791,10.73468,14.04791,10.77468",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259463199,
-    "wof:lastmodified":1536887551,
+    "wof:lastmodified":1566646261,
     "wof:name":"Dralaga",
     "wof:parent_id":1092011899,
     "wof:placetype":"locality",

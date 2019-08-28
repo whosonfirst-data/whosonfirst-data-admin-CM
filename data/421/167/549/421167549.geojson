@@ -10,8 +10,12 @@
     "geom:latitude":4.9479,
     "geom:longitude":8.8724,
     "iso:country":"CM",
+    "lbl:bbox":"8.8524,4.9279,8.8924,4.9679",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Mundemba"
@@ -52,7 +56,7 @@
     "name:swe_x_preferred":[
         "Mundemba"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ndian"
     ],
     "qs:gn_country":"CM",
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":2225745,
         "gp:id":1303771,
-        "qs:id":139003,
+        "qs_pg:id":139003,
         "wd:id":"Q677694",
         "wk:page":"Mundemba"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421167549,
-    "wof:lastmodified":1563235102,
+    "wof:lastmodified":1566646023,
     "wof:name":"Mundemba",
     "wof:parent_id":1092010791,
     "wof:placetype":"locality",

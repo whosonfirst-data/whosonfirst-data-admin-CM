@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.57777,10.67197,13.61777,10.71197",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Humumsi",
         "Rhumsi",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242861409,
-    "wof:lastmodified":1537591208,
+    "wof:lastmodified":1566646067,
     "wof:name":"Roumzou",
     "wof:parent_id":1092011899,
     "wof:placetype":"locality",

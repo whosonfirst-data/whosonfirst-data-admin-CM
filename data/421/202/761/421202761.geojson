@@ -10,8 +10,12 @@
     "geom:latitude":5.14091,
     "geom:longitude":10.51975,
     "iso:country":"CM",
+    "lbl:bbox":"10.49975,5.12091,10.53975,5.16091",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Bangangt\u00e9"
@@ -58,9 +62,6 @@
     "name:swe_x_preferred":[
         "Bangangt\u00e9"
     ],
-    "name:unk_x_variant":[
-        "Bangant\u00e9"
-    ],
     "qs:gn_country":"CM",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":2234865,
@@ -92,7 +93,7 @@
     "wof:concordances":{
         "gn:id":2234865,
         "gp:id":1299760,
-        "qs:id":44242,
+        "qs_pg:id":44242,
         "wd:id":"Q2449186",
         "wk:page":"Bangangt\u00e9"
     },
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":421202761,
-    "wof:lastmodified":1563235108,
+    "wof:lastmodified":1566646024,
     "wof:name":"Bangangt\u00e9",
     "wof:parent_id":1092010493,
     "wof:placetype":"locality",

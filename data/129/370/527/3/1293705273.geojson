@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.86333,4.61333,10.90333,4.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Nitoukou"
     ],
@@ -39,8 +43,7 @@
         "Nitoukou"
     ],
     "name:und_x_variant":[
-        "Niloukou",
-        "Nitoukou"
+        "Niloukou"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1293705273,
-    "wof:lastmodified":1564165512,
+    "wof:lastmodified":1566645204,
     "wof:name":"Nitoukou",
     "wof:parent_id":1092011309,
     "wof:placetype":"locality",

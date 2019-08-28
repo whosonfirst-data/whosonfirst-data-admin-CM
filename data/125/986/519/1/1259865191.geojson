@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.70455,5.80374,10.74455,5.84374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Njimb\u00e8t"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259865191,
-    "wof:lastmodified":1537591364,
+    "wof:lastmodified":1566646333,
     "wof:name":"Njimbet",
     "wof:parent_id":1092010521,
     "wof:placetype":"locality",

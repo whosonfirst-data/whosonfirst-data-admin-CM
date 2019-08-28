@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"12.41333,4.16333,12.45333,4.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632245
@@ -34,7 +38,7 @@
         "gn:id":2227394
     },
     "wof:country":"CM",
-    "wof:geomhash":"b343a9b0824e2b594f67ceef739c1b3a",
+    "wof:geomhash":"132f7dee8c3a4e71cd1afb4a3650c95e",
     "wof:hierarchy":[
         {
             "country_id":85632245,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209496363,
-    "wof:lastmodified":1536285322,
+    "wof:lastmodified":1566645578,
     "wof:name":"Meka",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     12.43333,
-    4.1833300000000015,
+    4.18333,
     12.43333,
-    4.1833300000000015
+    4.18333
 ],
   "geometry": {"coordinates":[12.43333,4.18333],"type":"Point"}
 }

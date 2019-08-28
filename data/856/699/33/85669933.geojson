@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":10.661389,
     "lbl:longitude":14.452129,
+    "lbl:min_zoom":8.0,
     "mps:latitude":10.649099,
     "mps:longitude":14.434069,
     "mz:hierarchy_label":1,
@@ -166,7 +167,7 @@
         "Nordligaste regionen"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bbe\u0bb0\u0bcd  \u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1"
+        "\u0baa\u0bbe\u0bb0\u0bcd \u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1"
     ],
     "name:tel_x_preferred":[
         "\u0c2b\u0c3e\u0c30\u0c4d \u0c28\u0c3e\u0c30\u0c4d\u0c24\u0c4d"
@@ -183,7 +184,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0439\u043d\u044c\u043e\u043f\u0456\u0432\u043d\u0456\u0447\u043d\u0438\u0439 \u0440\u0435\u0433\u0456\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Far North Province"
     ],
     "name:urd_x_preferred":[
@@ -270,9 +271,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-11-11",
+    "src:population_date":"2005-11-11",
     "statoids:area_km":"34,246",
     "statoids:area_mi":"13,222",
     "statoids:as_of_date":"2005-11-11",
@@ -296,7 +297,7 @@
         "gp:id":2345040,
         "hasc:id":"CM.EN",
         "iso:id":"CM-EN",
-        "qs:id":1168634,
+        "qs_pg:id":1168634,
         "wd:id":"Q823976",
         "wk:page":"Far North Region (Cameroon)"
     },
@@ -318,11 +319,10 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1565662785,
+    "wof:lastmodified":1566645151,
     "wof:name":"Extreme Nord",
     "wof:parent_id":85632245,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":3111792,
     "wof:population_rank":12,

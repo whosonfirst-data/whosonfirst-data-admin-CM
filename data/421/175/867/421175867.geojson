@@ -10,6 +10,9 @@
     "geom:latitude":4.1527,
     "geom:longitude":9.241,
     "iso:country":"CM",
+    "lbl:bbox":"9.221,4.1327,9.261,4.1727",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -293,7 +296,7 @@
     "wof:concordances":{
         "gn:id":2233410,
         "gp:id":1300470,
-        "qs:id":1034473,
+        "qs_pg:id":1034473,
         "wd:id":"Q312209",
         "wk:page":"Buea"
     },
@@ -310,7 +313,7 @@
         }
     ],
     "wof:id":421175867,
-    "wof:lastmodified":1563235118,
+    "wof:lastmodified":1566646026,
     "wof:name":"Buea",
     "wof:parent_id":1092010823,
     "wof:placetype":"locality",

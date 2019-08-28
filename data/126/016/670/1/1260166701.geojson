@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.33317,5.38025,10.37317,5.42025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tode"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260166701,
-    "wof:lastmodified":1564166274,
+    "wof:lastmodified":1566645759,
     "wof:name":"Tode",
     "wof:parent_id":1092012197,
     "wof:placetype":"locality",

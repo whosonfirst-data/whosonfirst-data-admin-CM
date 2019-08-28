@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"10.44227,5.41161,10.48227,5.45161",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tesse"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343483557,
-    "wof:lastmodified":1564165299,
+    "wof:lastmodified":1566645039,
     "wof:name":"Tesse",
     "wof:parent_id":1092012225,
     "wof:placetype":"locality",

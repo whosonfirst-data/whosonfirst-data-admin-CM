@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"12.31333,6.53,12.35333,6.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06cc\u0627\u0631\u0648"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1242956921,
-    "wof:lastmodified":1564166705,
+    "wof:lastmodified":1566646088,
     "wof:name":"Yaro",
     "wof:parent_id":1092011605,
     "wof:placetype":"locality",

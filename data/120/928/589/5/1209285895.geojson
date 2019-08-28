@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.27661,8.50077,13.31661,8.54077",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632245
@@ -34,7 +38,7 @@
         "gn:id":2222490
     },
     "wof:country":"CM",
-    "wof:geomhash":"15e6f0abe34342f053572b4830ebfe13",
+    "wof:geomhash":"eb342095087613c7b607b8e875aab8ff",
     "wof:hierarchy":[
         {
             "country_id":85632245,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209285895,
-    "wof:lastmodified":1536291862,
+    "wof:lastmodified":1566645648,
     "wof:name":"Poulko",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     13.29661,
-    8.520769999999999,
+    8.52077,
     13.29661,
-    8.520769999999999
+    8.52077
 ],
   "geometry": {"coordinates":[13.29661,8.52077],"type":"Point"}
 }

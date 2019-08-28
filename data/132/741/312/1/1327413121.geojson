@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"13.61087,10.03439,13.65087,10.07439",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bangue\u00ef",
         "Bangei",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1327413121,
-    "wof:lastmodified":1537591330,
+    "wof:lastmodified":1566644891,
     "wof:name":"Bangay",
     "wof:parent_id":1092011479,
     "wof:placetype":"locality",

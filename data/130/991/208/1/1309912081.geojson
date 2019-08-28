@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
+    "lbl:bbox":"14.58,4.26333,14.62,4.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Gete"
     ],
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1309912081,
-    "wof:lastmodified":1564166556,
+    "wof:lastmodified":1566645969,
     "wof:name":"Gete",
     "wof:parent_id":1092011431,
     "wof:placetype":"locality",

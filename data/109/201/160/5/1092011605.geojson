@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.427601,
     "lbl:longitude":12.698335,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Adamaoua",
     "meso:gadm_admin":"Djerem",
     "meso:gadm_hasc2":"CM.AD.DJ",
@@ -32,6 +34,7 @@
     "mps:longitude":12.698335,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Djerem"
     ],
@@ -78,9 +81,9 @@
         "\u5091\u96f7\u59c6\u5dde"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-01-01",
+    "src:population_date":"2001-01-01",
     "statoids:area_km":"13,283.0",
     "statoids:as_of_date":"2001-01-01",
     "statoids:capital":"Tibati",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1092011605,
-    "wof:lastmodified":1563234974,
+    "wof:lastmodified":1566645943,
     "wof:name":"Djerem",
     "wof:parent_id":85669953,
     "wof:placetype":"county",
