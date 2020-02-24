@@ -601,6 +601,9 @@
     },
     "wof:country":"CM",
     "wof:created":1459010188,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b30837628297cec3ff971736517f10ef",
     "wof:hierarchy":[
         {
@@ -612,7 +615,7 @@
         }
     ],
     "wof:id":421204495,
-    "wof:lastmodified":1566646024,
+    "wof:lastmodified":1582341006,
     "wof:name":"Yaounde",
     "wof:parent_id":85669945,
     "wof:placetype":"locality",

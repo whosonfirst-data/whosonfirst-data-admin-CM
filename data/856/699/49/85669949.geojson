@@ -298,6 +298,9 @@
         "wk:page":"East Region (Cameroon)"
     },
     "wof:country":"CM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"46eee79251657c9b11e7903b32fcc772",
     "wof:hierarchy":[
         {
@@ -315,7 +318,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566645154,
+    "wof:lastmodified":1582340994,
     "wof:name":"Est",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

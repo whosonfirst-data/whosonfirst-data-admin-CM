@@ -292,6 +292,9 @@
         "wk:page":"Littoral Region (Cameroon)"
     },
     "wof:country":"CM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6f270493151be8e0e13098f7f03b0248",
     "wof:hierarchy":[
         {
@@ -309,7 +312,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566645153,
+    "wof:lastmodified":1582340994,
     "wof:name":"Littoral",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

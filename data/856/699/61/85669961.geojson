@@ -297,6 +297,9 @@
         "wk:page":"West Region (Cameroon)"
     },
     "wof:country":"CM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cf4c5e104b8b23fb831f0aaea5125f70",
     "wof:hierarchy":[
         {
@@ -314,7 +317,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566645150,
+    "wof:lastmodified":1582340992,
     "wof:name":"Ouest",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

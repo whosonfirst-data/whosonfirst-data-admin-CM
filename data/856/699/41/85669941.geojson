@@ -292,6 +292,9 @@
         "wk:page":"Northwest Region (Cameroon)"
     },
     "wof:country":"CM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"10b616db7308aa732c4c9ffb668797e1",
     "wof:hierarchy":[
         {
@@ -309,7 +312,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566645153,
+    "wof:lastmodified":1582340994,
     "wof:name":"Nord Ouest",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

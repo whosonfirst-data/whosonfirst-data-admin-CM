@@ -291,6 +291,9 @@
         "wk:page":"South Region (Cameroon)"
     },
     "wof:country":"CM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"94787c4025f9566e7ed056875b68dc53",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566645154,
+    "wof:lastmodified":1582340994,
     "wof:name":"Sud",
     "wof:parent_id":85632245,
     "wof:placetype":"region",
