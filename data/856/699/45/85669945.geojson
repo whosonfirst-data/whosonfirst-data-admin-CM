@@ -297,6 +297,9 @@
         "wk:page":"Centre Region (Cameroon)"
     },
     "wof:country":"CM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a7d97f8560743ebadbd437b98a254c68",
     "wof:hierarchy":[
         {
@@ -314,7 +317,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566645152,
+    "wof:lastmodified":1582340993,
     "wof:name":"Centre",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

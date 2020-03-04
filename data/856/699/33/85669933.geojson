@@ -302,6 +302,9 @@
         "wk:page":"Far North Region (Cameroon)"
     },
     "wof:country":"CM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8e4891f45549f46920f71cbf0318c81c",
     "wof:hierarchy":[
         {
@@ -319,7 +322,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566645151,
+    "wof:lastmodified":1582340993,
     "wof:name":"Extreme Nord",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

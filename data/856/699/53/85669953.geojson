@@ -301,6 +301,9 @@
         "wk:page":"Adamawa Region"
     },
     "wof:country":"CM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d804ab33424f41ea1d03d5bd28086800",
     "wof:hierarchy":[
         {
@@ -318,7 +321,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566645153,
+    "wof:lastmodified":1582340993,
     "wof:name":"Adamaoua",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

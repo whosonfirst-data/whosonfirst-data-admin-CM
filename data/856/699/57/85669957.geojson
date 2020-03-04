@@ -296,6 +296,9 @@
         "wk:page":"North Region (Cameroon)"
     },
     "wof:country":"CM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9f7eef009cd82bd34aa5d239acd8bca9",
     "wof:hierarchy":[
         {
@@ -313,7 +316,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566645151,
+    "wof:lastmodified":1582340992,
     "wof:name":"Nord",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

@@ -1011,6 +1011,12 @@
     },
     "wof:country":"CM",
     "wof:country_alpha3":"CMR",
+    "wof:geom_alt":[
+        "meso",
+        "naturalearth",
+        "quattroshapes",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"01b8e9f22b65b308c8875b3b40087f19",
     "wof:hierarchy":[
         {
@@ -1027,7 +1033,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566645149,
+    "wof:lastmodified":1582340991,
     "wof:name":"Cameroon",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
