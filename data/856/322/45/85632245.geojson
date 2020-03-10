@@ -988,9 +988,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Cameroon",
-        "digitalenvoy:country_code":[
-            120
-        ],
+        "digitalenvoy:country_code":120,
         "fb:id":"en.cameroon",
         "fifa:id":"CMR",
         "fips:code":"CM",
@@ -1036,7 +1034,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1583529107,
+    "wof:lastmodified":1583797311,
     "wof:name":"Cameroon",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
