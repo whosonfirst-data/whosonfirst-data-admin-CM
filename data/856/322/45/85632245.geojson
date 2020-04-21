@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":37.901761,
-    "geom:area_square_m":465936110167.410645,
+    "geom:area_square_m":465936117741.904541,
     "geom:bbox":"8.49952,1.652085,16.191045,13.076562",
     "geom:latitude":5.681652,
     "geom:longitude":12.741196,
@@ -61,6 +61,9 @@
     "name:arg_x_preferred":[
         "Camer\u00fan"
     ],
+    "name:ary_x_preferred":[
+        "\u0643\u0627\u0645\u064a\u0631\u0648\u0646"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0643\u0627\u0645\u064a\u0631\u0648\u0646"
     ],
@@ -81,6 +84,9 @@
     ],
     "name:bam_x_variant":[
         "Kameruni"
+    ],
+    "name:ban_x_preferred":[
+        "Kamerun"
     ],
     "name:bar_x_preferred":[
         "Kamerun"
@@ -172,6 +178,12 @@
     "name:dan_x_variant":[
         "Cameroon"
     ],
+    "name:deu_at_x_preferred":[
+        "Kamerun"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Kamerun"
+    ],
     "name:deu_x_preferred":[
         "Kamerun"
     ],
@@ -195,6 +207,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03bc\u03b5\u03c1\u03bf\u03cd\u03bd"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Cameroon"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Cameroon"
     ],
     "name:eng_x_preferred":[
         "Cameroon"
@@ -265,6 +283,9 @@
     ],
     "name:gag_x_preferred":[
         "Kamerun"
+    ],
+    "name:gcr_x_preferred":[
+        "Kamroun"
     ],
     "name:gla_x_preferred":[
         "Camarun"
@@ -513,6 +534,9 @@
     "name:mon_x_preferred":[
         "\u041a\u0430\u043c\u0435\u0440\u0443\u043d"
     ],
+    "name:mri_x_preferred":[
+        "Kamar\u016bna"
+    ],
     "name:mrj_x_preferred":[
         "\u041a\u0430\u043c\u0435\u0440\u0443\u043d"
     ],
@@ -576,6 +600,9 @@
     "name:nov_x_preferred":[
         "Kamerun"
     ],
+    "name:nqo_x_preferred":[
+        "\u07de\u07ca\u07e1\u07cb\u07d9\u07ce\u07f2\u07e3"
+    ],
     "name:nso_x_preferred":[
         "Cameroon"
     ],
@@ -623,6 +650,9 @@
     ],
     "name:pol_x_preferred":[
         "Kamerun"
+    ],
+    "name:por_br_x_preferred":[
+        "Camar\u00f5es"
     ],
     "name:por_x_colloquial":[
         "Camaroes"
@@ -699,6 +729,9 @@
     "name:sna_x_variant":[
         "Kameruni"
     ],
+    "name:snd_x_preferred":[
+        "\u06aa\u064a\u0645\u0631\u0648\u0646"
+    ],
     "name:som_x_preferred":[
         "Kamiruun"
     ],
@@ -719,6 +752,12 @@
     ],
     "name:srd_x_preferred":[
         "Camer\u00f9n"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u0440\u0443\u043d"
+    ],
+    "name:srp_el_x_preferred":[
+        "Kamerun"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u043c\u0435\u0440\u0443\u043d"
@@ -858,11 +897,29 @@
     "name:yue_x_preferred":[
         "\u5580\u9ea5\u9686"
     ],
+    "name:zea_x_preferred":[
+        "Kammeroen"
+    ],
     "name:zha_x_preferred":[
         "Cameroon"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5580\u9ea6\u9686"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5580\u9ea5\u9686"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Cameroon"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u5580\u9ea5\u9686"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u5580\u9ea6\u9686"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5580\u9ea5\u9686"
     ],
     "name:zho_x_preferred":[
         "\u5580\u9ea6\u9686"
@@ -1034,7 +1091,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1583797311,
+    "wof:lastmodified":1587428385,
     "wof:name":"Cameroon",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
