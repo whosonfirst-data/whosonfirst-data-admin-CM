@@ -107,6 +107,9 @@
         "\u0393\u03b9\u03b1\u03bf\u03c5\u03bd\u03c4\u03ad"
     ],
     "name:eng_x_preferred":[
+        "Yaounde"
+    ],
+    "name:eng_x_variant":[
         "Yaound\u00e9"
     ],
     "name:epo_x_preferred":[
@@ -426,10 +429,10 @@
         "Jaunde"
     ],
     "name:vie_x_preferred":[
-        "Jaunde"
+        "Yaound\u00e9"
     ],
     "name:vie_x_variant":[
-        "Yaound\u00e9"
+        "Jaunde"
     ],
     "name:vol_x_preferred":[
         "Yaound\u00e9"
@@ -597,6 +600,7 @@
     "wof:concordances":{
         "gn:id":2220957,
         "gp:id":1305860,
+        "ne:id":1159151115,
         "qs_pg:id":241140,
         "wd:id":"Q3808",
         "wk:page":"Yaound\u00e9"
@@ -617,7 +621,7 @@
         }
     ],
     "wof:id":421204495,
-    "wof:lastmodified":1608675981,
+    "wof:lastmodified":1608677540,
     "wof:megacity":1,
     "wof:name":"Yaounde",
     "wof:parent_id":85669945,
