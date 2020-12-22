@@ -617,7 +617,8 @@
         }
     ],
     "wof:id":421204495,
-    "wof:lastmodified":1607390889,
+    "wof:lastmodified":1608675981,
+    "wof:megacity":1,
     "wof:name":"Yaounde",
     "wof:parent_id":85669945,
     "wof:placetype":"locality",
