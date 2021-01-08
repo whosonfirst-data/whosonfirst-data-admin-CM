@@ -597,6 +597,7 @@
     "wof:concordances":{
         "gn:id":2220957,
         "gp:id":1305860,
+        "ne:id":1159151115,
         "qs_pg:id":241140,
         "wd:id":"Q3808",
         "wk:page":"Yaound\u00e9"
@@ -617,7 +618,8 @@
         }
     ],
     "wof:id":421204495,
-    "wof:lastmodified":1607390889,
+    "wof:lastmodified":1608688179,
+    "wof:megacity":1,
     "wof:name":"Yaounde",
     "wof:parent_id":85669945,
     "wof:placetype":"locality",
