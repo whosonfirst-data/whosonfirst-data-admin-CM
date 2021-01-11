@@ -10,7 +10,6 @@
     "geom:latitude":4.029418,
     "geom:longitude":9.772527,
     "iso:country":"CM",
-    "lbl:bbox":"9.68428,4.02827,9.72428,4.06827",
     "lbl:latitude":4.036332,
     "lbl:longitude":9.706494,
     "lbl:max_zoom":13.0,
@@ -454,7 +453,7 @@
         }
     ],
     "wof:id":421189877,
-    "wof:lastmodified":1608689808,
+    "wof:lastmodified":1610152134,
     "wof:megacity":1,
     "wof:name":"Douala",
     "wof:parent_id":1092012257,
