@@ -35,11 +35,17 @@
     "name:deu_x_preferred":[
         "Mbalmayo"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u0627\u0644\u0645\u0627\u06cc\u0648"
+    ],
     "name:fra_x_preferred":[
         "Mbalmayo"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d1\u05dc\u05de\u05d0\u05d9\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Mbalmayo"
     ],
     "name:ita_x_preferred":[
         "Mbalmayo"
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1226574755,
-    "wof:lastmodified":1566646420,
+    "wof:lastmodified":1636499937,
     "wof:name":"Mbalmayo",
     "wof:parent_id":1092011153,
     "wof:placetype":"locality",

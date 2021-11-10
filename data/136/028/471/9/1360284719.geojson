@@ -44,6 +44,12 @@
     "name:fra_x_preferred":[
         "Bonao"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e0\u05d0\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Bonao"
+    ],
     "name:ita_x_preferred":[
         "Bonao"
     ],
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1360284719,
-    "wof:lastmodified":1566645929,
+    "wof:lastmodified":1636499927,
     "wof:name":"Bonao",
     "wof:parent_id":1092011087,
     "wof:placetype":"locality",

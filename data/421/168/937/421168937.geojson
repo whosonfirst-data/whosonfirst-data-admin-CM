@@ -71,6 +71,9 @@
     "name:hrv_x_preferred":[
         "Ebolowa"
     ],
+    "name:hun_x_preferred":[
+        "Ebolowa"
+    ],
     "name:hye_x_preferred":[
         "\u0537\u0562\u0578\u056c\u0578\u057e\u0561"
     ],
@@ -298,7 +301,7 @@
         }
     ],
     "wof:id":421168937,
-    "wof:lastmodified":1566646018,
+    "wof:lastmodified":1636499928,
     "wof:name":"Ebolowa",
     "wof:parent_id":1092012173,
     "wof:placetype":"locality",

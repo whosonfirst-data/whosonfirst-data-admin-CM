@@ -90,7 +90,13 @@
         "K\u00e4rr"
     ],
     "name:ukr_x_preferred":[
+        "\u0424\u0435\u043d"
+    ],
+    "name:ukr_x_variant":[
         "\u041d\u0438\u0437\u0438\u043d\u043d\u0435 \u0431\u043e\u043b\u043e\u0442\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u06cc\u0646"
     ],
     "name:zho_x_preferred":[
         "\u77ff\u8d28\u6ce5\u70ad\u6cbc\u6cfd"
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1327432119,
-    "wof:lastmodified":1566644946,
+    "wof:lastmodified":1636499906,
     "wof:name":"Fen",
     "wof:parent_id":1092011347,
     "wof:placetype":"locality",

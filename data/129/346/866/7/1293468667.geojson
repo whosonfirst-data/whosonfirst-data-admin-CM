@@ -35,6 +35,15 @@
     "name:ces_x_preferred":[
         "Onon"
     ],
+    "name:ell_x_preferred":[
+        "\u039f\u03bd\u03cc\u03bd"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e0\u05d5\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0913\u0928\u094b\u0928"
+    ],
     "name:kat_x_preferred":[
         "\u10dd\u10dc\u10dd\u10dc\u10d8"
     ],
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1293468667,
-    "wof:lastmodified":1566645188,
+    "wof:lastmodified":1636499913,
     "wof:name":"Onon",
     "wof:parent_id":1092011365,
     "wof:placetype":"locality",

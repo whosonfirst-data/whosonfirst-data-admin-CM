@@ -207,9 +207,15 @@
         "\u0411\u0456\u043a\u0456\u043d\u0456"
     ],
     "name:urd_x_preferred":[
+        "\u0628\u06a9\u0646\u06cc"
+    ],
+    "name:urd_x_variant":[
         "\u0628\u06cc\u06a9\u06cc\u0646\u06cc"
     ],
     "name:vie_x_preferred":[
+        "\u0110\u1ea3o Bikini"
+    ],
+    "name:vie_x_variant":[
         "Bikini"
     ],
     "name:war_x_preferred":[
@@ -217,6 +223,12 @@
     ],
     "name:yid_x_preferred":[
         "\u05d1\u05d9\u05e7\u05d9\u05e0\u05d9"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6bd4\u57fa\u5c3c\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6bd4\u57fa\u5c3c\u5cf6"
     ],
     "name:zho_x_preferred":[
         "\u6bd4\u57fa\u5c3c\u6cf3\u8863"
@@ -244,7 +256,7 @@
         }
     ],
     "wof:id":1309989829,
-    "wof:lastmodified":1566645963,
+    "wof:lastmodified":1636499927,
     "wof:name":"Bikini",
     "wof:parent_id":1092011605,
     "wof:placetype":"locality",

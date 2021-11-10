@@ -168,6 +168,9 @@
         "Se-lai-ng\u00ecn"
     ],
     "name:heb_x_preferred":[
+        "\u05de\u05d0\u05df"
+    ],
+    "name:heb_x_variant":[
         "\u05d2\u05d1\u05e8"
     ],
     "name:hif_x_preferred":[
@@ -469,7 +472,7 @@
         }
     ],
     "wof:id":1242660977,
-    "wof:lastmodified":1566646079,
+    "wof:lastmodified":1636499931,
     "wof:name":"Man",
     "wof:parent_id":1092012139,
     "wof:placetype":"locality",

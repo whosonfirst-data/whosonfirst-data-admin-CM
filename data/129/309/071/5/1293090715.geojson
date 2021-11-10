@@ -56,7 +56,13 @@
     "name:frr_x_preferred":[
         "Sumbe"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05de\u05d1\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Sumbe"
+    ],
+    "name:hun_x_preferred":[
         "Sumbe"
     ],
     "name:ita_x_preferred":[
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":1293090715,
-    "wof:lastmodified":1566645168,
+    "wof:lastmodified":1636499912,
     "wof:name":"Sumbe",
     "wof:parent_id":1092011003,
     "wof:placetype":"locality",

@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0645\u0628\u0627\u0644\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u099c\u09cd\u09af\u09be\u09ae\u09cd\u09ac\u09be\u09b2\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Djambala"
     ],
@@ -38,10 +44,25 @@
     "name:epo_x_preferred":[
         "Djambala"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u0627\u0645\u0628\u0627\u0644\u0627"
+    ],
     "name:fra_x_preferred":[
         "Djambala"
     ],
     "name:frr_x_preferred":[
+        "Djambala"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d2'\u05de\u05d1\u05d0\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u0902\u092c\u093e\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Djambala"
+    ],
+    "name:ind_x_preferred":[
         "Djambala"
     ],
     "name:ita_x_preferred":[
@@ -52,6 +73,9 @@
     ],
     "name:kon_x_preferred":[
         "Djambala"
+    ],
+    "name:kor_x_preferred":[
+        "\uc7a0\ubc1c\ub77c"
     ],
     "name:lit_x_preferred":[
         "D\u017eambala"
@@ -74,8 +98,17 @@
     "name:swe_x_preferred":[
         "Djambala"
     ],
+    "name:tur_x_preferred":[
+        "Djambala"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0430\u043c\u0431\u0430\u043b\u0430"
+    ],
     "name:urd_x_preferred":[
         "\u062c\u0627\u0645\u0628\u0627\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Djambala"
     ],
     "name:wuu_x_preferred":[
         "\u517c\u5df4\u62c9"
@@ -106,7 +139,7 @@
         }
     ],
     "wof:id":1326525479,
-    "wof:lastmodified":1566644927,
+    "wof:lastmodified":1636499905,
     "wof:name":"Djambala",
     "wof:parent_id":1092011605,
     "wof:placetype":"locality",

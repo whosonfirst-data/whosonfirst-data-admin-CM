@@ -117,6 +117,9 @@
         "L\u00e9ne",
         "L\u00e8na"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0646\u0627"
+    ],
     "name:vie_x_preferred":[
         "Lena"
     ],
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":1243049255,
-    "wof:lastmodified":1566646135,
+    "wof:lastmodified":1636499932,
     "wof:name":"Lena",
     "wof:parent_id":1092012311,
     "wof:placetype":"locality",

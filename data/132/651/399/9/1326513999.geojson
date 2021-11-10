@@ -42,6 +42,9 @@
         "Mbale"
     ],
     "name:heb_x_preferred":[
+        "\u05de\u05d1\u05d0\u05dd"
+    ],
+    "name:heb_x_variant":[
         "\u05de\u05d1\u05d0\u05dc\u05d4"
     ],
     "name:hrv_x_preferred":[
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1326513999,
-    "wof:lastmodified":1566644841,
+    "wof:lastmodified":1636499904,
     "wof:name":"Mbale",
     "wof:parent_id":1092011633,
     "wof:placetype":"locality",

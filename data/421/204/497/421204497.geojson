@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0645\u0628\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09bf\u09ae\u09cd\u09ac\u09c7"
+    ],
     "name:ceb_x_preferred":[
         "Limbe"
     ],
@@ -35,14 +38,26 @@
     "name:epo_x_preferred":[
         "Limbe"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0645\u0628\u0647"
+    ],
     "name:fra_x_preferred":[
         "Limb\u00e9"
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d9\u05de\u05d1\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u0932\u093f\u092e\u094d\u092c\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Limbe"
+    ],
     "name:hye_x_preferred":[
         "\u053c\u056b\u0574\u0562\u0565"
+    ],
+    "name:ind_x_preferred":[
+        "Limbe"
     ],
     "name:ita_x_preferred":[
         "Limbe"
@@ -86,11 +101,20 @@
     "name:swe_x_preferred":[
         "Limbe"
     ],
+    "name:tur_x_preferred":[
+        "Limbe"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043c\u0431\u0435"
     ],
     "name:und_x_variant":[
         "Victoria"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0645\u0628\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Limbe"
     ],
     "name:zho_x_preferred":[
         "\u6797\u8d1d"
@@ -237,7 +261,7 @@
         }
     ],
     "wof:id":421204497,
-    "wof:lastmodified":1566646024,
+    "wof:lastmodified":1636499930,
     "wof:name":"Limbe",
     "wof:parent_id":1092010823,
     "wof:placetype":"locality",

@@ -38,11 +38,17 @@
     "name:deu_x_preferred":[
         "Bafia"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0641\u06cc\u0627"
+    ],
     "name:fra_x_preferred":[
         "Bafia"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d0\u05e4\u05d9\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Bafia"
     ],
     "name:ita_x_preferred":[
         "Bafia"
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1293508537,
-    "wof:lastmodified":1566645234,
+    "wof:lastmodified":1636499914,
     "wof:name":"Bafia",
     "wof:parent_id":1092010823,
     "wof:placetype":"locality",

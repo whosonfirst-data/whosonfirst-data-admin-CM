@@ -44,6 +44,9 @@
     "name:heb_x_preferred":[
         "\u05d9\u05d5\u05dc\u05d4"
     ],
+    "name:hun_x_preferred":[
+        "Yola"
+    ],
     "name:por_x_preferred":[
         "Yola"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1209439061,
-    "wof:lastmodified":1566645653,
+    "wof:lastmodified":1636499922,
     "wof:name":"Yola",
     "wof:parent_id":85632245,
     "wof:placetype":"locality",
