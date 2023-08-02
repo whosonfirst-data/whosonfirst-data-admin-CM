@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Ngaound\u00e9r\u00e9 Airport"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Ngaound\u00e9r\u00e9"
+    ],
     "name:eng_x_preferred":[
         "Ngaound\u00e9r\u00e9 Airport"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":102548951,
-    "wof:lastmodified":1631749053,
+    "wof:lastmodified":1690867059,
     "wof:name":"Ngaoundere Airport",
     "wof:parent_id":85669953,
     "wof:placetype":"campus",

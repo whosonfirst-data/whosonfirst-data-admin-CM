@@ -16,6 +16,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cym_x_preferred":[
+        "La Campana Nueva"
+    ],
     "name:eng_x_preferred":[
         "The New Bell"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":421176017,
-    "wof:lastmodified":1566646032,
+    "wof:lastmodified":1690867103,
     "wof:name":"New Bell",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

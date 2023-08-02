@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Mamfe"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u043c\u0444\u044d"
+    ],
     "name:ceb_x_preferred":[
         "Mamfe"
     ],
@@ -64,6 +70,9 @@
     ],
     "name:spa_x_preferred":[
         "Mamf\u00e9 Central"
+    ],
+    "name:swa_x_preferred":[
+        "Mamfe"
     ],
     "name:swe_x_preferred":[
         "Mamfe"
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":421198501,
-    "wof:lastmodified":1566646027,
+    "wof:lastmodified":1690867096,
     "wof:name":"Mamfe",
     "wof:parent_id":1092011003,
     "wof:placetype":"locality",

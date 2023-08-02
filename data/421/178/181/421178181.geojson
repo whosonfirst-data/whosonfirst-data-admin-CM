@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Ka\u00e9l\u00e9"
+    ],
     "name:ceb_x_preferred":[
         "Kael\u00e9"
     ],
@@ -24,6 +27,9 @@
         "Ka\u00e9l\u00e9"
     ],
     "name:eng_x_preferred":[
+        "Ka\u00e9l\u00e9"
+    ],
+    "name:epo_x_preferred":[
         "Ka\u00e9l\u00e9"
     ],
     "name:fra_x_preferred":[
@@ -56,7 +62,13 @@
     "name:ron_x_preferred":[
         "Ka\u00e9l\u00e9"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u044d\u043b\u0435"
+    ],
     "name:spa_x_preferred":[
+        "Ka\u00e9l\u00e9"
+    ],
+    "name:swa_x_preferred":[
         "Ka\u00e9l\u00e9"
     ],
     "name:swe_x_preferred":[
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":421178181,
-    "wof:lastmodified":1566646030,
+    "wof:lastmodified":1690867101,
     "wof:name":"Ka\u00e9l\u00e9",
     "wof:parent_id":1092011963,
     "wof:placetype":"locality",

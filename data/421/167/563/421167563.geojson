@@ -56,6 +56,9 @@
     "name:spa_x_preferred":[
         "Foumbot"
     ],
+    "name:swa_x_preferred":[
+        "Foumbot"
+    ],
     "name:swe_x_preferred":[
         "Foumbot"
     ],
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421167563,
-    "wof:lastmodified":1566646022,
+    "wof:lastmodified":1690867090,
     "wof:name":"Foumbot",
     "wof:parent_id":1092010521,
     "wof:placetype":"locality",

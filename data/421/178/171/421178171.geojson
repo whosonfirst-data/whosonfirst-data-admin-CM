@@ -32,6 +32,9 @@
     "name:ita_x_preferred":[
         "Tchollir\u00e9"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30c3\u30b7\u30a7\u30ea\u30fc\u30eb"
+    ],
     "name:msa_x_preferred":[
         "Tchollir\u00e9"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421178171,
-    "wof:lastmodified":1566646031,
+    "wof:lastmodified":1690867102,
     "wof:name":"Tchollir\u00e9",
     "wof:parent_id":1092011703,
     "wof:placetype":"locality",

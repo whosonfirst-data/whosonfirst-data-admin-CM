@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0641\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0641\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Bafia"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09ab\u09bf\u09af\u09bc\u09be"
     ],
@@ -117,6 +123,9 @@
         "Bafia"
     ],
     "name:spa_x_preferred":[
+        "Bafia"
+    ],
+    "name:swa_x_preferred":[
         "Bafia"
     ],
     "name:swe_x_preferred":[
@@ -291,7 +300,7 @@
         }
     ],
     "wof:id":421168939,
-    "wof:lastmodified":1636499928,
+    "wof:lastmodified":1690867083,
     "wof:name":"Bafia",
     "wof:parent_id":1092011309,
     "wof:placetype":"locality",

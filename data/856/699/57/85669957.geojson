@@ -34,6 +34,9 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
     ],
+    "name:avk_x_preferred":[
+        "KamerunaNordGola"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b \u0440\u044d\u0433\u0456\u0451\u043d"
     ],
@@ -72,6 +75,9 @@
     "name:est_x_preferred":[
         "P\u00f5hjapiirkond"
     ],
+    "name:eus_x_preferred":[
+        "Iparraldea"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0647 \u0634\u0645\u0627\u0644"
     ],
@@ -96,6 +102,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d7\u05d5\u05d6 \u05d4\u05e6\u05e4\u05d5\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05d6\u05d5\u05e8 \u05d4\u05e6\u05e4\u05d5\u05df"
     ],
     "name:hin_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930"
@@ -189,6 +198,9 @@
     ],
     "name:vie_x_variant":[
         "Ph\u00eda B\u1eafc"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5317\u90e8\u533a"
     ],
     "name:yor_x_preferred":[
         "\u00c0r\u00edw\u00e1"
@@ -319,7 +331,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1642551769,
+    "wof:lastmodified":1690867062,
     "wof:name":"Nord",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

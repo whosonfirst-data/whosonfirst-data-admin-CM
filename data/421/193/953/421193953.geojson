@@ -21,7 +21,11 @@
         "\u0642\u0635\u0648\u0631"
     ],
     "name:ara_x_variant":[
-        "\u0627\u0644\u0642\u0635\u0648\u0631\u200e"
+        "\u0627\u0644\u0642\u0635\u0648\u0631\u200e",
+        "\u0642\u0635\u0648\u0631\u200e"
+    ],
+    "name:ast_x_preferred":[
+        "Kouss\u00e9ri"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09cc\u09b8\u09c7\u09b0\u09bf"
@@ -46,6 +50,9 @@
     ],
     "name:epo_x_preferred":[
         "Kouss\u00e9ri"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0635\u0648\u0631"
     ],
     "name:fin_x_preferred":[
         "Kouss\u00e9ri"
@@ -122,6 +129,9 @@
     "name:spa_x_preferred":[
         "Kousseri"
     ],
+    "name:swa_x_preferred":[
+        "Kouss\u00e9ri"
+    ],
     "name:swe_x_preferred":[
         "Kouss\u00e9ri"
     ],
@@ -134,11 +144,17 @@
     "name:tha_x_preferred":[
         "\u0e04\u0e39\u0e2a\u0e40\u0e2a\u0e23\u0e34"
     ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e39\u0e40\u0e0b\u0e23\u0e35"
+    ],
     "name:tur_x_preferred":[
         "Kouss\u00e9ri"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0441\u0435\u0440\u0456"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0443\u0441\u0441\u0435\u0440\u0456"
     ],
     "name:und_x_variant":[
         "Fort-Foureau"
@@ -205,7 +221,7 @@
         }
     ],
     "wof:id":421193953,
-    "wof:lastmodified":1566646020,
+    "wof:lastmodified":1690867088,
     "wof:name":"Kouss\u00e9ri",
     "wof:parent_id":1092011735,
     "wof:placetype":"locality",

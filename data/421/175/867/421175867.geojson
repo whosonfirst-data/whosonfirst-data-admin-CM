@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Buea"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0648\u0626\u0627"
     ],
@@ -56,6 +62,9 @@
     "name:est_x_preferred":[
         "Buea"
     ],
+    "name:eus_x_preferred":[
+        "Buea"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0648\u0626\u0627"
     ],
@@ -64,6 +73,12 @@
     ],
     "name:fra_x_preferred":[
         "Bu\u00e9a"
+    ],
+    "name:frr_x_preferred":[
+        "Bu\u00e9a"
+    ],
+    "name:gle_x_preferred":[
+        "Buea"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac1\u0a8f\u0a86"
@@ -79,6 +94,9 @@
     ],
     "name:hun_x_preferred":[
         "Buea"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0582\u0565\u0561"
     ],
     "name:ind_x_preferred":[
         "Buea"
@@ -143,6 +161,9 @@
     "name:spa_x_preferred":[
         "Buea"
     ],
+    "name:swa_x_preferred":[
+        "Buea"
+    ],
     "name:swe_x_preferred":[
         "Buea"
     ],
@@ -163,6 +184,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u0626\u06cc\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Bu\u00e9a"
     ],
     "name:vie_x_preferred":[
         "Buea"
@@ -313,7 +337,7 @@
         }
     ],
     "wof:id":421175867,
-    "wof:lastmodified":1566646026,
+    "wof:lastmodified":1690867095,
     "wof:name":"Buea",
     "wof:parent_id":1092010823,
     "wof:placetype":"locality",

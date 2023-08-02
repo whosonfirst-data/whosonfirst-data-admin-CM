@@ -47,6 +47,9 @@
     "name:spa_x_preferred":[
         "Batibo"
     ],
+    "name:swa_x_preferred":[
+        "Batibo"
+    ],
     "name:swe_x_preferred":[
         "Batibo"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421168449,
-    "wof:lastmodified":1566646018,
+    "wof:lastmodified":1690867084,
     "wof:name":"Batibo",
     "wof:parent_id":1092010649,
     "wof:placetype":"locality",

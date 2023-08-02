@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:bar_x_preferred":[
+        "Vina"
+    ],
     "name:ceb_x_preferred":[
         "Vina"
     ],
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":1092011581,
-    "wof:lastmodified":1636499927,
+    "wof:lastmodified":1690867070,
     "wof:name":"Vina",
     "wof:parent_id":85669953,
     "wof:placetype":"county",

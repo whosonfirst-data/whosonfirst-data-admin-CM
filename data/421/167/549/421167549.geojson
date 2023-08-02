@@ -38,6 +38,9 @@
     "name:ita_x_preferred":[
         "Mundemba"
     ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30e5\u30fc\u30c9\u30f3\u30d0"
+    ],
     "name:msa_x_preferred":[
         "Mudemba"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:swe_x_preferred":[
         "Mundemba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u0434\u0435\u043c\u0431\u0430"
     ],
     "name:und_x_variant":[
         "Ndian"
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":421167549,
-    "wof:lastmodified":1566646023,
+    "wof:lastmodified":1690867091,
     "wof:name":"Mundemba",
     "wof:parent_id":1092010791,
     "wof:placetype":"locality",

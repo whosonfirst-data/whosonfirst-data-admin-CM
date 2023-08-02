@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Dimako"
+    ],
     "name:ceb_x_preferred":[
         "Dimako"
     ],
@@ -52,7 +55,13 @@
     "name:ron_x_preferred":[
         "Dimako"
     ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u043c\u0430\u043a\u043e"
+    ],
     "name:spa_x_preferred":[
+        "Dimako"
+    ],
+    "name:swa_x_preferred":[
         "Dimako"
     ],
     "name:swe_x_preferred":[
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":1125766253,
-    "wof:lastmodified":1566646034,
+    "wof:lastmodified":1690867106,
     "wof:name":"Dimako",
     "wof:parent_id":1092011347,
     "wof:placetype":"locality",

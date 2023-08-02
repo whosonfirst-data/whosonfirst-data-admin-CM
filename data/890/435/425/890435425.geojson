@@ -46,6 +46,9 @@
     "name:spa_x_preferred":[
         "Njombe-Penja"
     ],
+    "name:swa_x_preferred":[
+        "Penja"
+    ],
     "name:swe_x_preferred":[
         "Penja"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":890435425,
-    "wof:lastmodified":1566646034,
+    "wof:lastmodified":1690867106,
     "wof:name":"Penja",
     "wof:parent_id":1092011087,
     "wof:placetype":"locality",

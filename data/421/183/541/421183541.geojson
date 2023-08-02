@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Loum"
+    ],
     "name:ceb_x_preferred":[
         "Loum"
     ],
@@ -72,6 +75,9 @@
         "Loum"
     ],
     "name:swe_x_preferred":[
+        "Loum"
+    ],
+    "name:szl_x_preferred":[
         "Loum"
     ],
     "name:und_x_variant":[
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":421183541,
-    "wof:lastmodified":1566646029,
+    "wof:lastmodified":1690867100,
     "wof:name":"Loum",
     "wof:parent_id":1092011087,
     "wof:placetype":"locality",

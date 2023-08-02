@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Obala"
+    ],
     "name:ceb_x_preferred":[
         "Obala"
     ],
@@ -60,6 +63,9 @@
         "Obala"
     ],
     "name:spa_x_preferred":[
+        "Obala"
+    ],
+    "name:swa_x_preferred":[
         "Obala"
     ],
     "name:swe_x_preferred":[
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421198503,
-    "wof:lastmodified":1566646026,
+    "wof:lastmodified":1690867096,
     "wof:name":"Obala",
     "wof:parent_id":1092012079,
     "wof:placetype":"locality",

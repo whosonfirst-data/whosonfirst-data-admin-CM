@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Mokolo"
+    ],
     "name:ceb_x_preferred":[
         "Mokolo"
     ],
@@ -60,6 +63,9 @@
         "\u041c\u043e\u043a\u043e\u043b\u043e"
     ],
     "name:spa_x_preferred":[
+        "Mokolo"
+    ],
+    "name:swa_x_preferred":[
         "Mokolo"
     ],
     "name:swe_x_preferred":[
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421167551,
-    "wof:lastmodified":1566646021,
+    "wof:lastmodified":1690867089,
     "wof:name":"Mokolo",
     "wof:parent_id":1092011899,
     "wof:placetype":"locality",

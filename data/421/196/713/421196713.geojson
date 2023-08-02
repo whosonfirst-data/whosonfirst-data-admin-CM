@@ -17,11 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Yoko"
+    ],
     "name:ceb_x_preferred":[
         "Yoko"
     ],
     "name:deu_x_preferred":[
         "Yoko"
+    ],
+    "name:deu_x_variant":[
+        "Joko"
     ],
     "name:eng_x_preferred":[
         "Yoko"
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421196713,
-    "wof:lastmodified":1566646027,
+    "wof:lastmodified":1690867097,
     "wof:name":"Yoko",
     "wof:parent_id":1092012311,
     "wof:placetype":"locality",

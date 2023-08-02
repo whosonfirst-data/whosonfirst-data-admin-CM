@@ -17,8 +17,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Yabassi"
+    ],
     "name:bul_x_preferred":[
         "\u042f\u0431\u0430\u0441\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Yabassi"
     ],
     "name:ceb_x_preferred":[
         "Yabassi"
@@ -41,6 +47,9 @@
     "name:ita_x_preferred":[
         "Yabassi"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e4\u30d0\u30c3\u30b7"
+    ],
     "name:msa_x_preferred":[
         "Yabassi"
     ],
@@ -52,6 +61,9 @@
     ],
     "name:pol_x_preferred":[
         "Yabassi"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0431\u0430\u0441\u0441\u0438"
     ],
     "name:spa_x_preferred":[
         "Yabassi"
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":421200251,
-    "wof:lastmodified":1566646028,
+    "wof:lastmodified":1690867098,
     "wof:name":"Yabassi",
     "wof:parent_id":1092011119,
     "wof:placetype":"locality",

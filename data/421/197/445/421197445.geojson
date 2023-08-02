@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u043b\u0456"
+    ],
+    "name:ceb_x_preferred":[
+        "Poli"
+    ],
     "name:deu_x_preferred":[
         "Poli"
     ],
@@ -37,6 +43,9 @@
     ],
     "name:ita_x_preferred":[
         "Poli"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30fc\u30ea"
     ],
     "name:msa_x_preferred":[
         "Poli"
@@ -63,6 +72,9 @@
         "Poli"
     ],
     "name:srp_x_preferred":[
+        "Poli"
+    ],
+    "name:swe_x_preferred":[
         "Poli"
     ],
     "qs:gn_country":"CM",
@@ -112,7 +124,7 @@
         }
     ],
     "wof:id":421197445,
-    "wof:lastmodified":1566646028,
+    "wof:lastmodified":1690867098,
     "wof:name":"Poli",
     "wof:parent_id":1092011667,
     "wof:placetype":"locality",

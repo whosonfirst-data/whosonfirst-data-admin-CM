@@ -17,10 +17,16 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Tonga"
+    ],
     "name:eng_x_preferred":[
         "Tonga"
     ],
     "name:fra_x_preferred":[
+        "Tonga"
+    ],
+    "name:gle_x_preferred":[
         "Tonga"
     ],
     "name:heb_x_preferred":[
@@ -36,6 +42,9 @@
         "Tonga"
     ],
     "name:spa_x_preferred":[
+        "Tonga"
+    ],
+    "name:swe_x_preferred":[
         "Tonga"
     ],
     "name:und_x_variant":[
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":421173967,
-    "wof:lastmodified":1566646024,
+    "wof:lastmodified":1690867094,
     "wof:name":"Tonga",
     "wof:parent_id":1092010493,
     "wof:placetype":"locality",

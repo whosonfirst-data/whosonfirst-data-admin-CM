@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Somi\u00e9"
+    ],
     "name:eng_x_preferred":[
         "Somi\u00e9"
     ],
@@ -26,6 +29,9 @@
         "Somi\u00e9"
     ],
     "name:nan_x_preferred":[
+        "Somi\u00e9"
+    ],
+    "name:swe_x_preferred":[
         "Somi\u00e9"
     ],
     "name:und_x_variant":[
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":890445587,
-    "wof:lastmodified":1566646033,
+    "wof:lastmodified":1690867105,
     "wof:name":"Somi\u00e9",
     "wof:parent_id":1092011501,
     "wof:placetype":"locality",

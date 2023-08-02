@@ -53,6 +53,9 @@
     "name:spa_x_preferred":[
         "Mbanga"
     ],
+    "name:swa_x_preferred":[
+        "Mbanga"
+    ],
     "name:swe_x_preferred":[
         "Mbanga"
     ],
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421178173,
-    "wof:lastmodified":1566646030,
+    "wof:lastmodified":1690867101,
     "wof:name":"Mbanga",
     "wof:parent_id":1092011087,
     "wof:placetype":"locality",

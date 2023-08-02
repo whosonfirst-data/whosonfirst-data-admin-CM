@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u041c\u0431\u0435\u043d\u0433\u0432\u0456"
+    ],
     "name:ceb_x_preferred":[
         "Mbengwi"
     ],
@@ -35,6 +38,9 @@
     "name:ita_x_preferred":[
         "Mbengwi"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30d0\u30f3\u30a6\u30a3"
+    ],
     "name:msa_x_preferred":[
         "Mbengwi"
     ],
@@ -48,6 +54,9 @@
         "Mbengwi"
     ],
     "name:spa_x_preferred":[
+        "Mbengwi"
+    ],
+    "name:swa_x_preferred":[
         "Mbengwi"
     ],
     "name:swe_x_preferred":[
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":421200233,
-    "wof:lastmodified":1566646028,
+    "wof:lastmodified":1690867099,
     "wof:name":"Mbengwi",
     "wof:parent_id":1092010649,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0627\u064a\u0628\u0648\u0644\u0648\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u064a\u0628\u0648\u0644\u0648\u0627"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0628\u0648\u0644\u0648\u0648\u0627"
     ],
@@ -35,6 +38,9 @@
     "name:ceb_x_preferred":[
         "\u00c9bolowa"
     ],
+    "name:ces_x_preferred":[
+        "Ebolowa"
+    ],
     "name:dan_x_preferred":[
         "Ebolowa"
     ],
@@ -49,6 +55,9 @@
     ],
     "name:epo_x_preferred":[
         "Ebolowa"
+    ],
+    "name:eus_x_preferred":[
+        "Eboloea"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0628\u0648\u0644\u0648\u0648\u0627"
@@ -128,10 +137,16 @@
     "name:sin_x_preferred":[
         "\u0d91\u0db6\u0ddd\u0dbd\u0ddc\u0dc0\u0dcf"
     ],
+    "name:slk_x_preferred":[
+        "Ebolowa"
+    ],
     "name:slv_x_preferred":[
         "Ebolowa"
     ],
     "name:spa_x_preferred":[
+        "Ebolowa"
+    ],
+    "name:swa_x_preferred":[
         "Ebolowa"
     ],
     "name:swe_x_preferred":[
@@ -301,7 +316,7 @@
         }
     ],
     "wof:id":421168937,
-    "wof:lastmodified":1636499928,
+    "wof:lastmodified":1690867084,
     "wof:name":"Ebolowa",
     "wof:parent_id":1092012173,
     "wof:placetype":"locality",

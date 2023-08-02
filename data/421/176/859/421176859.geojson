@@ -35,6 +35,9 @@
     "name:ita_x_preferred":[
         "Ntui"
     ],
+    "name:jpn_x_preferred":[
+        "\u30cc\u30b8\u30e5"
+    ],
     "name:msa_x_preferred":[
         "Ntui"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421176859,
-    "wof:lastmodified":1566646031,
+    "wof:lastmodified":1690867103,
     "wof:name":"Ntui",
     "wof:parent_id":1092012311,
     "wof:placetype":"locality",

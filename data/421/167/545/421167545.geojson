@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0631\u064a\u0628\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0631\u064a\u0628\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Kribi"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09b0\u09bf\u09ac\u09bf"
     ],
@@ -67,6 +73,9 @@
     ],
     "name:hun_x_preferred":[
         "Kribi"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0580\u056b\u0562\u056b"
     ],
     "name:ind_x_preferred":[
         "Kribi"
@@ -128,6 +137,9 @@
     "name:spa_x_preferred":[
         "Kribi"
     ],
+    "name:swa_x_preferred":[
+        "Kribi"
+    ],
     "name:swe_x_preferred":[
         "Kribi"
     ],
@@ -151,6 +163,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0631\u06cc\u0628\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Kribi"
     ],
     "name:vie_x_preferred":[
         "Kribi"
@@ -300,7 +315,7 @@
         }
     ],
     "wof:id":421167545,
-    "wof:lastmodified":1636499930,
+    "wof:lastmodified":1690867090,
     "wof:name":"Kribi",
     "wof:parent_id":1092012139,
     "wof:placetype":"locality",

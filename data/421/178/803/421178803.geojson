@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0633\u064a\u0643\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u064a\u0633\u064a\u0643\u0627"
+    ],
     "name:bre_x_preferred":[
         "\u00c9s\u00e9ka"
     ],
@@ -223,7 +226,7 @@
         }
     ],
     "wof:id":421178803,
-    "wof:lastmodified":1566646030,
+    "wof:lastmodified":1690867101,
     "wof:name":"Es\u00e9ka",
     "wof:parent_id":1092011187,
     "wof:placetype":"locality",

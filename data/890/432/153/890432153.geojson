@@ -55,6 +55,9 @@
     "name:spa_x_preferred":[
         "Mbandjock"
     ],
+    "name:swa_x_preferred":[
+        "Mbandjock"
+    ],
     "name:swe_x_preferred":[
         "Mbandjok"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":890432153,
-    "wof:lastmodified":1566646033,
+    "wof:lastmodified":1690867105,
     "wof:name":"Mbandjok",
     "wof:parent_id":1092011277,
     "wof:placetype":"locality",
