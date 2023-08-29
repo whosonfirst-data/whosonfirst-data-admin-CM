@@ -35,6 +35,9 @@
     "name:ita_x_preferred":[
         "Nanga-Eboko"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30f3\u30ac\u30fb\u30a8\u30dc\u30b3"
+    ],
     "name:msa_x_preferred":[
         "Nanga-Eboko"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:spa_x_preferred":[
         "Nanga-Eboko"
+    ],
+    "name:swa_x_preferred":[
+        "Nanga Eboko"
     ],
     "name:swe_x_preferred":[
         "Nanga Eboko"
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":421178801,
-    "wof:lastmodified":1566646030,
+    "wof:lastmodified":1690867101,
     "wof:name":"Nanga Eboko",
     "wof:parent_id":1092011277,
     "wof:placetype":"locality",

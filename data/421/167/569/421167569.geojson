@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Bana"
     ],
+    "name:eus_x_preferred":[
+        "Bana"
+    ],
     "name:fra_x_preferred":[
         "Bana"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421167569,
-    "wof:lastmodified":1566646021,
+    "wof:lastmodified":1690867089,
     "wof:name":"Bana",
     "wof:parent_id":1092010971,
     "wof:placetype":"locality",

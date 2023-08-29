@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Mbang"
+    ],
     "name:deu_x_preferred":[
         "Mbang"
     ],
@@ -30,6 +33,9 @@
         "Mbang"
     ],
     "name:spa_x_preferred":[
+        "Mbang"
+    ],
+    "name:swe_x_preferred":[
         "Mbang"
     ],
     "qs:gn_country":"CM",
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":421178177,
-    "wof:lastmodified":1566646030,
+    "wof:lastmodified":1690867101,
     "wof:name":"Mbang",
     "wof:parent_id":1092011395,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u063a\u0631\u0628"
     ],
+    "name:avk_x_preferred":[
+        "KamerunaOuestGola"
+    ],
     "name:bel_x_preferred":[
         "\u0417\u0430\u0445\u043e\u0434\u043d\u0456 \u0440\u044d\u0433\u0456\u0451\u043d"
     ],
@@ -66,6 +69,9 @@
     "name:est_x_preferred":[
         "L\u00e4\u00e4nepiirkond"
     ],
+    "name:eus_x_preferred":[
+        "Mendebaldea"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0647 \u063a\u0631\u0628"
     ],
@@ -93,7 +99,8 @@
         "\u05de\u05d6\u05e8\u05d7"
     ],
     "name:heb_x_variant":[
-        "\u05de\u05d7\u05d5\u05d6 \u05d4\u05de\u05e2\u05e8\u05d1"
+        "\u05de\u05d7\u05d5\u05d6 \u05d4\u05de\u05e2\u05e8\u05d1",
+        "\u05d0\u05d6\u05d5\u05e8 \u05d4\u05de\u05e2\u05e8\u05d1"
     ],
     "name:hin_x_preferred":[
         "\u092a\u0936\u094d\u091a\u093f\u092e"
@@ -193,6 +200,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Ph\u00eda T\u00e2y"
+    ],
+    "name:wuu_x_preferred":[
+        "\u897f\u90e8\u533a"
     ],
     "name:yor_x_preferred":[
         "\u00ecw\u1ecd\u0300 o\u00f2r\u00f9n"
@@ -323,7 +333,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636499910,
+    "wof:lastmodified":1690867061,
     "wof:name":"Ouest",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

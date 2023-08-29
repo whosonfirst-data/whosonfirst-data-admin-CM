@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Bandjoun"
+    ],
     "name:ceb_x_preferred":[
         "Bandjoun"
     ],
@@ -35,6 +38,9 @@
     "name:ita_x_preferred":[
         "Bandjoun"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30f3\u30b8\u30e5\u30f3"
+    ],
     "name:msa_x_preferred":[
         "Bandjoun"
     ],
@@ -48,6 +54,12 @@
         "Bandjoun"
     ],
     "name:ron_x_preferred":[
+        "Bandjoun"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0434\u0436\u0443\u043d"
+    ],
+    "name:swa_x_preferred":[
         "Bandjoun"
     ],
     "name:swe_x_preferred":[
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":421166819,
-    "wof:lastmodified":1566646019,
+    "wof:lastmodified":1690867086,
     "wof:name":"Bandjoun",
     "wof:parent_id":1092012225,
     "wof:placetype":"locality",

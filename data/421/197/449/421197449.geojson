@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062c\u0627\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Dschang"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0441\u0447\u0430\u043d\u0433"
     ],
@@ -59,6 +62,9 @@
     "name:nld_x_preferred":[
         "Dschang"
     ],
+    "name:nob_x_preferred":[
+        "Dschang"
+    ],
     "name:pol_x_preferred":[
         "Dschang"
     ],
@@ -72,6 +78,9 @@
         "\u0414\u0436\u0430\u043d\u0433"
     ],
     "name:spa_x_preferred":[
+        "Dschang"
+    ],
+    "name:swa_x_preferred":[
         "Dschang"
     ],
     "name:swe_x_preferred":[
@@ -131,7 +140,7 @@
         }
     ],
     "wof:id":421197449,
-    "wof:lastmodified":1566646028,
+    "wof:lastmodified":1690867098,
     "wof:name":"Dschang",
     "wof:parent_id":1092010943,
     "wof:placetype":"locality",

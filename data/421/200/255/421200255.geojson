@@ -17,7 +17,19 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0631\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u0648\u0631\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Mora"
+    ],
     "name:ceb_x_preferred":[
+        "Mora"
+    ],
+    "name:ces_x_preferred":[
         "Mora"
     ],
     "name:deu_x_preferred":[
@@ -27,6 +39,9 @@
         "Mora"
     ],
     "name:fra_x_preferred":[
+        "Mora"
+    ],
+    "name:hau_x_preferred":[
         "Mora"
     ],
     "name:heb_x_preferred":[
@@ -54,6 +69,9 @@
         "\u041c\u043e\u0440\u0435"
     ],
     "name:spa_x_preferred":[
+        "Mora"
+    ],
+    "name:swa_x_preferred":[
         "Mora"
     ],
     "name:swe_x_preferred":[
@@ -112,7 +130,7 @@
         }
     ],
     "wof:id":421200255,
-    "wof:lastmodified":1566646028,
+    "wof:lastmodified":1690867099,
     "wof:name":"Mora",
     "wof:parent_id":1092011759,
     "wof:placetype":"locality",

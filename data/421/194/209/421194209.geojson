@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "B\u00e9tar\u00e9 Oya"
+    ],
     "name:eng_x_preferred":[
         "B\u00e9tar\u00e9-Oya"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:spa_x_preferred":[
         "B\u00e9tar\u00e9-Oya"
+    ],
+    "name:swe_x_preferred":[
+        "B\u00e9tar\u00e9 Oya"
     ],
     "name:und_x_variant":[
         "Betare"
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":421194209,
-    "wof:lastmodified":1566646020,
+    "wof:lastmodified":1690867088,
     "wof:name":"B\u00e9tar\u00e9 Oya",
     "wof:parent_id":1092011395,
     "wof:placetype":"locality",

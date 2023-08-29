@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0631\u0642"
     ],
+    "name:avk_x_preferred":[
+        "KamerunaEstGola"
+    ],
     "name:bel_x_preferred":[
         "\u0423\u0441\u0445\u043e\u0434\u043d\u0456 \u0440\u044d\u0433\u0456\u0451\u043d"
     ],
@@ -70,6 +73,9 @@
     "name:est_x_preferred":[
         "Idapiirkond"
     ],
+    "name:eus_x_preferred":[
+        "Ekialdea"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0647 \u0634\u0631\u0642"
     ],
@@ -95,6 +101,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d7\u05d5\u05d6 \u05d4\u05de\u05d6\u05e8\u05d7"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05d6\u05d5\u05e8 \u05d4\u05de\u05d6\u05e8\u05d7"
     ],
     "name:hin_x_preferred":[
         "\u092a\u0942\u0930\u094d\u0935"
@@ -191,6 +200,9 @@
     ],
     "name:vie_x_preferred":[
         "East"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e1c\u90e8\u533a"
     ],
     "name:yor_x_preferred":[
         "il\u00e0 o\u00f2r\u00f9n"
@@ -321,7 +333,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636499912,
+    "wof:lastmodified":1690867065,
     "wof:name":"Est",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

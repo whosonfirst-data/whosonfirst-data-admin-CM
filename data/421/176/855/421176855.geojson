@@ -44,6 +44,9 @@
     "name:spa_x_preferred":[
         "Fontem"
     ],
+    "name:swa_x_preferred":[
+        "Fontem"
+    ],
     "name:swe_x_preferred":[
         "Fontem"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421176855,
-    "wof:lastmodified":1566646032,
+    "wof:lastmodified":1690867104,
     "wof:name":"Fontem",
     "wof:parent_id":1092011035,
     "wof:placetype":"locality",

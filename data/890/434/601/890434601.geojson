@@ -52,6 +52,9 @@
     "name:swe_x_preferred":[
         "Bamusso"
     ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043c\u0443\u0441\u043e"
+    ],
     "qs:name":"Bamusso",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":890434601,
-    "wof:lastmodified":1566646033,
+    "wof:lastmodified":1690867105,
     "wof:name":"Bamusso",
     "wof:parent_id":1092010791,
     "wof:placetype":"locality",

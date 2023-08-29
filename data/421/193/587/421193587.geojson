@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Jakiri"
+    ],
     "name:ceb_x_preferred":[
         "Jakiri"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421193587,
-    "wof:lastmodified":1566646021,
+    "wof:lastmodified":1690867088,
     "wof:name":"Jakiri",
     "wof:parent_id":1092012009,
     "wof:placetype":"locality",

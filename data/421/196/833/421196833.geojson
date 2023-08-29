@@ -68,6 +68,9 @@
     "name:spa_x_variant":[
         "Esse"
     ],
+    "name:swe_x_preferred":[
+        "Ess\u00e9"
+    ],
     "qs:gn_country":"CM",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":2231851,
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":421196833,
-    "wof:lastmodified":1566646027,
+    "wof:lastmodified":1690867097,
     "wof:name":"Ess\u00e9",
     "wof:parent_id":1092010921,
     "wof:placetype":"locality",

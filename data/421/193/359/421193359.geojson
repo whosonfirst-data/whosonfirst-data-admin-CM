@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Mbouda"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0431\u0443\u0434\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0431\u043e\u0443\u0434\u0430"
     ],
@@ -37,6 +43,12 @@
     ],
     "name:ita_x_preferred":[
         "Mbouda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30d6\u30fc\u30c0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc74c\ubd80\ub2e4"
     ],
     "name:msa_x_preferred":[
         "Mbouda"
@@ -60,6 +72,9 @@
         "\u041c\u0431\u0443\u0434\u0430"
     ],
     "name:spa_x_preferred":[
+        "Mbouda"
+    ],
+    "name:swa_x_preferred":[
         "Mbouda"
     ],
     "name:swe_x_preferred":[
@@ -118,7 +133,7 @@
         }
     ],
     "wof:id":421193359,
-    "wof:lastmodified":1566646021,
+    "wof:lastmodified":1690867089,
     "wof:name":"Mbouda",
     "wof:parent_id":1092010559,
     "wof:placetype":"locality",

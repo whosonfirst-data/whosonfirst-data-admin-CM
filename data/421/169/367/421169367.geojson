@@ -26,6 +26,9 @@
     "name:fra_x_preferred":[
         "Garoua-Boula\u00ef"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ac\u30eb\u30a2\u30fb\u30d6\u30e9\u30a4"
+    ],
     "name:msa_x_preferred":[
         "Garoua-Boula\u00ef"
     ],
@@ -42,6 +45,9 @@
         "Garoua Boula\u00ef"
     ],
     "name:spa_x_preferred":[
+        "Garoua-Boula\u00ef"
+    ],
+    "name:swa_x_preferred":[
         "Garoua-Boula\u00ef"
     ],
     "name:swe_x_preferred":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421169367,
-    "wof:lastmodified":1566646023,
+    "wof:lastmodified":1690867092,
     "wof:name":"Garoua Boula\u00ef",
     "wof:parent_id":1092011395,
     "wof:placetype":"locality",

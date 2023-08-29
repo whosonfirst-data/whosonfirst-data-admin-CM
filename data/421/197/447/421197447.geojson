@@ -128,6 +128,9 @@
     "name:vie_x_preferred":[
         "Lagdo"
     ],
+    "name:zho_x_preferred":[
+        "\u62c9\u683c\u591a"
+    ],
     "qs:gn_country":"CM",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":2229681,
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":421197447,
-    "wof:lastmodified":1566646027,
+    "wof:lastmodified":1690867098,
     "wof:name":"Lagdo",
     "wof:parent_id":1092012287,
     "wof:placetype":"locality",

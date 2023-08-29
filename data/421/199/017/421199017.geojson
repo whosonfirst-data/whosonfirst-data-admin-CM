@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Ambam"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0645\u0628\u0627\u0645"
     ],
@@ -41,8 +44,14 @@
     "name:heb_x_preferred":[
         "\u05d0\u05de\u05d1\u05dd"
     ],
+    "name:ind_x_preferred":[
+        "Ambam"
+    ],
     "name:ita_x_preferred":[
         "Ambam"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30d0\u30e0"
     ],
     "name:msa_x_preferred":[
         "Ambam"
@@ -59,7 +68,13 @@
     "name:ron_x_preferred":[
         "Ambam"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0431\u0430\u043c"
+    ],
     "name:spa_x_preferred":[
+        "Ambam"
+    ],
+    "name:swa_x_preferred":[
         "Ambam"
     ],
     "name:swe_x_preferred":[
@@ -118,7 +133,7 @@
         }
     ],
     "wof:id":421199017,
-    "wof:lastmodified":1566646028,
+    "wof:lastmodified":1690867098,
     "wof:name":"Ambam",
     "wof:parent_id":1092012107,
     "wof:placetype":"locality",

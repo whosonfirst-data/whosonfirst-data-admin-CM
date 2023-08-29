@@ -53,6 +53,9 @@
     "name:spa_x_preferred":[
         "Nkoteng"
     ],
+    "name:swa_x_preferred":[
+        "Nkoteng"
+    ],
     "name:swe_x_preferred":[
         "Nkoteng"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421176863,
-    "wof:lastmodified":1566646032,
+    "wof:lastmodified":1690867104,
     "wof:name":"Nkoteng",
     "wof:parent_id":1092011277,
     "wof:placetype":"locality",

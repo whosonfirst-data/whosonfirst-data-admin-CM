@@ -20,11 +20,20 @@
     "name:ara_x_preferred":[
         "\u0646\u0643\u0648\u0646\u063a\u0633\u0627\u0645\u0628\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0643\u0648\u0646\u062c\u0633\u0627\u0645\u0628\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Nkongsamba"
+    ],
     "name:ben_x_preferred":[
         "\u098f\u09a8\u0995\u09cb\u0982\u0997\u09b8\u09be\u09ae\u09cd\u09ac\u09be"
     ],
     "name:bul_x_preferred":[
         "\u041d\u043a\u043e\u043d\u0433\u0441\u0430\u043c\u0431\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Nkongsamba"
     ],
     "name:ceb_x_preferred":[
         "Nkongsamba"
@@ -54,6 +63,9 @@
         "Nkongsamba"
     ],
     "name:fra_x_preferred":[
+        "Nkongsamba"
+    ],
+    "name:frr_x_preferred":[
         "Nkongsamba"
     ],
     "name:heb_x_preferred":[
@@ -95,6 +107,9 @@
     "name:nld_x_preferred":[
         "Nkongsamba"
     ],
+    "name:nob_x_preferred":[
+        "Nkongsamba"
+    ],
     "name:pol_x_preferred":[
         "Nkongsamba"
     ],
@@ -111,6 +126,9 @@
         "Nkongsamba"
     ],
     "name:spa_x_preferred":[
+        "Nkongsamba"
+    ],
+    "name:swa_x_preferred":[
         "Nkongsamba"
     ],
     "name:swe_x_preferred":[
@@ -279,7 +297,7 @@
         }
     ],
     "wof:id":421176865,
-    "wof:lastmodified":1636499931,
+    "wof:lastmodified":1690867104,
     "wof:name":"Nkongsamba",
     "wof:parent_id":1092011087,
     "wof:placetype":"locality",

@@ -53,6 +53,9 @@
     "name:spa_x_preferred":[
         "Manjo"
     ],
+    "name:swa_x_preferred":[
+        "Manjo"
+    ],
     "name:swe_x_preferred":[
         "Manjo"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421198499,
-    "wof:lastmodified":1566646027,
+    "wof:lastmodified":1690867096,
     "wof:name":"Manjo",
     "wof:parent_id":1092011087,
     "wof:placetype":"locality",

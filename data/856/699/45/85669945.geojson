@@ -32,6 +32,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0646\u062a\u0631"
     ],
+    "name:avk_x_preferred":[
+        "KamerunaCentreGola"
+    ],
+    "name:aze_x_preferred":[
+        "M\u0259rkz\u0259z regionu"
+    ],
     "name:bel_x_preferred":[
         "\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b \u0440\u044d\u0433\u0456\u0451\u043d"
     ],
@@ -68,6 +74,9 @@
     "name:est_x_preferred":[
         "Keskpiirkond"
     ],
+    "name:eus_x_preferred":[
+        "Erdialdea"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0647 \u0645\u0631\u06a9\u0632"
     ],
@@ -90,8 +99,14 @@
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aa8\u0acd\u0aa6\u0acd\u0ab0"
     ],
+    "name:hat_x_preferred":[
+        "sant"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05d7\u05d5\u05d6 \u05d4\u05de\u05e8\u05db\u05d6"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05d6\u05d5\u05e8 \u05d4\u05de\u05e8\u05db\u05d6"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0947\u0902\u091f\u0930"
@@ -188,6 +203,9 @@
     ],
     "name:vie_x_variant":[
         "V\u00f9ng Mi\u1ec1n Trung"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e2d\u90e8\u533a"
     ],
     "name:yor_x_preferred":[
         "\u00e0\u00e1r\u00edn"
@@ -320,7 +338,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1642551807,
+    "wof:lastmodified":1690867063,
     "wof:name":"Centre",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

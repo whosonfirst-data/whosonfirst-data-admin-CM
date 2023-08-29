@@ -17,7 +17,16 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Banyo"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u043d\u044c\u0451"
+    ],
     "name:ceb_x_preferred":[
+        "Banyo"
+    ],
+    "name:deu_x_preferred":[
         "Banyo"
     ],
     "name:eng_x_preferred":[
@@ -54,6 +63,9 @@
         "Banyo"
     ],
     "name:spa_x_preferred":[
+        "Banyo"
+    ],
+    "name:swa_x_preferred":[
         "Banyo"
     ],
     "name:swe_x_preferred":[
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":421168115,
-    "wof:lastmodified":1566646019,
+    "wof:lastmodified":1690867086,
     "wof:name":"Banyo",
     "wof:parent_id":1092011501,
     "wof:placetype":"locality",

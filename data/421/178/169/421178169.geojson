@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0628\u0627\u062a\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Tibati"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u044b\u0431\u0430\u0446\u0456"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09bf\u09ac\u09be\u09a4\u09bf"
     ],
@@ -59,6 +65,9 @@
     "name:ita_x_preferred":[
         "Tibati"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30a3\u30d0\u30c6\u30a3"
+    ],
     "name:kor_x_preferred":[
         "\ud2f0\ubc14\ud2f0"
     ],
@@ -81,6 +90,9 @@
         "\u0422\u0438\u0431\u0430\u0442\u0438"
     ],
     "name:spa_x_preferred":[
+        "Tibati"
+    ],
+    "name:swa_x_preferred":[
         "Tibati"
     ],
     "name:swe_x_preferred":[
@@ -243,7 +255,7 @@
         }
     ],
     "wof:id":421178169,
-    "wof:lastmodified":1636499930,
+    "wof:lastmodified":1690867100,
     "wof:name":"Tibati",
     "wof:parent_id":1092011605,
     "wof:placetype":"locality",

@@ -17,10 +17,19 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Bonab\u00e9ri"
+    ],
     "name:ceb_x_preferred":[
         "Bonab\u00e9ri"
     ],
+    "name:deu_x_preferred":[
+        "Bonab\u00e9ri"
+    ],
     "name:eng_x_preferred":[
+        "Bonab\u00e9ri"
+    ],
+    "name:eus_x_preferred":[
         "Bonab\u00e9ri"
     ],
     "name:fra_x_preferred":[
@@ -37,6 +46,9 @@
     ],
     "name:swe_x_preferred":[
         "Bonab\u00e9ri"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u043d\u0430\u0431\u0435\u0440\u0456"
     ],
     "name:und_x_variant":[
         "Boniberi"
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":421193589,
-    "wof:lastmodified":1566646020,
+    "wof:lastmodified":1690867088,
     "wof:name":"Bonab\u00e9ri",
     "wof:parent_id":1092012257,
     "wof:placetype":"locality",

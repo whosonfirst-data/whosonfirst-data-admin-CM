@@ -47,6 +47,9 @@
     "name:spa_x_preferred":[
         "Muyuka"
     ],
+    "name:swa_x_preferred":[
+        "Muyuka"
+    ],
     "name:swe_x_preferred":[
         "Muyuka"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421167547,
-    "wof:lastmodified":1566646023,
+    "wof:lastmodified":1690867091,
     "wof:name":"Muyuka",
     "wof:parent_id":1092010823,
     "wof:placetype":"locality",

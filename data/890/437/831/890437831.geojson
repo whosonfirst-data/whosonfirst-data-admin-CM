@@ -43,6 +43,9 @@
     "name:por_x_preferred":[
         "Mutengene"
     ],
+    "name:swa_x_preferred":[
+        "Mutengene"
+    ],
     "name:swe_x_preferred":[
         "Mutengene"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890437831,
-    "wof:lastmodified":1566646032,
+    "wof:lastmodified":1690867104,
     "wof:name":"Mutengene",
     "wof:parent_id":1092010823,
     "wof:placetype":"locality",

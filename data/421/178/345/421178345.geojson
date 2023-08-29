@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0645\u0628\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Kumba"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09ae\u09cd\u09ac\u09be"
     ],
@@ -51,6 +54,9 @@
         "Kumba"
     ],
     "name:fra_x_preferred":[
+        "Kumba"
+    ],
+    "name:frr_x_preferred":[
         "Kumba"
     ],
     "name:guj_x_preferred":[
@@ -126,6 +132,9 @@
         "\u0d9a\u0dd4\u0db8\u0dca\u0db6\u0dcf"
     ],
     "name:spa_x_preferred":[
+        "Kumba"
+    ],
+    "name:swa_x_preferred":[
         "Kumba"
     ],
     "name:swe_x_preferred":[
@@ -298,7 +307,7 @@
         }
     ],
     "wof:id":421178345,
-    "wof:lastmodified":1636499930,
+    "wof:lastmodified":1690867102,
     "wof:name":"Kumba",
     "wof:parent_id":1092010859,
     "wof:placetype":"locality",

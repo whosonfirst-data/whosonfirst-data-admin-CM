@@ -58,6 +58,9 @@
     "name:spa_x_preferred":[
         "Sa'a"
     ],
+    "name:swa_x_preferred":[
+        "Sa'a"
+    ],
     "name:swe_x_preferred":[
         "Saa"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":890424195,
-    "wof:lastmodified":1566646032,
+    "wof:lastmodified":1690867104,
     "wof:name":"Saa",
     "wof:parent_id":1092012079,
     "wof:placetype":"locality",
