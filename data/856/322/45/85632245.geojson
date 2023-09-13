@@ -1175,7 +1175,7 @@
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"237",
     "statoids:ds":"CAM",
     "statoids:fifa":"CMR",
@@ -1250,7 +1250,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1694492069,
+    "wof:lastmodified":1694639523,
     "wof:name":"Cameroon",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
