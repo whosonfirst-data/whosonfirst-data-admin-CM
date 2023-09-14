@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":37.901761,
-    "geom:area_square_m":465936117741.904541,
+    "geom:area_square_m":465936117741.902283,
     "geom:bbox":"8.49952,1.652085,16.191045,13.076562",
     "geom:latitude":5.681652,
     "geom:longitude":12.741196,
@@ -14,6 +14,9 @@
     "iso:country":"CM",
     "itu:country_code":[
         "237"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "CM"
@@ -1171,7 +1174,8 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"237",
     "statoids:ds":"CAM",
     "statoids:fifa":"CMR",
@@ -1230,7 +1234,7 @@
         "quattroshapes",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"618e1d12b793d3e8b0bbad1672e0a54b",
+    "wof:geomhash":"9a8507ec5b560fbec94656fa864aa4ff",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1246,12 +1250,12 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690867061,
+    "wof:lastmodified":1694639523,
     "wof:name":"Cameroon",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":22253959,
-    "wof:population_rank":15,
+    "wof:population":25876380,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-cm",
     "wof:shortcode":"CM",
     "wof:superseded_by":[],
