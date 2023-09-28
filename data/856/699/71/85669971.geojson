@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.844461,
-    "geom:area_square_m":47481739664.384232,
+    "geom:area_square_m":47481734165.498741,
     "geom:bbox":"9.815079,2.141379,13.680087,3.681679",
     "geom:latitude":2.754503,
     "geom:longitude":11.573369,
@@ -310,16 +310,18 @@
         "gn:id":2221789,
         "gp:id":2345042,
         "hasc:id":"CM.SU",
+        "iso:code":"CM-SU",
         "iso:id":"CM-SU",
         "qs_pg:id":219529,
         "wd:id":"Q857122",
         "wk:page":"South Region (Cameroon)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"668d3982c17238016e838fffcb9b1850",
+    "wof:geomhash":"8fa4109e47fb33a76f488e10f924236c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -336,7 +338,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690867064,
+    "wof:lastmodified":1695884856,
     "wof:name":"Sud",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

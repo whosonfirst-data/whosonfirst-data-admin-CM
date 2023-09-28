@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.607184,
-    "geom:area_square_m":69098139246.600052,
+    "geom:area_square_m":69098139803.425446,
     "geom:bbox":"10.23059,3.104148,13.246946,6.260577",
     "geom:latitude":4.662836,
     "geom:longitude":11.821361,
@@ -311,17 +311,19 @@
         "gn:id":2233376,
         "gp:id":2345039,
         "hasc:id":"CM.CE",
+        "iso:code":"CM-CE",
         "iso:id":"CM-CE",
         "qs_pg:id":219528,
         "unlc:id":"CM-CE",
         "wd:id":"Q739951",
         "wk:page":"Centre Region (Cameroon)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a181566fcef9f8ad5d9e8f51397a7c82",
+    "wof:geomhash":"6741487c3f8a6bd481168d87cce5af58",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -338,7 +340,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690867063,
+    "wof:lastmodified":1695885133,
     "wof:name":"Centre",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

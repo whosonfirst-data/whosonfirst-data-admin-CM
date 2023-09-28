@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.03271,
-    "geom:area_square_m":25030098836.233833,
+    "geom:area_square_m":25030099587.709446,
     "geom:bbox":"8.499454,3.906765,10.101244,6.529991",
     "geom:latitude":5.197571,
     "geom:longitude":9.290181,
@@ -305,16 +305,18 @@
         "gn:id":2221788,
         "gp:id":2345037,
         "hasc:id":"CM.SW",
+        "iso:code":"CM-SW",
         "iso:id":"CM-SW",
         "qs_pg:id":219526,
         "wd:id":"Q607499",
         "wk:page":"Southwest Region (Cameroon)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b16c77928d8cebe812959212f42f3a04",
+    "wof:geomhash":"ef3bb28260d3af479d957be09aa4004c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -331,7 +333,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690867062,
+    "wof:lastmodified":1695884358,
     "wof:name":"Sud Ouest",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

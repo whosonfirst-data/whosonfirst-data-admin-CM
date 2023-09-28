@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.837616,
-    "geom:area_square_m":34429914208.18557,
+    "geom:area_square_m":34429913150.528755,
     "geom:bbox":"13.402901,9.934451,15.689526,13.076586",
     "geom:latitude":11.080369,
     "geom:longitude":14.529637,
@@ -309,16 +309,18 @@
         "gn:id":2231755,
         "gp:id":2345040,
         "hasc:id":"CM.EN",
+        "iso:code":"CM-EN",
         "iso:id":"CM-EN",
         "qs_pg:id":1168634,
         "wd:id":"Q823976",
         "wk:page":"Far North Region (Cameroon)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"05bc63ea9951a812ac2c714b99ed1567",
+    "wof:geomhash":"15e31f75888cb8ce869db78e434febf8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -335,7 +337,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690867062,
+    "wof:lastmodified":1695884358,
     "wof:name":"Extreme Nord",
     "wof:parent_id":85632245,
     "wof:placetype":"region",
