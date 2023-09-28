@@ -1213,6 +1213,7 @@
         "hasc:id":"CM",
         "icao:code":"TJ",
         "ioc:id":"CMR",
+        "iso:code":"CM",
         "itu:id":"CME",
         "m49:code":"120",
         "marc:id":"cm",
@@ -1226,6 +1227,7 @@
         "wk:page":"Cameroon",
         "wmo:id":"CM"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CM",
     "wof:country_alpha3":"CMR",
     "wof:geom_alt":[
@@ -1250,7 +1252,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1694639523,
+    "wof:lastmodified":1695881178,
     "wof:name":"Cameroon",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
