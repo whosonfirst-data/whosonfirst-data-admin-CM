@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.166733,
-    "geom:area_square_m":2056227735.437706,
+    "geom:area_square_m":2056227735.437702,
     "geom:bbox":"8.93754612593,3.90676451088,9.55796086084,4.46043546494",
     "geom:latitude":4.167563,
     "geom:longitude":9.272435,
@@ -113,9 +113,10 @@
         "hasc:id":"CM.SW.FA",
         "wd:id":"Q955885"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473896978,
-    "wof:geomhash":"53dcf9e410a824f6f1051d0fcd17da96",
+    "wof:geomhash":"9d9c190f0b71edca2cb922505ad6c31b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1092010823,
-    "wof:lastmodified":1566645947,
+    "wof:lastmodified":1695886383,
     "wof:name":"Fako",
     "wof:parent_id":85669967,
     "wof:placetype":"county",

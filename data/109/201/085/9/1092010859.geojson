@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.232692,
-    "geom:area_square_m":2867878380.311961,
+    "geom:area_square_m":2867878272.056365,
     "geom:bbox":"8.963706,4.214977,9.57047,5.106629",
     "geom:latitude":4.629044,
     "geom:longitude":9.31238,
@@ -98,9 +98,10 @@
         "hasc:id":"CM.SW.MM",
         "wd:id":"Q2582684"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473896979,
-    "wof:geomhash":"83514aaff7b050a27ddabaaf8abdfaf4",
+    "wof:geomhash":"4c912029061e47cd9dfca9835eecc08a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092010859,
-    "wof:lastmodified":1690867072,
+    "wof:lastmodified":1695886383,
     "wof:name":"Meme",
     "wof:parent_id":85669967,
     "wof:placetype":"county",

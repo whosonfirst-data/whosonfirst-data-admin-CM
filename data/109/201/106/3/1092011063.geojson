@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.280227,
-    "geom:area_square_m":3451266638.632983,
+    "geom:area_square_m":3451266638.632942,
     "geom:bbox":"9.18621380245,4.60466470737,9.9111978651,5.48941570132",
     "geom:latitude":5.110077,
     "geom:longitude":9.586202,
@@ -102,9 +102,10 @@
         "hasc:id":"CM.SW.KM",
         "wd:id":"Q2444337"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473896986,
-    "wof:geomhash":"824a208e449b6730524e1e2ce60793a2",
+    "wof:geomhash":"cec3e6b0069090cc0a99fb2c10baeaed",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1092011063,
-    "wof:lastmodified":1566645953,
+    "wof:lastmodified":1695886386,
     "wof:name":"Koupe et Manengouba",
     "wof:parent_id":85669967,
     "wof:placetype":"county",

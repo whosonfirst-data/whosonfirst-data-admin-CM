@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.268897,
-    "geom:area_square_m":3316937588.928592,
+    "geom:area_square_m":3316937284.91415,
     "geom:bbox":"11.500745,3.541111,12.165632,4.32715",
     "geom:latitude":3.976546,
     "geom:longitude":11.795321,
@@ -109,9 +109,10 @@
         "hasc:id":"CM.CE.MM",
         "wd:id":"Q2445054"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473896981,
-    "wof:geomhash":"1c4c99b1c1f028daafef2a7182f637fb",
+    "wof:geomhash":"70d1152ea75551a4a031b66cd6231b26",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1092010921,
-    "wof:lastmodified":1690867081,
+    "wof:lastmodified":1695886388,
     "wof:name":"Mefou et Afamba",
     "wof:parent_id":85669945,
     "wof:placetype":"county",

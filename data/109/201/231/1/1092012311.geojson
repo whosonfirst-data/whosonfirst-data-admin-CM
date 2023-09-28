@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.138727,
-    "geom:area_square_m":26326514746.266468,
+    "geom:area_square_m":26326514023.457199,
     "geom:bbox":"11.066491,4.346158,13.076844,6.260577",
     "geom:latitude":5.426964,
     "geom:longitude":11.980835,
@@ -108,9 +108,10 @@
         "hasc:id":"CM.CE.MK",
         "wd:id":"Q2445194"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473897036,
-    "wof:geomhash":"a8885f2381db9ba507de80a5400fee21",
+    "wof:geomhash":"dbc03a0d7deb5994f1e5c0f193f4d2e6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1092012311,
-    "wof:lastmodified":1690867080,
+    "wof:lastmodified":1695886389,
     "wof:name":"Mbam et Kim",
     "wof:parent_id":85669945,
     "wof:placetype":"county",

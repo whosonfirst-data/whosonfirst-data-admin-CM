@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.292364,
-    "geom:area_square_m":3608713912.044746,
+    "geom:area_square_m":3608714516.19875,
     "geom:bbox":"11.060862,3.104148,12.011434,3.829077",
     "geom:latitude":3.411383,
     "geom:longitude":11.553924,
@@ -105,9 +105,10 @@
         "hasc:id":"CM.CE.NS",
         "wd:id":"Q2445625"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473896992,
-    "wof:geomhash":"2ca528459cb411aa6532b3fbbb6f3405",
+    "wof:geomhash":"580c54eb987cb1e93d3842742c89c4c0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1092011209,
-    "wof:lastmodified":1690867075,
+    "wof:lastmodified":1695886384,
     "wof:name":"Nyong et Soo",
     "wof:parent_id":85669945,
     "wof:placetype":"county",

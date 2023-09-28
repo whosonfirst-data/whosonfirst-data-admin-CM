@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.504417,
-    "geom:area_square_m":30929532490.552792,
+    "geom:area_square_m":30929530979.435005,
     "geom:bbox":"14.325504,1.652085,16.191045,4.021286",
     "geom:latitude":2.794711,
     "geom:longitude":15.24462,
@@ -102,9 +102,10 @@
         "hasc:id":"CM.ES.BN",
         "wd:id":"Q2443133"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473897001,
-    "wof:geomhash":"46f7b39df444029151074ed2adf6407f",
+    "wof:geomhash":"0255bde454ae7117832af0e3c6cdd421",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1092011465,
-    "wof:lastmodified":1690867082,
+    "wof:lastmodified":1695886390,
     "wof:name":"Boumba et Ngoko",
     "wof:parent_id":85669949,
     "wof:placetype":"county",

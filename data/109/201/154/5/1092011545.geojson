@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.855587,
-    "geom:area_square_m":10489875428.06411,
+    "geom:area_square_m":10489875498.782059,
     "geom:bbox":"11.811028,6.874421,13.247889,8.186707",
     "geom:latitude":7.458665,
     "geom:longitude":12.477744,
@@ -114,9 +114,10 @@
         "hasc:id":"CM.AD.FD",
         "wd:id":"Q2583647"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473897004,
-    "wof:geomhash":"4a073a1d8a87d2812a4dae830b146b3f",
+    "wof:geomhash":"353f9dfaf8f136fd964de0dd8ccf0ff7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1092011545,
-    "wof:lastmodified":1690867076,
+    "wof:lastmodified":1695886385,
     "wof:name":"Faro et Deo",
     "wof:parent_id":85669953,
     "wof:placetype":"county",

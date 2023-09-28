@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.929585,
-    "geom:area_square_m":11479545807.728666,
+    "geom:area_square_m":11479545807.728743,
     "geom:bbox":"9.81507876532,2.14137938059,11.1790007471,3.59488595032",
     "geom:latitude":2.902049,
     "geom:longitude":10.311158,
@@ -92,9 +92,10 @@
         "hasc:id":"CM.SU.OC",
         "wd:id":"Q2445229"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473897028,
-    "wof:geomhash":"7c63c63f77e1d2fa01efc11b65f7660c",
+    "wof:geomhash":"9bc9f8eff13007f5b8dc5f157808049f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1092012139,
-    "wof:lastmodified":1566645956,
+    "wof:lastmodified":1695886388,
     "wof:name":"Ocean",
     "wof:parent_id":85669971,
     "wof:placetype":"county",

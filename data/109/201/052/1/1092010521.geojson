@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.623372,
-    "geom:area_square_m":7670679481.303064,
+    "geom:area_square_m":7670679594.038943,
     "geom:bbox":"10.458794,4.924299,11.316864,6.263974",
     "geom:latitude":5.64158,
     "geom:longitude":10.918515,
@@ -107,9 +107,10 @@
         "hasc:id":"CM.OU.NO",
         "wd:id":"Q2445359"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473896966,
-    "wof:geomhash":"580488b460e1bedd2c16abbb609427f6",
+    "wof:geomhash":"143caa9c3b384ab9c7982f923361d6ce",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1092010521,
-    "wof:lastmodified":1690867073,
+    "wof:lastmodified":1695886383,
     "wof:name":"Noun",
     "wof:parent_id":85669961,
     "wof:placetype":"county",

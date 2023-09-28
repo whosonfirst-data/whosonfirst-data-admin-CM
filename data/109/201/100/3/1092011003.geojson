@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.775952,
-    "geom:area_square_m":9545192997.758801,
+    "geom:area_square_m":9545192823.003708,
     "geom:bbox":"8.831048,5.283022,9.91566,6.529991",
     "geom:latitude":5.820848,
     "geom:longitude":9.375688,
@@ -107,9 +107,10 @@
         "hasc:id":"CM.SW.MN",
         "wd:id":"Q636257"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473896984,
-    "wof:geomhash":"56e2b412a3149f16ea48f61318697b80",
+    "wof:geomhash":"26030ab6051bbcc34cdef1fa1857906d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1092011003,
-    "wof:lastmodified":1690867077,
+    "wof:lastmodified":1695886386,
     "wof:name":"Manyu",
     "wof:parent_id":85669967,
     "wof:placetype":"county",

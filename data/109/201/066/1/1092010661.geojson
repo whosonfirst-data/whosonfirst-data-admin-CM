@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.150453,
-    "geom:area_square_m":1850257038.201248,
+    "geom:area_square_m":1850257160.502748,
     "geom:bbox":"9.908952,5.703311,10.388987,6.304806",
     "geom:latitude":5.977776,
     "geom:longitude":10.148618,
@@ -104,9 +104,10 @@
         "hasc:id":"CM.NW.ME",
         "wd:id":"Q966674"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473896972,
-    "wof:geomhash":"0dbd84bd08b35fbf9510bd876f641793",
+    "wof:geomhash":"803bd16fc305cc1bb707d1607f97f9a3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092010661,
-    "wof:lastmodified":1690867081,
+    "wof:lastmodified":1695886388,
     "wof:name":"Mezam",
     "wof:parent_id":85669941,
     "wof:placetype":"county",

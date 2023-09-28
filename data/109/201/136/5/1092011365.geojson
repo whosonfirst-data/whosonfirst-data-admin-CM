@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.62079,
-    "geom:area_square_m":20017566612.847122,
+    "geom:area_square_m":20017563638.375603,
     "geom:bbox":"11.594504,2.170731,13.680087,3.681679",
     "geom:latitude":2.771568,
     "geom:longitude":12.611847,
@@ -111,9 +111,10 @@
         "hasc:id":"CM.SU.DL",
         "wd:id":"Q784802"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473896997,
-    "wof:geomhash":"120552ecf78c9e0e082321153381cb0f",
+    "wof:geomhash":"31aa7c0860d1b910edf345b6c049ac8c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1092011365,
-    "wof:lastmodified":1690867076,
+    "wof:lastmodified":1695886385,
     "wof:name":"Dja et Lobo",
     "wof:parent_id":85669971,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.553573,
-    "geom:area_square_m":6821670787.944362,
+    "geom:area_square_m":6821670815.258763,
     "geom:bbox":"10.337879,4.190724,11.381991,5.238247",
     "geom:latitude":4.730192,
     "geom:longitude":10.950087,
@@ -108,9 +108,10 @@
         "hasc:id":"CM.CE.MI",
         "wd:id":"Q2445034"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473896995,
-    "wof:geomhash":"428b92537f8d2699f8795da28cf4d990",
+    "wof:geomhash":"131ba8e499e6481bc07eae9f8f2a817f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1092011309,
-    "wof:lastmodified":1690867078,
+    "wof:lastmodified":1695886387,
     "wof:name":"Mbam et Inoubou",
     "wof:parent_id":85669945,
     "wof:placetype":"county",

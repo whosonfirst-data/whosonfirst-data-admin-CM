@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.500823,
-    "geom:area_square_m":6178569423.384177,
+    "geom:area_square_m":6178570177.636411,
     "geom:bbox":"11.790235,3.290973,12.807897,4.390236",
     "geom:latitude":3.872872,
     "geom:longitude":12.339635,
@@ -105,9 +105,10 @@
         "hasc:id":"CM.CE.NM",
         "wd:id":"Q587099"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473896993,
-    "wof:geomhash":"0b5e22edd29187944993635d55deca2d",
+    "wof:geomhash":"26ed3f65c2806fa919bbe51b97c4af8e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1092011243,
-    "wof:lastmodified":1690867082,
+    "wof:lastmodified":1695886390,
     "wof:name":"Nyong et Mfoumou",
     "wof:parent_id":85669945,
     "wof:placetype":"county",

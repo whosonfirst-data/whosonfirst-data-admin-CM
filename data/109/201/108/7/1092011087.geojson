@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.314626,
-    "geom:area_square_m":3877418413.905272,
+    "geom:area_square_m":3877418413.905194,
     "geom:bbox":"9.41374811204,4.06493311926,10.1135037941,5.33426601995",
     "geom:latitude":4.673335,
     "geom:longitude":9.76915,
@@ -95,9 +95,10 @@
         "hasc:id":"CM.LT.MU",
         "wd:id":"Q2445609"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473896988,
-    "wof:geomhash":"865519b208f772c4cf2c274228b03356",
+    "wof:geomhash":"7424e4e4b0ce68dfd4b9e93d5a61a2bd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1092011087,
-    "wof:lastmodified":1566645954,
+    "wof:lastmodified":1695886387,
     "wof:name":"Moungo",
     "wof:parent_id":85669937,
     "wof:placetype":"county",

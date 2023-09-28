@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.516937,
-    "geom:area_square_m":6378605223.968667,
+    "geom:area_square_m":6378606269.75773,
     "geom:bbox":"10.23059,3.330131,11.257762,4.186986",
     "geom:latitude":3.707506,
     "geom:longitude":10.813747,
@@ -108,9 +108,10 @@
         "hasc:id":"CM.CE.NK",
         "wd:id":"Q729464"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473896991,
-    "wof:geomhash":"2e4a827037166d503095babcdce50ff6",
+    "wof:geomhash":"8622f7e449a924eefde9169bc1cafbda",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1092011187,
-    "wof:lastmodified":1690867075,
+    "wof:lastmodified":1695886384,
     "wof:name":"Nyong et kelle",
     "wof:parent_id":85669945,
     "wof:placetype":"county",

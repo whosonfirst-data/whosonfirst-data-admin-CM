@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109879,
-    "geom:area_square_m":1355942211.098006,
+    "geom:area_square_m":1355941950.072009,
     "geom:bbox":"11.189063,3.344633,11.530542,3.879874",
     "geom:latitude":3.633259,
     "geom:longitude":11.362978,
@@ -109,9 +109,10 @@
         "hasc:id":"CM.CE.MN",
         "wd:id":"Q2444484"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473896980,
-    "wof:geomhash":"f9f52f331418301a363d2547f3dc54c5",
+    "wof:geomhash":"e29937fbb13adef2992e7df02e49430d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1092010889,
-    "wof:lastmodified":1690867079,
+    "wof:lastmodified":1695886387,
     "wof:name":"Mefou et Akono",
     "wof:parent_id":85669945,
     "wof:placetype":"county",

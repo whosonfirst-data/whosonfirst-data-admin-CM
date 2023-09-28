@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078839,
-    "geom:area_square_m":970934793.637946,
+    "geom:area_square_m":970934706.226986,
     "geom:bbox":"9.991484,4.916393,10.377751,5.374312",
     "geom:latitude":5.143561,
     "geom:longitude":10.171277,
@@ -107,9 +107,10 @@
         "hasc:id":"CM.OU.HN",
         "wd:id":"Q2442640"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473896983,
-    "wof:geomhash":"4728d8890e0f86513adeb168e63798a4",
+    "wof:geomhash":"76e90f64a7909dca52ebebfcbf1f9b63",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1092010971,
-    "wof:lastmodified":1690867073,
+    "wof:lastmodified":1695886383,
     "wof:name":"Haut Nkam",
     "wof:parent_id":85669961,
     "wof:placetype":"county",

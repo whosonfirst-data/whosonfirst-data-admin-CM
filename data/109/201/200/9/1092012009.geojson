@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.180846,
-    "geom:area_square_m":2223096947.57688,
+    "geom:area_square_m":2223097447.541528,
     "geom:bbox":"10.427633,5.975764,11.052499,6.478767",
     "geom:latitude":6.202552,
     "geom:longitude":10.722395,
@@ -119,9 +119,10 @@
         "hasc:id":"CM.NW.BU",
         "wd:id":"Q702284"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473897023,
-    "wof:geomhash":"bd20d318102619f25178b8295d512d42",
+    "wof:geomhash":"32103f3450eb797487aadbf5865b0209",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1092012009,
-    "wof:lastmodified":1690867080,
+    "wof:lastmodified":1695886389,
     "wof:name":"Bui",
     "wof:parent_id":85669941,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.007968,
-    "geom:area_square_m":12189177048.393953,
+    "geom:area_square_m":12189176346.758289,
     "geom:bbox":"14.085492,10.994712,15.146823,13.076586",
     "geom:latitude":12.033755,
     "geom:longitude":14.669049,
@@ -108,9 +108,10 @@
         "hasc:id":"CM.EN.LC",
         "wd:id":"Q576311"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473897012,
-    "wof:geomhash":"f84245493ebd26d8d2a1d72fa4317581",
+    "wof:geomhash":"de0b63aa2fad3d96f8c2b49d9df13839",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1092011735,
-    "wof:lastmodified":1690867074,
+    "wof:lastmodified":1695886384,
     "wof:name":"Logone et Chari",
     "wof:parent_id":85669933,
     "wof:placetype":"county",

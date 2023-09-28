@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112898,
-    "geom:area_square_m":1389785117.855845,
+    "geom:area_square_m":1389785117.855863,
     "geom:bbox":"9.83266146078,5.17372316293,10.3387093735,5.63798884556",
     "geom:latitude":5.408111,
     "geom:longitude":10.075741,
@@ -98,9 +98,10 @@
         "hasc:id":"CM.OU.ME",
         "wd:id":"Q921417"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473896982,
-    "wof:geomhash":"de969294db63bbf6152c0998bd2526a3",
+    "wof:geomhash":"3b3def0e2565c9815478fa5c2f5f08bb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092010943,
-    "wof:lastmodified":1566645958,
+    "wof:lastmodified":1695886389,
     "wof:name":"Menoua",
     "wof:parent_id":85669961,
     "wof:placetype":"county",

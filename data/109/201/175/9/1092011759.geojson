@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.217648,
-    "geom:area_square_m":2640853429.413336,
+    "geom:area_square_m":2640853429.413471,
     "geom:bbox":"13.8782815828,10.7831148132,14.5014004005,11.4235452937",
     "geom:latitude":11.10593,
     "geom:longitude":14.202807,
@@ -101,9 +101,10 @@
         "hasc:id":"CM.EN.MS",
         "wd:id":"Q613340"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473897013,
-    "wof:geomhash":"7e56d1c8bec5d3fcc6984efe19e9ae86",
+    "wof:geomhash":"60b12f4279477d1995eed00fd5043f80",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092011759,
-    "wof:lastmodified":1566645951,
+    "wof:lastmodified":1695886386,
     "wof:name":"Mayo Sava",
     "wof:parent_id":85669933,
     "wof:placetype":"county",

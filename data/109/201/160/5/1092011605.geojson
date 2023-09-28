@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.081584,
-    "geom:area_square_m":13288619757.654139,
+    "geom:area_square_m":13288620908.003042,
     "geom:bbox":"11.98936,5.999414,13.418968,7.058053",
     "geom:latitude":6.472522,
     "geom:longitude":12.71186,
@@ -113,9 +113,10 @@
         "hasc:id":"CM.AD.DJ",
         "wd:id":"Q1232309"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473897007,
-    "wof:geomhash":"ebf2c52c065816612fcb0e24c4a67fbe",
+    "wof:geomhash":"ab354be6c422ac90c6947031d98a4bba",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1092011605,
-    "wof:lastmodified":1690867070,
+    "wof:lastmodified":1695886381,
     "wof:name":"Djerem",
     "wof:parent_id":85669953,
     "wof:placetype":"county",
