@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.124068,
-    "geom:area_square_m":1528112939.200226,
+    "geom:area_square_m":1528112939.200221,
     "geom:bbox":"10.3503063087,4.8807228041,10.8866982923,5.27385760753",
     "geom:latitude":5.072841,
     "geom:longitude":10.588167,
@@ -95,9 +95,10 @@
         "hasc:id":"CM.OU.ND",
         "wd:id":"Q2445638"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473896965,
-    "wof:geomhash":"926bd92498d7d0ed905601a959bd7275",
+    "wof:geomhash":"b474fd38e56e13fbc513d4a50c09f66b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1092010493,
-    "wof:lastmodified":1566645946,
+    "wof:lastmodified":1695886382,
     "wof:name":"Nde",
     "wof:parent_id":85669961,
     "wof:placetype":"county",

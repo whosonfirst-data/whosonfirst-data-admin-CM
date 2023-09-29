@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.449272,
-    "geom:area_square_m":66638341754.435051,
+    "geom:area_square_m":66638341778.320526,
     "geom:bbox":"12.238752,7.01519,15.593647,10.260609",
     "geom:latitude":8.485929,
     "geom:longitude":13.93901,
@@ -305,16 +305,18 @@
         "gn:id":2223603,
         "gp:id":2345041,
         "hasc:id":"CM.NO",
+        "iso:code":"CM-NO",
         "iso:id":"CM-NO",
         "qs_pg:id":1168635,
         "wd:id":"Q502341",
         "wk:page":"North Region (Cameroon)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"630bb11b2d475a0261ee055bc46d9fa1",
+    "wof:geomhash":"c1969724a3037da312ddbd665445bb9b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -331,7 +333,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690867062,
+    "wof:lastmodified":1695885132,
     "wof:name":"Nord",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.753701,
-    "geom:area_square_m":9297574805.934402,
+    "geom:area_square_m":9297574805.934416,
     "geom:bbox":"9.5525101237,3.25997629385,11.0777473375,4.61201441561",
     "geom:latitude":3.934313,
     "geom:longitude":10.283808,
@@ -99,9 +99,10 @@
         "hasc:id":"CM.LT.SM",
         "wd:id":"Q2445164"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473896990,
-    "wof:geomhash":"1f831700a3e6bfa60d859579a8d9dca3",
+    "wof:geomhash":"278986b013c26fcbc97919e215ca6c02",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1092011153,
-    "wof:lastmodified":1566645958,
+    "wof:lastmodified":1695886389,
     "wof:name":"Sanaga Maritime",
     "wof:parent_id":85669937,
     "wof:placetype":"county",

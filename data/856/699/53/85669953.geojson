@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.233837,
-    "geom:area_square_m":64254033677.994415,
+    "geom:area_square_m":64254035533.226494,
     "geom:bbox":"11.181339,5.971732,15.2341,8.186707",
     "geom:latitude":6.842853,
     "geom:longitude":13.142657,
@@ -315,17 +315,19 @@
         "gn:id":2236015,
         "gp:id":2345038,
         "hasc:id":"CM.AD",
+        "iso:code":"CM-AD",
         "iso:id":"CM-AD",
         "qs_pg:id":219527,
         "unlc:id":"CM-AD",
         "wd:id":"Q351514",
         "wk:page":"Adamawa Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e57173639f47fa7f697833f1ae2cb787",
+    "wof:geomhash":"2bee3c2fce005e73986d88bc41fe8ec4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -342,7 +344,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690867063,
+    "wof:lastmodified":1695885132,
     "wof:name":"Adamaoua",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

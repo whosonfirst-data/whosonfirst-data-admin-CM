@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.115433,
-    "geom:area_square_m":26044313196.540199,
+    "geom:area_square_m":26044311775.959469,
     "geom:bbox":"12.809184,4.336201,14.630499,6.061748",
     "geom:latitude":5.321227,
     "geom:longitude":13.750661,
@@ -108,9 +108,10 @@
         "hasc:id":"CM.ES.LD",
         "wd:id":"Q2443276"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473896998,
-    "wof:geomhash":"23494cc785aff87ac1c588b71d766e57",
+    "wof:geomhash":"1352c4936ad1a7a3a1ce86f22a996bad",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1092011395,
-    "wof:lastmodified":1690867078,
+    "wof:lastmodified":1695886387,
     "wof:name":"Lom et Djerem",
     "wof:parent_id":85669949,
     "wof:placetype":"county",

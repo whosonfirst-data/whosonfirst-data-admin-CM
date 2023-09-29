@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.955407,
-    "geom:area_square_m":11774166552.17141,
+    "geom:area_square_m":11774165756.347668,
     "geom:bbox":"11.707808,4.059084,13.246946,5.279174",
     "geom:latitude":4.686882,
     "geom:longitude":12.504576,
@@ -102,9 +102,10 @@
         "hasc:id":"CM.CE.HS",
         "wd:id":"Q2443161"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473896994,
-    "wof:geomhash":"2338eb57627e0efe2600d38cd3b77217",
+    "wof:geomhash":"f421ce01cfb20e5e9eaf64d38d239060",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1092011277,
-    "wof:lastmodified":1690867075,
+    "wof:lastmodified":1695886385,
     "wof:name":"Haute Sanaga",
     "wof:parent_id":85669945,
     "wof:placetype":"county",

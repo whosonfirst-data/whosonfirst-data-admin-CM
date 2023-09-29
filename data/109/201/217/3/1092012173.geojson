@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.706615,
-    "geom:area_square_m":8726959424.150537,
+    "geom:area_square_m":8726958171.206264,
     "geom:bbox":"10.575406,2.267235,12.260661,3.213276",
     "geom:latitude":2.796258,
     "geom:longitude":11.394946,
@@ -107,9 +107,10 @@
         "hasc:id":"CM.SU.MV",
         "wd:id":"Q2445743"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473897029,
-    "wof:geomhash":"93f7462ddf5c0e1175df011ca2b15482",
+    "wof:geomhash":"55302ef6e550e71977d1848d6688f28e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1092012173,
-    "wof:lastmodified":1690867071,
+    "wof:lastmodified":1695886382,
     "wof:name":"Mvila",
     "wof:parent_id":85669971,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.935218,
-    "geom:area_square_m":36230959854.166916,
+    "geom:area_square_m":36230962704.212318,
     "geom:bbox":"12.493094,2.124977,14.59847,4.605948",
     "geom:latitude":3.339936,
     "geom:longitude":13.578485,
@@ -111,9 +111,10 @@
         "hasc:id":"CM.ES.HN",
         "wd:id":"Q2442655"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473896996,
-    "wof:geomhash":"5ec37bc868827a4ab08da5085954b8ee",
+    "wof:geomhash":"ff2b47f81d8cc8297cbf9609315a2474",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1092011347,
-    "wof:lastmodified":1690867070,
+    "wof:lastmodified":1695886381,
     "wof:name":"Haut Nyong",
     "wof:parent_id":85669949,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070374,
-    "geom:area_square_m":868025974.276882,
+    "geom:area_square_m":868025920.474078,
     "geom:bbox":"9.335801,3.882572,9.864228,4.225323",
     "geom:latitude":4.03739,
     "geom:longitude":9.666242,
@@ -104,9 +104,10 @@
         "hasc:id":"CM.LT.WO",
         "wd:id":"Q769841"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473897033,
-    "wof:geomhash":"84aa7ff441fa69518e8c5df3767abe51",
+    "wof:geomhash":"4c9f2d912ef427d1240d200662047604",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092012257,
-    "wof:lastmodified":1690867079,
+    "wof:lastmodified":1695886388,
     "wof:name":"Wouri",
     "wof:parent_id":85669937,
     "wof:placetype":"county",

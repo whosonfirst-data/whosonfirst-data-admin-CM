@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035231,
-    "geom:area_square_m":433784424.172344,
+    "geom:area_square_m":433784459.10587,
     "geom:bbox":"10.242617,5.142435,10.445668,5.459737",
     "geom:latitude":5.293987,
     "geom:longitude":10.343171,
@@ -107,9 +107,10 @@
         "hasc:id":"CM.OU.HP",
         "wd:id":"Q2443778"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473897030,
-    "wof:geomhash":"4876233750a0d72a98a9d6770dd4a826",
+    "wof:geomhash":"1f17a44b1a9d683b63b8573d0646b7f0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1092012197,
-    "wof:lastmodified":1690867071,
+    "wof:lastmodified":1695886382,
     "wof:name":"Hauts Plateaux",
     "wof:parent_id":85669961,
     "wof:placetype":"county",

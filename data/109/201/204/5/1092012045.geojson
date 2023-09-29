@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025775,
-    "geom:area_square_m":317988009.384067,
+    "geom:area_square_m":317987953.827268,
     "geom:bbox":"11.413966,3.723659,11.576568,4.023592",
     "geom:latitude":3.875654,
     "geom:longitude":11.509417,
@@ -107,9 +107,10 @@
         "hasc:id":"CM.CE.MF",
         "wd:id":"Q2445046"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473897024,
-    "wof:geomhash":"a5536abeb33525108e40f26346b4fb86",
+    "wof:geomhash":"c56bd8c032090cd7e3051ecaf1328b95",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1092012045,
-    "wof:lastmodified":1690867073,
+    "wof:lastmodified":1695886383,
     "wof:name":"Mfoundi",
     "wof:parent_id":85669945,
     "wof:placetype":"county",

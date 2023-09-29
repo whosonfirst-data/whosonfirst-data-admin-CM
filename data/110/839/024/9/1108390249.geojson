@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.435833,
-    "geom:area_square_m":5300581592.990283,
+    "geom:area_square_m":5300581592.990503,
     "geom:bbox":"14.7896295875,9.93445053339,15.689525703,11.0849784472",
     "geom:latitude":10.39759,
     "geom:longitude":15.098642,
@@ -130,9 +130,10 @@
         "qs_pg:id":264096,
         "wd:id":"Q2444290"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1459008888,
-    "wof:geomhash":"0b947677a2e621ead00620e09d26c4cb",
+    "wof:geomhash":"f426c07a4bfe576026df4a50819534b0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":1108390249,
-    "wof:lastmodified":1566645782,
+    "wof:lastmodified":1695886367,
     "wof:name":"Mayo Danay",
     "wof:parent_id":85669933,
     "wof:placetype":"county",

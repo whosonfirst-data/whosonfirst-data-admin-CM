@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032863,
-    "geom:area_square_m":404477044.591454,
+    "geom:area_square_m":404476935.460817,
     "geom:bbox":"10.324083,5.426803,10.582458,5.605728",
     "geom:latitude":5.515416,
     "geom:longitude":10.448055,
@@ -101,9 +101,10 @@
         "hasc:id":"CM.OU.MF",
         "wd:id":"Q2445728"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473896969,
-    "wof:geomhash":"5bfb32b7afe49537489824967e2097a3",
+    "wof:geomhash":"fcdbc36e09e3b9427fe63bb6a3c3fb7d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092010591,
-    "wof:lastmodified":1690867081,
+    "wof:lastmodified":1695886389,
     "wof:name":"Mifi",
     "wof:parent_id":85669961,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.189631,
-    "geom:area_square_m":14615793494.855946,
+    "geom:area_square_m":14615794415.616707,
     "geom:bbox":"13.280844,5.99925,15.2341,7.224003",
     "geom:latitude":6.482375,
     "geom:longitude":14.224526,
@@ -101,9 +101,10 @@
         "hasc:id":"CM.AD.MR",
         "wd:id":"Q937235"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473897008,
-    "wof:geomhash":"c15af90a2cfc8ef46b273d6827443f54",
+    "wof:geomhash":"6724f15d70153da846a9fc8de4be48bb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092011633,
-    "wof:lastmodified":1690867077,
+    "wof:lastmodified":1695886386,
     "wof:name":"Mbere",
     "wof:parent_id":85669953,
     "wof:placetype":"county",

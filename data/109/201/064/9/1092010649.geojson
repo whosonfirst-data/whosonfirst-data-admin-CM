@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.147525,
-    "geom:area_square_m":1814230135.930157,
+    "geom:area_square_m":1814230073.521453,
     "geom:bbox":"9.590784,5.718167,10.084669,6.280126",
     "geom:latitude":5.982685,
     "geom:longitude":9.846329,
@@ -98,9 +98,10 @@
         "hasc:id":"CM.NW.MO",
         "wd:id":"Q2538015"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473896971,
-    "wof:geomhash":"4defb4150fec2af5c07de622cd26d8dd",
+    "wof:geomhash":"27b7927247ab906c56211d3b975f3534",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092010649,
-    "wof:lastmodified":1690867074,
+    "wof:lastmodified":1695886383,
     "wof:name":"Momo",
     "wof:parent_id":85669941,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.587471,
-    "geom:area_square_m":7257667888.856167,
+    "geom:area_square_m":7257667888.856154,
     "geom:bbox":"10.1884650695,2.17104264059,11.6804360432,2.79164553539",
     "geom:latitude":2.423729,
     "geom:longitude":10.92015,
@@ -105,9 +105,10 @@
         "hasc:id":"CM.SU.VN",
         "wd:id":"Q2445579"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473897026,
-    "wof:geomhash":"99a5d636d2ff62084be231bf5210de4d",
+    "wof:geomhash":"619367e4ce186481548f4998cb11cf31",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1092012107,
-    "wof:lastmodified":1566645945,
+    "wof:lastmodified":1695886382,
     "wof:name":"Vallee du Ntem",
     "wof:parent_id":85669971,
     "wof:placetype":"county",

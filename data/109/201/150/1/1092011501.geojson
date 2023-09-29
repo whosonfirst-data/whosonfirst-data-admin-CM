@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.698063,
-    "geom:area_square_m":8574655540.385821,
+    "geom:area_square_m":8574654795.703033,
     "geom:bbox":"11.181339,5.971732,12.20827,7.257024",
     "geom:latitude":6.582586,
     "geom:longitude":11.736318,
@@ -107,9 +107,10 @@
         "hasc:id":"CM.AD.MB",
         "wd:id":"Q2443291"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473897003,
-    "wof:geomhash":"fcb4577275d6200884569b321934e875",
+    "wof:geomhash":"cbab822ce07412776c61ac5c2b10425c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1092011501,
-    "wof:lastmodified":1690867069,
+    "wof:lastmodified":1695886381,
     "wof:name":"Mayo Banyo",
     "wof:parent_id":85669953,
     "wof:placetype":"county",

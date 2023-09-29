@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.410559,
-    "geom:area_square_m":4995467185.325834,
+    "geom:area_square_m":4995466225.39145,
     "geom:bbox":"14.047076,9.935189,14.985925,10.65646",
     "geom:latitude":10.258781,
     "geom:longitude":14.537147,
@@ -101,9 +101,10 @@
         "hasc:id":"CM.EN.KA",
         "wd:id":"Q2444363"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473897021,
-    "wof:geomhash":"2bfdad94de91fadc0611562a2d2d3531",
+    "wof:geomhash":"3d31923ee008f65b2fc8ef650c8ba0d6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092011963,
-    "wof:lastmodified":1690867076,
+    "wof:lastmodified":1695886386,
     "wof:name":"Mayo Kani",
     "wof:parent_id":85669933,
     "wof:placetype":"county",

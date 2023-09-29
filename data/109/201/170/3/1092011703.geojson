@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.004534,
-    "geom:area_square_m":36777870664.740631,
+    "geom:area_square_m":36777870664.740753,
     "geom:bbox":"13.005942045,7.01518987569,15.5936466378,9.36770421373",
     "geom:latitude":8.118121,
     "geom:longitude":14.470442,
@@ -102,9 +102,10 @@
         "hasc:id":"CM.NO.MA",
         "wd:id":"Q2443767"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473897010,
-    "wof:geomhash":"384c7ffd2e22767307473a495563a2d5",
+    "wof:geomhash":"d25894464ee9ddbb235470effc6336fb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1092011703,
-    "wof:lastmodified":1566645959,
+    "wof:lastmodified":1695886390,
     "wof:name":"Mayo Rey",
     "wof:parent_id":85669957,
     "wof:placetype":"county",

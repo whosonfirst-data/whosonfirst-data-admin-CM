@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029358,
-    "geom:area_square_m":361443032.562423,
+    "geom:area_square_m":361443032.562441,
     "geom:bbox":"10.3626635493,5.20358954786,10.5901441892,5.45341373292",
     "geom:latitude":5.340637,
     "geom:longitude":10.471364,
@@ -101,9 +101,10 @@
         "hasc:id":"CM.OU.KK",
         "wd:id":"Q2443749"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473897032,
-    "wof:geomhash":"53dbac1b78ed327e543a168f19741044",
+    "wof:geomhash":"ba72d0796550ec8113037215ac0c5644",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092012225,
-    "wof:lastmodified":1566645956,
+    "wof:lastmodified":1695886388,
     "wof:name":"Koung Khi",
     "wof:parent_id":85669961,
     "wof:placetype":"county",

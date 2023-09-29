@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.525006,
-    "geom:area_square_m":6468336337.929458,
+    "geom:area_square_m":6468337285.164086,
     "geom:bbox":"8.499454,4.255013,9.330534,5.430636",
     "geom:latitude":4.866199,
     "geom:longitude":8.938717,
@@ -104,9 +104,10 @@
         "hasc:id":"CM.SW.ND",
         "wd:id":"Q2445180"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473896976,
-    "wof:geomhash":"83b6219b569f486e46e07bbf11202d25",
+    "wof:geomhash":"f6734ee3ea58d1eb2274d016cf069d3c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092010791,
-    "wof:lastmodified":1690867071,
+    "wof:lastmodified":1695886382,
     "wof:name":"Ndian",
     "wof:parent_id":85669967,
     "wof:placetype":"county",

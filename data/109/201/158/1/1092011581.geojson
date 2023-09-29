@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.408976,
-    "geom:area_square_m":17285138581.300339,
+    "geom:area_square_m":17285138998.708607,
     "geom:bbox":"12.822205,6.514486,14.677308,7.973785",
     "geom:latitude":7.186495,
     "geom:longitude":13.660422,
@@ -122,9 +122,10 @@
         "hasc:id":"CM.AD.VI",
         "wd:id":"Q667019"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473897006,
-    "wof:geomhash":"cecc085c81993905785d81b8fa6bd1ec",
+    "wof:geomhash":"00bd9ed9b078a0b11ff502da55263743",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1092011581,
-    "wof:lastmodified":1690867070,
+    "wof:lastmodified":1695886741,
     "wof:name":"Vina",
     "wof:parent_id":85669953,
     "wof:placetype":"county",

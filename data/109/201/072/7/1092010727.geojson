@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.35526,
-    "geom:area_square_m":4363501589.371894,
+    "geom:area_square_m":4363502026.869741,
     "geom:bbox":"10.410417,6.210402,11.209311,7.161492",
     "geom:latitude":6.624192,
     "geom:longitude":10.800043,
@@ -108,9 +108,10 @@
         "hasc:id":"CM.NW.DM",
         "wd:id":"Q2442736"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473896974,
-    "wof:geomhash":"3c51a972b9fcba3fbce00323d40b0dee",
+    "wof:geomhash":"c733cafe7c1d066304e23a5dca8aa539",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1092010727,
-    "wof:lastmodified":1690867079,
+    "wof:lastmodified":1695886387,
     "wof:name":"Donga Mantung",
     "wof:parent_id":85669941,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.968081,
-    "geom:area_square_m":11846518170.476505,
+    "geom:area_square_m":11846518790.197191,
     "geom:bbox":"12.238752,7.593798,13.485288,9.251676",
     "geom:latitude":8.24789,
     "geom:longitude":12.875582,
@@ -98,9 +98,10 @@
         "hasc:id":"CM.NO.FA",
         "wd:id":"Q2443138"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473897009,
-    "wof:geomhash":"76cc0ba23cf81d17ac6bb9ae59fafc3f",
+    "wof:geomhash":"600c38373bb0c9dfb13c1fb28a2ec2ef",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092011667,
-    "wof:lastmodified":1690867070,
+    "wof:lastmodified":1695886381,
     "wof:name":"Faro",
     "wof:parent_id":85669957,
     "wof:placetype":"county",

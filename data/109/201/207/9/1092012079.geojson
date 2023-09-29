@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.244804,
-    "geom:area_square_m":3019030793.168519,
+    "geom:area_square_m":3019031056.591348,
     "geom:bbox":"11.073381,3.794956,11.732615,4.499076",
     "geom:latitude":4.167717,
     "geom:longitude":11.385911,
@@ -104,9 +104,10 @@
         "hasc:id":"CM.CE.LE",
         "wd:id":"Q607493"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CM",
     "wof:created":1473897025,
-    "wof:geomhash":"b39b42f2062dc333b09e219cf66aafe5",
+    "wof:geomhash":"ce9ec901aa6b7e369102a5c501bd2fc5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092012079,
-    "wof:lastmodified":1690867080,
+    "wof:lastmodified":1695886389,
     "wof:name":"Lekie",
     "wof:parent_id":85669945,
     "wof:placetype":"county",

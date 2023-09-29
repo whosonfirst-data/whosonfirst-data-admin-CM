@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.639353,
-    "geom:area_square_m":20214381284.037121,
+    "geom:area_square_m":20214380414.812679,
     "geom:bbox":"9.335801,3.259976,11.077747,5.334266",
     "geom:latitude":4.258982,
     "geom:longitude":10.117622,
@@ -307,17 +307,19 @@
         "gn:id":2229336,
         "gp:id":2345034,
         "hasc:id":"CM.LT",
+        "iso:code":"CM-LT",
         "iso:id":"CM-LT",
         "qs_pg:id":318365,
         "unlc:id":"CM-LT",
         "wd:id":"Q845172",
         "wk:page":"Littoral Region (Cameroon)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"81aa95078759158242aa00a9b24f950d",
+    "wof:geomhash":"f4deb2046c2dc11d0be75875e4fc50dc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -334,7 +336,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690867064,
+    "wof:lastmodified":1695885134,
     "wof:name":"Littoral",
     "wof:parent_id":85632245,
     "wof:placetype":"region",

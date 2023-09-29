@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.426491,
-    "geom:area_square_m":17529809017.841122,
+    "geom:area_square_m":17529809564.91922,
     "geom:bbox":"9.590784,5.703311,11.209311,7.161492",
     "geom:latitude":6.365855,
     "geom:longitude":10.370626,
@@ -305,16 +305,18 @@
         "gn:id":2223602,
         "gp:id":2345035,
         "hasc:id":"CM.NW",
+        "iso:code":"CM-NW",
         "iso:id":"CM-NW",
         "qs_pg:id":279869,
         "wd:id":"Q823946",
         "wk:page":"Northwest Region (Cameroon)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f9d92f4e59fc22466ffbc2fdbe3eb906",
+    "wof:geomhash":"6a3573515a6b818aac1b9b6c51fc35ab",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -331,7 +333,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690867064,
+    "wof:lastmodified":1695884358,
     "wof:name":"Nord Ouest",
     "wof:parent_id":85632245,
     "wof:placetype":"region",
