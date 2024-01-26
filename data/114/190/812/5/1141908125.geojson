@@ -9,6 +9,20 @@
     "geom:bbox":"13.600038,7.850437,13.600038,7.850437",
     "geom:latitude":7.850437,
     "geom:longitude":13.600038,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mbe",
+    "gn:cc2":"CM",
+    "gn:country_code":"CM",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2227930,
+    "gn:latitude":7.85,
+    "gn:longitude":13.6,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
     "iso:country":"CM",
     "lbl:bbox":"13.5800377997,7.83043682752,13.6200377997,7.87043682752",
     "lbl:latitude":7.850437,
@@ -89,6 +103,10 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0431\u0435"
+    ],
+    "name:und_x_variant":[
+        "M\u2019Ba\u00ef",
+        "Mb\u00e9"
     ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0645\u0628\u06cc"
@@ -206,6 +224,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2227930,
         "wd:id":"Q6799654"
     },
     "wof:country":"CM",
@@ -221,13 +240,15 @@
         }
     ],
     "wof:id":1141908125,
-    "wof:lastmodified":1636499938,
+    "wof:lastmodified":1706239391,
     "wof:name":"Mbe",
     "wof:parent_id":1092011581,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cm",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276416889
+    ],
     "wof:tags":[]
 },
   "bbox": [

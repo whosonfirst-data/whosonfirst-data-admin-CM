@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":2225508
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6769380
+        ]
+    },
     "wof:country":"CM",
     "wof:geomhash":"5f63e2a6555e8c9f3aaa944571f1bdf4",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1243045129,
-    "wof:lastmodified":1566646138,
+    "wof:lastmodified":1706239391,
     "wof:name":"Nahaide",
     "wof:parent_id":1108390249,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cm",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277053089
+    ],
     "wof:tags":[]
 },
   "bbox": [
