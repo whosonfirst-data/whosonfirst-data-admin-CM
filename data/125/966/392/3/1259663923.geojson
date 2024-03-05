@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":2230395
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6760177
+        ]
+    },
     "wof:country":"CM",
     "wof:geomhash":"21dd0db5a9f165b6c295ad20bfad7c8f",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1259663923,
-    "wof:lastmodified":1566646304,
+    "wof:lastmodified":1706239391,
     "wof:name":"Gazowal",
     "wof:parent_id":1092011899,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cm",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310092657
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -29,6 +29,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Go\u00e9tam",
+        "Goytam"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -39,6 +43,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6875797
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2231153
+        ]
     },
     "wof:country":"CM",
     "wof:geomhash":"c402cb7088f0e1f0b35923bf4ad0e2c4",
@@ -52,13 +61,15 @@
         }
     ],
     "wof:id":1293575753,
-    "wof:lastmodified":1566645239,
+    "wof:lastmodified":1706239392,
     "wof:name":"Goytam",
     "wof:parent_id":1092011703,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cm",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326609519
+    ],
     "wof:tags":[]
 },
   "bbox": [
